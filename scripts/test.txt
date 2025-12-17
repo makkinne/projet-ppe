@@ -1,0 +1,16 @@
+1 - https://bigenc.ru/c/dukh-0ed059\ - 200 - utf-8 - 1063
+2 - https://iphlib.ru/library/collection/newphilenc/document/HASH01b0ea82473b0fe73df681b0\ - 400 - non présent - 49
+3 - https://azbyka.ru/dux\ - 301 - non présent - 3244
+4 - https://bible.by/lexicon/btd/word/1421/\ - 301 - non présent - 195
+5 - https://kirmayak.ru/n569799.html\ - 200 - utf-8 - 1252
+6 - https://t-j.ru/sila-duha/?utm_referrer=https%3A%2F%2Fwww.google.com%2F\ - 401 - utf-8 - 0
+7 - https://www.forbes.ru/forbes-woman-photogallery/psikhologiya/248592-silnye-dukhom-13-pravil-sokhraneniya-energii?image=86111\ - 302 - non présent - 2
+8 - https://seasons-project.ru/2021/03/18/silnye-duhom/\ - 200 - UTF-8 - 1720
+1 - https://bigenc.ru/c/dukh-0ed059\ - 200 - utf-8 - 6728
+2 - https://iphlib.ru/library/collection/newphilenc/document/HASH01b0ea82473b0fe73df681b0\ - 400 - non présent - 73
+3 - https://azbyka.ru/dux\ - 301 - non présent - 7590
+4 - https://bible.by/lexicon/btd/word/1421/\ - 301 - non présent - 1126
+5 - https://kirmayak.ru/n569799.html\ - 200 - utf-8 - 2987
+6 - https://t-j.ru/sila-duha/?utm_referrer=https%3A%2F%2Fwww.google.com%2F\ - 401 - utf-8 - 0
+7 - https://www.forbes.ru/forbes-woman-photogallery/psikhologiya/248592-silnye-dukhom-13-pravil-sokhraneniya-energii?image=86111\ - 302 - non présent - 2
+8 - https://seasons-project.ru/2021/03/18/silnye-duhom/\ - 200 - UTF-8 - 9360
