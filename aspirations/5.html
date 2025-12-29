@@ -1,0 +1,1003 @@
+<!DOCTYPE html>
+<html class="no-js" lang="ru">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge" />
+    <title>«Рецепт» как стать сильным духом человеком у каждого свой   Маяк. Киреевский район</title>
+    <meta name="Keywords" content="  Маяк. Киреевский район">
+    <meta name="Description" content="Говорят, что главная сила в человеке - это сила духа. Действительно, духовно сильный человек способен не пасовать перед трудностями и пытаться искать выход даже в безвыходной ситуации.  Маяк. Киреевский район">
+      
+
+    <script>window.yaContextCb = window.yaContextCb || []</script>
+    <script src="https://yandex.ru/ads/system/context.js" async></script>
+
+ 
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+ 
+
+    <!-- CSS here -->
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="assets/css/animate.min.css" />
+    <link rel="stylesheet" href="assets/css/magnific-popup.css" />
+    <link rel="stylesheet" href="assets/css/fontawesome-all.min.css" />
+    <link rel="stylesheet" href="assets/css/flaticon.css" />
+    <link rel="stylesheet" href="assets/css/slick.css" />
+    <link rel="stylesheet" href="assets/css/swiper-bundle.css" />
+    <link rel="stylesheet" href="assets/css/default.css" />
+    <link rel="stylesheet" href="assets/css/style.css" />
+    <link rel="stylesheet" href="assets/css/responsive.css" />
+
+    <link rel="stylesheet" href="assets/css/fancybox.css" />
+    <link rel="stylesheet" href="assets/css/custom.css" />
+
+    <script src="assets/js/vendor/jquery-3.6.0.min.js"></script>
+     
+ 
+   
+  <script>
+
+      $(document).ready(function(){
+       $('#show_more').click(function(){
+       var btn_more = $(this);
+       var count_show = parseInt($(this).attr('count_show'));
+       var cats = parseInt($(this).attr('cats'));
+       btn_more.val('Подождите...');
+       $.ajax({
+                   url: "loadnews.php", 
+                   type: "post", 
+                   dataType: "json", 
+                   data: {
+                       "count_show":   count_show,
+                       "cats":   cats
+                   },
+                   success: function(data){
+           if(data.result == "success"){
+               $('#newscontent').append(data.html);
+                   btn_more.val('Показать еще + ');
+                   btn_more.attr('count_show', (count_show+20));
+           }else{
+               btn_more.val('Больше нечего показывать');
+           }
+                   }
+               });
+           });  
+       });
+   </script>
+    
+
+
+
+  </head>
+  <body>
+    <!-- Dark/Light-toggle -->
+    <div class="darkmode-trigger">
+      <label class="modeSwitch">
+        <input type="checkbox" />
+        <span class="icon"></span>
+      </label>
+    </div>
+    <!-- Dark/Light-toggle-end -->
+
+    <style>
+.blog-details- img {
+    height: auto;
+}
+      .logo img {
+          max-height: 100px;
+      }
+      
+              </style>
+      
+
+    <!-- Scroll-top -->
+    <button class="scroll-top scroll-to-target" data-target="html">
+      <i class="fas fa-angle-up"></i>
+    </button>
+    <!-- Scroll-top-end-->
+
+    <!-- header-area -->
+    <header class="header-style-six">
+      <div id="header-fixed-height"></div>
+      <div class="header-top-wrap-four">
+        <div class="container">
+          <div class="row align-items-center">
+            <div class="col-lg-8">
+              <div class="header-top-left-four">
+                <div class="trending-box">
+                  <div class="icon">
+                    <img src="assets/img/icon/trending_icon.svg" alt="" />
+                  </div>
+                  <span>Главное</span>
+                  <div class="shape">
+                    <svg
+                      xmlns="http://www.w3.org/2000/svg"
+                      viewBox="0 0 122 36"
+                      preserveAspectRatio="none"
+                      fill="none"
+                    >
+                      <path
+                        d="M0 18C0 8.05888 8.05887 0 18 0H110L121.26 16.8906C121.708 17.5624 121.708 18.4376 121.26 19.1094L110 36H18C8.05888 36 0 27.9411 0 18Z"
+                        fill="url(#trending_shape)"
+                      />
+                      <defs>
+                        <linearGradient
+                          id="trending_shape"
+                          x1="12"
+                          y1="36"
+                          x2="132"
+                          y2="36"
+                          gradientUnits="userSpaceOnUse"
+                        >
+                          <stop offset="0" stop-color="#3F6088" />
+                          <stop
+                            offset="1"
+                            stop-color="#2A4970"
+                            stop-opacity="0"
+                          />
+                        </linearGradient>
+                      </defs>
+                    </svg>
+                  </div>
+                </div>
+                <div class="swiper-container ta-trending-slider">
+                  <div class="swiper-wrapper">
+
+
+                    <div class="swiper-slide">
+                          <div class="trending-content">
+                     
+                                <a href="n991144.html">За 2025 год в Тульской области капитально отремонтировали 41 объект здравоохранения</a>
+                       
+                          </div>
+                       </div><div class="swiper-slide">
+                          <div class="trending-content">
+                     
+                                <a href="n991128.html">Сергей Гребенщиков: Желаю семьям наших защитников счастья и нашей общей победы!</a>
+                       
+                          </div>
+                       </div><div class="swiper-slide">
+                          <div class="trending-content">
+                     
+                                <a href="n991111.html">Новогодний интерактивный спектакль «Самое заветное желание» в Киреевском РДК. Фоторепортаж</a>
+                       
+                          </div>
+                       </div>
+ 
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4">
+              <div class="header-top-social header-top-social-two">
+
+                 <script src="https://lidrekon.ru/slep/js/uhpv-full.min.js"></script> 
+
+                <span  style="cursor:pointer;color:#ffffff;margin-right:15px;" class="rt-meta">
+                                 <i style="cursor:pointer;" id="specialButton" alt="Версия для слабовидящих"  class="fa fa-eye icon"></i>
+                </span>
+
+                
+                <h5 class="title">Мы в соцсетях:</h5>
+                <ul class="list-wrap">
+                  <li>
+                    <a href="https://t.me/kirmayak71"><i class="fab fa-telegram"></i></a>
+                  </li>
+                  <li>
+                    <a href="https://www.ok.ru//"><i class="fab fa-odnoklassniki"></i></a>
+                  </li>
+                  <li>
+                    <a href="https://vk.com/kireevskiymayak"><i class="fab fa-vk"></i></a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+
+
+
+      <div class="header-logo-area-four">
+        <div class="container">
+          <div class="row align-items-center">
+            <div class="col-lg-4">
+              <div class="logo">
+                <a href="."
+                  ><img src="logon.png"  width="350"
+                /></a>
+              </div>
+              <div class="logo d-none">
+                <a href="."
+                  ><img src="logon.png"  width="350"
+                /></a>
+              </div>
+            </div>
+            <div class="col-lg-8">
+              <a target="_blank" href="https://служив106.рф"><img src="https://ia-region71.ru/banners/banner3.jpg" alt=""></a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div id="sticky-header" class="menu-area menu-style-six">
+        <div class="container">
+          <div class="row">
+            <div class="col-12">
+              <div class="menu-wrap">
+                <nav class="menu-nav">
+                  <div class="logo d-none">
+                    <a href="."
+                      ><img src="logon.png" width="130"/></a>
+                  </div>
+                  <div class="logo d-none white-logo">
+                    <a href="."
+                      ><img src="logon.png" width="130"/></a>
+                  </div>
+                  <div class="empty70w"></div>
+ 
+                  <div class="navbar-wrap main-menu d-none d-lg-flex">
+                    <ul class="navigation">
+                      <li><a href="allnews.html">Новости</a></li>
+                      <li><a href="carticle.html">Статьи</a></li>
+                      <li><a href="cfotoreportaji.html">Фоторепортажи</a></li>
+                       <li><a href="cpobeda80.html">Победа-80</a></li>
+
+                      <li class="active menu-item-has-children">
+                        <a href="#">Рубрики</a>
+                        <ul class="sub-menu">
+
+                          <li> <a href="cvlast_i_politika.html" >Власть и политика</a> </li> <li> <a href="ckultura.html" >Культура</a> </li> <li> <a href="cobrazovanie.html" >Образование</a> </li> <li> <a href="cobschestvo.html" >Общество</a> </li> <li> <a href="csobyitiya.html" >События</a> </li> <li> <a href="cmedicina.html" >Медицина</a> </li> <li> <a href="cnovosti_kompaniy.html" >Новости компаний</a> </li> <li> <a href="csvoihnebrosaem.html" >СвоихНеБросаем</a> </li>    
+
+
+
+                        </ul>
+                      </li>
+                      <li><a href="p84.html">Контакты</a></li>
+                    </ul>
+                  </div>
+                  <div class="header-search-wrap header-search-wrap-three">
+                    <form action="search.html" method="post">
+                      <input name="q" type="text" placeholder="Поиск..." />
+                      <button type="submit">
+                        <i class="flaticon-search"></i>
+                      </button>
+                    </form>
+                  </div>
+                  <div class="mobile-nav-toggler">
+                    <i class="fas fa-bars"></i>
+                  </div>
+                </nav>
+              </div>
+
+              <!-- Mobile Menu  -->
+              <div class="mobile-menu">
+                <nav class="menu-box">
+                  <div class="close-btn"><i class="fas fa-times"></i></div>
+                  <div class="nav-logo">
+                    <a href="."
+                      ><img src="logon.png" alt="Logo"
+                    /></a>
+                  </div>
+                  <div class="nav-logo d-none">
+                    <a href="."
+                      ><img src="logon.png" alt="Logo"
+                    /></a>
+                  </div>
+                  <div class="mobile-search">
+                    <form action="search.html" method="post">
+                      <input name="q" type="text" placeholder="Поиск..." />
+                      <button type="submit">
+                        <i class="flaticon-search"></i>
+                      </button>
+                    </form>
+                  </div>
+                  <div class="menu-outer">
+
+                </div>
+                  <div class="social-links">
+                    <ul class="clearfix list-wrap">
+                      <li>
+                        <a href="https://t.me/kirmayak71"><i class="fab fa-telegram"></i></a>
+                      </li>
+                      <li>
+                        <a href="https://www.ok.ru//"><i class="fab fa-odnoklassniki"></i></a>
+                      </li>
+                      <li>
+                        <a href="https://vk.com/kireevskiymayak"><i class="fab fa-vk"></i></a>
+                      </li>
+                    </ul>
+                  </div>
+                </nav>
+              </div>
+              <div class="menu-backdrop"></div>
+              <!-- End Mobile Menu -->
+            </div>
+          </div>
+        </div>
+      </div>
+    </header>
+    <!-- header-area-end --> 
+  <!-- main-area -->
+    <main class="fix">
+      <div class="breadcrumb-area">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-12">
+              <div class="breadcrumb-content">
+                <nav aria-label="breadcrumb">
+                  <ol class="breadcrumb">
+                    <li class="breadcrumb-item">
+                      <a href="index.html">Главная</a>
+                    </li>
+                    <li class="breadcrumb-item" aria-current="page">
+                      <a href="cobrazovanie.html">Образование</a>
+                    </li>
+                    <li class="breadcrumb-item active" aria-current="page">
+                     «Рецепт» как стать сильным духом человеком у каждого свой
+                    </li>
+                  </ol>
+                </nav>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- banner-post-area -->
+      <section class="banner-post-area-five pt-50">
+        <div class="container">
+          <div class="row justify-content-center">
+            <div class="col-xl-9">
+              <div class="blog-details-wrap">
+                <div class="blog-details-content">
+                  <div class="blog-details-content-top">
+                    <h2 class="title">
+                      «Рецепт» как стать сильным духом человеком у каждого свой
+                    </h2>
+                    <div class="bd-content-inner">
+                      <div class="blog-post-meta">
+                        <ul class="list-wrap">
+                          <li>
+                            <i class="flaticon-calendar"></i>28.11.2023 11:36
+ 
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="blog-details- ">
+                    
+		  
+		  <img src="https://ia-region71.ru/picture/kireevsk_mayak/shkola/borodinskaya/qotrd2ysn9m.jpg" alt="«Рецепт» как стать сильным духом человеком у каждого свой"   title="«Рецепт» как стать сильным духом человеком у каждого свой"><br>
+	  
+		   Фото: Бородинская СОШ
+		  
+                  </div>
+                  <p>
+                   <p>&nbsp;</p>
+<p><strong>Говорят, что главная сила в человеке - это сила духа. Действительно, духовно сильный человек способен не пасовать перед трудностями и пытаться искать выход даже в безвыходной ситуации. Если сильная воля ведет человека к цели, то сила духа позволяет ему находить возможности для этого.</strong></p>
+<p>Сила воли считается качеством, которое присуще каким-то особенным людям: героям, выдающимся спортсменам, знаменитым ученым. С ней часто связывают успешность, подчеркивая, что невозможно ничего добиться, если не преодолевать трудности и собственную лень. Силу воли объединяют с силой духа, рассматривая их вместе, как неотъемлемые признаки сильной, стойкой личности. Как отмечал русский писатель Александр Круглов: <em>&laquo;Заставить человека жить так, как жить ему не свойственно, могут две вещи: безволие и сила воли&raquo;.</em></p>
+<p>В рамках всероссийского народного проекта &laquo;Киноуроки в школах России&raquo; учениками 9Б класса Бородинской школы был просмотрен удивительно поучительный фильм &laquo;Если бы не я&raquo;. После просмотра ученики активно обменивались мнениями по поводу главного смысла фильма - значение силы воли и силы духа для осознания самого себя, своих поступков. В классном коллективе прозвучало мнение о том, что хорошие отношения с людьми, чей моральный облик не вызывает одобрения, калечит дух человека, заставляя искать оправдания для поступков друзей, поступаясь при этом собственными нравственными установками. Один из одноклассников спросил остальных: <em>&laquo;Интересно, кто для нас с вами может быть примером высокого проявления силы духа, силы воли среди наших знакомых, родственников? На кого вы хотели бы ровняться?&raquo;</em>. Ребята задумались. Мысленно они вспоминали из своего круга общения кого-то особенного, кого действительно можно считать сильным духом, кто имеет неимоверную силу воли. Ученики стали предлагать кандидатуры, аргументируя свой выбор. В итоге, таким человеком был назван Игорь Робертович Шрайнер - участник боевых действий в Афганистане, специальных заданий в Чечне и на Украине, о котором неоднократно дети слышали на классных часах, посвященных теме патриотизма, силы духа, отваги и чести.</p>
+<p>Девятиклассники воодушевились идеей о встрече с Игорем Робертовичем и подготовили видеоприглашение, в котором рассказали о своем желании подробнее узнать о его судьбе, о том, что для него значат такие относительно непростые сочетания слов как &laquo;сила воли&raquo; и &laquo;сила духа&raquo;. И вот, долгожданная встреча состоялась. Ребята с большим интересом слушали рассказ гостя, находясь в ожидании услышать &laquo;рецепт&raquo; как стать сильным духом человеком, как пробудить свою силу воли. По итогам встречи, стало понятно, что у каждого этот &laquo;рецепт&raquo; свой и найти его каждый должен сам.</p>
+<p>Находясь под впечатлением от услышанного, ребята убедились, что вокруг них очень много сильных духом людей, но не обо всех они знают. В архиве военно-учетного стола администрации ребята составили список всех проживающих в родном поселке, таких же как Игорь Робертович, воинов - участников Афганской и Чеченской войн, чтобы узнать, чем ребята могут помочь каждому из них. Они разделились на подгруппы, взяв под шефство воинов-интернационалистов, обошли каждого и составили для себя долгосрочный план по выполнению поставленной задачи. А еще для того, чтобы из года в год в День памяти воинов-интернационалистов поздравлять этих отважных героев истории родного поселка, области, страны, отдавать дань памяти их СИЛЕ ДУХА. После этого ребята, возвращаясь из школы, решили расчистить от снега подход к мемориальным доскам воинов-интернационалистов на стенах школы: Редькина Сергея Юрьевича и Суворова Юрия Алексеевича. Почтили память героев, погибших при выполнении интернационального долга на братской могиле.</p>
+<p>Итогом социальной практики стало воплощение задуманного учениками в качестве социально значимого общественного дела - помощь воинам-интернационалистам родного поселка. Сила воли и сила духа именно таких людей, по мнению учеников, и есть тот ориентир, которому они будут следовать, преодолевая все трудности на жизненном пути.</p>
+<p>Анализируя подготовку, реализацию и итоги своей социальной практики, учащиеся высоко оценили значение понятий силы воли и силы духа в рамках осознания этих качеств, как равных способности изменить что-то в своей жизни. Ребята сделали вывод о том, что эти ценные качества не заложены в человеческом характере от рождения, тренировка силы воли необходима очень многим. Для этого требуется простое желание и не очень простая работа над собой. Развитая сила духа дает возможность достойно оценивать себя и других, позволяет адекватно относиться и к силе, и к слабостям. Ученики осознали, что сильная личность приобретает возможность постоянно пребывать в спокойном и уверенном состоянии, не обвиняя других в собственных неудачах и просчетах. И это именно те черты, которые свойственны успешному и умеющему добиваться успеха человеку.</p>
+
+                   
+                  </p>
+                </div>
+
+
+
+
+ </div>     <div class="widget-title widget-title-three mb-20">
+                    <div class="section-title-line"></div>
+                    <a href="allnews.html">
+                      <h2 class="title">Читайте также</h2>
+                    </a>
+                  </div>   <div class="row justify-content-center"> <div class="col-xl-12">
+                <div class="weekly-post-item-wrap">  <div class="weekly-post-item weekly-post-four">
+                    <div class="weekly-post-thumb">
+                      <a href="n991112.html"
+                        ><img src="https://ia-region71.ru/picture/kireevsk_mayak/2025/december/29-12-2025/3_____.jpg" alt=""
+                      /></a>
+                    </div>
+                    <div class="weekly-post-content">
+                      <h2 class="post-title">
+                        <a href="n991112.html"
+                          >Новости «IT-Куб» города Болохово</a
+                        >
+                      </h2>
+                      <div class="blog-post-meta">
+                        <ul class="list-wrap">
+                          <li>
+                            <i class="flaticon-calendar"></i>29 декабря 2025 12:23
+                          </li>
+                        </ul>
+                      </div>
+                      <p>
+                        Команда центра «IT-Куб» города Болохово впервые стала участником Всероссийских массовых физкультурных мероприятий по компьютерному спорту «Спортивная специализация «Территория boost»».
+                      </p>
+                      <div class="view-all-btn">
+                        <a href="n991112.html" class="link-btn"
+                          >Читать далее
+                          <span class="svg-icon">
+                            <svg
+                              xmlns="http://www.w3.org/2000/svg"
+                              viewBox="0 0 10 10"
+                              fill="none"
+                            >
+                              <path
+                                d="M1.07692 10L0 8.92308L7.38462 1.53846H0.769231V0H10V9.23077H8.46154V2.61538L1.07692 10Z"
+                                fill="currentColor"
+                              ></path>
+                              <path
+                                d="M1.07692 10L0 8.92308L7.38462 1.53846H0.769231V0H10V9.23077H8.46154V2.61538L1.07692 10Z"
+                                fill="currentColor"
+                              ></path>
+                            </svg>
+                          </span>
+                        </a>
+                      </div>
+                    </div>
+                  </div><div class="weekly-post-item weekly-post-four">
+                    <div class="weekly-post-thumb">
+                      <a href="n990504.html"
+                        ><img src="https://ia-region71.ru/picture/kireevsk_mayak/2025/december/27-12-2025/pwlw6yedhi7yy9iqlk4ca5me7kxni5qxaqi_c1ynesohtz28mzw4fraezvjq3lohs5c3bgn3s7rxumue8r94ssr-.jpg" alt=""
+                      /></a>
+                    </div>
+                    <div class="weekly-post-content">
+                      <h2 class="post-title">
+                        <a href="n990504.html"
+                          >Воспитанники детского сада «Лучик» побывали в новогодней сказке</a
+                        >
+                      </h2>
+                      <div class="blog-post-meta">
+                        <ul class="list-wrap">
+                          <li>
+                            <i class="flaticon-calendar"></i>27 декабря 2025 18:34
+                          </li>
+                        </ul>
+                      </div>
+                      <p>
+                        Приближается самый долгожданный праздник - Новый год, и дети с нетерпением ждут праздничного утренника. 
+                      </p>
+                      <div class="view-all-btn">
+                        <a href="n990504.html" class="link-btn"
+                          >Читать далее
+                          <span class="svg-icon">
+                            <svg
+                              xmlns="http://www.w3.org/2000/svg"
+                              viewBox="0 0 10 10"
+                              fill="none"
+                            >
+                              <path
+                                d="M1.07692 10L0 8.92308L7.38462 1.53846H0.769231V0H10V9.23077H8.46154V2.61538L1.07692 10Z"
+                                fill="currentColor"
+                              ></path>
+                              <path
+                                d="M1.07692 10L0 8.92308L7.38462 1.53846H0.769231V0H10V9.23077H8.46154V2.61538L1.07692 10Z"
+                                fill="currentColor"
+                              ></path>
+                            </svg>
+                          </span>
+                        </a>
+                      </div>
+                    </div>
+                  </div><div class="weekly-post-item weekly-post-four">
+                    <div class="weekly-post-thumb">
+                      <a href="n990431.html"
+                        ><img src="https://ia-region71.ru/picture/kireevsk_mayak/2025/december/27-12-2025/uchitel_i_ucheniki.jpg" alt=""
+                      /></a>
+                    </div>
+                    <div class="weekly-post-content">
+                      <h2 class="post-title">
+                        <a href="n990431.html"
+                          >Руководители школ Тульской области получили инструкции по защите чести педагогов</a
+                        >
+                      </h2>
+                      <div class="blog-post-meta">
+                        <ul class="list-wrap">
+                          <li>
+                            <i class="flaticon-calendar"></i>27 декабря 2025 09:24
+                          </li>
+                        </ul>
+                      </div>
+                      <p>
+                        Руководители образовательных организаций Тульской области начали применять новые инструкции по действиям в конфликтных ситуациях с участием педагогов. 
+                      </p>
+                      <div class="view-all-btn">
+                        <a href="n990431.html" class="link-btn"
+                          >Читать далее
+                          <span class="svg-icon">
+                            <svg
+                              xmlns="http://www.w3.org/2000/svg"
+                              viewBox="0 0 10 10"
+                              fill="none"
+                            >
+                              <path
+                                d="M1.07692 10L0 8.92308L7.38462 1.53846H0.769231V0H10V9.23077H8.46154V2.61538L1.07692 10Z"
+                                fill="currentColor"
+                              ></path>
+                              <path
+                                d="M1.07692 10L0 8.92308L7.38462 1.53846H0.769231V0H10V9.23077H8.46154V2.61538L1.07692 10Z"
+                                fill="currentColor"
+                              ></path>
+                            </svg>
+                          </span>
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+ 
+         
+          </div>
+               
+              </div>    </div>
+            </div>
+           <div class="col-xl-3 col-lg-8">
+              <div class="sidebar-wrap-three">
+                <div class="sidebar-widget-three">
+                  <div class="widget-title widget-title-three mb-20">
+                    <div class="section-title-line"></div>
+                    <a href="allnews.html">
+                      <h2 class="title">Лента новостей</h2>
+                    </a>
+                  </div>
+                  <div class="stories-post-wrap"><div class="stories-post">
+          
+                      <div class="stories-post-content">
+                        <h5 class="post-title">
+                          <a href="n991144.html">За 2025 год в Тульской области капитально отремонтировали 41 объект здравоохранения</a>
+                        </h5>
+                        <div class="blog-post-meta">
+                          <ul class="list-wrap">
+                            <li><i class="flaticon-time"></i>12:37</li>
+                          </ul>
+                        </div>
+                      </div>
+                    </div><div class="stories-post">
+          
+                      <div class="stories-post-content">
+                        <h5 class="post-title">
+                          <a href="n991128.html">Сергей Гребенщиков: Желаю семьям наших защитников счастья и нашей общей победы!</a>
+                        </h5>
+                        <div class="blog-post-meta">
+                          <ul class="list-wrap">
+                            <li><i class="flaticon-time"></i>12:34</li>
+                          </ul>
+                        </div>
+                      </div>
+                    </div><div class="stories-post">
+          
+                      <div class="stories-post-content">
+                        <h5 class="post-title">
+                          <a href="n991111.html">Новогодний интерактивный спектакль «Самое заветное желание» в Киреевском РДК. Фоторепортаж</a>
+                        </h5>
+                        <div class="blog-post-meta">
+                          <ul class="list-wrap">
+                            <li><i class="flaticon-time"></i>12:26</li>
+                          </ul>
+                        </div>
+                      </div>
+                    </div><div class="stories-post">
+          
+                      <div class="stories-post-content">
+                        <h5 class="post-title">
+                          <a href="n991112.html">Новости «IT-Куб» города Болохово</a>
+                        </h5>
+                        <div class="blog-post-meta">
+                          <ul class="list-wrap">
+                            <li><i class="flaticon-time"></i>12:23</li>
+                          </ul>
+                        </div>
+                      </div>
+                    </div><div class="stories-post">
+          
+                      <div class="stories-post-content">
+                        <h5 class="post-title">
+                          <a href="n991080.html">Дмитрий Миляев поделился планами на предстоящую неделю</a>
+                        </h5>
+                        <div class="blog-post-meta">
+                          <ul class="list-wrap">
+                            <li><i class="flaticon-time"></i>12:02</li>
+                          </ul>
+                        </div>
+                      </div>
+                    </div><div class="stories-post">
+          
+                      <div class="stories-post-content">
+                        <h5 class="post-title">
+                          <a href="n991068.html">В России действует программа восстановления объектов культурного наследия</a>
+                        </h5>
+                        <div class="blog-post-meta">
+                          <ul class="list-wrap">
+                            <li><i class="flaticon-time"></i>12:02</li>
+                          </ul>
+                        </div>
+                      </div>
+                    </div><div class="stories-post">
+          
+                      <div class="stories-post-content">
+                        <h5 class="post-title">
+                          <a href="n990864.html">В Тульской области прокуратура пресекла нарушения санитарных норм в детском саду</a>
+                        </h5>
+                        <div class="blog-post-meta">
+                          <ul class="list-wrap">
+                            <li><i class="flaticon-time"></i>11:55</li>
+                          </ul>
+                        </div>
+                      </div>
+                    </div></div>
+                  <div style="margin-top:15px;" class="view-all-btn">
+                    <a href="allnews.html" class="link-btn"
+                      >Все новости
+                      <span class="svg-icon">
+                        <svg
+                          xmlns="http://www.w3.org/2000/svg"
+                          viewBox="0 0 10 10"
+                          fill="none"
+                        >
+                          <path
+                            d="M1.07692 10L0 8.92308L7.38462 1.53846H0.769231V0H10V9.23077H8.46154V2.61538L1.07692 10Z"
+                            fill="currentColor"
+                          />
+                          <path
+                            d="M1.07692 10L0 8.92308L7.38462 1.53846H0.769231V0H10V9.23077H8.46154V2.61538L1.07692 10Z"
+                            fill="currentColor"
+                          />
+                        </svg>
+                      </span>
+                    </a>
+                  </div>
+                </div>
+                
+                <div class="sidebar-widget sidebar-widget-three">
+                  <div class="widget-title mb-25">
+                    <h2 class="title">Мы в соцсетях</h2>
+                    <div class="section-title-line"></div>
+                  </div>
+                  <div class="sidebar-social-wrap">
+                    <ul class="list-wrap">
+                      <li>
+                        <a href="https://t.me/kirmayak71"><i class="fab fa-telegram"></i>Телеграм</a>
+                      </li>
+                      <li>
+                        <a href="https://www.ok.ru//"
+                          ><i class="fab fa-odnoklassniki"></i>Одноклассники</a
+                        >
+                      </li>
+                      <li>
+                        <a href="https://vk.com/kireevskiymayak"><i class="fab fa-vk"></i>Вконтакте</a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+                <div class="sidebar-widget-three">
+                  <div class="widget-title widget-title-three mb-20">
+                    <div class="section-title-line"></div>
+                       <h2 class="title">Самое читаемое</h2>
+                   </div>
+                  <div class="stories-post-wrap-two"><div class="stories-post-two">
+                      <h2 class="number">1.</h2>
+                      <div class="stories-post-content">
+                        <h5 class="post-title">
+                          <a href="n965890.html">Как будут принимать пациентов специалисты Киреевской ЦРБ в декабре текущего года</a>
+                        </h5>
+                        <div class="blog-post-meta">
+                          <ul class="list-wrap">
+                            <li>
+                              <i class="flaticon-calendar"></i> 10:10  01 декабря 2025
+                            </li>
+                          </ul>
+                        </div>
+                      </div>
+                    </div><div class="stories-post-two">
+                      <h2 class="number">2.</h2>
+                      <div class="stories-post-content">
+                        <h5 class="post-title">
+                          <a href="n978330.html">В Киреевском районе под колёсами «Лады» погиб велосипедист</a>
+                        </h5>
+                        <div class="blog-post-meta">
+                          <ul class="list-wrap">
+                            <li>
+                              <i class="flaticon-calendar"></i> 15:43  08 декабря 2025
+                            </li>
+                          </ul>
+                        </div>
+                      </div>
+                    </div><div class="stories-post-two">
+                      <h2 class="number">3.</h2>
+                      <div class="stories-post-content">
+                        <h5 class="post-title">
+                          <a href="n983605.html">Липковскую общеобразовательную школу № 3 торжественно открыли после ремонта</a>
+                        </h5>
+                        <div class="blog-post-meta">
+                          <ul class="list-wrap">
+                            <li>
+                              <i class="flaticon-calendar"></i> 15:45  17 декабря 2025
+                            </li>
+                          </ul>
+                        </div>
+                      </div>
+                    </div><div class="stories-post-two">
+                      <h2 class="number">4.</h2>
+                      <div class="stories-post-content">
+                        <h5 class="post-title">
+                          <a href="n986121.html">Погода, праздники и народные приметы дня на 22 декабря</a>
+                        </h5>
+                        <div class="blog-post-meta">
+                          <ul class="list-wrap">
+                            <li>
+                              <i class="flaticon-calendar"></i> 08:53  22 декабря 2025
+                            </li>
+                          </ul>
+                        </div>
+                      </div>
+                    </div><div class="stories-post-two">
+                      <h2 class="number">5.</h2>
+                      <div class="stories-post-content">
+                        <h5 class="post-title">
+                          <a href="n973653.html">День матери в Киреевском городском доме культуры. Фоторепортаж</a>
+                        </h5>
+                        <div class="blog-post-meta">
+                          <ul class="list-wrap">
+                            <li>
+                              <i class="flaticon-calendar"></i> 16:48  29 ноября 2025
+                            </li>
+                          </ul>
+                        </div>
+                      </div>
+                    </div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <!-- banner-post-area-end -->
+
+      <!-- ad-banner-area -->
+      <div class="ad-banner-area pt-50 pb-60">
+        <div class="container">
+          <div class="ad-banner-img ad-banner-img-two text-center">
+            <!--AdFox START-->
+<!--yandex_ad.region71-->
+<!--Площадка: Маяк. Киреевский район / Текст / Баннер-->
+<!--Категория: <не задана>-->
+<!--Баннер: <не задана>-->
+<!--Тип баннера: 300x300-->
+<div id="adfox_176529439199313220"></div>
+<script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.create({
+            ownerId: 714288,
+            containerId: 'adfox_176529439199313220',
+            params: {
+                p1: 'cwewb',
+                p2: 'hius',
+                pfc: 'hpuxk',
+                pfb: 'bibzqd'
+            }
+        })
+    })
+</script>
+<br><a href="https://web.max.ru/tul_izvestia" target="_blank"><img src="https://ia-region71.ru/picture/bahtin/_tehnicka_andrea.png?1758385195066" alt="" width="300" height="300" /></a>
+<a href="https://vk.com/kireevskiymayak" target="_blank"><img src="https://ia-region71.ru/picture/bahtin/06/_2025-06-18_121110827.png?1750237877813" alt="" width="300" height="300" /></a>
+<a href="https://russia.ru/" target="_blank"><img src="https://ia-region71.ru/picture/banners/image_2025-11-18_13-15-22.png?1763460075376" alt="" width="300" height="300" /></a>
+<a href="https://trk.mail.ru/c/zkm4n4" target="_blank"><img src="https://ia-region71.ru/picture/banners/_2025-08-18_171923960.png?1755526769420" alt="" width="300" height="300" /></a>
+          </div>
+        </div>
+      </div>
+      <!-- ad-banner-area-end -->
+    </main>
+    <!-- main-area-end -->   <!-- footer-area -->
+ <footer>
+    <div class="footer-area-four">
+      <div class="footer-top footer-top-three">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-3 col-md-7">
+              <div class="footer-widget">
+                <div class="fw-logo">
+                  <a href="."
+                    ><img src="logon.png" alt=""
+                  /></a>
+                </div>
+                <div class="fw-logo d-none">
+                  <a href="."
+                    ><img src="logon.png" alt=""
+                  /></a>
+                </div>
+                <div class="footer-content"></div>
+              </div>
+            </div>
+         
+            <div class="col-lg-7 col-md-5 col-sm-6">
+              <div class="footer-widget fine-print">
+                 <p>  © 2024, Сетевое издание Маяк. Киреевский район http://kirmayak.ru/.<br>
+
+Реестровая запись ЭЛ № ФС77-81491. Сетевое издание зарегистрировано 15 июля  2021г.  Федеральной службой по надзору в сфере связи, информационных технологий и массовых коммуникаций.<br><br>
+
+Учредитель: государственное учреждение Тульской области «Информационное агентство «Регион 71».<br><br>
+
+Главный редактор: Н.Ю. Подмосковникова<br><br>
+
+Адрес редакции: 301260, Тульская область, Киреевский район, г. Киреевск,<br>
+ул. Гагарина, д. 10 <br>
+ 
+ 
+
+Знак информационной продукции 12+ <br><br>
+
+Все права на материалы, опубликованные на сайте Маяк. Киреевский район (http://kirmayak.ru/), принадлежат ГУ ТО «Информационное агентство «Регион 71» и охраняются в соответствии с законодательством РФ. Использование материалов сайта возможно только с письменного разрешения правообладателя.<br>  </p>
+
+
+            <!-- Yandex.Metrika informer -->
+<a href="https://metrika.yandex.ru/stat/?id=48242504&amp;from=informer"
+target="_blank" rel="nofollow"><img src="https://informer.yandex.ru/informer/48242504/3_1_FFFFFFFF_EFEFEFFF_0_pageviews"
+style="width:88px; height:31px; border:0;" alt="яндекс.ћетрика" title="яндекс.ћетрика: данные за сегодн€ (просмотры, визиты и уникальные посетители)" class="ym-advanced-informer" data-cid="48242504" data-lang="ru" /></a>
+<!-- /Yandex.Metrika informer -->
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();
+   for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+   k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(48242504, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/48242504" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->      
+              </div>
+            </div>
+            <div class="col-lg-2 col-md-4 col-sm-6">
+              <div class="footer-widget">
+                <h4 class="fw-title">Страницы</h4>
+                <div class="footer-link-wrap">
+                  <ul class="list-wrap">
+                    <ul>                             
+ 
+          <li class="footer__menu-item">
+                                 <a href="p80.html"  class="footer__menu-link">О редакции</a>
+                              </li>
+
+                              <li class="footer__menu-item">
+                                 <a href="p83.html"  class="footer__menu-link">Реклама</a>
+                              </li>
+
+                              <li class="footer__menu-item">
+                                 <a href="p82.html"  class="footer__menu-link">Подписка</a>
+                              </li>
+
+  <li class="footer__menu-item">
+                                 <a href="p81.html"  class="footer__menu-link">О газете</a>
+                              </li>
+
+                              <li class="footer__menu-item">
+                                 <a href="p84.html"  class="footer__menu-link">Контакты</a>
+                              </li>
+
+
+
+
+                       </ul>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+ 
+    </div>
+  </footer>
+  <!-- footer-area-end -->
+
+  <!-- JS here -->
+
+  <script src="assets/js/bootstrap.min.js"></script>
+  <script src="assets/js/jquery.magnific-popup.min.js"></script>
+  <script src="assets/js/slick.min.js"></script>
+  <script src="assets/js/swiper-bundle.js"></script>
+  <script src="assets/js/ajax-form.js"></script>
+  <script src="assets/js/wow.min.js"></script>
+  <script src="assets/js/main.js"></script>
+
+
+  <div id="cookie_note">
+    <p>Мы используем cookie-файлы для наилучшего представления нашего сайта. Продолжая использовать этот сайт, вы соглашаетесь с использованием cookie-файлов, <br>
+    <a target="_blank" style="color:red;" href="http://ia-region71.ru/data/modulesdocs/2c1ecc7bd589fc70d2e630256dff32f4.pdf">Политикой обработки персональных данных пользователей сетевых изданий, входящих в состав ГУ ТО «Информационное агентство «Регион 71»</a> и 
+    <a target="_blank" style="color:red;" href="p147.html">обработкой персональных данных Яндекс.Метрикой</a>
+    <a href="#" target="_blank">нажмите здесь</a>.</p>
+
+    <button class="button cookie_accept btn btn-primary btn-sm">Принять</button>
+    </div>
+    <style>
+    #cookie_note{
+        display: none;
+        position: fixed;
+        bottom: 15px;
+        left: 50%;
+        max-width: 90%;
+        transform: translateX(-50%);
+        padding: 20px;
+        background-color: white;
+        border-radius: 4px;
+        box-shadow: 2px 3px 10px rgba(0, 0, 0, 0.4);
+    }
+
+    #cookie_note p{
+        margin: 0;
+        font-size: 0.7rem;
+        text-align: left;
+        color: black;
+    }
+
+    .cookie_accept{
+        width:20%;
+    }
+    @media (min-width: 576px){
+        #cookie_note.show{
+            display: flex;
+        }
+    }
+
+    @media (max-width: 575px){
+        #cookie_note.show{
+            display: block;
+            text-align: left;
+        }
+    }
+    </style>
+
+
+    <script>
+        function setCookie(name, value, days) {
+            let expires = "";
+            if (days) {
+                let date = new Date();
+                date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+                expires = "; expires=" + date.toUTCString();
+            }
+            document.cookie = name + "=" + (value || "") + expires + "; path=/";
+        }
+
+        function getCookie(name) {
+            let matches = document.cookie.match(new RegExp("(?:^|; )" + name.replace(/([\.$?*|{}\(\)\[\]\\\/\+^])/g, '\\$1') + "=([^;]*)"));
+            return matches ? decodeURIComponent(matches[1]) : undefined;
+        }
+
+
+        function checkCookies() {
+            let cookieNote = document.getElementById('cookie_note');
+            let cookieBtnAccept = cookieNote.querySelector('.cookie_accept');
+
+            // Если куки cookies_policy нет или она просрочена, то показываем уведомление
+            if (!getCookie('cookies_policy')) {
+                cookieNote.classList.add('show');
+            }
+
+            // При клике на кнопку устанавливаем куку cookies_policy на один год
+            cookieBtnAccept.addEventListener('click', function () {
+                setCookie('cookies_policy', 'true', 365);
+                cookieNote.classList.remove('show');
+            });
+        }
+
+        checkCookies();
+        
+    </script>
+</body>
+</html>

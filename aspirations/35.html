@@ -1,0 +1,1272 @@
+<!DOCTYPE html>
+<html lang="ru-RU" prefix="og: https://ogp.me/ns#" class="">
+<head>
+		<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="google" content="notranslate">
+	<!-- Favicons -->
+	<link rel="icon" type="image/svg+xml" href="https://azbyka.ru/wp-content/themes/azbyka-av/assets/images/favicons/favicon.svg?ver=2.17">
+	<link rel="icon" type="image/ico" href="https://azbyka.ru/wp-content/themes/azbyka-av/assets/images/favicons/favicon.ico?ver=2.17">
+	<link rel="apple-touch-icon" sizes="57x57" href="https://azbyka.ru/wp-content/themes/azbyka-av/assets/images/favicons/apple-icon-57x57.png?ver=2.17">
+	<link rel="apple-touch-icon" sizes="60x60" href="https://azbyka.ru/wp-content/themes/azbyka-av/assets/images/favicons/apple-icon-60x60.png?ver=2.17">
+	<link rel="apple-touch-icon" sizes="72x72" href="https://azbyka.ru/wp-content/themes/azbyka-av/assets/images/favicons/apple-icon-72x72.png?ver=2.17">
+	<link rel="apple-touch-icon" sizes="76x76" href="https://azbyka.ru/wp-content/themes/azbyka-av/assets/images/favicons/apple-icon-76x76.png?ver=2.17">
+	<link rel="apple-touch-icon" sizes="114x114" href="https://azbyka.ru/wp-content/themes/azbyka-av/assets/images/favicons/apple-icon-114x114.png?ver=2.17">
+	<link rel="apple-touch-icon" sizes="120x120" href="https://azbyka.ru/wp-content/themes/azbyka-av/assets/images/favicons/apple-icon-120x120.png?ver=2.17">
+	<link rel="apple-touch-icon" sizes="144x144" href="https://azbyka.ru/wp-content/themes/azbyka-av/assets/images/favicons/apple-icon-144x144.png?ver=2.17">
+	<link rel="apple-touch-icon" sizes="152x152" href="https://azbyka.ru/wp-content/themes/azbyka-av/assets/images/favicons/apple-icon-152x152.png?ver=2.17">
+	<link rel="apple-touch-icon" sizes="180x180" href="https://azbyka.ru/wp-content/themes/azbyka-av/assets/images/favicons/apple-icon-180x180.png?ver=2.17">
+	<link rel="icon" type="image/png" sizes="192x192"  href="https://azbyka.ru/wp-content/themes/azbyka-av/assets/images/favicons/android-icon-192x192.png?ver=2.17">
+	<link rel="icon" type="image/png" sizes="32x32" href="https://azbyka.ru/wp-content/themes/azbyka-av/assets/images/favicons/favicon-32x32.png?ver=2.17">
+	<link rel="icon" type="image/png" sizes="96x96" href="https://azbyka.ru/wp-content/themes/azbyka-av/assets/images/favicons/favicon-96x96.png?ver=2.17">
+	<link rel="icon" type="image/png" sizes="16x16" href="https://azbyka.ru/wp-content/themes/azbyka-av/assets/images/favicons/favicon-16x16.png?ver=2.17">
+	<link rel="manifest" href="https://azbyka.ru/wp-content/themes/azbyka-av/assets/images/favicons/manifest.json?ver=2.17">
+	<meta name="msapplication-TileColor" content="#da532c">
+	<meta name="msapplication-TileImage" content="https://azbyka.ru/wp-content/themes/azbyka-av/assets/images/favicons/ms-icon-144x144.png?ver=2.17">
+	<meta name="theme-color" content="#f1e9d6">
+	
+	<link rel="alternate" type="application/rss+xml" title="Православный портал «Азбука веры» RSS Feed" href="https://azbyka.ru/feed/rss">
+	<link rel="alternate" type="application/atom+xml" title="Православный портал «Азбука веры» Atom Feed" href="https://azbyka.ru/feed/atom">
+	<link rel="pingback" href="https://azbyka.ru/xmlrpc.php">
+		<script id="az_settings_js">
+		var AZ = window.AZ || {};
+		AZ.theme_path = 'https://azbyka.ru/wp-content/themes/azbyka-av';
+		AZ.ajax_path = 'https://azbyka.ru/wp-admin/admin-ajax.php';
+		AZ.post_id = '6172';
+		AZ.logged_in = false;
+		AZ.sso_logged_in = !!localStorage.getItem('az_sso_email');
+		AZ.tooltip_selector = '.az-tip, abbr, [data-tip-text]';
+		
+		localStorage.setItem('az_sso_reflink', location.href);
+		
+		/*
+		if(localStorage.getItem('az_sso_email') && !AZ.logged_in){
+			let tries = parseInt(localStorage.getItem('login_refresh_tries'));
+			if(isNaN(tries)) tries = 0;
+			if(tries < 2){
+				tries++;
+				localStorage.setItem('login_refresh_tries', tries);
+				location.reload();
+			}else
+				console.log('tried to login too much');
+		}else{
+			localStorage.removeItem('login_refresh_tries');
+		}
+		*/
+		
+		AZ.project = 'https://azbyka.ru';
+		AZ.settingVars = { "theme" : 0, "body-bg": 0, "side-bg" : 0, "widget-bg" : 0, "text-color" : 0, "link-color" : 0, "accent-color" : 0, "backdrop-color":0, "font-base-size" : 0, "text-font" : 0, "title-font" : 0, "text-align" : 0, "pagination-autoload" : 0 }; //0 - cross-site; 1 - local
+		AZ.sessionToggles = ["sidebar-hide"];
+		AZ.settings = {};
+		
+		AZ.nameSetting = name => 'az_' + (AZ.settingVars[name] ? AZ.project + '_' : '' ) + name;
+		AZ.getSetting = name => localStorage.getItem(AZ.nameSetting(name));
+		AZ.setSetting = (name, val) => {localStorage.setItem(AZ.nameSetting(name), val); AZ.applySettings();};
+		
+		AZ.applySettings = ()=>{
+			let docStyle = '', docClasses = document.documentElement.classList;
+
+			if(!AZ.settings.length){
+				docClasses.remove('sidebar-show');
+				docClasses.remove('sidebar-hide');
+			}
+
+			let gf_loaded = false;
+
+			for(let name in AZ.settingVars){
+				let val = AZ.getSetting(name);
+				if(val && val !== 'undefined'){
+					//google fonts
+					if (name.includes('-font') && !val.includes(',')) {
+						let head = document.getElementsByTagName('head')[0];
+						if (!gf_loaded) {
+							let pre_lnk = document.createElement('link');
+							pre_lnk.rel = 'preconnect';
+							pre_lnk.href = 'https://fonts.gstatic.com';
+							head.appendChild(pre_lnk);
+							gf_loaded = true;
+							console.log(pre_lnk);
+						}
+						let link = document.createElement('link');
+						link.href = 'https://fonts.googleapis.com/css2?family=' + val.replace(' ', '+') + ':wght@400;700&display=swap';
+						link.rel = 'stylesheet';
+						link.type = 'text/css';
+						head.appendChild(link);
+						console.log(link);
+					}
+
+					AZ.settings[name] = val;
+					docStyle+='--'+name+':'+ val+';';
+					
+					if(name === 'theme')	//todo: other?
+						document.documentElement.setAttribute('data-'+name.replace('--',''), val);
+				}
+			}
+			
+			for(let name of AZ.sessionToggles){
+				if(sessionStorage.getItem(name) === 'true')
+					document.documentElement.classList.add(name);
+			}
+
+			document.documentElement.style.cssText = docStyle;
+		};
+
+		AZ.applySettings();
+	</script>
+	
+<!-- SEO от Rank Math - https://rankmath.com/ -->
+<title>Святой Дух - православная энциклопедия «Азбука веры»</title>
+<link data-rocket-prefetch href="https://cdn.jsdelivr.net" rel="dns-prefetch">
+<link data-rocket-prefetch href="https://mc.yandex.ru" rel="dns-prefetch">
+<meta name="description" content="Святой Дух – Третье Лицо (Ипостась) Святой Троицы, истинный Бог, единосущный и равнославный Отцу и Сыну. Святой Дух, как и Другие Божественные Лица, вечен, неизмерим, вездесущ."/>
+<meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
+<link rel="canonical" href="https://azbyka.ru/svyatoj-dux" />
+<meta property="og:locale" content="ru_RU" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Святой Дух - православная энциклопедия «Азбука веры»" />
+<meta property="og:description" content="Святой Дух – Третье Лицо (Ипостась) Святой Троицы, истинный Бог, единосущный и равнославный Отцу и Сыну. Святой Дух, как и Другие Божественные Лица, вечен, неизмерим, вездесущ." />
+<meta property="og:url" content="https://azbyka.ru/svyatoj-dux" />
+<meta property="og:site_name" content="Православный портал «Азбука веры»" />
+<meta property="article:tag" content="С" />
+<meta property="og:updated_time" content="2025-12-22T10:49:19+03:00" />
+<meta property="og:image" content="https://azbyka.ru/wp-content/uploads/2015/08/svjatoj-duh-1.jpg" />
+<meta property="og:image:secure_url" content="https://azbyka.ru/wp-content/uploads/2015/08/svjatoj-duh-1.jpg" />
+<meta property="og:image:width" content="513" />
+<meta property="og:image:height" content="629" />
+<meta property="og:image:alt" content="Бог Дух Святой" />
+<meta property="og:image:type" content="image/jpeg" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Святой Дух - православная энциклопедия «Азбука веры»" />
+<meta name="twitter:description" content="Святой Дух – Третье Лицо (Ипостась) Святой Троицы, истинный Бог, единосущный и равнославный Отцу и Сыну. Святой Дух, как и Другие Божественные Лица, вечен, неизмерим, вездесущ." />
+<meta name="twitter:image" content="https://azbyka.ru/wp-content/uploads/2015/08/svjatoj-duh-1.jpg" />
+<meta name="twitter:label1" content="Автор" />
+<meta name="twitter:data1" content="Редактор" />
+<meta name="twitter:label2" content="Время чтения" />
+<meta name="twitter:data2" content="11 минут" />
+<script type="application/ld+json" class="rank-math-schema">{"@context":"https://schema.org","@graph":[{"@type":["Library","Organization"],"@id":"https://azbyka.ru/#organization","name":"\u041f\u0440\u0430\u0432\u043e\u0441\u043b\u0430\u0432\u043d\u0430\u044f \u044d\u043d\u0446\u0438\u043a\u043b\u043e\u043f\u0435\u0434\u0438\u044f \u0410\u0437\u0431\u0443\u043a\u0430 \u0432\u0435\u0440\u044b","url":"https://azbyka.ru","logo":{"@type":"ImageObject","@id":"https://azbyka.ru/#logo","url":"https://azbyka.ru/wp-content/uploads/2021/05/og-image.png","contentUrl":"https://azbyka.ru/wp-content/uploads/2021/05/og-image.png","caption":"\u041f\u0440\u0430\u0432\u043e\u0441\u043b\u0430\u0432\u043d\u044b\u0439 \u043f\u043e\u0440\u0442\u0430\u043b \u00ab\u0410\u0437\u0431\u0443\u043a\u0430 \u0432\u0435\u0440\u044b\u00bb","inLanguage":"ru-RU"},"openingHours":["Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday 09:00-17:00"],"image":{"@id":"https://azbyka.ru/#logo"}},{"@type":"WebSite","@id":"https://azbyka.ru/#website","url":"https://azbyka.ru","name":"\u041f\u0440\u0430\u0432\u043e\u0441\u043b\u0430\u0432\u043d\u044b\u0439 \u043f\u043e\u0440\u0442\u0430\u043b \u00ab\u0410\u0437\u0431\u0443\u043a\u0430 \u0432\u0435\u0440\u044b\u00bb","publisher":{"@id":"https://azbyka.ru/#organization"},"inLanguage":"ru-RU"},{"@type":"ImageObject","@id":"https://azbyka.ru/wp-content/uploads/2015/08/svjatoj-duh.jpg","url":"https://azbyka.ru/wp-content/uploads/2015/08/svjatoj-duh.jpg","width":"200","height":"200","inLanguage":"ru-RU"},{"@type":"WebPage","@id":"https://azbyka.ru/svyatoj-dux#webpage","url":"https://azbyka.ru/svyatoj-dux","name":"\u0421\u0432\u044f\u0442\u043e\u0439 \u0414\u0443\u0445 - \u043f\u0440\u0430\u0432\u043e\u0441\u043b\u0430\u0432\u043d\u0430\u044f \u044d\u043d\u0446\u0438\u043a\u043b\u043e\u043f\u0435\u0434\u0438\u044f \u00ab\u0410\u0437\u0431\u0443\u043a\u0430 \u0432\u0435\u0440\u044b\u00bb","datePublished":"2015-08-28T18:37:08+03:00","dateModified":"2025-12-22T10:49:19+03:00","isPartOf":{"@id":"https://azbyka.ru/#website"},"primaryImageOfPage":{"@id":"https://azbyka.ru/wp-content/uploads/2015/08/svjatoj-duh.jpg"},"inLanguage":"ru-RU"},{"@type":"Article","headline":"\u0421\u0432\u044f\u0442\u043e\u0439 \u0414\u0443\u0445 - \u043f\u0440\u0430\u0432\u043e\u0441\u043b\u0430\u0432\u043d\u0430\u044f \u044d\u043d\u0446\u0438\u043a\u043b\u043e\u043f\u0435\u0434\u0438\u044f \u00ab\u0410\u0437\u0431\u0443\u043a\u0430 \u0432\u0435\u0440\u044b\u00bb","keywords":"\u0411\u043e\u0433 \u0414\u0443\u0445 \u0421\u0432\u044f\u0442\u043e\u0439,\u0421\u0432\u044f\u0442\u043e\u0439 \u0434\u0443\u0445","datePublished":"2015-08-28T18:37:08+03:00","dateModified":"2025-12-22T10:49:19+03:00","articleSection":"\u042d\u043d\u0446\u0438\u043a\u043b\u043e\u043f\u0435\u0434\u0438\u044f","publisher":{"@id":"https://azbyka.ru/#organization"},"description":"\u0421\u0432\u044f\u0442\u043e\u0439 \u0414\u0443\u0445 \u2013 \u0422\u0440\u0435\u0442\u044c\u0435 \u041b\u0438\u0446\u043e (\u0418\u043f\u043e\u0441\u0442\u0430\u0441\u044c) \u0421\u0432\u044f\u0442\u043e\u0439 \u0422\u0440\u043e\u0438\u0446\u044b, \u0438\u0441\u0442\u0438\u043d\u043d\u044b\u0439 \u0411\u043e\u0433, \u0435\u0434\u0438\u043d\u043e\u0441\u0443\u0449\u043d\u044b\u0439 \u0438 \u0440\u0430\u0432\u043d\u043e\u0441\u043b\u0430\u0432\u043d\u044b\u0439 \u041e\u0442\u0446\u0443 \u0438 \u0421\u044b\u043d\u0443. \u0421\u0432\u044f\u0442\u043e\u0439 \u0414\u0443\u0445, \u043a\u0430\u043a \u0438 \u0414\u0440\u0443\u0433\u0438\u0435 \u0411\u043e\u0436\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0435 \u041b\u0438\u0446\u0430, \u0432\u0435\u0447\u0435\u043d, \u043d\u0435\u0438\u0437\u043c\u0435\u0440\u0438\u043c, \u0432\u0435\u0437\u0434\u0435\u0441\u0443\u0449.","name":"\u0421\u0432\u044f\u0442\u043e\u0439 \u0414\u0443\u0445 - \u043f\u0440\u0430\u0432\u043e\u0441\u043b\u0430\u0432\u043d\u0430\u044f \u044d\u043d\u0446\u0438\u043a\u043b\u043e\u043f\u0435\u0434\u0438\u044f \u00ab\u0410\u0437\u0431\u0443\u043a\u0430 \u0432\u0435\u0440\u044b\u00bb","@id":"https://azbyka.ru/svyatoj-dux#richSnippet","isPartOf":{"@id":"https://azbyka.ru/svyatoj-dux#webpage"},"image":{"@id":"https://azbyka.ru/wp-content/uploads/2015/08/svjatoj-duh.jpg"},"inLanguage":"ru-RU","mainEntityOfPage":{"@id":"https://azbyka.ru/svyatoj-dux#webpage"}}]}</script>
+<!-- /Rank Math WordPress SEO плагин -->
+
+
+<link rel="alternate" type="application/rss+xml" title="Православный портал «Азбука веры» &raquo; Лента" href="https://azbyka.ru/feed" />
+<link rel="alternate" type="application/rss+xml" title="Православный портал «Азбука веры» &raquo; Лента комментариев" href="https://azbyka.ru/comments/feed" />
+<link rel="alternate" type="application/rss+xml" title="Православный портал «Азбука веры» &raquo; Лента комментариев к &laquo;Святой Дух&raquo;" href="https://azbyka.ru/svyatoj-dux/feed" />
+<style id='wp-img-auto-sizes-contain-inline-css' type='text/css'>
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+
+			<link data-minify="1" rel='preload' as='style' href='https://azbyka.ru/wp-content/cache/min/1/wp-content/plugins/Bg-Personal/css/myBooks.css?ver=1766855307'  media='all' />
+			<link data-minify="1" rel='stylesheet' id='myBooks'  href='https://azbyka.ru/wp-content/cache/min/1/wp-content/plugins/Bg-Personal/css/myBooks.css?ver=1766855307'  media='all' />
+			
+			<link data-minify="1" rel='preload' as='style' href='https://azbyka.ru/wp-content/cache/min/1/wp-content/plugins/bg-biblie-references/css/styles.css?ver=1766855307'  media='all' />
+			<link data-minify="1" rel='stylesheet' id='bg_bibrefs_styles'  href='https://azbyka.ru/wp-content/cache/min/1/wp-content/plugins/bg-biblie-references/css/styles.css?ver=1766855307'  media='all' />
+			
+			<link data-minify="1" rel='preload' as='style' href='https://azbyka.ru/wp-content/cache/min/1/wp-content/plugins/bg-book-publisher/css/style.css?ver=1766855309'  media='all' />
+			<link data-minify="1" rel='stylesheet' id='bg_bpub_styles'  href='https://azbyka.ru/wp-content/cache/min/1/wp-content/plugins/bg-book-publisher/css/style.css?ver=1766855309'  media='all' />
+			
+			<link data-minify="1" rel='preload' as='style' href='https://azbyka.ru/wp-content/cache/min/1/wp-content/plugins/bg-forreaders/css/style.css?ver=1766855307'  media='all' />
+			<link data-minify="1" rel='stylesheet' id='bg_forreaders_styles'  href='https://azbyka.ru/wp-content/cache/min/1/wp-content/plugins/bg-forreaders/css/style.css?ver=1766855307'  media='all' />
+			<style id='bg_forreaders_styles-inline-css' type='text/css'>
+
+div.bg_forreaders {height: 52.8px;
+	font-size: 0em;
+}
+.bg_forreaders div a {
+	padding: 0px 41.4px 52.8px 0px;
+	margin: 0px 6px 0px 0px;
+}
+.bg_forreaders .pdf {
+	background: url(https://azbyka.ru/wp-content/uploads/bg_forreaders/document-pdf.svg) no-repeat 50% 50%;
+	background-size: contain;
+}
+.bg_forreaders .epub {
+	background: url(https://azbyka.ru/wp-content/uploads/bg_forreaders/document-epub.svg) no-repeat 50% 50%;
+	background-size: contain;
+}
+
+.bg_forreaders .mobi{
+	background: url(https://azbyka.ru/wp-content/uploads/bg_forreaders/document-mobi.svg) no-repeat 50% 50%;
+	background-size: contain;
+}
+.bg_forreaders .fb2 {
+	background: url(https://azbyka.ru/wp-content/uploads/bg_forreaders/document-fb2.svg) no-repeat 50% 50%;
+	background-size: contain;
+}				  
+	
+/*# sourceURL=bg_forreaders_styles-inline-css */
+</style>
+
+			<link data-minify="1" rel='preload' as='style' href='https://azbyka.ru/wp-content/cache/min/1/wp-content/plugins/bz_inline_audio/inline-audio.css?ver=1766855309'  media='all' />
+			<link data-minify="1" rel='stylesheet' id='inline-audio'  href='https://azbyka.ru/wp-content/cache/min/1/wp-content/plugins/bz_inline_audio/inline-audio.css?ver=1766855309'  media='all' />
+			
+			<link data-minify="1" rel='preload' as='style' href='https://azbyka.ru/wp-content/cache/min/1/wp-content/themes/azbyka/assets/css/styles.css?ver=1766855307'  media='all' />
+			<link data-minify="1" rel='stylesheet' id='azbyka-styles'  href='https://azbyka.ru/wp-content/cache/min/1/wp-content/themes/azbyka/assets/css/styles.css?ver=1766855307'  media='all' />
+			
+			<link data-minify="1" rel='preload' as='style' href='https://azbyka.ru/wp-content/cache/min/1/wp-content/themes/azbyka-av/style.css?ver=1766855307'  media='all' />
+			<link data-minify="1" rel='stylesheet' id='azbyka-style'  href='https://azbyka.ru/wp-content/cache/min/1/wp-content/themes/azbyka-av/style.css?ver=1766855307'  media='all' />
+			
+			<link data-minify="1" rel='preload' as='style' href='https://azbyka.ru/wp-content/cache/min/1/wp-content/themes/azbyka/assets/css/singular.css?ver=1766855309'  media='all' />
+			<link data-minify="1" rel='stylesheet' id='az-singular'  href='https://azbyka.ru/wp-content/cache/min/1/wp-content/themes/azbyka/assets/css/singular.css?ver=1766855309'  media='all' />
+			
+			<link data-minify="1" rel='preload' as='style' href='https://azbyka.ru/wp-content/cache/min/1/wp-content/themes/azbyka/assets/css/top-menu.css?ver=1766855307'  media='all' />
+			<link data-minify="1" rel='stylesheet' id='top-menu'  href='https://azbyka.ru/wp-content/cache/min/1/wp-content/themes/azbyka/assets/css/top-menu.css?ver=1766855307'  media='all' />
+			
+			<link data-minify="1" rel='preload' as='style' href='https://azbyka.ru/wp-content/cache/min/1/wp-content/themes/azbyka/assets/css/link-pics.css?ver=1766855307'  media='all' />
+			<link data-minify="1" rel='stylesheet' id='az-link-pics'  href='https://azbyka.ru/wp-content/cache/min/1/wp-content/themes/azbyka/assets/css/link-pics.css?ver=1766855307'  media='all' />
+			<script data-minify="1"  src="https://azbyka.ru/wp-content/cache/min/1/wp-content/themes/azbyka/assets/js/vendor/azjeycuery.js?ver=1766855307" id="jquery-js"></script>
+<script data-minify="1"  defer="defer" src="https://azbyka.ru/wp-content/cache/min/1/wp-content/themes/azbyka/inc/youtube-optimizer/youtube.optimizer.js?ver=1766855307" id="youtube-optimizer-js"></script>
+<link rel="https://api.w.org/" href="https://azbyka.ru/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://azbyka.ru/wp-json/wp/v2/posts/6172" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://azbyka.ru/xmlrpc.php?rsd" />
+<link rel='shortlink' href='https://azbyka.ru/?p=6172' />
+<script>(function(){
+		document.addEventListener('click', e=>{
+			if(e.target && e.target.id === 'btn_toc')
+				toc.classList.toggle("active");
+		});
+		})();
+	</script>	<script>
+		window.selectorToMetrikaTarget = {
+			'.av-footer-list .help-btn' : 'donate-main',
+		};
+	</script>
+				<style>
+				.clickable{
+					cursor:pointer;
+				}
+				.img-wrap{
+					position: relative;
+					display: inline-block;
+					height: 100%;
+				}
+				.img-wrap .button-wrap{
+					position: absolute;
+					top: 1em;
+					right: 1em;
+					opacity: 0;
+					transform: translateX(10px);
+					pointer-events: none;
+					transition: opacity .3s ease, transform .3s ease;
+				}
+				.img-wrap .button-wrap .button{
+					display: block;
+					background: var(--body-bg);
+					border: 0;
+					box-shadow: 0 2px 10px -5px #3a3a3a3a;
+				}
+				.img-wrap .button-wrap .button,
+				.img-wrap .button-wrap .button .fa{
+					color: var(--accent-color);
+				}
+				.img-wrap .button-wrap .button+.button{
+					margin-top: 1em;
+				}
+				.img-wrap:hover .button-wrap{
+					opacity: 1;
+					transform: none;
+					pointer-events: all;
+				}
+				.bz-lightbox{
+					position:fixed;
+					top: 0;
+					left: 0;
+					width: 100%;
+					height: 100%;
+					z-index:10;
+					margin:0;
+					background-color:#0007;
+					display:flex;
+					align-items:center;
+					justify-content:center;
+					cursor:pointer;
+					z-index: 10000;
+				}
+				.bz-lightbox img{
+					max-height:90vh;
+					cursor: zoom-in;
+				}
+				.bz-lightbox.fullscreen{
+					overflow-y: auto;
+					display: block;
+				}
+				.bz-lightbox.fullscreen img{
+					object-fit: cover;
+					max-height: unset;
+					width: 100%;
+					cursor: zoom-out;
+				}
+				.panzoom{
+					object-fit: none!important;
+				}
+				html.locked{
+					overflow: hidden;
+				}
+			</style>
+			<script>
+			jQuery(document).ready($=>{
+				let allImages = $('.main-page-content img:not(.avatar)').not('.video-preview img');
+				let hasMouse = window.matchMedia('(hover:hover)').matches && window.innerWidth > 520;
+				let full_img_href = {};
+				let doc = $('html');
+				let containerWidth = $('.main-area-content').width() || window.innerWidth;
+				let currentImg;
+				
+				allImages.each((i,el)=>{
+					//Получаем src полной версии
+					let src = el.dataset['lazySrc'] || el.dataset['src'] || el.src;
+					let p = $(el).parent();
+					if(p.is('a')){
+						let href = p.attr('href');
+						if(!href.match(/\.(jpg|png|gif|webp|tiff|svg)$/i))
+							return;
+					
+						full_img_href[src] = href;
+						p.click(e=>e.preventDefault());
+					}else{
+						full_img_href[src] = src.replace(/\-\d{3,4}.\d{3,4}\.(\w{3,4})$/, '.$1');
+					}
+					
+					if('full_img_share_download' in AZ && AZ.full_img_share_download){
+					
+						//Кнопки скачать/поделиться
+						$(el).on('mouseover touch', async function(e){
+							let parent = $(this).closest(':not(img,span,a)');
+							if(!parent.is('.img-wrap')){
+								parent.addClass('img-wrap');
+								let btnWrap = $('<div class="button-wrap"><i class="button fa fa-share-alt btn-share" onclick="navigator.share({url:\''+full_img_href[src]+'\'});return false"></i><a class="button" href="'+full_img_href[src]+'" download><i class="fa fa-download btn-download"></i></a></div>');
+								parent.append(btnWrap);
+							}
+						});
+					
+					}
+					
+					
+					//console.log(el, 'img parent is', p);
+					el.classList.add('clickable');
+					el.addEventListener('click', function (e){
+						//console.log('click on img wrap', this.src, full_img_href[this.src]);
+						e.preventDefault();
+						if(!hasMouse) return; //Откл. lightbox на мобилах.
+
+						currentImg = this;
+						doc.addClass('locked');
+						
+						let box = $('<figure class="bz-lightbox"><img src = "'+full_img_href[this.src]+'"/></figure>');
+						box.hide();
+						$('body').append(box);
+						box.fadeIn(400);
+						
+												
+						box.click(e=>{
+							let $img = $(e.target).closest('img');
+							if(hasMouse && $img.length && $img.width() != $(currentImg).attr('width')){
+								box.toggleClass('fullscreen');
+							}else{
+								doc.removeClass('locked');
+								box.fadeOut(300, ()=>{
+									box.remove()
+								});
+							}
+						});
+					});
+				});
+				//console.log('full_img_href:',full_img_href);
+			})
+			</script>
+					<style>
+		.collapse-list{
+			max-height: 10.8em;
+			overflow:hidden;
+			transition: max-height .5s ease;
+			position:relative;
+			padding-bottom: 2rem;
+			margin-bottom: 1rem;
+		}
+		@media(min-width:921px){
+			.collapse-list{
+				max-height: 13.5em;
+			}
+		}
+		
+		.collapse-list:after{
+			content:'***';
+			text-align:center;
+			letter-spacing:2px;
+			position: absolute;
+			bottom:-.5rem;
+			left:0;
+			right:0;
+		}
+		
+		.no-collapse{
+			max-height:unset!important;
+		}
+		
+		.read-more {
+			font-size:1em;
+			pointer-events:none;
+			text-align:center;
+			position:absolute;
+			display:inline-block;
+			left:0;
+			bottom:0;
+			right:0;
+			padding-top:0;
+			background: var(--body-bg);
+			z-index:1;
+		}
+		
+		.read-more .read-more-label{
+			display: block;
+			border: 1px solid;
+			border-radius: 5px;
+			padding: 0px 10px 2px;
+			letter-spacing: 2px;
+			position: relative;
+			bottom:1px;
+			z-index:1;
+			color:var(--accent-color);
+			transition: opacity .3s ease;
+			pointer-events:all;
+			cursor: pointer;
+		}
+		
+		.read-more.active .read-more-label{
+			opacity:0;
+			pointer-events:none;
+		}
+		
+		.read-more .read-more-label .fa{
+			color: inherit!important;
+		}
+		
+		.bg-bpub-list::after{
+			content: none;
+			display: none;
+		}
+		/* @media(min-width:921px){ */
+			.read-more{
+				background: linear-gradient(to top, var(--body-bg) 1rem, var(--accent-color) 1rem, var(--accent-color) 1.1rem, var(--body-bg) 1.1rem, var(--body-bg) 3rem, transparent 100%);
+				height: 3rem;
+				display: inline-flex;
+				align-items: flex-end;
+				justify-content: center;
+			}
+			.read-more .read-more-label{
+				background: var(--body-bg);
+				padding: 0 10px;
+				display: inline-block;
+			}
+		/* } */
+		</style>
+		<script>
+			jQuery($=>{
+				let referrer = sessionStorage.getItem('follow-link');
+				let forceExpand = (referrer != 'undefined') && $(".collapse-list a[href='"+referrer+"']").length;
+				
+			  $(".collapse-list").each(function () {
+				if($(this).hasClass('no-collapse')) return;
+				//console.log('validate expander for :',this, this.scrollHeight);
+				let rm = $('.read-more', this);
+				if (!forceExpand && this.scrollHeight > this.clientHeight + 32) {
+					if(rm.length < 1){
+						$('<div class="read-more" style="display:none"><span class="read-more-label">Далее</a></div>');
+						$(this).append(rm);
+						rm.slideDown();
+					}
+				}else{
+					rm.slideUp();
+					$(this).css('max-height', '100%');	/* Список короткий - без разворота */
+				}
+			  });
+			  $(document).on('click', '.read-more', function (e) {
+				e.preventDefault();
+				let prev = $(this).parent();
+				setTimeout(()=>{
+					$(this).slideUp();
+					//$(this).addClass('active');
+				}, 600);
+				prev.css('max-height', prev[0].scrollHeight);
+			  });
+			  
+			  //follow-link
+			  $(".collapse-list a").click(function(e){
+					sessionStorage.setItem('follow-link', $(this).attr('href'));
+					
+					return true;
+				});
+			});
+		</script>
+	<noscript><style id="rocket-lazyload-nojs-css">.rll-youtube-player, [data-lazy-src]{display:none !important;}</style></noscript>
+	<script type="text/javascript">
+	    var templateURI = 'https://azbyka.ru/wp-content/themes/azbyka';
+	</script>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+<meta name="generator" content="WP Rocket 3.20.2" data-wpr-features="wpr_minify_js wpr_lazyload_images wpr_lazyload_iframes wpr_preconnect_external_domains wpr_image_dimensions wpr_minify_css" /></head>
+
+<body class="wp-singular post-template-default single single-post postid-6172 single-format-standard wp-theme-azbyka wp-child-theme-azbyka-av" id="main-body">
+	
+	<noscript><div><img src="https://mc.yandex.ru/watch/5565880" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+	<!-- Mobile Top menu -->
+<div class="main-nav-list">
+	<ul>
+		<li><span id="main-nav-0" data-target="#nav-box"><img width="152" height="152" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20152%20152'%3E%3C/svg%3E" data-lazy-src="https://azbyka.ru/wp-content/themes/azbyka-av/assets/images/favicons/favicon.svg"><noscript><img width="152" height="152" src="https://azbyka.ru/wp-content/themes/azbyka-av/assets/images/favicons/favicon.svg" loading="lazy"></noscript></li>
+		<li><a id="main-nav-1" href="https://azbyka.ru"><i class="fa fa-bars" aria-hidden="true"></i></a></li>
+		<li><span id="main-nav-3" data-target="#widgets"><i class="fa fa-info-circle" aria-hidden="true"></i></span></li>
+		<li><span id="main-nav-2" data-target="#header_search"><i class="fa fa-search" aria-hidden="true"></i></span></li>
+		<li><a id="main-nav-6" href="https://azbyka.ru/personal"><i class="fa fa-user user-only" aria-hidden="true"></i><i class="fa fa-sign-in guest-only" aria-hidden="true"></i></a></li>
+	</ul>
+</div>
+<!-- End of Mobile Top menu -->	
+	<nav id="nav-box" class="top-panel">
+		<div class=main-box>
+			<div class="pre-header-nav m-show">Разделы портала «Азбука&nbsp;веры»</div>
+			<ul id="main-nav" class="nav">
+			<li class="menu-item"><a  href='https://azbyka.ru/'><img width="152" height="152" class="nav-logo" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20152%20152'%3E%3C/svg%3E" data-lazy-src="https://azbyka.ru/wp-content/themes/azbyka-av/assets/images/favicons/favicon.svg"><noscript><img width="152" height="152" class="nav-logo" src="https://azbyka.ru/wp-content/themes/azbyka-av/assets/images/favicons/favicon.svg" loading="lazy"></noscript><span class="nav-home-label"> Главная</span></a></li><li class="menu-item menu-item-has-children"><span  class='link'>Гид <i class="fa fa-angle-down"></i></span><ul class="sub-menu"><li class="menu-item"><a  href='https://azbyka.ru/gid'><i class="fa fa-question-circle-o" aria-hidden="true"></i> Гид по порталу</a></li><li class="menu-item"><a  href='https://azbyka.ru/drevo-sajta'><i class="fa fa-sitemap" aria-hidden="true"></i> Древо портала</a></li><li class="menu-item"><a  href='https://azbyka.ru/s-chego-nachat'><i class="fa fa-user-plus" aria-hidden="true"></i> С чего начать</a></li><li class="menu-item"><a  href='https://t.me/AzbykaruBot'><i class="fa fa-search" aria-hidden="true"></i> TG бот</a></li></ul></li><li class="menu-item menu-item-has-children"><span  class='link'>Библиотеки <i class="fa fa-angle-down"></i></span><ul class="sub-menu"><li class="menu-item"><a  href='https://azbyka.ru/biblia/'><i class="fa fa-book" aria-hidden="true"></i> Библия</a></li><li class="menu-item"><a  href='https://azbyka.ru/otechnik/'><i class="fa fa-files-o" aria-hidden="true"></i> «Отечник»</a></li><li class="menu-item"><a  href='https://azbyka.ru/fiction/'><i class="fa fa-copyright" aria-hidden="true"></i> Художественная литература</a></li><li class="menu-item"><a  href='https://azbyka.ru/pravo/'><i class="fa fa-balance-scale" aria-hidden="true"></i> Церковное право</a></li><li class="menu-item"><a  href='https://azbyka.ru/dictionary'><i class="fa fa-graduation-cap" aria-hidden="true"></i> Энциклопедия</a></li></ul></li><li class="menu-item menu-item-has-children"><span  class='link'>Календарь <i class="fa fa-angle-down"></i></span><ul class="sub-menu"><li class="menu-item"><a  href='https://azbyka.ru/days/'><i class="fa fa-calendar" aria-hidden="true"></i> Православный церковный календарь</a></li><li class="menu-item"><a  href='https://azbyka.ru/days/p-audio-calendar'><i class="fa fa-headphones" aria-hidden="true"></i> Аудиокалендарь</a></li><li class="menu-item m-hide"><a  href='https://azbyka.ru/extension'><i class="fa fa-chrome" aria-hidden="true"></i> Расширение Chrome</a></li></ul></li><li class="menu-item menu-item-has-children"><span  class='link'>Молитва <i class="fa fa-angle-down"></i></span><ul class="sub-menu"><li class="menu-item"><a  href='https://azbyka.ru/palomnik/'><i class="fa fa-globe" aria-hidden="true"></i> Азбука паломника</a></li><li class="menu-item"><a  href='https://azbyka.ru/kliros/'><i class="fa fa-music" aria-hidden="true"></i> Азбука певческая</a></li><li class="menu-item"><a  href='https://azbyka.ru/worships/'><i class="fa fa-file-text" aria-hidden="true"></i> Богослужение сегодня</a></li><li class="menu-item"><a  href='https://azbyka.ru/chaso-slov/'><i class="fa fa-clock-o" aria-hidden="true"></i> Молимся по часам</a></li><li class="menu-item"><a  href='https://azbyka.ru/molitvoslov/'><i class="fa fa-fire" aria-hidden="true"></i> Молитвослов</a></li><li class="menu-item"><a  href='https://azbyka.ru/bogosluzhenie/'><i class="fa fa-bell" aria-hidden="true"></i> Переводы Богослужений</a></li><li class="menu-item"><a  href='https://azbyka.ru/psalms/'><i class="fa fa-group" aria-hidden="true"></i> Читаем Псалтирь</a></li></ul></li><li class="menu-item menu-item-has-children"><span  class='link'>Медиа <i class="fa fa-angle-down"></i></span><ul class="sub-menu"><li class="menu-item"><a  href='https://azbyka.ru/news'><i class="fa fa-newspaper-o" aria-hidden="true"></i> Азбука новостей</a></li><li class="menu-item"><a  href='https://azbyka.ru/foto/'><i class="fa fa-camera-retro" aria-hidden="true"></i> Азбука фото</a></li><li class="menu-item"><a  href='https://azbyka.ru/audio/'><i class="fa fa-volume-up" aria-hidden="true"></i> Аудио</a></li><li class="menu-item"><a  href='https://azbyka.ru/video/'><i class="fa fa-video-camera" aria-hidden="true"></i> Видео</a></li><li class="menu-item"><a  href='https://azbyka.ru/bozhestvennaja-liturgija'><i class="fa fa-bell" aria-hidden="true"></i> Литургия</a></li><li class="menu-item"><a  href='https://azbyka.ru/audio/radio.html'><i class="fa fa-volume-up" aria-hidden="true"></i> Радио</a></li><li class="menu-item"><a  href='https://azbyka.ru/bogosluzhenie-online'><i class="fa fa-video-camera" aria-hidden="true"></i> Трансляция из храма</a></li><li class="menu-item"><a  href='https://azbyka.ru/parkhomenko/foto/'><i class="fa fa-camera" aria-hidden="true"></i> Фоторассказы</a></li><li class="menu-item"><a  href='https://azbyka.ru/life/'><i class="fa fa-road" aria-hidden="true"></i> Христианская жизнь</a></li><li class="menu-item"><a  href='https://azbyka.ru/telegram-kanaly'><i class="fa fa-telegram" aria-hidden="true"></i> TG-каналы</a></li><li class="menu-item"><a  href='https://azbyka.ru/whatsapp-kanaly'><i class="fa fa-whatsapp" aria-hidden="true"></i> Whatsapp</a></li></ul></li><li class="menu-item menu-item-has-children"><span  class='link'>Проверь себя <i class="fa fa-angle-down"></i></span><ul class="sub-menu"><li class="menu-item"><a  href='https://azbyka.ru/quiz/'><i class="fa fa-code-fork" aria-hidden="true"></i> Квизы</a></li><li class="menu-item"><a  href='https://azbyka.ru/crosswords/'><i class="fa fa-pencil" aria-hidden="true"></i> Кроссворды</a></li><li class="menu-item"><a  href='https://azbyka.ru/test/'><i class="fa fa-check-square-o" aria-hidden="true"></i> Тесты</a></li><li class="menu-item"><a  href='https://azbyka.ru/viktorina/'><i class="fa fa-image" aria-hidden="true"></i> Фотовикторины</a></li><li class="menu-item"><a  href='https://azbyka.ru/games/'><i class="fa fa-gamepad" aria-hidden="true"></i> Игры</a></li><li class="menu-item"><a  href='https://azbyka.ru/memo/'><i class="fa fa-refresh" aria-hidden="true"></i> Учим Писания</a></li></ul></li><li class="menu-item menu-item-has-children"><span  class='link'>Тематическое <i class="fa fa-angle-down"></i></span><ul class="sub-menu"><li class="menu-item"><a  href='https://azbyka.ru/death/'><i class="fa fa-cloud-upload" aria-hidden="true"></i> Азбука бессмертия</a></li><li class="menu-item"><a  href='https://azbyka.ru/art/'><i class="fa fa-paint-brush" aria-hidden="true"></i> Азбука искусства</a></li><li class="menu-item"><a  href='https://azbyka.ru/apokalipsis/'><i class="fa fa-font" aria-hidden="true"></i> Апокалипсис</a></li><li class="menu-item"><a  href='https://azbyka.ru/vopros/'><i class="fa fa-question-circle" aria-hidden="true"></i> Вопросы и ответы</a></li><li class="menu-item"><a  href='https://azbyka.ru/ikona/'><i class="fa fa-plus-square" aria-hidden="true"></i> Иконы</a></li><li class="menu-item"><a  href='https://azbyka.ru/katehizacija/'><i class="fa fa-bullhorn" aria-hidden="true"></i> Катехизация</a></li><li class="menu-item"><a  href='https://azbyka.ru/way/'><i class="fa fa-location-arrow" aria-hidden="true"></i> Мой путь к Богу</a></li><li class="menu-item"><a  href='https://azbyka.ru/opros/'><i class="fa fa-bar-chart" aria-hidden="true"></i> Опросы</a></li><li class="menu-item"><a  href='https://azbyka.ru/shemy/'><i class="fa fa-table" aria-hidden="true"></i> Пособия</a></li><li class="menu-item"><a  href='https://azbyka.ru/propovedi/'><i class="fa fa-pencil" aria-hidden="true"></i> Проповеди</a></li><li class="menu-item"><a  href='https://sueverie.net/'><i class="fa fa-street-view" aria-hidden="true"></i> Суевериям.нет</a></li><li class="menu-item"><a  href='https://azbyka.ru/forum/'><i class="fa fa-comments-o" aria-hidden="true"></i> Форум</a></li><li class="menu-item"><a  href='https://azbyka.ru/quotes'><i class="fa fa-bookmark" aria-hidden="true"></i> Цитаты Св. отцов</a></li><li class="menu-item"><a  href='https://azbyka.ru/chinaorthodox/'><i class="fa fa-handshake-o" aria-hidden="true"></i> 东正教信仰入门</a></li><li class="menu-item"><a  href='https://azbyka.ru/japanorthodox/'><i class="fa fa-circle" aria-hidden="true"></i> 正教の本</a></li></ul></li><li class="menu-item menu-item-has-children"><span  class='link'>Семья и здоровье <i class="fa fa-angle-down"></i></span><ul class="sub-menu"><li class="menu-item"><a  href='https://azbyka.ru/znakomstva/'><i class="fa fa-link" aria-hidden="true"></i> Азбука верности</a></li><li class="menu-item"><a  href='https://azbyka.ru/deti/'><i class="fa fa-child" aria-hidden="true"></i> Азбука воспитания</a></li><li class="menu-item"><a  href='https://azbyka.ru/zdorovie/'><i class="fa fa-medkit" aria-hidden="true"></i> Азбука здоровья</a></li><li class="menu-item"><a  href='https://azbyka.ru/recept/'><i class="fa fa-cutlery" aria-hidden="true"></i> Азбука рецептов</a></li><li class="menu-item"><a  href='https://azbyka.ru/garden/'><i class="fa fa-envira" aria-hidden="true"></i> Азбука садовода</a></li><li class="menu-item"><a  href='https://azbyka.ru/semya/'><i class="fa fa-home" aria-hidden="true"></i> Азбука супружества</a></li></ul></li>			</ul>
+		</div>
+	</nav>
+
+<!-- Header -->
+<div class="main-box">
+	<header class="header" id="header"> 
+		<div class="header-top">
+			<div class="header-breadcrumbs"><ul class="breadcrumbs" itemscope itemtype="https://schema.org/BreadcrumbList"><li itemprop='itemListElement' itemscope itemtype='https://schema.org/ListItem'>
+				<a itemprop='item' href='https://azbyka.ru/' title='Азбука веры'>
+					<span itemprop='name'>Азбука веры</span>
+				</a>
+				<meta itemprop='position' content='1'>
+			</li><li itemprop='itemListElement' itemscope itemtype='https://schema.org/ListItem'>
+				<a itemprop='item' href="https://azbyka.ru/1/dictionary" target='_blank' title='Энциклопедия'>
+					<span itemprop='name'>Энциклопедия</span>
+				</a>
+				<meta itemprop='position' content='2' />
+			</li><li itemprop='itemListElement' itemscope itemtype='https://schema.org/ListItem'>
+				<a itemprop='item' href='https://azbyka.ru/dictionary/17' title='С'>
+					<span itemprop='name'>С</span>
+				</a>
+				<meta itemprop='position' content='2'>
+			</li></ul></div>		<!-- Вход в личный кабинет, если установлен плагин Profile Builder --> 
+						<div class="header-login m-hide">
+				<a href="https://azbyka.ru/personal" rel="nofollow" title="Войти в личный кабинет" class=user-only title="Личное"><i class="fa fa-user" aria-hidden="true"></i></a>
+				<a href="//azbyka.ru/auth" rel="nofollow" title="Войти в личный кабинет" class=guest-only>Вход <i class="fa fa-sign-in"></i></a>
+			</div>
+						<!-- End ¬ход в личный кабинет -->
+	<!-- Settings -->
+<!--noindex-->
+<div class="settings" id="settings" data-nosnippet>
+<a class="settings-button btn-settings" id="settings-button" title="Настройки">
+		<i class="fa fa-gear"></i>
+	</a>
+</div>
+<!--/noindex-->
+<!-- End Settings -->
+	<div id="header_search">
+	<form id="labnol" class="search-form" action="//azbyka.ru/sear/" method="get" target="_blank">
+		<input type="hidden" name="searchid" value="1639178">
+		<input type="search" name="text" id="transcript" class="search-form-field">
+		<div class="speech start-dictation"><i class="fa fa-microphone"></i></div>
+		<button type="submit" class="search-form-button"><i class="fa fa-search"></i></button>
+	</form>
+	</div>
+			</div>
+		<div class="header-main header-wrap"> 	
+			<div class="logo"><div class="main-title"><a href="https://azbyka.ru/" title="Православный портал «Азбука веры»">Азбука веры</a></div><p class="header-subtitle">с 2005 года</p></div><a class="button header-help-btn" href="//azbyka.ru/kak-pomoch">Пожертвовать</a><a class="button btn-start" href="/1/s-chego-nachat">С чего начать</a>		</div>
+
+		
+	</header>
+</div>
+<!-- End Header -->
+
+<!-- Main area -->
+<div class="main-box">
+	<main class="main-area" id="main-area">
+		
+		<!-- Content -->
+		<section class="main-area-content">
+			
+				<!-- Article -->
+<article class="article article-single" id="post-6172">
+	<header class="article-single-header">
+		
+		<div class="article-single-info">
+						<h1>Святой Дух</h1>				<div class="my-book loading" data-post_id="6172" data-page="1" data-paragraph="0" data-my_book="0">
+		<a href="https://azbyka.ru/auth" class="register-link guest-only" title="Вход и регистрация"><i class="fa fa-heart-o"></i></a>
+		<span class="bg_favorite user-only"><i class="fa fa-heart-o"></i></span>
+		<span class="bg_response"></span>
+	</div>		<a href="#literature" class="literature-link"><i class="fa fa-file-text"></i> Литература по теме</a>
+				</div>
+	</header>
+
+	<div class="article-single-content main-page-content">
+		<div id=toc_wrap class=collapse-list><div id=toc_controls class="page-pagination page-pagination--top"></div><ul id=toc class="bg-bpub-list active"><li class="literal"><a class="bg_bpub_toc_h2" href="#ch_0_1">Понятие о Святом Духе в православном богословии</a></li><li class="literal"><a class="bg_bpub_toc_h2" href="#ch_0_2">Можно ли понимать сошествие Святого Духа на Христа в виде голубя или на апостолов в виде огненных языков, как пространственное перемещение третьего Лица Пресвятой Троицы с Небес на землю?</a></li><li class="literal"><a class="bg_bpub_toc_h2" href="#ch_0_3">Почему Святой Дух сошёл на апостолов лишь после Вознесения Христа?</a></li><li class="literal"><a class="bg_bpub_toc_h2" href="#ch_0_4">Каким образом Иисус Христос мог посылать Святого Духа апостолам, если Святой Дух исходит не «и от Него», как учат католики, а только от Отца?</a></li><li class="literal"><a class="bg_bpub_toc_h2" href="#ch_0_5">Цитаты о Святом Духе</a></li></ul><div class=read-more><span class=read-more-label><i class="fa fa-angle-down"></i> содержание</span></div></div><p><strong>Свято́й Дух</strong> (<em>греч.</em> Ἅγιον Πνεῦμα, Παράκλητος) – Третье (в традиционном, условно принятом способе перечисления Божеских Лиц) <a href="https://azbyka.ru/ipostas">Лицо</a> (Ипостась) <a href="https://azbyka.ru/svyataya-troica">Святой Троицы</a>, истинный <a href="https://azbyka.ru/bog">Бог</a>, единосущный и равнославный <a href="https://azbyka.ru/bog-otec">Отцу</a> и <a href="https://azbyka.ru/syn-bozhij">Сыну</a>.</p>
+<h2><a id="ch_0_1"></a><strong>Понятие о Святом Духе в православном богословии</strong></h2>
+<p>Святой Дух –</p>
+<p>• Одно из Лиц Пресвятой Троицы, Единого и Неделимого Бога;<br />
+• Выразитель Слова Отца (Сына Божьего), предвечно сопутствующий Ему, являющийся Его Чистейшим Образом;<br />
+• отличается от Отца тем, что вечно исходит от Него (тогда как Сам Отец – безначален, ни от Кого не исходит и не рождается), а от Сына – тем, что имеет Свое бытие не через рождение (от Отца), а через исхождение (см. подробнее: <a class="internalLink" data-external href="https://azbyka.ru/forum/xfa-blog-entry/dogmat-o-presvjatoj-troice.1932/">Догмат о Пресвятой Троице</a>).</p>
+<figure id="attachment_107030" aria-describedby="caption-attachment-107030" style="width: 513px" class="wp-caption aligncenter"><img fetchpriority="high" decoding="async" class="wp-image-107030 size-full" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20513%20629'%3E%3C/svg%3E" alt="svjatoj duh – Святой Дух" width="513" height="629" title="Святой Дух – Азбука веры" data-lazy-srcset="https://azbyka.ru/wp-content/uploads/2015/08/svjatoj-duh.jpg 513w, https://azbyka.ru/wp-content/uploads/2015/08/svjatoj-duh-245x300.jpg 245w" data-lazy-sizes="(max-width: 513px) 100vw, 513px" data-lazy-src="https://azbyka.ru/wp-content/uploads/2015/08/svjatoj-duh.jpg" /><noscript><img fetchpriority="high" decoding="async" class="wp-image-107030 size-full" src="https://azbyka.ru/wp-content/uploads/2015/08/svjatoj-duh.jpg" alt="svjatoj duh – Святой Дух" width="513" height="629" title="Святой Дух – Азбука веры" srcset="https://azbyka.ru/wp-content/uploads/2015/08/svjatoj-duh.jpg 513w, https://azbyka.ru/wp-content/uploads/2015/08/svjatoj-duh-245x300.jpg 245w" sizes="(max-width: 513px) 100vw, 513px" /></noscript><figcaption id="caption-attachment-107030" class="wp-caption-text">Гюстав Доре. Схождение Духа Святого (<span class='bg_data_title bg_bibrefs' data-title='?title=Act&chapter=2:1-4&type=t_verses&lang=ru' title='Деяния святых Апостолов гл. 2:1-4'><span class='bg_data_tooltip'></span><a href='https://azbyka.ru/biblia/?Act.2:1-4' target='_self'>Деян.2:1-4</a></span>).</figcaption></figure>
+<p>Как и все Лица (Ипостаси) Святой Троицы, Святой Дух:</p>
+<p>• обладает <a href="https://azbyka.ru/bozhestvennye-svojstva">свойствами</a>, присущими только Богу.<br />
+• равночестен в Своем Божественном достоинстве Отцу и Сыну.<br />
+• единосущен Им, обладает единой <a href="https://azbyka.ru/bozhestvennaya-sushhnost">Божественной сущностью</a> (природой) со Отцом и Сыном.</p>
+<p>Как и всем Лицам (Ипостасям) Святой Троицы Святому Духу воздается единое и нераздельное поклонение, то есть поклоняясь Святому Духу, христиане поклоняются вместе с Ним Отцу и Сыну, постоянно имея в виду Их общее Божество, единую Божественную сущность.</p>
+<p>От Двух Других Лиц Святой Троицы Святого Духа отличает личное (ипостасное) свойство, которое заключается в том, что Он предвечно исходит от Отца. Исхождение Святого Духа не имеет ни начала ни конца, оно вполне вневременно, поскольку вне времени существует Сам Бог.</p>
+<p>Святой Дух – <strong>выразитель</strong> Сына Божьего, рождаемого в вечности от Бога Отца. Священное Писание ясно показывает, что Дух есть Бог и что Дух неразрывно связан с Сыном:</p>
+<blockquote><p><em>«Христос рождается – Дух предваряет; Христос крестится – Дух свидетельствует; Христос искушаем – Дух возводит Его</em> (в пустыню); <em>Христос совершает чудеса – Дух сопутствует Ему; Христос возносится – Дух преемствует».</em></p></blockquote>
+<p>Учение о Святом Духе говорит нам об отличии Бога от всех сотворенных существ. Святой Дух пребывает вне пространства и времени, не принадлежит к чувственно постижимым формам бытия. Его Всесовершенное Бытие «неописуемо, беспредельно, не имеет образа и вида» (св. <a class='bg_hlnames' href='https://azbyka.ru/otechnik/Petr_Damaskin/' target='_blank' title='Петр Дамаскин, монах'>Петр Дамаскин</a>). Он есть Существо «бестелесное, и не имеющее формы, и невидимое, и неописуемое» (св. <a class='bg_hlnames' href='https://azbyka.ru/otechnik/Ioann_Damaskin/' target='_blank' title='Иоанн Дамаскин, преподобный'>Иоанн Дамаскин</a>).</p>
+<blockquote><p>«Форма ограниченного существа непременно обрисовывается, так сказать, самыми его пределами, оконечностями; обрисованное таким образом существо имеет свой вид. Бесконечное не подчинено никакой форме как не имеющее ни в каком направлении никакого окончания; по этой же причине оно не может иметь никакого вида. Бога не видел никто никогда (<span class='bg_data_title bg_bibrefs' data-title='?title=Jn&chapter=1:18&type=t_verses&lang=ru' title='Евангелие от Иоанна гл. 1:18'><span class='bg_data_tooltip'></span><a href='https://azbyka.ru/biblia/?Jn.1:18' target='_self'>Ин.1:18</a></span>). Бесконечное существо не может быть телом, потому что оно тоньше всякой превосходнейшей тонкости, оно вполне Дух. Такой Дух – Существо, несравнимое ни с каким существом созданным» (<em>св. <a class='bg_hlnames' href='https://azbyka.ru/otechnik/Ignatij_Brjanchaninov/' target='_blank' title='Игнатий (Брянчанинов), святитель'>Игнатий Брянчанинов</a></em>).</p></blockquote>
+<p>В силу Своего Божественного вездеприсутствия Святой Дух может пребывать и в уверовавшем во Христа человеке, сообщая ему доселе неведомое познание Бога, приобщая его к полноте всеблаженой Божественной жизни. Божественные действия в человеке часто именуются <a href="https://azbyka.ru/blagodat">благодатью</a> Святого Духа, поскольку Святой Дух непостижимо вселяется в человека, обитает и пребывает в нем. Вместе с тем, благодатные Божественные действия общие всем Лицам Святой Троицы и пребывание Святого Духа в человеке означает и сопребывание с Ним Отца и Сына – Божественного Ума и Божественного Слова, то есть всей Святой Троицы – «Ума, Слова и Духа – единой соприродности и божественности», как говорит о Ней св. <a class='bg_hlnames' href='https://azbyka.ru/otechnik/Grigorij_Bogoslov/' target='_blank' title='Григорий Богослов, святитель'>Григорий Богослов</a>.</p>
+<p>В Священном Писании Святой Дух именуется также</p>
+<p>• Духом (<span class='bg_data_title bg_bibrefs' data-title='?title=1Cor&chapter=12:8&type=t_verses&lang=ru' title='Первое послание апостола Павла к Коринфянам гл. 12:8'><span class='bg_data_tooltip'></span><a href='https://azbyka.ru/biblia/?1Cor.12:8' target='_self'>1Кор.12:8</a></span>),<br />
+• Духом истины (<span class='bg_data_title bg_bibrefs' data-title='?title=Jn&chapter=16:13&type=t_verses&lang=ru' title='Евангелие от Иоанна гл. 16:13'><span class='bg_data_tooltip'></span><a href='https://azbyka.ru/biblia/?Jn.16:13' target='_self'>Ин.16:13</a></span>),<br />
+• Духом Божиим (<span class='bg_data_title bg_bibrefs' data-title='?title=Mt&chapter=3:16&type=t_verses&lang=ru' title='Евангелие от Матфея гл. 3:16'><span class='bg_data_tooltip'></span><a href='https://azbyka.ru/biblia/?Mt.3:16' target='_self'>Мф.3:16</a></span>) и (<span class='bg_data_title bg_bibrefs' data-title='?title=Rom&chapter=8:14&type=t_verses&lang=ru' title='Послание апостола Павла к Римлянам гл. 8:14'><span class='bg_data_tooltip'></span><a href='https://azbyka.ru/biblia/?Rom.8:14' target='_self'>Рим.8:14</a></span>),<br />
+• Духом Отца (<span class='bg_data_title bg_bibrefs' data-title='?title=Mt&chapter=10:20&type=t_verses&lang=ru' title='Евангелие от Матфея гл. 10:20'><span class='bg_data_tooltip'></span><a href='https://azbyka.ru/biblia/?Mt.10:20' target='_self'>Мф.10:20</a></span>) и (<span class='bg_data_title bg_bibrefs' data-title='?title=Eph&chapter=3:14-16&type=t_verses&lang=ru' title='Послание апостола Павла к Ефесянам гл. 3:14-16'><span class='bg_data_tooltip'></span><a href='https://azbyka.ru/biblia/?Eph.3:14-16' target='_self'>Еф.3:14-16</a></span>),<br />
+• Духом Господа (<span class='bg_data_title bg_bibrefs' data-title='?title=Act&chapter=5:9&type=t_verses&lang=ru' title='Деяния святых Апостолов гл. 5:9'><span class='bg_data_tooltip'></span><a href='https://azbyka.ru/biblia/?Act.5:9' target='_self'>Деян.5:9</a></span>),<br />
+• Духом Божиим и Христовым (<span class='bg_data_title bg_bibrefs' data-title='?title=Rom&chapter=8:9&type=t_verses&lang=ru' title='Послание апостола Павла к Римлянам гл. 8:9'><span class='bg_data_tooltip'></span><a href='https://azbyka.ru/biblia/?Rom.8:9' target='_self'>Рим.8:9</a></span>),<br />
+• Духом Сына Божия (<span class='bg_data_title bg_bibrefs' data-title='?title=Gal&chapter=4:6&type=t_verses&lang=ru' title='Послание апостола Павла к Галатам гл. 4:6'><span class='bg_data_tooltip'></span><a href='https://azbyka.ru/biblia/?Gal.4:6' target='_self'>Гал.4:6</a></span>),<br />
+• Духом Христовым (<span class='bg_data_title bg_bibrefs' data-title='?title=1Pet&chapter=1:11&type=t_verses&lang=ru' title='Первое послание Петра гл. 1:11'><span class='bg_data_tooltip'></span><a href='https://azbyka.ru/biblia/?1Pet.1:11' target='_self'>1Пет.1:11</a></span>) и (<span class='bg_data_title bg_bibrefs' data-title='?title=Phil&chapter=1:19&type=t_verses&lang=ru' title='Послание апостола Павла к Филиппийцам гл. 1:19'><span class='bg_data_tooltip'></span><a href='https://azbyka.ru/biblia/?Phil.1:19' target='_self'>Флп.1:19</a></span>),<br />
+• Духом святыни (<span class='bg_data_title bg_bibrefs' data-title='?title=Rom&chapter=1:4&type=t_verses&lang=ru' title='Послание апостола Павла к Римлянам гл. 1:4'><span class='bg_data_tooltip'></span><a href='https://azbyka.ru/biblia/?Rom.1:4' target='_self'>Рим.1:4</a></span>),<br />
+• Духом усыновления (<span class='bg_data_title bg_bibrefs' data-title='?title=Rom&chapter=8:15&type=t_verses&lang=ru' title='Послание апостола Павла к Римлянам гл. 8:15'><span class='bg_data_tooltip'></span><a href='https://azbyka.ru/biblia/?Rom.8:15' target='_self'>Рим.8:15</a></span>),<br />
+• Духом откровения (<span class='bg_data_title bg_bibrefs' data-title='?title=Eph&chapter=1:17&type=t_verses&lang=ru' title='Послание апостола Павла к Ефесянам гл. 1:17'><span class='bg_data_tooltip'></span><a href='https://azbyka.ru/biblia/?Eph.1:17' target='_self'>Еф.1:17</a></span>),<br />
+• Духом обетования (<span class='bg_data_title bg_bibrefs' data-title='?title=Eph&chapter=1:13&type=t_verses&lang=ru' title='Послание апостола Павла к Ефесянам гл. 1:13'><span class='bg_data_tooltip'></span><a href='https://azbyka.ru/biblia/?Eph.1:13' target='_self'>Еф.1:13</a></span>),<br />
+• Духом благодати (<span class='bg_data_title bg_bibrefs' data-title='?title=Hebr&chapter=10:20&type=t_verses&lang=ru' title='Послание апостола Павла к Евреям гл. 10:20'><span class='bg_data_tooltip'></span><a href='https://azbyka.ru/biblia/?Hebr.10:20' target='_self'>Евр.10:20</a></span>),<br />
+• благим (<span class='bg_data_title bg_bibrefs' data-title='?title=Ps&chapter=142:10&type=t_verses&lang=ru' title='Псалтирь пс. 142:10'><span class='bg_data_tooltip'></span><a href='https://azbyka.ru/biblia/?Ps.142:10' target='_self'>Пс.142:10</a></span>),<br />
+• Владычним (<span class='bg_data_title bg_bibrefs' data-title='?title=Ps&chapter=50:14&type=t_verses&lang=ru' title='Псалтирь пс. 50:14'><span class='bg_data_tooltip'></span><a href='https://azbyka.ru/biblia/?Ps.50:14' target='_self'>Пс.50:14</a></span>),<br />
+• Духом «премудрости, и разума, и совета, и крепости, и ведения, и благочестия» (<span class='bg_data_title bg_bibrefs' data-title='?title=Is&chapter=11:2-3&type=t_verses&lang=ru' title='Книга пророка Исайи гл. 11:2-3'><span class='bg_data_tooltip'></span><a href='https://azbyka.ru/biblia/?Is.11:2-3' target='_self'>Ис.11:2-3</a></span>)<br />
+и другими именами.</p>
+<div class="faq" itemscope="" itemtype="https://schema.org/FAQPage">
+<div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+<h2 itemprop="name"><a id="ch_0_2"></a>Можно ли понимать сошествие Святого Духа на Христа в виде голубя или на апостолов в виде огненных языков, как пространственное перемещение третьего Лица Пресвятой Троицы с Небес на землю?</h2>
+<div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+<div itemprop="text">
+<p>Святой Дух, как и Другие Божественные Лица, вечен, неизмерим, вездесущ. Это значит, что Он никогда не зависит ни от условий пространства, ни от условий времени, пребывает везде, даже в адовых безднах, и охватывает всё.</p>
+<p>Следовательно, ни о каком временнóм перемещении из одной области мира в другую не может быть речи. Как до Крещения <a href="https://azbyka.ru/iisus-khristos">Христа,</a>, так и во время, и после, (и опять же) как до Пятидесятницы, так и во время, и после Святой Дух находился и превыше Небес, и на <a class="internalLink" href="https://azbyka.ru/nebo">Небе</a>, и на земле.</p>
+<p>Следовательно, сошествие Святого Духа на Христа во время Крещения и сошествие Духа на апостолов в день Пятидесятницы необходимо воспринимать в смысле Божественных действий.</p>
+<p>В первом из названных случаев Бог засвидетельствовал мессианское достоинство Иисуса, благословил Его служение как Спасителя и Искупителя. Во втором случае Божественное действие было связано с ниспосланием благословения на Его <a href="https://azbyka.ru/cerkov">Церковь</a>, наделением Её особыми благодатными дарами, особыми спасительными средствами.</p>
+<p>Почему Господь обнаружил Свои действия именно в таких внешних формах, знает Он Сам.</p>
+<p>В данной связи можно лишь заметить, что голубь – достаточно мирная птица. Кроме того, этот символ издревле соотносился и соотносится с надеждой и спасением. Вспомним, что после чудесного избавления от потопа именно голубь, выпущенный Ноем из ковчега, принес в клюве масличный лист (<span class='bg_data_title bg_bibrefs' data-title='?title=Gen&chapter=8:11&type=t_verses&lang=ru' title='Книга Бытия гл. 8:11'><span class='bg_data_tooltip'></span><a href='https://azbyka.ru/biblia/?Gen.8:11' target='_self'>Быт.8:11</a></span>), удостоверив спасенных, что земля освободилась от губительных вод.</p>
+<p>Что касается огненных языков, эта символическая форма близка к тем библейским аллегориям, в рамках которых Бог представлялся под образом огня. Так, Моисей, при встрече с Творцом, созерцал объятый пламенем куст (<span class='bg_data_title bg_bibrefs' data-title='?title=Ex&chapter=3:2&type=t_verses&lang=ru' title='Книга Исход гл. 3:2'><span class='bg_data_tooltip'></span><a href='https://azbyka.ru/biblia/?Ex.3:2' target='_self'>Исх.3:2</a></span>); пророк Иезекииль зрел Бога в подобии мужа, вид которого напоминал пылающий металл (<span class='bg_data_title bg_bibrefs' data-title='?title=Ezek&chapter=1:27&type=t_verses&lang=ru' title='Книга пророка Иезекииля гл. 1:27'><span class='bg_data_tooltip'></span><a href='https://azbyka.ru/biblia/?Ezek.1:27' target='_self'>Иез.1:27</a></span>); пророк Даниил, видел огненную реку, протекающую перед <a href="https://azbyka.ru/vethij-dnyami">Ветхим днями</a> (<span class='bg_data_title bg_bibrefs' data-title='?title=Dan&chapter=7:10&type=t_verses&lang=ru' title='Книга пророка Даниила гл. 7:10'><span class='bg_data_tooltip'></span><a href='https://azbyka.ru/biblia/?Dan.7:10' target='_self'>Дан.7:10</a></span>).
+</div>
+</div>
+</div>
+<div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+<h2 itemprop="name"><a id="ch_0_3"></a>Почему Святой Дух сошёл на апостолов лишь после Вознесения Христа?</h2>
+<div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+<div itemprop="text">
+<p>Сошествие Святого Духа в День Пятидесятницы явилось необходимым следствием всей предшествующей деятельности Бога, направленное на освобождение человека от власти греха, тления, смерти и лукавых духов.</p>
+<p>Сошествие Святого Духа было не пространственным перемещением, а особым Божественным действием, проистекающим от Бога Отца через Его Слово и проявившимся во Святом Духе. Это действие предназначалось для всей Церкви на все времена, а не исключительно для апостолов (именно поэтому на иконах, отображающих данное событие, наряду с прочими апостолами пишется Павел, который, в то время, не входил в круг последователей Христа, но был гонителем Церкви).</p>
+<p>В результате этого действия Церкви были преподаны особые спасительные средства, благодатные дары с помощью которых верующие освобождаются от греха. Благодаря этим дарам человек получил возможность преобразиться из грешного в праведного, из порочного в достойного, способного жить в послушании Богу, в Царстве святых.</p>
+<p>В свою очередь эта возможность открылась человеку в связи с тем, что для осуществления личного спасения предварительно были созданы все необходимые условия. Прежде, чем люди смогли получить эти благодатные средства, надлежало преподать им учение о Боге, о Царстве Небесном, очертить перед ними их высшую цель, совершить Искупление, победить ад, сокрушить сатану, попрать смерть, освятить и прославить человеческое естество, проложить путь к Горним обителям, явить людям совершенный пример святости и любви.</p>
+<p>Это-то и совершил наш Господь. После сего на созданную Им <a class='bg_hlnames' href='https://azbyka.ru/cerkov' target='_blank' title='Церковь'>Церковь</a> снизошёл Святой Дух.</p>
+<p><img decoding="async" class="aligncenter wp-image-174417 size-full" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201000%20500'%3E%3C/svg%3E" alt="azsaints 279 – Святой Дух" width="1000" height="500" title="Святой Дух – Азбука веры" data-lazy-srcset="https://azbyka.ru/wp-content/uploads/2015/08/azsaints_279.png 1000w, https://azbyka.ru/wp-content/uploads/2015/08/azsaints_279-300x150.png 300w, https://azbyka.ru/wp-content/uploads/2015/08/azsaints_279-600x300.png 600w, https://azbyka.ru/wp-content/uploads/2015/08/azsaints_279-768x384.png 768w" data-lazy-sizes="(max-width: 1000px) 100vw, 1000px" data-lazy-src="https://azbyka.ru/wp-content/uploads/2015/08/azsaints_279.png" /><noscript><img decoding="async" class="aligncenter wp-image-174417 size-full" src="https://azbyka.ru/wp-content/uploads/2015/08/azsaints_279.png" alt="azsaints 279 – Святой Дух" width="1000" height="500" title="Святой Дух – Азбука веры" srcset="https://azbyka.ru/wp-content/uploads/2015/08/azsaints_279.png 1000w, https://azbyka.ru/wp-content/uploads/2015/08/azsaints_279-300x150.png 300w, https://azbyka.ru/wp-content/uploads/2015/08/azsaints_279-600x300.png 600w, https://azbyka.ru/wp-content/uploads/2015/08/azsaints_279-768x384.png 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></noscript>
+</div>
+</div>
+</div>
+<div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+<h2 itemprop="name"><a id="ch_0_4"></a>Каким образом <a href="https://azbyka.ru/iisus-khristos">Иисус Христос</a> мог посылать Святого Духа апостолам, если Святой Дух исходит не «и от Него», как учат католики, а только от Отца?</h2>
+<div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+<div itemprop="text">
+<p>В том, что <a href="https://azbyka.ru/svyatoj-dux.shtml">Дух Святой</a> исходит только от <a href="https://azbyka.ru/otec">Отца</a>, как Единого Начала в <a class="internalLink" href="https://azbyka.ru/troica-svyataya">Пресвятой Троице</a> (Единой Причины бытия Сына и Святого Духа), сомневаться не приходится. Православная <a href="https://azbyka.ru/cerkov">Церковь</a> ясно засвидетельствовала эту истину в <a href="https://azbyka.ru/simvol_very">Символе веры</a>. Что касается учения римо-католиков об исхождении Святого Духа и от Сына, оно стало распространяться на Западе только с VI века, и для него нет оснований ни в Священном Писании, ни в <a href="https://azbyka.ru/predanie-svyashhennoe">Священном Предании</a>.</p>
+<p>Фрагменты Евангелия, где сообщается, что Господь Иисус Христос, дунув, преподал апостолам Святого Духа (<span class='bg_data_title bg_bibrefs' data-title='?title=Jn&chapter=20:21-22&type=t_verses&lang=ru' title='Евангелие от Иоанна гл. 20:21-22'><span class='bg_data_tooltip'></span><a href='https://azbyka.ru/biblia/?Jn.20:21-22' target='_self'>Ин.20:21-22</a></span>), или о том, что Дух – Дух Христов (<span class='bg_data_title bg_bibrefs' data-title='?title=1Pet&chapter=1:11&type=t_verses&lang=ru' title='Первое послание Петра гл. 1:11'><span class='bg_data_tooltip'></span><a href='https://azbyka.ru/biblia/?1Pet.1:11' target='_self'>1Пет.1:11</a></span>), не могут служить доказательством учения о том, что Святой Дух исходит не только от Отца, но и от Сына.</p>
+<p>Дуновение Сына на апостолов означает не что иное как ниспослание им <a href="https://azbyka.ru/blagodat">благодати</a> Святого Духа, совершенное в конкретном месте, в конкретной обстановке, в конкретный исторический момент, и не указывает на образ вечного, внепространственного бытия Святого Духа, на Его исхождение <em>«и от Сына»</em> (дело в том, что Святой Дух не всегда обозначает третье Лицо Пресвятой Троицы; иногда так обозначается благодать Святого Духа, которая есть, вместе с тем, и благодать Отца, и Сына).</p>
+<p>Опять же, Духом Христовым Святой Дух может именоваться в силу <a href="https://azbyka.ru/edinosushhie">единосущия</a> Лиц Пресвятой Троицы, в силу единства Отца, и Сына, и Святого Духа, наконец, в силу того, что Святой Дух – Выразитель Слова Отца (Которое и есть Сын) (см. подробнее: <a data-external href="https://azbyka.ru/otechnik/Aleksej_Leonov/pravoslavnoe-dogmaticheskoe-bogoslovie-v-konspektivnom-izlozhenii/#0_55">Догмат о Пресвятой Троице</a>).</p>
+<p style="text-align: center;">***</p>
+<p style="text-align: justify;"><em>Когда же приидет Он, Дух истины…</em> (<span class='bg_data_title bg_bibrefs' data-title='?title=Jn&chapter=16:13&type=t_verses&lang=ru' title='Евангелие от Иоанна гл. 16:13'><span class='bg_data_tooltip'></span><a href='https://azbyka.ru/biblia/?Jn.16:13' target='_self'>Ин.16:13</a></span>). <em>Он будет свидетельствовать о Мне</em> (<span class='bg_data_title bg_bibrefs' data-title='?title=Jn&chapter=15:26&type=t_verses&lang=ru' title='Евангелие от Иоанна гл. 15:26'><span class='bg_data_tooltip'></span><a href='https://azbyka.ru/biblia/?Jn.15:26' target='_self'>Ин.15:26</a></span>). Греческое слово «дух» (πνεῦμα) – среднего рода, а не мужского как в русском языке. В связи с этим, употребление рядом со словом среднего рода указательного местоимения мужского рода (ἐκεῖνος – Тот [в русском переводе «Он»]) свидетельствует о личностной природе Духа Святого.</p>
+</div>
+</div>
+</div>
+</div>
+<h2><a id="ch_0_5"></a>Цитаты о Святом Духе</h2>
+<p>«И будет после того, излию от Духа Моего на всякую плоть, и будут пророчествовать сыны ваши и дочери ваши; старцам вашим будут сниться сны, и юноши ваши будут видеть видения. И также на рабов и на рабынь в те дни излию от Духа Моего».<br />
+<em class="book-link"><span class='bg_data_title bg_bibrefs' data-title='?title=Joel&chapter=2:28-29&type=t_verses&lang=ru' title='Книга пророка Иоиля гл. 2:28-29'><span class='bg_data_tooltip'></span><a href='https://azbyka.ru/biblia/?Joel.2:28-29' target='_self'>Иоил.2:28-29</a></span></em></p>
+<p>«Кто верует в Меня, у того, как сказано в Писании, из чрева потекут реки воды живой. Сие сказал Он о Духе, Которого имели принять верующие в Него: ибо ещё не было на них Духа Святого, потому что Иисус ещё не был прославлен».<br />
+<em class="book-link"><span class='bg_data_title bg_bibrefs' data-title='?title=Jn&chapter=7:38-39&type=t_verses&lang=ru' title='Евангелие от Иоанна гл. 7:38-39'><span class='bg_data_tooltip'></span><a href='https://azbyka.ru/biblia/?Jn.7:38-39' target='_self'>Ин.7:38-39</a></span></em></p>
+<p>«Ибо все, водимые Духом Божиим, суть сыны Божии. Потому что вы не приняли духа рабства, чтобы опять жить в страхе, но приняли Духа усыновления, Которым взываем: Авва, Отче! Сей Самый Дух свидетельствует духу нашему, что мы – дети Божии».<br />
+<em class="book-link"><span class='bg_data_title bg_bibrefs' data-title='?title=Rom&chapter=8:14-16&type=t_verses&lang=ru' title='Послание апостола Павла к Римлянам гл. 8:14-16'><span class='bg_data_tooltip'></span><a href='https://azbyka.ru/biblia/?Rom.8:14-16' target='_self'>Рим.8:14-16</a></span></em></p>
+<p>«И не оскорбляйте Святого Духа Божия, Которым вы запечатлены в день искупления».<br />
+<em class="book-link"><span class='bg_data_title bg_bibrefs' data-title='?title=Eph&chapter=4:30&type=t_verses&lang=ru' title='Послание апостола Павла к Ефесянам гл. 4:30'><span class='bg_data_tooltip'></span><a href='https://azbyka.ru/biblia/?Eph.4:30' target='_self'>Еф.4:30</a></span></em></p>
+<p>«И Я умолю Отца, и даст вам другого Утешителя, да пребудет с вами вовек, Духа истины, Которого мир не может принять, потому что не видит Его и не знает Его; а вы знаете Его, ибо Он с вами пребывает и в вас будет».<br />
+<em class="book-link"><span class='bg_data_title bg_bibrefs' data-title='?title=Jn&chapter=14:17&type=t_verses&lang=ru' title='Евангелие от Иоанна гл. 14:17'><span class='bg_data_tooltip'></span><a href='https://azbyka.ru/biblia/?Jn.14:17' target='_self'>Ин.14:17</a></span></em></p>
+<p>«Утешитель же, Дух Святый, Которого пошлёт Отец во имя Моё, научит вас всему и напомнит вам всё, что Я говорил вам».<br />
+<em class="book-link"><span class='bg_data_title bg_bibrefs' data-title='?title=Jn&chapter=14:26&type=t_verses&lang=ru' title='Евангелие от Иоанна гл. 14:26'><span class='bg_data_tooltip'></span><a href='https://azbyka.ru/biblia/?Jn.14:26' target='_self'>Ин.14:26</a></span></em></p>
+<p>«Дух Святый пребывает во всех, но собственно силу Свою обнаруживает в тех, которые чисты от страстей, а не в тех, у кого владычественное души омрачено греховными нечистотами. Кроме же чистоты надлежит им показывать в себе равенство благоустроенного состояния. Ибо чист не тот, кто неровно ведет себя в отношении к целомудрию, но тот, кто мудрование плоти подчинил Духу. Как изображения лиц видим не во всяком веществе, а только в гладких и прозрачных веществах; так и действие Духа отражается не во всякой душе, а только в душах, которые не имеют в себе ничего стропотного и ничего развращенного (ср.: <span class='bg_data_title bg_bibrefs' data-title='?title=Prov&chapter=8:8&type=t_verses&lang=ru' title='Книга Притчей Соломоновых гл. 8:8'><span class='bg_data_tooltip'></span><a href='https://azbyka.ru/biblia/?Prov.8:8' target='_self'>Притч.8:8</a></span>). Снег блестит, но не показывает в себе образа тех, которые в него смотрятся, потому что шероховат и составлен из смерзшейся пены. Молоко бело, но не принимает в себя образов, потому что и в нем есть какие-то мелкие пузыри. А в воде, по причине ее гладкости, виден даже черный образ.<br />
+Так точно и неровность жизни не способна к принятию в себя Божия действия. Посему, когда душа, посвятив себя всякому подвигу добродетели, сильной любовью к Богу постоянно сохраняет в себе напечатленное в ней памятование о Боге, и таким образом соделывает Бога как бы живущим в себе, тогда, от сильного стремления и неизреченной любви к Богу, став богодухновенной, соделывается она достойной пророческого дара; потому что Бог дает Божественную силу и отверзает душевные очи для уразумения видений, какие сообщить Ему угодно».<br />
+<em class="book-link">свт. <a class='bg_hlnames' href='https://azbyka.ru/otechnik/Vasilij_Velikij/' target='_blank' title='Василий Великий, святитель'>Василий Великий</a></em></p>
+<h2 id="literature" class="related-posts-title"><a id="ch_0_6"></a>Литература по теме</h2>
+<ul class="literature-list">
+<li class="li-title">Святоотеческие творения</li>
+<li><a data-external href="https://azbyka.ru/otechnik/Grigorij_Nisskij/o-svjatom-dukhe/">Слово о Святом Духе</a> <span class="stairsQwerty1">свт. <a class='bg_hlnames' href='https://azbyka.ru/otechnik/Grigorij_Nisskij/' target='_blank' title='Григорий Нисский, святитель'>Григорий Нисский</a></span></li>
+<li><a data-external href="https://azbyka.ru/otechnik/Grigorij_Nisskij/slovo-o-svjatom-dukhe-protiv-makedonjan-dukhobortsev/">Слово о Святом Духе против македонян духоборцев</a> <span class="stairsQwerty1">свт. Григорий Нисский</span></li>
+<li><a data-external href="https://azbyka.ru/otechnik/Kirill_Ierusalimskij/oglasit/17">О Святом Духе </a><em><span class="stairsQwerty1">свт. <a class='bg_hlnames' href='https://azbyka.ru/otechnik/Kirill_Ierusalimskij/' target='_blank' title='Кирилл Иерусалимский, святитель'>Кирилл Иерусалимский</a></span></em></li>
+<li><a data-external href="https://azbyka.ru/otechnik/Avrelij_Avgustin/molitvy-i-molitvennye-dukhovnye-rassuzhdenija/3_9">Призывание Святого Духа</a> <span class="stairsQwerty1">Блж. Августин</span></li>
+<li><a data-external href="https://azbyka.ru/otechnik/Afanasij_Velikij/poslanija-k-serapionu-episkopu-tmuisskomu/4">О Святом Духе</a> <span class="stairsQwerty1">свт. <a class='bg_hlnames' href='https://azbyka.ru/otechnik/Afanasij_Velikij/' target='_blank' title='Афанасий Великий, святитель'>Афанасий Великий</a></span></li>
+<li><a data-external href="https://azbyka.ru/otechnik/Vasilij_Velikij/o_svyatom_duhe">О Святом Духе</a><em> <span class="stairsQwerty1">свт. <a class='bg_hlnames' href='https://azbyka.ru/otechnik/Vasilij_Velikij/' target='_blank' title='Василий Великий, святитель'>Василий Великий</a></span></em></li>
+<li><a data-external href="https://azbyka.ru/otechnik/Vasilij_Velikij/oproverzhenie-na-zashhititelnuju-rech-zlochestivogo-evnomiia/5">О Духе Святом (Против Евномия)</a> <span class="stairsQwerty1"><em>свт. Василий Великий</em></span></li>
+<li><a href="/otechnik/Grigorij_Bogoslov/slovo/31" target="_blank" rel="noopener noreferrer">О Святом Духе</a> <em class="stairsQwerty1">свт. <a class='bg_hlnames' href='https://azbyka.ru/otechnik/Grigorij_Bogoslov/' target='_blank' title='Григорий Богослов, святитель'>Григорий Богослов</a></em></li>
+<li><a data-external href="https://azbyka.ru/otechnik/Amvrosij_Mediolanskij/k-avgustu-gratsianu-tri-knigi-o-svjatom-duhe-kniga-1/">Три книги о Святом Духе</a> <span class="stairsQwerty1">свт. <a class='bg_hlnames' href='https://azbyka.ru/otechnik/Amvrosij_Mediolanskij/' target='_blank' title='Амвросий Медиоланский, святитель'>Амвросий Медиоланский</a> </span></li>
+<li><a data-external href="https://azbyka.ru/otechnik/Feodorit_Kirskij/sokrashennoe_izlogenie_Bogestvennih_dogmatov/3">О Святом Духе и о Божественных именах</a> <span class="stairsQwerty1"><em><a class='bg_hlnames' href='https://azbyka.ru/otechnik/Feodorit_Kirskij/' target='_blank' title='Феодорит Кирский, блаженный'>Феодорит Кирский</a></em></span></li>
+<li><a data-external href="https://azbyka.ru/otechnik/Ioann_Damaskin/tochnoe-izlozhenie-pravoslavnoj-very/1_7">О Св. Духе, доказательство, заимствованное из разума</a> <span class="stairsQwerty1">прп. И. Дамаскин</span></li>
+<li class="li-title">Труды современных авторов</li>
+<li><a data-external href="https://azbyka.ru/otechnik/Petr_Mogila/pravoslavnoe-ispovedanie-kafolicheskoj-i-apostolskoj-tserkvi-vostochnoj/1_9">Догмат о Святом Духе. Православное исповедание Кафолической и Апостольской Церкви Восточной</a> <span class="stairsQwerty1">свт. <a class='bg_hlnames' href='https://azbyka.ru/otechnik/Petr_Mogila/' target='_blank' title='Петр (Могила), митрополит Киевский, святитель'>Петр (Могила)</a></span></li>
+<li><a data-external href="https://azbyka.ru/otechnik/Mihail_Pomazanskij/zhizn-tserkvi-v-duhe-svjatom/#0_41">Святые отцы о благодати Святого Духа</a> <span class="stairsQwerty1"><em>протопр. <a class='bg_hlnames' href='https://azbyka.ru/otechnik/Mihail_Pomazanskij/' target='_blank' title='Михаил Помазанский, протопресвитер'>М. Помазанский</a></em></span></li>
+<li><a href="https://azbyka.ru/okrovenie-o-svyatom-duxe-v-vetxozavetnyx-knigax">Откровение о Святом Духе в ветхозаветных книгах</a> <span class="stairsQwerty1"><em>Юрий Максимов</em></span></li>
+<li><a href="https://azbyka.ru/uchenie-muzhej-apostolskix-o-duxe-svyatom">Учение мужей апостольских о Духе Святом</a> <span class="stairsQwerty1"><em>Юрий Максимов</em></span></li>
+<li><a data-external href="https://azbyka.ru/otechnik/Georgij_Maksimov/uchenie-o-duhe-svjatom-v-rannej-tserkvi/">Учение о Духе Святом в ранней Церкви</a> <span class="stairsQwerty1"><em>свящ. <a class='bg_hlnames' href='https://azbyka.ru/otechnik/Georgij_Maksimov/' target='_blank' title='Георгий Максимов, священник'>Г. Максимов</a></em></span></li>
+<li><a data-external href="https://azbyka.ru/otechnik/Vladimir_Losskij/ocherk-misticheskogo-bogoslovija-vostochnoj-tserkvi/8">Домостроительство Святого Духа</a><em> <span class="stairsQwerty1"><a class='bg_hlnames' href='https://azbyka.ru/otechnik/Vladimir_Losskij/' target='_blank' title='Владимир Николаевич Лосский, профессор'>В.Н. Лосский</a></span></em></li>
+<li><a data-external href="https://azbyka.ru/otechnik/Vasilij_Krivoshein/prepodobnyj-simeon-novyj-bogoslov/4_3">Учение прп. Симеона Нового Богослова о Святом Духе</a> <span class="stairsQwerty1">архиеп. <a class='bg_hlnames' href='https://azbyka.ru/otechnik/Vasilij_Krivoshein/' target='_blank' title='Василий (Кривошеин), архиепископ'>Василий (Кривошеин)</a></span></li>
+<li><a data-external href="https://azbyka.ru/otechnik/Vasilij_Velikij/svjatitel-vasilij-velikij/4">Учение святого Василия Великого о Святом Духе</a></li>
+<li><a data-external href="https://azbyka.ru/otechnik/Kiprian_Kern/zolotoj-vek-svjatootecheskoj-pismennosti/2_9">Учение о Святом Духе у свт. Афанасия Великого</a> <span class="stairsQwerty1">архим. <a class='bg_hlnames' href='https://azbyka.ru/otechnik/Kiprian_Kern/' target='_blank' title='Киприан (Керн), архимандрит'>Киприан (Керн)</a></span></li>
+<li><a data-external href="https://azbyka.ru/otechnik/Ioann_Mejendorf/vizantijskoe-bogoslovie-istoricheskie-tendentsii-i-doktrinalnye-temy/2_4">Святоотеческое учение о Святом Духе</a> <span class="stairsQwerty1">протопресвитер <a class='bg_hlnames' href='https://azbyka.ru/otechnik/Ioann_Mejendorf/' target='_blank' title='Иоанн Мейендорф, протоиерей'>Иоанн Мейендорф</a></span></li>
+<li><a data-external href="https://azbyka.ru/otechnik/Antonij_Hrapovickij/nravstvennoe-soderzhanie-dogmata-o-svjatom-duhe/">Нравственное содержание догмата о Святом Духе</a> <span class="stairsQwerty1">митр. <a class='bg_hlnames' href='https://azbyka.ru/otechnik/Antonij_Hrapovickij/' target='_blank' title='Антоний (Храповицкий), митрополит'>Антоний (Храповицкий)</a></span></li>
+<li><a data-external href="https://azbyka.ru/otechnik/Georgij_Fedotov/o-sv-duhe-v-prirode-i-v-kulture/">О Святом Духе в природе и в культуре</a> <span class="stairsQwerty1"><a class='bg_hlnames' href='https://azbyka.ru/otechnik/Georgij_Fedotov/' target='_blank' title='Георгий Петрович Федотов, профессор'>Г.П. Федотов</a></span></li>
+<li class="li-title">Стяжание Святого Духа</li>
+<li><a data-external href="https://azbyka.ru/otechnik/Nikolaj_Pestov/sovremennaja-praktika-pravoslavnogo-blagochestija-tom-1/1_4_4">Святой Дух</a> <span class="stairsQwerty1"><em><a class='bg_hlnames' href='https://azbyka.ru/otechnik/Nikolaj_Pestov/' target='_blank' title='Николай Евграфович Пестов, профессор'>Н.Е. Пестов</a></em></span></li>
+<li><a data-external href="https://azbyka.ru/otechnik/Serafim_Sarovskij/beseda-prepodobnogo-serafima-s-n-a-motovilovym">Беседа преподобного Серафима с Н.А. Мотовиловым</a></li>
+<li><a data-external href="https://azbyka.ru/otechnik/Nikolaj_Uspenskij/spasayushie-i-osvjashayushie-dejstvija-bozhii-cherez-svjatogo-duha-v-bogosluzhenii-i-tainstvah/">Спасающие и освящающие действия Божии через Святого Духа в богослужении и таинствах</a> <span class="stairsQwerty1"><a class='bg_hlnames' href='https://azbyka.ru/otechnik/Nikolaj_Uspenskij/' target='_blank' title='Николай Дмитриевич Успенский, профессор'>Н.Д. Успенский</a></span></li>
+<li><a data-external href="https://azbyka.ru/otechnik/Ivan_Koncevich/stjazhanie-duha-svjatago-v-putjah-drevnej-rusi/">Стяжание Духа Святаго в путях Древней Руси</a> <span class="stairsQwerty1"><em><a class='bg_hlnames' href='https://azbyka.ru/otechnik/Ivan_Koncevich/' target='_blank' title='Иван Михайлович Концевич'>И.М. Концевич</a></em></span></li>
+<li><a href="https://azbyka.ru/o-svyatom-duxe">О Святом Духе</a> <span class="stairsQwerty1"><em>игумен Петр (Мещеринов)</em></span></li>
+<li class="li-title">Полемика с латинским учением об исхождении Святого Духа filioque</li>
+<li><a data-external href="https://azbyka.ru/otechnik/Makarij_Bulgakov/pravoslavno-dogmaticheskoe-bogoslovie-tom1/1_55">Личное свойство Бога Духа Святого</a> <span class="stairsQwerty1"><em>митр. <a class='bg_hlnames' href='https://azbyka.ru/otechnik/Makarij_Bulgakov/' target='_blank' title='Макарий (Булгаков), митрополит'>Макарий (Булгаков)</a></em></span></li>
+<li><a data-external href="https://azbyka.ru/otechnik/Fotij_Konstantinopolskij/slovo_o_svyatom_Duhe">Слово тайноводственное о Святом Духе</a> <a data-external href="https://azbyka.ru/otechnik/Fotij_Konstantinopolskij/"><em><span class="stairsQwerty1">свт. Фотий</span></em></a></li>
+<li><a data-external href="https://azbyka.ru/otechnik/Grigorij_Palama/O_ishogdenie_Svjatogo_Duha/">Об исхождении Св. Духа</a> <span class="stairsQwerty1"><a class='bg_hlnames' href='https://azbyka.ru/otechnik/Grigorij_Palama/' target='_blank' title='Григорий Палама, святитель'>Григорий Палама</a></span></li>
+<li><a data-external href="https://azbyka.ru/otechnik/Maksim_Grek/protiv-nikolaja-latinjanina-slovo-ob-iskhozhdenii-svjatogo-dukha/">Слово об исхождении Святого Духа</a> <span class="stairsQwerty1"><a class='bg_hlnames' href='https://azbyka.ru/otechnik/Maksim_Grek/' target='_blank' title='Максим Грек, преподобный'>Максим Грек</a></span></li>
+<li><a data-external href="https://azbyka.ru/otechnik/Oleg_Davydenkov/dogmaticheskoe-bogoslovie/5_20_5">Римо-католическое учение о «Филиокве»</a> <span class="stairsQwerty1">прот. <a class='bg_hlnames' href='https://azbyka.ru/otechnik/Oleg_Davydenkov/' target='_blank' title='Олег Давыденков, протоиерей'>Олег Давыденков</a></span></li>
+<li><a data-external href="https://azbyka.ru/otechnik/konfessii/pravoslavie-i-katolichestvo/#0_1">Филиокве</a> <span class="stairsQwerty1">прот. Иоанн Романидис</span></li>
+<li><a data-external href="https://azbyka.ru/otechnik/Silvestr_Malevanskij/otvet-pravoslavnogo-na-predlozhennuyu-starokatolikami-shemu-o-svjatom-duhe/">Ответ православного на предложенную старокатоликами схему о Святом Духе</a> <span class="stairsQwerty1">свт. <a class='bg_hlnames' href='https://azbyka.ru/otechnik/Silvestr_Malevanskij/' target='_blank' title='Сильвестр (Малеванский), епископ'>Сильвестр (Малеванский)</a></span></li>
+<li><a data-external href="https://azbyka.ru/otechnik/bogoslovie/ob-ishozhdenii-svjatago-duha-ot-odnogo-tolko-ottsa/">Об исхождении Святаго Духа от Одного только Отца</a> <span class="stairsQwerty1">А. Зерникав</span></li>
+<li><a data-external href="https://azbyka.ru/otechnik/Nikolaj_Mefonskij/protiv-latinjan-o-klevete-ikh-na-svjatogo-dukha/">Припоминания из того, что в разных сочинениях написано против латинян о клевете их на Святого Духа</a> <span class="stairsQwerty1">еп. <a class='bg_hlnames' href='https://azbyka.ru/otechnik/Nikolaj_Mefonskij/' target='_blank' title='Николай Мефонский, епископ'>Николай Мефонский</a></span></li>
+<li><a data-external href="https://azbyka.ru/otechnik/Sergij_Lyapidevskij/ob-ishozhdenii-svjatogo-duha/ ">Об исхождении Святого Духа</a> <span class="stairsQwerty1">митр. <a class='bg_hlnames' href='https://azbyka.ru/otechnik/Sergij_Lyapidevskij/' target='_blank' title='Сергий (Ляпидевский), митрополит'>Сергий (Ляпидевский)</a></span></li>
+<li><a data-external href="https://azbyka.ru/otechnik/Vladimir_Losskij/k-voprosu-ob-ishozhdenii-svjatogo-duha/">К вопросу об исхождении Святого Духа</a> <span class="stairsQwerty1"><a class='bg_hlnames' href='https://azbyka.ru/otechnik/Vladimir_Losskij/' target='_blank' title='Владимир Николаевич Лосский, профессор'>В.Н. Лосский</a></span></li>
+<li class="li-title">Сошествие Святого Духа на апостолов</li>
+<li><a data-external href="https://azbyka.ru/otechnik/Boris_Gladkov/soshestvie-svjatogo-duha/">Сошествие Святого Духа</a> <span class="stairsQwerty1"><a class='bg_hlnames' href='https://azbyka.ru/otechnik/Boris_Gladkov/' target='_blank' title='Борис Ильич Гладков'>Б.И. Гладков</a></span></li>
+<li><a data-external href="https://azbyka.ru/otechnik/Innokentij_Hersonskij/slova-na-prazdniki-gospodni/2_17">Слова и проповеди в День Святого Духа</a> <span class="stairsQwerty1">cвт. <a class='bg_hlnames' href='https://azbyka.ru/otechnik/Innokentij_Hersonskij/' target='_blank' title='Иннокентий (Борисов), архиепископ Херсонский и Таврический, святитель'>Иннокентий Херсонский</a></span></li>
+<li class="li-title">Иконография</li>
+<li><a data-external href="https://azbyka.ru/otechnik/Leonid_Uspenskij/po-povodu-ikonografii-soshestvija-svjatogo-duha/">По поводу иконографии сошествия Святого Духа</a> <span class="stairsQwerty1"><a class='bg_hlnames' href='https://azbyka.ru/otechnik/Leonid_Uspenskij/' target='_blank' title='Леонид Александрович Успенский, профессор'>Л.А. Успенский</a></span></li>
+<li class="li-title">Церковная гимнография</li>
+<li><a data-external href="https://azbyka.ru/days/caa/755">Канон Духу Святому</a> <span class="stairsQwerty1"><span class="stairsQwerty1">прп. Феофан</span></span></li>
+<li><a data-external href="https://azbyka.ru/days/caa/850">Канон Духу Святому</a> <span class="stairsQwerty1">прп. <a class='bg_hlnames' href='https://azbyka.ru/otechnik/Maksim_Grek/' target='_blank' title='Максим Грек, преподобный'>Максим Грек</a></span></li>
+<li class="li-title">Прочее</li>
+<li><a data-external href="https://azbyka.ru/quiz/svyatoj-duh/">Квиз: Святой Дух</a></li>
+<li><a data-external href="https://azbyka.ru/shemy/bog-svjatoj-duh.shtml">Бог Святой Дух</a></li>
+<li><a data-external href="https://azbyka.ru/quotes/svjatoj-duh/">Сборник цитат о Святом Духе</a></li>
+</ul>
+	</div>
+
+			<section class="related-posts by-custom-field">
+			<h2 class="related-posts-title">Близкие понятия</h2>
+
+			<div class="related-posts-list">
+				<ul class="related-posts-item">
+											<li><a href="https://azbyka.ru/bogoobshhenie" title="Богообщение">Богообщение</a> </li>
+											<li><a href="https://azbyka.ru/dary-svyatogo-duxa" title="Дары Святого Духа">Дары Святого Духа</a> </li>
+											<li><a href="https://azbyka.ru/paraklit" title="Параклит">Параклит</a> </li>
+											<li><a href="https://azbyka.ru/plody-svyatogo-duxa" title="Плоды Святого Духа">Плоды Святого Духа</a> </li>
+											<li><a href="https://azbyka.ru/filiokve" title="Филиокве">Филиокве</a> </li>
+											<li><a href="https://azbyka.ru/xula-na-duxa-svyatogo" title="Хула на Духа Святого">Хула на Духа Святого</a> </li>
+									</ul>
+			</div>
+		</section>
+				<footer class="article-footer">
+					<ul class="article-bar">
+					<li class="help-btn-wrap"><a class="help-btn" href="//azbyka.ru/kak-pomoch">Пожертвовать</a></li>
+					
+							<li class="article-footer__count"><span class="bg-az-counter" data-type="post" data-ID="6172"><i title="Всего просмотров" class="fa fa-eye"></i> <span class="bg-az-counter-views"></span> <i title="Сейчас читают" class="fa fa-user-o" style="display:none"></i> <span class="bg-az-counter-now"></span></span></li>
+						
+						
+							<li class="article-bar-has-menu article-footer__tags">
+					<i class="fa fa-tags" title="Метки"></i>
+							<ul class="article-bar-submenu">
+																	<li><a href="https://azbyka.ru/dictionary/17" title="Перейти к: С">С</a></li>
+									</ul>
+						</li>
+					</ul>
+				</footer>
+				<div class="article-post-footer">
+			
+			<div class="social-share__wrap">
+				<a href="https://vk.ru/share.php?url=https%3A%2F%2Fazbyka.ru%2Fsvyatoj-dux" title="Поделиться в  ВК"><i class="fa fa-vk"></i></a>
+				<a href="https://connect.ok.ru/offer?url=https%3A%2F%2Fazbyka.ru%2Fsvyatoj-dux" title="Поделиться в  ОК"><i class="fa fa-odnoklassniki"></i></a>
+				<a href="https://t.me/share/url?text=%D0%A1%D0%B2%D1%8F%D1%82%D0%BE%D0%B9+%D0%94%D1%83%D1%85&url=https%3A%2F%2Fazbyka.ru%2Fsvyatoj-dux" title="Поделиться в  Telegram"><i class="fa fa-paper-plane"></i></a>
+				<a class="m-show" href="whatsapp://send?text=https%3A%2F%2Fazbyka.ru%2Fsvyatoj-dux" title="Поделиться в  Whatsapp"><i class="fa fa-whatsapp"></i></a>
+			</div>		<div class="social-links">
+			<a rel="nofollow" href="https://azbyka.ru/telegram-kanaly" class="social-links__tg"><i class="fa fa-telegram" aria-hidden="true"></i> TG<span class='m-hide'>-каналы</span></a> 
+		</div>
+				<a href="?print=1" target="_blank" class="article-single-print"><i class="fa fa-print"></i></a>
+				</div>
+			
+</article>
+<!-- End Article -->
+
+
+
+<!-- Comment form -->
+	<section class="comments-area">
+
+	  	<h2 class="comments-send">
+				<span class="comments-send-text">Комментировать</span>
+	  	</h2>
+					<div id=respond class=form-loader>Загрузка формы комментариев...</div>
+			</section>
+
+<!-- End Comment form -->
+
+
+	<!-- Comments -->
+	<section class="comments" id="comments">
+			</section>
+	<!-- End Comments -->
+
+
+						
+							
+					
+		</section>
+		<!-- End Content -->
+		
+		<!-- Sidebar -->
+		<section class="main-area-sidebar main-area-item-mobile-last">
+			<div class="sidebar-header header-wrap"><div class="logo"><div class="main-title"><a href="https://azbyka.ru/" title="Православный портал «Азбука веры»">Азбука веры</a></div><p class="header-subtitle">с 2005 года</p></div><a class="button header-help-btn" href="//azbyka.ru/kak-pomoch">Пожертвовать</a><a class="button btn-start" href="/1/s-chego-nachat">С чего начать</a></div>
+<!-- Main sidebar area-->
+<aside class="widgets-area">
+
+<!-- Специальный блок -->
+	<!-- End Специальный блок -->
+	
+<!-- Left menu -->
+<div class="widget-navi" >
+
+	<!-- Специальное меню -->
+			<!-- End Специальное меню -->
+	<div class="widget">
+		<div class="widget-title widget-title--top"><a href="//azbyka.ru/1/5-stupenej-very">5 ступеней веры</a></div>
+		<div class="widget-item  menu-expand opened_child"><div class="menu-levoe-menyu-container"><ul id="left-navigation" class="left-nav"><li id="menu-item-60303" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60303"><a href="https://azbyka.ru/1/tserkov"><span class=fstep-id>5</span> Церковь – практика веры</a></li>
+<li id="menu-item-60314" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60314"><a href="https://azbyka.ru/1/hristianstvo"><span class=fstep-id>4</span> Христианство</a></li>
+<li id="menu-item-60331" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60331"><a href="https://azbyka.ru/1/religii"><span class=fstep-id>3</span> Чем отличаются религии</a></li>
+<li id="menu-item-60339" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60339"><a href="https://azbyka.ru/1/nravstvennost_i_duhovnost"><span class=fstep-id>2</span> Мораль и духовность</a></li>
+<li id="menu-item-60345" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60345"><a href="https://azbyka.ru/1/o_smysle_zhizni"><span class=fstep-id>1</span> Смысл жизни</a></li>
+</ul></div></div>
+	</div>
+	<!-- Хук для дополнительных действий -->
+		<div class="widget">
+	<div class="widget-title"><a href="/dictionary">Энциклопедия</a></div>
+	<div class="widget-item alphabet-widget">
+		<div class="blockABCtags">
+			<a href="https://azbyka.ru/dictionary/01">А</a><a href="https://azbyka.ru/dictionary/02">Б</a><a href="https://azbyka.ru/dictionary/03">В</a><a href="https://azbyka.ru/dictionary/04">Г</a><a href="https://azbyka.ru/dictionary/05">Д</a><a href="https://azbyka.ru/dictionary/06">Е</a><a href="https://azbyka.ru/dictionary/07">Ж</a><a href="https://azbyka.ru/dictionary/08">З</a><a href="https://azbyka.ru/dictionary/09">И</a><a href="https://azbyka.ru/dictionary/10">К</a><a href="https://azbyka.ru/dictionary/11">Л</a><a href="https://azbyka.ru/dictionary/12">М</a><a href="https://azbyka.ru/dictionary/13">Н</a><a href="https://azbyka.ru/dictionary/14">О</a><a href="https://azbyka.ru/dictionary/15">П</a><a href="https://azbyka.ru/dictionary/16">Р</a><a href="https://azbyka.ru/dictionary/17">С</a><a href="https://azbyka.ru/dictionary/18">Т</a><a href="https://azbyka.ru/dictionary/19">У</a><a href="https://azbyka.ru/dictionary/20">Ф</a><a href="https://azbyka.ru/dictionary/21">Х</a><a href="https://azbyka.ru/dictionary/22">Ц</a><a href="https://azbyka.ru/dictionary/23">Ч</a><a href="https://azbyka.ru/dictionary/24">Ш</a><a href="https://azbyka.ru/dictionary/28">Щ</a><a href="https://azbyka.ru/dictionary/25">Э</a><a href="https://azbyka.ru/dictionary/26">Ю</a><a href="https://azbyka.ru/dictionary/27">Я</a>		</div>
+	</div>
+</div>
+	</div>
+<!-- End Left menu -->
+
+	<div class="widgets" id="widgets">
+<!-- Dynamic menus -->
+		<div class="widgets-sidebar" id="widgets-sidebar">
+			<div id="text-4" class="widget widget_text"><p class="widget-title">Цитата из Библии</p>
+			<div class="textwidget"><p class=text-center>Каждый уделяй по расположению сердца, не с огорчением и не с принуждением; ибо доброхотно дающего любит Бог (<span class='bg_data_title bg_bibrefs' data-title='?title=2Cor&chapter=9:7&type=t_verses&lang=ru' title='Второе послание апостола Павла к Коринфянам гл. 9:7'><span class='bg_data_tooltip'></span><a href='https://azbyka.ru/biblia/?2Cor.9:7' target='_self'>2Кор.9:7</a></span>).</p>
+</div>
+		</div>
+<div id="text-3" class="widget widget_text"><p class="widget-title">Изучаем терминологию</p>
+			<div class="textwidget"><p class=text-center><a class='az-tod-link' href='https://azbyka.ru/kanonnik' target='_blank'>Канонник</a></p>
+</div>
+		</div>
+<div id="text-2" class="widget widget_text"><p class="widget-title">Вопрос дня</p>
+			<div class="textwidget"><p class=text-center><a class='az-qod-link' href='https://azbyka.ru/vopros/sushhestvuet-li-tajnoe-uchenie-hrista/' target='_blank'>Существует ли тайное учение Христа?</a></p>
+</div>
+		</div>
+<div id="text-5" class="widget widget_text"><p class="widget-title">Опрос</p>
+			<div class="textwidget"><p><a class=opros-widget-link href='https://azbyka.ru/opros/rozhdestvenskij-post/'>Рождественский пост</a></p>
+</div>
+		</div>
+<div id="custom_html-3" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><div class=footer-widget>
+<ul class="av-footer-list">
+	<li><a href="//azbyka.ru/drevo-sajta">Древо</a></li>
+	<li><a class="help-btn" href="//azbyka.ru/kak-pomoch">Пожертвовать</a></li>
+<li><a href="https://azbyka.ru/about-all">О нас</a></li>
+</ul>
+<ul class="sidebar-contacts">
+<li><a title="Обратная связь" href="//azbyka.ru/obratnaja-svjaz"><i class="fa fa-envelope-o" style="font-weight:bold;" aria-hidden="true"></i></a>
+</li>
+<li><a title="Телефон" href="https://azbyka.ru/svjazat-s-administraciej"><i class="fa fa-phone-square" aria-hidden="true"></i></a></li>
+<!--li><a title="Вайбер-каналы" href="https://azbyka.ru/viber-kanaly"><i class="fa fa-viber" aria-hidden="true"></i></a></li-->
+<li><a title="Телеграм-каналы" href="https://azbyka.ru/telegram-kanaly"><i class="fa fa-telegram" aria-hidden="true"></i></a></li>
+<li><a title="Whatsapp" href="https://azbyka.ru/whatsapp-kanaly"><i class="fa fa-whatsapp" aria-hidden="true"></i></a></li>
+</ul>
+<ul class="footer-links">
+	<li><a href="/job">Вакансии</a></li>
+	<li><a href="/azbuka-very-na-vashem-sajte">Вебмастеру</a></li>
+</ul>
+</div></div></div>
+<div id="custom_html-2" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget">	
+<div class="retypos-banner">Ошибка? Выделение + кнопка!<div class=info>Если заметили ошибку, выделите текст и нажмите кнопку 'Сообщить об ошибке' или Ctrl+Enter.</div></div>
+
+<a href="https://azbyka.ru/allprojects"><div class="bg-az-online-now"><i style='margin-left: -10px;' class='fa fa-user-o' aria-hidden='true'></i> <span class="bg-az-counter" data-project="" data-type="" data-ID=""><span class="bg-az-counter-now"></span> online</span></div>
+</a>
+</div></div>
+		</div>
+	<!-- Хук для дополнительных действий -->
+				<div class="widgets-sidebar" id="widgets-sidebar2">
+					</div>
+<!-- End Dynamic menus -->
+	
+<!-- Footer --> 
+<!-- End Footer -->
+	</div>
+</aside>
+		</section>
+		<!-- End Sidebar -->
+		
+	</main> 
+</div>
+<!-- End Main area -->
+
+
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/azbyka-av/*","/wp-content/themes/azbyka/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+		<!-- Freesoul Deactivate Plugins has disabled 4 plugins on this page. -->
+		<style type="text/css"> 
+         /* Hide reCAPTCHA V3 badge */
+        .grecaptcha-badge {
+        
+            visibility: hidden !important;
+        
+        }
+    </style>	<div id="notification_container"></div>
+	<aside id="az_toolbox">
+		<i class="fa fa-cog btn-settings"></i>		<i class="scroll-top fa fa-arrow-up active invert" id="scroll-top" title="Вверх"></i>
+		</aside>
+	<div class="az-sso-messages" style="position:fixed;bottom:0;left:0;z-index:200;display:none"><p class="az-content-echo">Входим...</p><p class="az-content-echo">Куки не обнаружены, не ЛК</p></div>	<div class="settings-wrap" id="settings_wrap" style="display: none;">
+	<div class="settings-box" id="settings-box">
+		<div class="settings-item" data-setting="font-base-size">
+			<span class="settings-caption">Размер шрифта: </span>
+			<span class="settings-field letter-button" id="decrease_letter" title="Уменьшить шрифт">A-</span>
+			<span class="settings-field letter-size" id="size_letter" title="Размер шрифта основного текста">15</span>
+			<span class="settings-field letter-button" id="increase_letter" title="Увеличить шрифт">A+</span>
+		</div>
+
+		<div class="settings-item theme-settings-item" data-setting="theme">
+			<span class="settings-caption">Тёмная тема:</span>
+			<span data-id="1" data-value="light" class="settings-field selectedBox" title="Светлая"><i class="fa fa-lightbulb-o"></i></span>
+			<span data-id="2" data-value="dark" class="settings-field" title="Тёмная"><i class="fa fa-moon-o"></i></span>
+			</div>
+
+		<details class="settings-colors-wrap">
+			<summary>Цвета</summary>
+
+			<div class="settings-item" data-setting="body-bg">
+				<span class="settings-caption">Цвет фона: </span>
+				<span data-id="1" class="settings-field settings-color-box"></span>
+				<span data-id="3" class="settings-field settings-color-box"></span>
+				<span data-id="4" class="settings-field settings-color-box selectedBox"></span>
+				<input type="color" data-id="0" value="#999999" class="settings-field settings-color-box">
+			</div>
+			
+			<div class="settings-item" data-setting="text-color">
+				<span class="settings-caption">Цвет текста: </span>
+				<span data-id="1" class="settings-field settings-color-box"></span>
+				<span data-id="3" class="settings-field settings-color-box"></span>
+				<span data-id="4" class="settings-field settings-color-box selectedBox"></span>
+				<input type="color" data-id="0" value="#999999" class="settings-field settings-color-box">
+			</div>
+			
+			<div class="settings-item" data-setting="link-color">
+				<span class="settings-caption">Цвет ссылок: </span>
+				<span data-id="1" class="settings-field settings-color-box"></span>
+				<span data-id="3" class="settings-field settings-color-box"></span>
+				<span data-id="4" class="settings-field settings-color-box selectedBox"></span>
+				<input type="color" data-id="0" value="#999999" class="settings-field settings-color-box">
+			</div>
+			
+			<div class="settings-item" data-setting="accent-color">
+				<span class="settings-caption">Цвет акцентов <i class="fa fa-question-circle btn-details" title="Особо выделяемые цветом элементы"></i></span>
+				<span data-id="1" class="settings-field settings-color-box"></span>
+				<span data-id="3" class="settings-field settings-color-box"></span>
+				<span data-id="4" class="settings-field settings-color-box selectedBox"></span>
+				<input type="color" data-id="0" value="#999999" class="settings-field settings-color-box">
+			</div>
+
+			<div class="settings-item m-hide" data-setting="side-bg">
+				<span class="settings-caption">Цвет полей <i class="fa fa-question-circle btn-details" title="Боковые области экрана"></i></span>
+				<span data-id="1" class="settings-field settings-color-box"></span>
+				<span data-id="3" class="settings-field settings-color-box"></span>
+				<span data-id="4" class="settings-field settings-color-box selectedBox"></span>
+				<input type="color" data-id="0" value="#999999" class="settings-field settings-color-box">
+			</div>
+			
+			<div class="settings-item" data-setting="widget-bg">
+				<span class="settings-caption">Фон подложек <i class="fa fa-question-circle btn-details" title="Цвет фона окон и панелей"></i></span>
+				<span data-id="1" class="settings-field settings-color-box"></span>
+				<span data-id="3" class="settings-field settings-color-box"></span>
+				<span data-id="4" class="settings-field settings-color-box selectedBox"></span>
+				<input type="color" data-id="0" value="#999999" class="settings-field settings-color-box">
+			</div>
+
+		</details>
+
+		<div class="settings-item font-settings-item" data-setting="title-font">
+			<span class="settings-caption">Заголовки:</span>
+			<select class="settings-field settings-field-select" data-id="0">
+				<option value="'Lucida Sans Unicode', 'Lucida Grande', sans-serif">Прямой (Lucida)</option>
+				<option value="'Times New Roman', sans">С засечками (Times)</option>
+				<option value="Georgia-my, sans">Georgia</option>
+				<option value="Courier, mono">Моноширинный</option>
+				<option value="Roboto Condensed">Сжатый</option>
+				<option value="Caveat">Рукописный</option>
+				<option value="IBM Plex Serif">IBM Plex Serif</option>
+				<option value="Vollkorn">Vollkorn</option>
+				<option value="Oranienbaum">Oranienbaum</option>
+			</select>
+		</div>
+
+		<div class="settings-item font-settings-item" data-setting="text-font">
+			<span class="settings-caption">Текст:</span>
+			<select class="settings-field settings-field-select" data-id="0">
+				<option value="Helvetica, Arial, sans-serif">Прямой (Arial)</option>
+				<option value="'Times New Roman', sans">С засечками (Times)</option>
+				<option value="Georgia-my, sans">Georgia</option>
+				<option value="Courier, mono">Моноширинный</option>
+				<option value="Roboto Condensed">Сжатый</option>
+				<option value="Caveat">Рукописный</option>
+				<option value="IBM Plex Serif">IBM Plex Serif</option>
+				<option value="Vollkorn">Vollkorn</option>
+				<option value="Oranienbaum">Oranienbaum</option>
+			</select>
+		</div>
+
+		<div class="settings-item" data-setting="text-align">
+			<span class="settings-caption">Выравнивание:</span>
+			<span data-id="1" data-value="left" class="settings-field selectedBox" title="по левому краю"><i class="fa fa-align-left"></i></span>
+			<span data-id="2" data-value="justify" class="settings-field" title="по ширине"><i class="fa fa-align-justify"></i></span>
+		</div>
+		
+		<div class="settings-item" data-setting="pagination-autoload">
+			<span class="settings-caption">Загрузка страниц:</span>
+			<span data-id="1" data-value="false" class="settings-field selectedBox" title="вручную"><i class="fa fa-hand-o-down"></i></span>
+			<span data-id="2" data-value="true" class="settings-field" title="автоматически"><i class="fa fa-refresh"></i></span>
+		</div>
+
+		<span class="settings-reset" id="settings-reset"><i class="fa fa-undo"></i> Сбросить настройки</span>
+		<span class="settings-close" id="settings-close"></span>
+	</div>
+	</div>
+	<style>body div .wpcf7-form .fit-the-fullspace{position:absolute;margin-left:-999em;}</style><script  defer="defer" src="https://azbyka.ru/wp-content/plugins/Bg-Az-Counter-GitHub/js/reconnecting-websocket.min.js?ver=2.9.6" id="bg_counter_websocket-js"></script>
+<script data-minify="1"  defer="defer" src="https://azbyka.ru/wp-content/cache/min/1/wp-content/plugins/Bg-Az-Counter-GitHub/js/comment-likes.js?ver=1766855313" id="bg_counter_comment_likes-js"></script>
+<script type="text/javascript" id="bg_counter_proc-js-extra">
+/* <![CDATA[ */
+var bg_counter = {"counterurl":"https://stat.azbyka.ru/counters","rateurl":"https://stat.azbyka.ru/rate","scoreurl":"https://stat.azbyka.ru/item-score","batch":"https://stat.azbyka.ru/batch-query","batch_rating":"https://stat.azbyka.ru/batch-rating","websocket":"wss://stat.azbyka.ru/realtime-view","updatesocket":"wss://stat.azbyka.ru/updates","updatetime":"3000","maxreconnect":"5","project":"/project/main","type":"post","ID":"6172","countviews":"on","votes5":"\u0433\u043e\u043b\u043e\u0441\u043e\u0432","votes2":"\u0433\u043e\u043b\u043ec\u0430","vote1":"\u0433\u043e\u043b\u043e\u0441","short_num":{"K":" \u0442\u044b\u0441.","M":" \u043c\u043b\u043d.","MM":" \u043c\u043b\u0440\u0434."},"voted":"\u0423\u0436\u0435 \u0433\u043e\u043b\u043e\u0441\u043e\u0432\u0430\u043b\u0438","price":["\u0445\u0443\u0434\u043e","\u0441\u043b\u0430\u0431\u043e","\u0441\u043d\u043e\u0441\u043d\u043e","\u0434\u043e\u0441\u0442\u043e\u0439\u043d\u043e","\u0447\u0443\u0434\u0435\u0441\u043d\u043e"],"debug":""};
+//# sourceURL=bg_counter_proc-js-extra
+/* ]]> */
+</script>
+<script data-minify="1"  defer="defer" src="https://azbyka.ru/wp-content/cache/min/1/wp-content/plugins/Bg-Az-Counter-GitHub/js/counter.js?ver=1766855307" id="bg_counter_proc-js"></script>
+<script type="text/javascript" id="myBooks-js-extra">
+/* <![CDATA[ */
+var myBooks = {"ajaxurl":"https://azbyka.ru/wp-admin/admin-ajax.php","nonce":"dac90cb8ff","rest_nonce":"1761b79f0a","siteurl":"https://azbyka.ru","pageurl":"/svyatoj-dux","post_id":"6172","is_logged_in":"","page":"1","is_single":"1","is_personal":"","template":"https://azbyka.ru/wp-content/plugins/Bg-Personal/","allow_bookmarks":"1"};
+//# sourceURL=myBooks-js-extra
+/* ]]> */
+</script>
+<script data-minify="1"  defer="defer" src="https://azbyka.ru/wp-content/cache/min/1/wp-content/plugins/Bg-Personal/js/myBooks.js?ver=1766855307" id="myBooks-js"></script>
+<script type="text/javascript" id="retypos_proc-js-extra">
+/* <![CDATA[ */
+var retypos = {"contextmenu":"1","container":"article.article","correctTypo":"https://azbyka.ru/wp-content/plugins/Bg-ReTypos/correctTypo.php"};
+//# sourceURL=retypos_proc-js-extra
+/* ]]> */
+</script>
+<script data-minify="1"  defer="defer" src="https://azbyka.ru/wp-content/cache/min/1/wp-content/plugins/Bg-ReTypos/js/retypos.js?ver=1766855309" id="retypos_proc-js"></script>
+<script type="text/javascript" id="bg_bibrefs_proc-js-extra">
+/* <![CDATA[ */
+var bg_bibrefs = {"main_script":"https://azbyka.ru/wp-content/plugins/bg-biblie-references/js/bg_bibrefs.js","ajaxurl":"https://azbyka.ru/wp-admin/admin-ajax.php","content":"#content","preq":"0"};
+//# sourceURL=bg_bibrefs_proc-js-extra
+/* ]]> */
+</script>
+<script data-minify="1"  defer="defer" src="https://azbyka.ru/wp-content/cache/min/1/wp-content/plugins/bg-biblie-references/js/bg_bibrefs_loader.js?ver=1766855307" id="bg_bibrefs_proc-js"></script>
+<script  id="bg_bpub_js-js-before">
+/* <![CDATA[ */
+const bg_bpub = {"url":"https:\/\/azbyka.ru\/svyatoj-dux"}
+//# sourceURL=bg_bpub_js-js-before
+/* ]]> */
+</script>
+<script data-minify="1"  defer="defer" src="https://azbyka.ru/wp-content/cache/min/1/wp-content/plugins/bg-book-publisher/js/bg_bpub.js?ver=1766855309" id="bg_bpub_js-js"></script>
+<script data-minify="1"  defer="defer" src="https://azbyka.ru/wp-content/cache/min/1/wp-content/plugins/bz_inline_audio/inline-audio.js?ver=1766855309" id="inline-audio-js"></script>
+<script type="text/javascript" id="az-settings-js-extra">
+/* <![CDATA[ */
+var azbyka = {"root_url":"https://azbyka.ru","project":null,"darktheme":"https://azbyka.ru/wp-content/themes/azbyka/settings/js/darktheme.css?ver=3.5.6.2.17","yellowtheme":"https://azbyka.ru/wp-content/themes/azbyka/settings/js/yellowtheme.css?ver=3.5.6.2.17","is_home":""};
+//# sourceURL=az-settings-js-extra
+/* ]]> */
+</script>
+<script data-minify="1"  defer="defer" src="https://azbyka.ru/wp-content/cache/min/1/wp-content/themes/azbyka/settings/js/az-settings.js?ver=1766855307" id="az-settings-js"></script>
+<script data-minify="1"  defer="defer" src="https://azbyka.ru/wp-content/cache/min/1/wp-content/themes/azbyka-av/assets/js/core.js?ver=1766855307" id="azbyka-dl-core-js"></script>
+<script data-minify="1"  defer="defer" src="https://azbyka.ru/wp-content/cache/min/1/wp-content/themes/azbyka/assets/js/speech.js?ver=1766855307" id="speech-js"></script>
+<script data-minify="1"  defer="defer" src="https://azbyka.ru/wp-content/cache/min/1/wp-content/themes/azbyka/assets/js/social.js?ver=1766855307" id="azbyka-social-js"></script>
+<script data-minify="1"  defer="defer" src="https://azbyka.ru/wp-content/cache/min/1/wp-content/themes/azbyka/assets/js/main.js?ver=1766855307" id="azbyka-main-js"></script>
+<script data-minify="1"  defer="defer" src="https://azbyka.ru/wp-content/cache/min/1/wp-content/themes/azbyka/assets/js/tooltip.js?ver=1766855307" id="az-tooltip-js"></script>
+<script  defer="defer" src="https://azbyka.ru/wp-includes/js/comment-reply.min.js?ver=6.9" id="comment-reply-js" async="async" data-wp-strategy="async" fetchpriority="low"></script>
+<script data-minify="1"  defer="defer" src="https://azbyka.ru/wp-content/cache/min/1/wp-content/themes/azbyka/assets/js/ajax-comments.js?ver=1766855313" id="ajax-comments-js"></script>
+<script data-minify="1"  defer="defer" src="https://azbyka.ru/wp-content/cache/min/1/wp-content/themes/azbyka/assets/js/seo.js?ver=1766992901" id="az-seo-js"></script>
+<script type="text/javascript" id="cf7-antispam-js-extra">
+/* <![CDATA[ */
+var cf7a_settings = {"prefix":"_cf7a_","disableReload":"1","version":"KC9UsDjI9v90ooLahZgBrQ=="};
+//# sourceURL=cf7-antispam-js-extra
+/* ]]> */
+</script>
+<script data-minify="1"  defer="defer" src="https://azbyka.ru/wp-content/cache/min/1/wp-content/plugins/cf7-antispam/build/script.js?ver=1766855307" id="cf7-antispam-js"></script>
+<script  defer="defer" src="https://azbyka.ru/wp-content/plugins/wp-rocket/assets/js/heartbeat.js?ver=3.20.2" id="heartbeat-js"></script>
+<noscript id="bz_custom_code" data-load="scroll" data-delay="6000">if(!window.bz_custom_code_loaded){(function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();
+   for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+   k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js", "ym");
+
+   ym(5565880, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true,
+        trackHash:true
+   });}
+			window.bz_custom_code_loaded = true;</noscript><noscript data-load="defer"><link data-minify="1" rel='stylesheet' id='bg_counter_styles-css' href='https://azbyka.ru/wp-content/cache/min/1/wp-content/plugins/Bg-Az-Counter-GitHub/css/styles.css?ver=1766855307' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='retypos_styles-css' href='https://azbyka.ru/wp-content/cache/min/1/wp-content/plugins/Bg-ReTypos/css/styles.css?ver=1766855307' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='bg_ortev_css-css' href='https://azbyka.ru/wp-content/cache/min/1/wp-content/plugins/bg-orthodox-events/css/styles.css?ver=1766855307' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='font-awesome-css' href='https://azbyka.ru/wp-content/cache/min/1/wp-content/themes/azbyka/assets/font-awesome/css/font-awesome.min.css?ver=1766855307' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='youtube-optimizer-css' href='https://azbyka.ru/wp-content/cache/min/1/wp-content/themes/azbyka/inc/youtube-optimizer/youtube.optimizer.css?ver=1766855307' type='text/css' media='all' />
+</noscript><script>window.bz_opt_deferred_scripts = {"top-menu":"https://azbyka.ru/wp-content/themes/azbyka/assets/js/top-menu.js?ver=3.5.6.2.17",}; window.bz_opt_defer_all_scripts = false;</script>		
+		<script>
+		let doc = document;
+		let addScript = (src, attrs, append = true)=>{
+			console.log('addScript -> ', src, attrs);
+			el = doc.createElement("script");
+			el.src = src;
+			for(at in attrs)
+				el.setAttribute(at, attrs[at]);
+			
+			if(append)
+				doc.body.append(el);
+			
+			return el;
+		};
+		let addScriptNode = (n)=>{
+			console.log('addScriptNode -> ', n);
+			let src = n.getAttribute('data-src');
+			let el = doc.createElement("script");
+			if(src)
+				el.src = src;
+			else{
+				let s = doc.createTextNode(n.textContent);
+				el.appendChild(s);
+			}
+			
+			if(n && n.parentNode)
+				n.parentNode.insertBefore(el,n);
+			else
+				doc.body.append(el);
+			
+			if(!src && n){
+				n.remove();
+			}
+		}
+		let addStyleNode = (el, par)=>{
+			let val = el.textContent;
+			console.log('deferred -> ', val);
+			//if(el.parentNode)
+				//el.parentNode.removeChild(el);
+			par.innerHTML += val;
+		}
+		
+		let nNode = doc.createElement('div');
+			nNode.classList.add('bz-defer-loaded');
+		
+		let deferredLoaded = false;
+		let loadDeferredStyles = function() {
+			if(deferredLoaded)
+				return;
+			
+			deferredLoaded = true;
+			
+			let nds = doc.querySelectorAll("noscript[data-load='defer']");
+			nds.forEach(
+			(el)=>{
+				let func = (el.getAttribute('data-type') === 'script') ? addScriptNode : addStyleNode;
+				let timer = el.getAttribute('data-delay');
+				if(timer)
+					setTimeout(func, timer, el, nNode)
+				else
+					func(el, nNode);
+			});
+			doc.body.append(nNode);
+			
+			//deferred scripts SRC
+			if(window.bz_opt_deferred_scripts && !window.bz_opt_defer_all_scripts){
+				console.log('deferred scripts: ', window.bz_opt_deferred_scripts);
+				for(id in bz_opt_deferred_scripts){
+					addScript(bz_opt_deferred_scripts[id], {id, 'defer':'defer'});
+				}
+			}
+			
+			//custom code
+			ccode = doc.getElementById('bz_custom_code');
+			if(ccode){
+				let timer = ccode.getAttribute('data-delay') || 0;
+				setTimeout(addScriptNode, timer, ccode);
+			}
+		};
+		
+		let goNext = (f)=>{
+			if(typeof window.requestAnimationFrame !== undefined)
+				requestAnimationFrame(f);
+			else
+				setTimeout(f, 10); 
+		}
+		
+		window.addEventListener('load', function() {
+			goNext(loadDeferredStyles);
+		});
+		
+		//on scroll/click/touch
+		let addScrollNodes = () => {
+			console.log('on scroll load -> ');
+			let sn = doc.querySelectorAll("noscript[data-load='scroll']");
+			sn.forEach((el)=>{
+				console.log(el.id);
+				addScriptNode(el);
+			});
+			
+			//deferred scripts SRC
+			if(window.bz_opt_deferred_scripts && window.bz_opt_defer_all_scripts){
+				console.log('deferred scripts: ', window.bz_opt_deferred_scripts);
+				for(id in bz_opt_deferred_scripts){
+					addScript(bz_opt_deferred_scripts[id], {id, 'defer':'defer'});
+				}
+			}
+		}
+		
+		let bz_first_scroll = true;
+		let on_fst_scroll = (e) => {
+			if (bz_first_scroll) {
+				if(e && e.screenX === 0 && e.screenY === 0) return;
+				console.log('first interaction ',e);
+				bz_first_scroll = false;
+				goNext(addScrollNodes);
+				//window.removeEventListener('scroll', on_fst_scroll);
+				doc.removeEventListener('mousemove', on_fst_scroll);
+				doc.removeEventListener('touchstart', on_fst_scroll);
+				doc.dispatchEvent(new Event('firstInteraction'));
+			}
+		};
+		//window.addEventListener('scroll', on_fst_scroll);
+		doc.addEventListener('mousemove', on_fst_scroll);
+		doc.addEventListener('touchstart', on_fst_scroll);
+		
+		window.BZOPT = {addScript};
+		</script>
+	<script>window.lazyLoadOptions=[{elements_selector:"img[data-lazy-src],.rocket-lazyload,iframe[data-lazy-src]",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,callback_loaded:function(element){if(element.tagName==="IFRAME"&&element.dataset.rocketLazyload=="fitvidscompatible"){if(element.classList.contains("lazyloaded")){if(typeof window.jQuery!="undefined"){if(jQuery.fn.fitVids){jQuery(element).parent().fitVids()}}}}}},{elements_selector:".rocket-lazyload",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,}];window.addEventListener('LazyLoad::Initialized',function(e){var lazyLoadInstance=e.detail.instance;if(window.MutationObserver){var observer=new MutationObserver(function(mutations){var image_count=0;var iframe_count=0;var rocketlazy_count=0;mutations.forEach(function(mutation){for(var i=0;i<mutation.addedNodes.length;i++){if(typeof mutation.addedNodes[i].getElementsByTagName!=='function'){continue}
+if(typeof mutation.addedNodes[i].getElementsByClassName!=='function'){continue}
+images=mutation.addedNodes[i].getElementsByTagName('img');is_image=mutation.addedNodes[i].tagName=="IMG";iframes=mutation.addedNodes[i].getElementsByTagName('iframe');is_iframe=mutation.addedNodes[i].tagName=="IFRAME";rocket_lazy=mutation.addedNodes[i].getElementsByClassName('rocket-lazyload');image_count+=images.length;iframe_count+=iframes.length;rocketlazy_count+=rocket_lazy.length;if(is_image){image_count+=1}
+if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_count>0){lazyLoadInstance.update()}});var b=document.getElementsByTagName("body")[0];var config={childList:!0,subtree:!0};observer.observe(b,config)}},!1)</script><script data-no-minify="1" async src="https://azbyka.ru/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js"></script>
+</body>
+</html>
+
+<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1767000260 -->
