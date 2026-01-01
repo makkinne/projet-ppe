@@ -1,0 +1,1034 @@
+   En poursuivant votre navigation sur ce site, vous acceptez
+   l’utilisation d’un témoin de connexion (cookie), afin de réaliser des
+   statistiques de visites et de personnaliser votre navigation. Pour en
+   savoir plus, cliquez ici.
+   (BUTTON) J’accepte (BUTTON) Je refuse
+
+   PARAMÈTRES D’ACCESSIBILITÉ
+   [ ] Activer la navigation hypertexte adaptée pour les personnes
+   utilisant les technologies d’assistance.
+   [BUTTON Input] (not implemented)_______
+
+   Taille du texte
+   (BUTTON) (BUTTON) (BUTTON)
+   Informations sur les paramètres d’accessibilité
+   (BUTTON)
+
+   information recherche
+   ____________________ (BUTTON) Vider champ recherche (BUTTON) Recherche
+   avancée
+   RECHERCHE AVANCÉE
+   Mots commençant par
+   Mots proches
+
+   Pour chercher un mot dans le dictionnaire, tapez simplement ses
+   premières lettres. Utilisez le bouton « Mots proches » pour activer la
+   correction orthographique et phonétique.
+   (BUTTON) Fermer le formulaire de recherche avancée.
+
+Recherche en texte intégral :
+
+   ____________________
+   [X] Rechercher les mots sous toutes leurs formes
+   [ ] Respecter la casse
+   [ ] Rechercher également les graphies anciennes
+   Rechercher dans
+   [tout l’articlele]
+
+Recherche par domaines :
+
+   Liste hierarchique des domaines
+
+   (BUTTON) Liste des domaines
+     * [ ] Acoustique
+     * [ ] Administration
+     * [ ] Administration militaire
+     * [ ] Aéronautique, aviation
+     * [ ] Agriculture
+     * [ ] Algèbre
+     * [ ] (BUTTON)
+    ALIMENTATION
+          + [ ] Boucherie
+          + [ ] Boulangerie
+          + [ ] Charcuterie
+          + [ ] Confiserie
+          + [ ] Cuisine
+          + [ ] Œnologie
+          + [ ] Pâtisserie
+     * [ ] Alpinisme
+     * [ ] Ameublement
+     * [ ] Anatomie
+     * [ ] Anthropologie
+     * [ ] Antiquité
+     * [ ] Antiquité grecque
+     * [ ] Antiquité romaine
+     * [ ] Apiculture
+     * [ ] Arboriculture
+     * [ ] Archéologie
+     * [ ] (BUTTON)
+    ARCHITECTURE, BÂTIMENT
+          + [ ] Architecture
+          + [ ] Bâtiment
+          + [ ] Charpenterie
+          + [ ] Fortifications
+          + [ ] Maçonnerie
+          + [ ] Ponts et Chaussées
+          + [ ] Travaux publics
+          + [ ] Urbanisme
+     * [ ] Arithmétique
+     * [ ] Armes
+     * [ ] Artillerie
+     * [ ] Arts
+     * [ ] Arts décoratifs
+     * [ ] Astrologie
+     * [ ] Astronautique
+     * [ ] Astronomie
+     * [ ] Athlétisme
+     * [ ] Audiovisuel
+     * [ ] Automobile
+     * [ ] Aviation → Aéronautique
+     * [ ] Balistique
+     * [ ] Banque
+     * [ ] Bâtiment
+     * [ ] Beaux-Arts
+     * [ ] Billard
+     * [ ] Biologie
+     * [ ] Botanique
+     * [ ] Boucherie
+     * [ ] Boulangerie
+     * [ ] Bourse
+     * [ ] Céramique
+     * [ ] Chancellerie
+     * [ ] Charcuterie
+     * [ ] Charpenterie
+     * [ ] (BUTTON)
+    CHASSE [groupe]
+          + [ ] Chasse
+          + [ ] Fauconnerie
+          + [ ] Vènerie
+     * [ ] Chemins de fer
+     * [ ] Chimie
+     * [ ] Chirurgie
+     * [ ] Chronologie
+     * [ ] Cinéma
+     * [ ] Coiffure
+     * [ ] Commerce
+     * [ ] Comptabilité
+     * [ ] Conchyliologie (crustacés)
+     * [ ] Confiserie
+     * [ ] Courses
+     * [ ] Couture
+     * [ ] Cuisine
+     * [ ] Cyclisme
+     * [ ] Danse, chorégraphie
+     * [ ] Dessin
+     * [ ] Dévotion
+     * [ ] Didactique
+     * [ ] Diplomatie
+     * [ ] Divers
+     * [ ] Dogmatique
+     * [ ] Douanes
+     * [ ] (BUTTON)
+    DROIT ET ADMINISTRATION
+          + [ ] Administration
+          + [ ] Douanes
+          + [ ] Droit
+          + [ ] Droit administratif
+          + [ ] Droit ancien
+          + [ ] Droit canon
+          + [ ] Droit civil
+          + [ ] Droit commercial
+          + [ ] Droit constitutionnel
+          + [ ] Droit criminel → Droit pénal
+          + [ ] Droit du travail
+          + [ ] Droit féodal
+          + [ ] Droit fiscal
+          + [ ] Droit international
+          + [ ] Droit maritime
+          + [ ] Droit pénal
+          + [ ] Droit public
+          + [ ] Droit romain
+          + [ ] Jurisprudence
+          + [ ] Législation
+          + [ ] Palais (terme de)
+          + [ ] Pratique → Procédure
+          + [ ] Procédure
+     * [ ] Eaux et forêts
+     * [ ] (BUTTON)
+    ÉCONOMIE ET FINANCES
+          + [ ] Banque
+          + [ ] Bourse
+          + [ ] Commerce
+          + [ ] Comptabilité
+          + [ ] Économie
+          + [ ] Finances
+          + [ ] Fiscalité
+          + [ ] Monnaie
+          + [ ] Postes
+     * [ ] Écriture sainte (Bible)
+     * [ ] Écriture, Calligraphie
+     * [ ] Édition, Librairie
+     * [ ] Électricité
+     * [ ] Électronique
+     * [ ] Élevage
+     * [ ] Enseignement
+     * [ ] Entomologie
+     * [ ] Équitation, Manège
+     * [ ] Escrime
+     * [ ] Ethnologie
+     * [ ] Fauconnerie
+     * [ ] Féodalité, Moyen Âge
+     * [ ] Finances
+     * [ ] Fiscalité
+     * [ ] Fonderie
+     * [ ] Fortifications
+     * [ ] Généalogie
+     * [ ] Génétique
+     * [ ] Géodésie
+     * [ ] Géographie
+     * [ ] Géologie
+     * [ ] Géométrie
+     * [ ] Géomorphologie
+     * [ ] Géophysique
+     * [ ] Golf
+     * [ ] Grammaire
+     * [ ] Gravure
+     * [ ] Guerre (terme de)
+     * [ ] Gymnastique
+     * [ ] Habillement
+     * [ ] Héraldique (blason)
+     * [ ] Hippologie
+     * [ ] (BUTTON)
+    HISTOIRE [groupe]
+          + [ ] Antiquité
+          + [ ] Antiquité grecque
+          + [ ] Antiquité romaine
+          + [ ] Archéologie
+          + [ ] Chronologie
+          + [ ] Féodalité, Moyen Âge
+          + [ ] Généalogie
+          + [ ] Histoire
+          + [ ] Préhistoire
+     * [ ] Histoire littéraire
+     * [ ] Horlogerie
+     * [ ] Horticulture
+     * [ ] Hydrologie
+     * [ ] Imprimerie
+     * [ ] Informatique
+     * [ ] Jardinage
+     * [ ] (BUTTON)
+    JEUX [groupe]
+          + [ ] Billard
+          + [ ] Jeu d'échecs
+          + [ ] Jeu de dames
+          + [ ] Jeu de dés
+          + [ ] Jeu de paume
+          + [ ] Jeu de quilles
+          + [ ] Jeu de trictrac
+          + [ ] Jeux de cartes
+     * [ ] Jeux de ballon
+     * [ ] Joaillerie
+     * [ ] Journalisme
+     * [ ] Jurisprudence
+     * [ ] Législation
+     * [ ] Linguistique
+     * [ ] Littérature
+     * [ ] Liturgie
+     * [ ] Logique
+     * [ ] Maçonnerie
+     * [ ] Maréchalerie
+     * [ ] Marine
+     * [ ] (BUTTON)
+    MATHÉMATIQUES [groupe]
+          + [ ] Algèbre
+          + [ ] Arithmétique
+          + [ ] Géométrie
+          + [ ] Logique
+          + [ ] Mathématiques
+          + [ ] Statistiques
+     * [ ] Mécanique
+     * [ ] (BUTTON)
+    MÉDECINE [groupe]
+          + [ ] Anatomie
+          + [ ] Chirurgie
+          + [ ] Génétique
+          + [ ] Médecine
+          + [ ] Médecine vétérinaire
+          + [ ] Obstétrique
+          + [ ] Ophtalmologie
+          + [ ] Pathologie
+          + [ ] Pharmacie
+          + [ ] Psychiatrie
+          + [ ] Psychopathologie
+     * [ ] Menuiserie, Ébénisterie
+     * [ ] Mesures
+     * [ ] Métallurgie
+     * [ ] Météorologie
+     * [ ] (BUTTON)
+    MILITAIRE (ART)
+          + [ ] Administration militaire
+          + [ ] Armes
+          + [ ] Artillerie
+          + [ ] Guerre (terme de)
+          + [ ] Militaire (terme)
+     * [ ] Minéralogie
+     * [ ] Mines
+     * [ ] Monnaie
+     * [ ] Morale
+     * [ ] Musique
+     * [ ] Mysticisme
+     * [ ] Mythologie
+     * [ ] Numismatique (monnaies et médailles)
+     * [ ] Obstétrique
+     * [ ] Œnologie
+     * [ ] Ophtalmologie
+     * [ ] Optique
+     * [ ] Orfèvrerie
+     * [ ] Palais (terme de)
+     * [ ] Paléontologie
+     * [ ] Papeterie
+     * [ ] Parfumerie, cosmétiques
+     * [ ] Pathologie
+     * [ ] Pâtisserie
+     * [ ] Peausserie
+     * [ ] Pêche
+     * [ ] Peinture
+     * [ ] Pharmacie
+     * [ ] Philosophie
+     * [ ] Philosophie scolastique
+     * [ ] Phonétique
+     * [ ] Photographie
+     * [ ] Physiologie
+     * [ ] (BUTTON)
+    PHYSIQUE [groupe]
+          + [ ] Acoustique
+          + [ ] Astronomie
+          + [ ] Balistique
+          + [ ] Électricité
+          + [ ] Électronique
+          + [ ] Mécanique
+          + [ ] Mesures
+          + [ ] Optique
+          + [ ] Physique
+     * [ ] Poésie
+     * [ ] Politique
+     * [ ] Ponts et Chaussées
+     * [ ] Postes
+     * [ ] Pratique → Procédure
+     * [ ] Préhistoire
+     * [ ] Procédure
+     * [ ] Prosodie
+     * [ ] Psychanalyse
+     * [ ] Psychiatrie
+     * [ ] Psychologie
+     * [ ] Psychopathologie
+     * [ ] Pyrotechnie
+     * [ ] (BUTTON)
+    RELIGION ET SPIRITUALITÉ
+          + [ ] Dévotion
+          + [ ] Dogmatique
+          + [ ] Écriture sainte (Bible)
+          + [ ] Liturgie
+          + [ ] Mysticisme
+          + [ ] Religion
+          + [ ] Religion catholique
+          + [ ] Religion chrétienne
+          + [ ] Religion islamique
+          + [ ] Religion juive
+          + [ ] Spiritualité
+          + [ ] Théologie
+     * [ ] Reliure
+     * [ ] Rhétorique
+     * [ ] Sciences
+     * [ ] (BUTTON)
+    SCIENCES DE LA TERRE
+          + [ ] Géodésie
+          + [ ] Géographie
+          + [ ] Géologie
+          + [ ] Géomorphologie
+          + [ ] Géophysique
+          + [ ] Hydrologie
+          + [ ] Météorologie
+          + [ ] Minéralogie
+          + [ ] Paléontologie
+          + [ ] Topographie, Hydrographie
+     * [ ] Sciences naturelles
+     * [ ] Sculpture
+     * [ ] Sellerie
+     * [ ] Serrurerie
+     * [ ] Ski
+     * [ ] Sociologie
+     * [ ] Spectacles
+     * [ ] Spiritualité
+     * [ ] (BUTTON)
+    SPORTS [groupe]
+          + [ ] Alpinisme
+          + [ ] Athlétisme
+          + [ ] Courses
+          + [ ] Cyclisme
+          + [ ] Équitation, Manège
+          + [ ] Escrime
+          + [ ] Golf
+          + [ ] Gymnastique
+          + [ ] Jeux de ballon
+          + [ ] Ski
+          + [ ] Sports de combat
+          + [ ] Tennis, tennis de table
+     * [ ] Statistiques
+     * [ ] Sylviculture
+     * [ ] (BUTTON)
+    TECHNIQUES ET MÉTIERS
+          + [ ] Ameublement
+          + [ ] Céramique
+          + [ ] Coiffure
+          + [ ] Couture
+          + [ ] Fonderie
+          + [ ] Habillement
+          + [ ] Horlogerie
+          + [ ] Imprimerie
+          + [ ] Joaillerie
+          + [ ] Maréchalerie
+          + [ ] Menuiserie, Ébénisterie
+          + [ ] Métallurgie
+          + [ ] Mines
+          + [ ] Orfèvrerie
+          + [ ] Papeterie
+          + [ ] Parfumerie, cosmétiques
+          + [ ] Peausserie
+          + [ ] Pyrotechnie
+          + [ ] Reliure
+          + [ ] Sellerie
+          + [ ] Serrurerie
+          + [ ] Technique (terme)
+          + [ ] Télécommunications
+          + [ ] Textile (industrie)
+          + [ ] Typographie
+          + [ ] Verrerie
+     * [ ] Télécommunications
+     * [ ] Télévision
+     * [ ] Tennis, tennis de table
+     * [ ] Textile (industrie)
+     * [ ] Théâtre
+     * [ ] Théologie
+     * [ ] Topographie, Hydrographie
+     * [ ] Transports
+     * [ ] Travaux publics
+     * [ ] Typographie
+     * [ ] Urbanisme
+     * [ ] Vènerie
+     * [ ] Verrerie
+     * [ ] Versification
+     * [ ] Viticulture
+     * [ ] (BUTTON)
+    ZOOLOGIE [groupe]
+          + [ ] Conchyliologie (crustacés)
+          + [ ] Entomologie
+          + [ ] Hippologie
+          + [ ] Zoologie
+
+Recherche par entrées :
+
+   ____________________
+   [ ] Ignorer les accents
+
+Recherche par catégorie grammaticale :
+
+   Liste hierarchique des catégories grammaticale
+
+   (BUTTON) Liste des catégories grammaticales
+     * [ ] (BUTTON)
+    abréviation et symbole
+          + [ ] abréviation
+          + [ ] symbole
+     * [ ] (BUTTON)
+    adjectif
+          + [ ] adjectif
+          + [ ] adjectif numéral
+     * [ ] adverbe
+     * [ ] article
+     * [ ] conjonction
+     * [ ] (BUTTON)
+    élément (préfixe, suffixe)
+          + [ ] préfixe
+          + [ ] suffixe
+     * [ ] interjection
+     * [ ] (BUTTON)
+    locution
+          + [ ] locution
+          + [ ] locution adjectivale
+          + [ ] locution adverbiale
+          + [ ] locution conjonctive
+          + [ ] locution prépositive
+     * [ ] (BUTTON)
+    nom
+          + [ ] nom
+          + [ ] nom masculin
+          + [ ] nom féminin
+     * [ ] possessif (adjectif, pronom)
+     * [ ] pronom
+     * [ ] préposition
+     * [ ] (BUTTON)
+    verbe
+          + [ ] verbe
+          + [ ] verbe transitif
+          + [ ] verbe intransitif
+          + [ ] verbe pronominal
+          + [ ] verbe réciproque
+          + [ ] verbe impersonnel
+
+Recherche dans l’étymologie :
+
+par langue
+
+   Liste hierarchique par langue
+
+   (BUTTON) Liste des langues
+     * [ ] aborigènes d'Australie (langues)
+     * [ ] (BUTTON)
+    africaines (langues)
+          + [ ] africaine (langue)
+          + [ ] bantou
+          + [ ] malinké
+          + [ ] swahili
+          + [ ] wolof
+          + [ ] yoruba
+          + [ ] zoulou
+     * [ ] (BUTTON)
+    allemand [groupe]
+          + [ ] alémanique
+          + [ ] allemand
+          + [ ] alsacien
+     * [ ] (BUTTON)
+    amérindiennes (langues)
+          + [ ] algonquin
+          + [ ] amérindienne (langue)
+          + [ ] arawak
+          + [ ] caraïbe
+          + [ ] inuit
+          + [ ] nahuatl
+          + [ ] quechua
+          + [ ] taïno
+          + [ ] tupi-guarani
+     * [ ] (BUTTON)
+    anglais et anglo-américain
+          + [ ] anglais
+          + [ ] anglais des États-Unis
+     * [ ] arabe
+     * [ ] (BUTTON)
+    Asie (langues d')
+          + [ ] birman
+          + [ ] chinois
+          + [ ] thaï
+          + [ ] tibétain
+          + [ ] vietnamien
+     * [ ] basque
+     * [ ] (BUTTON)
+    caucasiennes (langues)
+          + [ ] caucasien
+          + [ ] géorgien
+     * [ ] (BUTTON)
+    celtiques (langues)
+          + [ ] breton
+          + [ ] celtique
+          + [ ] écossais
+          + [ ] gaélique
+          + [ ] gallois
+          + [ ] gaulois
+          + [ ] irlandais
+     * [ ] chinois
+     * [ ] coréen
+     * [ ] (BUTTON)
+    dravidiennes (langues)
+          + [ ] dravidienne (langue) [Inde]
+          + [ ] malayalam
+          + [ ] tamoul
+     * [ ] égyptien (ancien)
+     * [ ] espagnol
+     * [ ] étrusque
+     * [ ] (BUTTON)
+    finno-ougriennes (langues)
+          + [ ] finnois
+          + [ ] hongrois
+     * [ ] (BUTTON)
+    français (non régional)
+          + [ ] ancien français
+          + [ ] anglo-normand
+          + [ ] argot
+          + [ ] français (non régional)
+          + [ ] gallo-roman
+          + [ ] moyen français
+     * [ ] (BUTTON)
+    français (régional ou dialectal) de France
+          + [ ] français d'oïl
+          + [ ] français régional ou dialectal
+          + [ ] franco-provençal
+          + [ ] gascon
+          + [ ] languedocien
+          + [ ] normand
+          + [ ] occitan
+          + [ ] picard
+          + [ ] provençal
+     * [ ] (BUTTON)
+    français hors de France
+          + [ ] créole
+          + [ ] français de Suisse
+          + [ ] français du Canada
+          + [ ] wallon
+     * [ ] francique
+     * [ ] gaulois
+     * [ ] (BUTTON)
+    germaniques (langues)
+          + [ ] francique
+          + [ ] germanique
+          + [ ] gotique
+     * [ ] grec
+     * [ ] hébreu
+     * [ ] (BUTTON)
+    indo-aryennes (langues)
+          + [ ] bengali
+          + [ ] cingalais
+          + [ ] hindi
+          + [ ] hindoustani
+          + [ ] indo-aryenne (langue)
+          + [ ] népalais
+          + [ ] sanscrit
+     * [ ] (BUTTON)
+    indo-européen (langues isolées de l')
+          + [ ] indo-européen
+          + [ ] romani
+          + [ ] tsigane
+     * [ ] (BUTTON)
+    iraniennes (langues)
+          + [ ] avestique
+          + [ ] iranien
+          + [ ] pashtô
+          + [ ] persan
+     * [ ] (BUTTON)
+    italien [groupe]
+          + [ ] corse
+          + [ ] italien
+          + [ ] vénitien
+     * [ ] japonais
+     * [ ] (BUTTON)
+    latin [groupe]
+          + [ ] bas latin
+          + [ ] latin
+          + [ ] latin chrétien ou ecclésiastique
+          + [ ] latin impérial
+          + [ ] latin médiéval
+          + [ ] latin populaire
+          + [ ] latin scientifique
+     * [ ] (BUTTON)
+    malayo-polynésiennes (langues)
+          + [ ] malais
+          + [ ] malayo-polynésienne (langue)
+          + [ ] malgache
+          + [ ] maori
+          + [ ] polynésien
+          + [ ] tahitien
+     * [ ] (BUTTON)
+    néerlandais [groupe]
+          + [ ] flamand
+          + [ ] néerlandais
+     * [ ] (BUTTON)
+    nordiques (langues)
+          + [ ] danois
+          + [ ] islandais
+          + [ ] nordique
+          + [ ] norvégien
+          + [ ] scandinave
+          + [ ] suédois
+     * [ ] normand
+     * [ ] persan
+     * [ ] portugais
+     * [ ] provençal
+     * [ ] (BUTTON)
+    romanes (autres langues)
+          + [ ] catalan
+          + [ ] romane (autre langue)
+          + [ ] sarde
+     * [ ] russe
+     * [ ] sanscrit
+     * [ ] (BUTTON)
+    sémitiques (langues)
+          + [ ] amharique
+          + [ ] arabe
+          + [ ] araméen
+          + [ ] berbère
+          + [ ] hébreu
+          + [ ] sémitique
+          + [ ] syriaque
+     * [ ] (BUTTON)
+    slaves (langues)
+          + [ ] polonais
+          + [ ] russe
+          + [ ] serbo-croate
+          + [ ] slave
+          + [ ] tchèque
+          + [ ] ukrainien
+     * [ ] (BUTTON)
+    turques (langues) [ouralo-altaïques]
+          + [ ] kirghiz
+          + [ ] mongol
+          + [ ] ouïgour
+          + [ ] toungouse
+          + [ ] turc
+     * [ ] *acronymes
+     * [ ] (BUTTON)
+    *dérivés de noms de personnes ou de lieux
+          + [ ] *dérivé de nom de lieu
+          + [ ] *dérivé de nom de personne
+     * [ ] *noms et marques déposés
+     * [ ] *origine incertaine ou inconnue
+
+par datation
+
+   [Liste des datations]
+
+Filtre par éditions :
+
+   [9ᵉ édition (actuelle)le)]
+   Statut du mot : [ ] apparu [ ] disparu
+   Information
+   (BUTTON) Rechercher (BUTTON) Réinitialiser
+   (BUTTON)
+     * Accueil
+     * Recherche avancée
+     * Aide en ligne
+     * Préfaces et annexes
+     * Présentation
+     * Crédits
+
+   Logo Académie Française
+   (BUTTON) Aller au contenu Aide en ligne
+   Préfaces
+   Paramètres d’accessibilité
+     * 1^re
+       1694
+     * 2^e
+       1718
+     * 3^e
+       1740
+     * 4^e
+       1762
+     * 5^e
+       1798
+     * 6^e
+       1835
+     * 7^e
+       1878
+     * 8^e
+       1935
+     * 9^e édition
+       ACTUELLE
+       ACT.
+
+   Dictionnaire de l’Académie française, 9^e édition (actuelle)
+   (BUTTON) Réduire la taille des caractères (BUTTON) Agrandir la taille
+   des caractères (BUTTON) Imprimer le texte de l’article (BUTTON)
+   Partager l’article
+
+   PARTAGER
+   (BUTTON)
+
+   Vous pouvez copier le lien suivant
+   dans le presse-papiers :
+   http://www.dictionna
+   (BUTTON) COPIER
+
+   Il vous permet de créer un lien hypertexte vers cet article du
+   Dictionnaire.
+
+   Consultez les conditions d’utilisation pour en savoir plus.
+
+ : ce mot correspond à plusieurs entrées :
+
+     * Mot 1
+
+Termes, abréviations et symboles
+
+     * Texte 1
+
+Saint-Esprit
+
+   (BUTTON)
+     * Accueil
+     * DÉFINITION
+     * VOIR AUSSI
+     * PAGE NUMÉRISÉE
+     * HISTOIRE DU MOT
+     * VOISINAGE ALPHABÉTIQUE
+     * HISTORIQUE DE CONSULTATION
+
+   (BUTTON) (BUTTON) (BUTTON) (BUTTON)
+
+ESPRIT
+
+   nom masculin
+   Étymologie : xii^e siècle, espirit, esperit ; xvi^e siècle, esprit.
+   Emprunté du latin spiritus, « souffle, respiration, odeur » et
+   « souffle divin, inspiration, âme ».
+
+I.
+
+   (BUTTON) section
+   I. Souffle.
+   1.  Dans la Bible, souffle divin qui vivifie, inspire et sanctifie. Au
+   commencement, l’esprit de Dieu planait sur les eaux. L’esprit du
+   Seigneur remplissait, inspirait les prophètes. Ce sage était rempli de
+   l’esprit de Dieu. L’esprit souffle où il veut.
+   2.  Marque de domaine : théologie. Le Saint-Esprit, l’Esprit-Saint, la
+   troisième personne de la sainte Trinité. L’Esprit-Saint est
+   généralement figuré par une colombe aux ailes déployées. Jésus promit à
+   ses apôtres l’assistance de l’Esprit-Saint. Les sept dons du
+   Saint-Esprit. La descente du Saint-Esprit sur les apôtres, le jour de
+   la Pentecôte. Baptiser au nom du Père et du Fils et du Saint-Esprit.
+   Pécher contre l’Esprit-Saint, contre l’Esprit.
+   ▪ Expr. fam. et iron. Cela ne s’est pas fait par l’opération du
+   Saint-Esprit, cela ne s’est pas fait tout seul.
+   ▪ Marque de domaine : histoire. L’ordre du Saint-Esprit, ordre de
+   chevalerie institué par Henri III. La croix des chevaliers du
+   Saint-Esprit portait en son milieu une colombe aux ailes déployées.
+   3.  Marque de domaine : écriture grecque. Signe placé sur la première
+   lettre des mots commençant par une voyelle ou par la consonne rhô, ou
+   sur la deuxième voyelle d’une diphtongue. On distingue l’esprit rude,
+   qui marque une aspiration, et l’esprit doux, qui marque l’absence
+   d’aspiration. Dans le mot « rhododendron », le « h » rappelle que le
+   mot grec correspondant porte un esprit rude.
+
+II.
+
+   (BUTTON) section
+   II. Émanation de certains corps.
+   1.  Ancien nom de divers gaz ou produits liquides et volatils. Esprit
+   alcalin, ammoniac. Esprit-de-vin, alcool éthylique obtenu par
+   distillation du vin. Esprit-de-bois, alcool méthylique, couramment
+   appelé Alcool à brûler. Esprit-de-sel, acide chlorhydrique. Marque de
+   domaine : pharmacie. Préparation obtenue avec de l’alcool éthylique que
+   l’on distille sur une ou plusieurs substances aromatiques ou
+   médicamenteuses (on dit aujourd’hui Alcoolat).
+   2.  Au pluriel. Esprits vitaux, esprits animaux ou, simplement,
+   esprits, selon la physiologie ancienne, éléments d’un fluide très
+   subtil, léger, chaud et invisible, qu’on supposait doués de la faculté
+   de porter la vie et le sentiment dans les diverses parties de
+   l’organisme. Selon certains, le cerveau, affinant les esprits vitaux,
+   les changeait en esprits animaux. La théorie des esprits animaux de
+   Descartes, de Malebranche.
+   ▪ N’est plus usité en ce sens que dans quelques expressions. La peur
+   glace les esprits. Perdre ses esprits, s’évanouir ou, fig., être égaré
+   par l’émotion. Reprendre, recouvrer, retrouver ses esprits, tous ses
+   esprits, reprendre conscience ou, fig., se remettre d’une vive émotion.
+   Il ne tarda guère, après sa chute, à reprendre ses esprits. Ne
+   l’interrogez pas maintenant, laissez-le reprendre ses esprits.
+
+III.
+
+   (BUTTON) section
+   III. Être ou principe immatériel.
+   1.  Marque de domaine : théologie. Être, essence immatériels. Dieu est
+   esprit. Spécialement. Esprits célestes, esprits de lumière, les anges.
+   Esprits bienheureux, les anges ou les âmes des saints qui sont au
+   paradis. L’esprit des ténèbres, l’esprit du Mal, l’esprit malin, le
+   diable. Esprits immondes (vieilli), esprits malins, esprits mauvais,
+   les anges déchus, les démons. Être possédé d’un esprit impur, d’un
+   esprit mauvais.
+   2.  Partie immatérielle de l’homme ; l’âme, par opposition au corps.
+   L’homme est à la fois corps et esprit. Expr. Rendre l’esprit, mourir.
+   Par métonymie. Souvent iron. Un pur esprit, une personne détachée du
+   corps et de ses contraintes.
+   ▪ Spécialement. Par opposition à la chair, dans l’Écriture sainte.
+   Vivre selon l’esprit et non selon la chair. L’esprit est prompt, mais
+   la chair est faible.
+   3.  Âme d’un défunt à laquelle on attribue certaines manifestations ;
+   revenant, fantôme. On disait cette maison hantée par les esprits.
+   Évoquer les esprits. Esprit, es-tu là ? formule utilisée dans les
+   séances de spiritisme. Esprit frappeur.
+   4.  Être imaginaire de la légende, censé présider à un phénomène
+   naturel ou influer sur la destinée d’un individu ou d’un groupe. Croire
+   aux esprits. Avoir peur des esprits. Il vivait dans un monde peuplé
+   d’esprits. Esprits élémentaires, voir Élémentaire. Esprit follet, petit
+   lutin espiègle. Il attribuait ses mécomptes à un malin petit esprit.
+   Esprit familier, sorte de génie que l’on croyait attaché à une
+   personne, pour la guider, l’inspirer, la servir. L’esprit familier de
+   Socrate, son démon.
+
+IV.
+
+   (BUTTON) section
+   IV. Principe de la pensée.
+   1.  Capacité propre à l’homme de concevoir, vouloir, sentir, imaginer,
+   se représenter, symboliser, etc. L’esprit humain. Les pouvoirs, les
+   limites de l’esprit. Le fonctionnement de l’esprit. Les opérations de
+   l’esprit. Les rapports de l’esprit et du monde, de l’esprit et de la
+   matière.
+    Titres célèbres : De l’Esprit, d’Helvétius (1758) ; Esquisse d’un
+   tableau historique des progrès de l’esprit humain, de Condorcet (1795).
+   ▪ Marque de domaine : philosophie. Dans la philosophie de Hegel. Esprit
+   absolu, qui résulte de l’unité dialectique de l’Esprit subjectif et de
+   l’Esprit objectif et achève, à travers l’art, la religion, la
+   philosophie, le mouvement conjoint de la pensée et du réel.
+    Titre célèbre : La Phénoménologie de l’Esprit, de Hegel (1807).
+   2.  Facultés ou dispositions mentales, prises dans leur ensemble ou en
+   particulier. Étroitesse d’esprit. Justesse d’esprit. Élévation
+   d’esprit. Largeur d’esprit. Fraîcheur d’esprit. Esprit modéré. Esprit
+   inquiet. Esprit superficiel. Esprit entier. Esprit volage. Esprit
+   fâcheux, chagrin. Esprit faux. Cette idée m’a traversé l’esprit. Avoir
+   cela présent à l’esprit, y être attentif. Fixer son esprit sur un
+   point, une question donnés. Ce fut le premier mot qui me vint à
+   l’esprit. Cela m’est complètement sorti de l’esprit. Ôtez cela de votre
+   esprit. Un soupçon, une inquiétude s’empara de son esprit. Avoir
+   l’esprit en proie au doute. Frapper l’esprit d’effroi. Cette querelle
+   avait échauffé les esprits. Calmer, apaiser les esprits. Présence
+   d’esprit, aptitude à réagir promptement et avec à-propos. Expr. En
+   esprit, par la pensée, l’imagination. Je serai de cœur et en esprit
+   avec vous. Avoir l’esprit à ce qu’on fait, être attentif à sa tâche.
+   Avoir l’esprit ailleurs, être distrait. Avoir l’esprit dispos.
+   ▪ Spécialement. L’ensemble des capacités psychiques. Être sain de corps
+   et d’esprit. Un simple d’esprit, une personne atteinte plus ou moins
+   gravement de déficience mentale. Expr. Perdre l’esprit, perdre la
+   raison, déraisonner. Avoir l’esprit dérangé.
+   3.  Faculté de comprendre, intelligence, intellect. Cultiver,
+   entretenir, développer son esprit. Former son esprit. Appliquer son
+   esprit aux mathématiques. Les joies, les plaisirs de l’esprit. Une
+   construction de l’esprit. Un jeu de l’esprit. Une vue de l’esprit, une
+   conception abstraite et, péj., une idée sans fondement ou sans
+   application possible.
+   4.  Forme particulière de l’intelligence. Il a l’esprit philosophique.
+   Esprit scientifique. Esprit méthodique, logique, critique. Les Français
+   ont la réputation d’avoir l’esprit cartésien. Esprit d’observation.
+   Esprit inventif. Esprit de système, goût excessif pour les
+   constructions théoriques. Esprit d’analyse, de synthèse. Pascal a
+   distingué l’esprit de finesse et l’esprit de géométrie. Esprit
+   pratique. Esprit de suite, aptitude à persévérer.
+   5.  Vivacité de la pensée, faculté d’exprimer ses idées de façon
+   ingénieuse et piquante. Avoir de l’esprit. Il a raconté cette anecdote
+   avec beaucoup d’esprit. Réponse, repartie pleine d’esprit. Il a plus
+   d’esprit que de jugement. Un homme, une femme d’esprit. Un mot
+   d’esprit. Un trait d’esprit. Bureau d’esprit (très vieilli), voir
+   Bureau.
+   ▪ Expr. Montrer de l’esprit. Faire de l’esprit, courir après l’esprit,
+   chercher à briller en multipliant les bons mots. Ce n’est pas le moment
+   de faire de l’esprit ! Faire assaut d’esprit, rivaliser de bons mots.
+   Avoir de l’esprit jusqu’au bout des ongles, avoir de l’esprit comme
+   quatre, avoir beaucoup d’esprit. Esprit d’à-propos, aptitude à donner
+   la repartie. Avoir l’esprit de l’escalier, voir Escalier. Jeu d’esprit,
+   réplique plaisante. Jeux d’esprit, jeux de société faisant appel à la
+   vivacité intellectuelle.
+
+V.
+
+   (BUTTON) section
+   V. Manière de penser, de juger.
+   1.  Ensemble des dispositions particulières d’une personne, d’un
+   groupe, d’une époque. État d’esprit, manière de considérer les choses à
+   un moment donné. La guerre avait modifié l’état d’esprit de la
+   population. L’esprit d’un pays, d’un peuple. L’esprit général d’une
+   nation. L’esprit allemand, l’esprit anglais, l’esprit français.
+   L’esprit public (vieilli), l’opinion publique. Je connais bien l’esprit
+   des habitants de cette région. L’esprit du temps portait à la
+   contestation. L’esprit d’une génération. Cette idée n’est pas dans
+   l’esprit de l’époque. Se laisser gagner par l’esprit du siècle.
+   ▪ Par métonymie. L’esprit d’une revue, d’un journal. Avoir l’esprit de
+   son état.
+   2.  Ce qui inspire ou détermine telle attitude, tel comportement propre
+   à une personne, à un groupe, à une époque. Esprit de dénigrement. Il
+   agit ainsi par esprit de contradiction. Il vous fait cette proposition
+   dans un esprit de conciliation. Cela procède du même esprit. Esprit
+   d’intrigue, de rébellion. Esprit de révolte. Esprit de revanche. Esprit
+   de sacrifice. Esprit de pauvreté, de charité. Esprit civique. Esprit de
+   liberté. Par extension. Il est parti sans esprit de retour, sans
+   intention de revenir. Spécialement. Attachement des membres d’une
+   communauté aux usages, aux droits, aux biens de celle-ci. Esprit de
+   famille. Esprit d’équipe. Esprit de classe. Esprit de clan. Esprit de
+   parti. Esprit de corps, voir Corps. Esprit de clocher, voir Clocher I
+   ou Campanilisme.
+   3.  Expr. Avoir bon esprit, avoir le sens de la discipline, accepter
+   les règles ou les usages couramment admis. Avoir le bon esprit de,
+   avoir l’idée opportune de. Il a eu le bon esprit de ne pas insister.
+   Avoir mauvais esprit, être porté à l’indiscipline. Avoir l’esprit mal
+   tourné, prendre systématiquement les choses en mauvaise part et, en
+   particulier, être porté à donner un sens scabreux à des propos anodins.
+   Perdre quelqu’un dans l’esprit d’une autre personne, nuire à quelqu’un
+   par des propos malveillants ou diffamatoires. Dans mon esprit, dans ma
+   pensée, à mon avis. Dans mon esprit, cette entrevue n’était qu’un
+   préalable. Dans l’esprit de son fondateur, cette institution devait
+   être ouverte à tous.
+   ▪ Marque de domaine : Écriture sainte. Heureux les pauvres en esprit.
+   4.  Sens profond d’un texte, inspiration essentielle qui caractérise
+   une œuvre, une doctrine. La lettre et l’esprit. Il faut considérer
+   l’esprit de la loi au lieu de s’attacher à sa lettre. La lettre tue et
+   l’esprit vivifie. Fausser l’esprit d’un règlement. L’esprit d’un
+   traité, d’une constitution. L’esprit d’un ouvrage.
+    Titre célèbre : De l’esprit des lois, de Montesquieu (1748).
+
+VI.
+
+   (BUTTON) section
+   VI. Personne considérée comme être pensant, du point de vue de ses
+   qualités intellectuelles ou morales, de son jugement, de son
+   comportement.
+   C’est un esprit puissant, original, supérieur, novateur. Un esprit
+   audacieux. C’était un esprit éclairé, cultivé. Un bon esprit, une
+   personne de bon jugement. Esprit fort, surtout aux xvii^e et
+   xviii^e siècles, personne qui se complaisait à faire profession
+   d’incrédulité. Bel esprit (vieilli), personne qui allie la culture à la
+   distinction ; aujourd'hui, souvent iron. Il fait, il joue le bel
+   esprit. Messieurs les beaux esprits ! Un petit esprit, un homme à
+   l’intelligence bornée et aux pensées mesquines. Expr. iron. Les grands
+   esprits se rencontrent, formule utilisée quand plusieurs personnes ont
+   la même idée en même temps.
+   Voir aussi (BUTTON) section
+     * [Courrier des internautes] Simon N. (Canada), 07/2017
+
+   Liens externes (BUTTON) section
+     * [Francophonie (BDLP)] esprit (Québec, Réunion, Tchad)
+     * [Francophonie (OQLF)] partisanerie (Québec/Canada) • esprit de
+       parti
+
+   Vous pouvez cliquer sur n’importe quel mot pour naviguer dans le
+   dictionnaire.
+
+VOISINAGE ALPHABÉTIQUE
+
+     * saint-augustin, n. m. [7^e édition]
+     * saint-bernard, n. m. inv.
+     * saint-crépin, n. m. inv.
+     * saint-cyrien, saint-cyrienne, n.
+     * sainte-barbe, n. f.
+     * sainte-maure, n. m. inv.
+     * saintement, adv.
+     * saint-émilion, n. m. inv.
+     * Saint-Empire, n. m.
+     * sainte nitouche, n. f.
+     * Saint-Esprit, n. m.
+     * saint-estèphe, n. m. inv.
+     * sainteté, n. f.
+     * saint-frusquin, n. m. inv.
+     * saint-germain, n. m. inv.
+     * saint-glinglin (à la), loc. adv.
+     * saint-honoré, n. m. inv.
+     * saint-marcellin, n. m. inv.
+     * saint-nectaire, n. m. inv.
+     * Saint-Office, n. m.
+
+VOIR AUSSI
+
+     * Courrier des internautes [1]
+     * Francophonie (BDLP) [1]
+     * Francophonie (OQLF) [1]
+
+ORTHOGRAPHE
+
+PAGE NUMÉRISÉE
+
+HISTOIRE DU MOT
+
+     * Saint-Esprit, n. m.
+
+HISTORIQUE DE CONSULTATION
+
+     * Académie française
+     * Aide en ligne
+     * Mentions légales
+     * Accessibilité
+     * Contacts

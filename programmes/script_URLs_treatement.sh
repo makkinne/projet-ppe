@@ -2,10 +2,12 @@
 export LANG=en_US.UTF-8
 export LC_ALL=en_US.UTF-8
 
-if [ $# -ne 4 ]
+if [ $# -ne 5 ]
 then
     echo "ATTENTION! ce script va supprimer le contenu du dossier aspirations"
-    echo "Le script attend strictement quatre arguments: le chemin vers le fichier d'URL et le chemin vers le dossier de sortie"
+    echo "Le script attend strictement cinq arguments: le chemin vers le fichier d'URL et le chemin vers le dossier de sortie"
+    echo "et le nom du fichier de résultat, le mot clé et la langue"
+    echo "pour la langue écrire 'it|fr|ru'"
     exit
 fi
 
@@ -13,6 +15,7 @@ FICHIER_URL=$1 # fichier contenant les URLs à traiter
 DOSSIER_TABLEAUX=$2 # dossier de sortie pour les fichiers générés
 FICHIER_RESULTAT=$3 # nom de fichier résultat
 MOT_CLE=$4 # regex
+LANGUE=$5 # la langue, pour pouvoir nommer les fichiers
 
 # Créer les dossiers s'ils n'existent pas
 mkdir -p "$DOSSIER_TABLEAUX/../aspirations"
@@ -45,9 +48,9 @@ while read -r URL; do
     if [ -n "$URL" ]; then
         echo "Traitement de la ligne $lineno: $URL"
 
-        f_aspirations="$DOSSIER_TABLEAUX/../aspirations/$lineno.html"
-        f_dump="$DOSSIER_TABLEAUX/../dumps-text/$lineno.txt"
-        f_contexte="$DOSSIER_TABLEAUX/../contextes/$lineno.txt"
+        f_aspirations="$DOSSIER_TABLEAUX/../aspirations/${LANGUE}-${lineno}.html"
+        f_dump="$DOSSIER_TABLEAUX/../dumps-text/${LANGUE}-${lineno}.txt"
+        f_contexte="$DOSSIER_TABLEAUX/../contextes/${LANGUE}-${lineno}.txt"
 
         code=$(curl -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" -L -s -o "$f_aspirations" -w "%{http_code}" "$URL")
 		encoding="N/A"
@@ -60,7 +63,7 @@ while read -r URL; do
                 encoding="utf-8"
             fi
 
-			lynx -dump -nolist -assume_charset="$encoding" -display_charset=UTF-8 "$f_aspirations" | iconv -f "UTF-8" -t "UTF-8//IGNORE" -c > "$f_dump"
+			cat "$f_aspirations" | lynx -stdin -dump -nolist -assume_charset="$encoding" -display_charset=UTF-8 | iconv -f "UTF-8" -t "UTF-8//IGNORE" -c > "$f_dump"
 
             grep -E -i -C 2 "$MOT_CLE" "$f_dump" > "$f_contexte"
 
@@ -81,9 +84,9 @@ while read -r URL; do
             <td><a href=\"$URL\" target=\"_blank\">$URL</a></td>
             <td>$code</td>
             <td>$encoding</td>
-            <td><a href=\"../aspirations/$lineno.html\">html</a></td>
-            <td><a href=\"../dumps-text/$lineno.txt\">txt</a></td>
-            <td><a href=\"../contextes/$lineno.txt\">contexte ($nb_contexte lignes)</a></td>
+            <td><a href=\"../aspirations/${LANGUE}-${lineno}.html\">html</a></td>
+            <td><a href=\"../dumps-text/${LANGUE}-${lineno}.txt\">txt</a></td>
+            <td><a href=\"../contextes/${LANGUE}-${lineno}.txt\">contexte ($nb_contexte lignes)</a></td>
         </tr>" >> "$FICHIER_RESULTAT"
 
         ((lineno++))

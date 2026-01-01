@@ -1,0 +1,343 @@
+   #CESI » Flux CESI » Flux des commentaires oEmbed (JSON) oEmbed (XML)
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-PK6VR32
+
+     * Aller au contenu
+     * Aller à la navigation
+     * Aller à la recherche
+
+   CESI - École d’Ingénieurs - Accueil
+     * (BUTTON) Programmes
+          + Programme Grande École
+               o Cursus ingénieur·e en 5 ans
+               o Cursus ingénieur·e en 3 ans
+               o Cursus ingénieur·e section anglophone
+          + Bac+2 - Technicien·ne supérieur·e
+               o Bac+2 – Cursus technicien·ne supérieur·e
+          + Bac+3 – Bachelor
+               o Bachelor de spécialité
+               o Bachelor en sciences et ingénierie
+               o Bachelor passerelle ingénieur·e
+          + Bac+5 – Mastère Professionnel
+               o Bac+5 – Mastère professionnel
+          + Bac +6 - Mastère Spécialisé®
+               o Bac+6 – Mastère Spécialisé®
+          + Programme Executive
+               o Certificat
+               o Mastère Spécialisé®
+               o Formation professionnelle
+               o Formation d’ingénieur·e
+               o Ingénieur Diplômé par l’État (IDPE)
+          + Programme Doctoral
+               o Programme Doctoral
+          + Programmes Internationaux
+               o Foundation Years
+               o Bachelor’s Degree
+               o Diplôme d’ingénieur en 5 ans
+               o Master’s Degree
+               o Mastère Spécialisé®
+               o Master of Science
+               o Short Programs
+     * (BUTTON) Domaines
+          + BTP & Génie Civil
+          + Industrie & Innovation
+          + Informatique & Numérique
+          + RH & Management
+          + QSE & Développement Durable
+     * (BUTTON) Admissions
+          + Programme Grande École
+               o Cursus ingénieur·e en 5 ans
+               o Cursus ingénieur·e en 3 ans
+          + Bac+2 - Technicien·ne supérieur·e
+               o Bac+2 - Cursus technicien·ne supérieur·e
+          + Bac+3 – Bachelor
+               o Bachelor de spécialité
+               o Bachelor en sciences et en ingénierie
+               o Bachelor passerelle ingénieur·e
+          + Bac+5 – Mastère Professionnel
+               o Bac+5 - Mastère professionnel
+          + Bac +6 - Mastère Spécialisé®
+               o Bac+6 – Mastère Spécialisé®
+          + Programme Executive
+               o Certificat
+               o Mastère Spécialisé®
+               o Formation professionnelle
+               o Formation d’ingénieur·e
+               o Ingénieur Diplômé par l’État (IDPE)
+               o Validation des acquis de l’expérience (VAE)
+          + Programme Doctoral
+               o Programme doctoral
+          + Programmes Internationaux
+               o Foundation Years
+               o Bachelor’s Degree
+               o Diplôme d’ingénieur en 5 ans
+               o Master’s Degree
+               o Mastère Spécialisé®
+               o Master of Science
+               o Short Programs
+     * (BUTTON) Campus
+          + Est
+               o Dijon
+               o Nancy
+               o Reims
+               o Strasbourg
+               o Thionville
+          + Île-de-France - Centre
+               o Orléans
+               o Paris (La Défense - Nanterre)
+               o Tours
+          + Ouest
+               o Angoulême
+               o Brest
+               o Le Mans
+               o La Rochelle
+               o Nantes
+               o Saint-Nazaire
+          + Sud-Est
+               o Aix-en-Provence
+               o Grenoble
+               o Lyon
+               o Nice
+          + Sud-Ouest
+               o Bordeaux
+               o Montpellier
+               o Pau
+               o Toulouse
+          + Nord-Ouest
+               o Arras
+               o Caen
+               o Lille
+               o Rouen
+
+   (BUTTON) Accès
+     * Unité de recherche
+     * (BUTTON) Entreprises
+          + Recruter avec CESI
+          + Former ou certifier vos collaborateurs
+          + Devenir partenaire
+          + Chaires d’enseignement et de recherche
+          + Taxe d’apprentissage
+     * Presse
+     * (BUTTON) Carrières
+          + Travailler à CESI
+          + Nos métiers
+          + Nos offres
+          + Votre parcours d’intégration
+          + Conditions de travail et qualité de vie à CESI
+          + Devenir intervenant
+
+     * Site français FR
+     * English website EN
+          + Contact
+          + Rechercher
+          + (BUTTON) École
+               o Qui sommes-nous ?
+               o Engagements & Diversité
+               o Classements
+               o Histoire & Valeurs
+               o Gouvernance
+               o Pédagogie
+               o Accompagnement
+               o Diplômes & Certifications
+               o Vie de campus
+          + (BUTTON) Recherche et innovation
+               o Unité de recherche CESI LINEACT
+               o LAB’CESI
+               o VR’LAB
+               o Salle BIM
+               o Créativ’Lab
+               o Plateaux pédagogiques
+               o Démonstrateurs CESI
+          + (BUTTON) International
+               o Stratégie internationale
+               o Partenariats & Réseaux
+               o Etudiants internationaux entrants
+               o Etudiants sortants
+               o Erasmus +
+               o Doubles Diplômes
+          + Alumni
+          + (BUTTON) Actualités
+               o Actualités
+               o Agenda / JPO
+               o Partenariat Ipsos / CESI
+               o Témoignages
+          + Parcoursup® 2026
+       (BUTTON) Trouvez votre formation
+       Laissez-vous guider selon votre profil pour aller charger la page
+       correspondante
+       [Vous êtes…_____________________________...]
+       (BUTTON) OK
+       Trouvez le programme de formation qui vous convient
+       ____________________ (BUTTON) OK
+       (BUTTON) Menus
+       Fil d’Ariane
+         1. Accueil
+         2. Executive
+         3. Formation professionnelle
+         4. Approche augmentée soft skills : Esprit d’équipe
+   Programme Executive
+          + Professionnel·le
+          + Entreprise
+       Sélectionnez un profil
+       [Professionnel·lee]
+       (BUTTON) OK
+
+Approche augmentée soft skills : Esprit d’équipe
+       Développer l'esprit d'équipe pour rendre son collectif performant
+
+Dans cette page :
+          + Synthèse
+          + Présentation
+          + Programme
+          + Débouchés
+          + Campus
+          + Admission
+          + (BUTTON) Télécharger les fiches PDF
+               o Fiche module (pdf) (Ouvre un nouvel onglet)
+          + (BUTTON) Partager cette fiche
+               o Partager sur Facebook (Ouvre un nouvel onglet)
+               o Partager sur Linkedin (Ouvre un nouvel onglet)
+               o Partager par email (Ouvre un nouvel onglet)
+          + Déposer une candidature
+
+Synthèse : la formation en un coup d’œil
+
+Points clés
+          + Sous statut Formation continue
+          + Durée : 1 jour sur une amplitude de 2 mois
+          + Code WEB : MGT84
+
+Le public
+       Managers de proximité de tous secteurs d'activité, agents de
+       maîtrise, chefs d'équipe, animateurs de groupe
+
+Le prérequis
+          + Aucun prérequis exigé
+
+Frais de scolarité
+       600 euros TTC
+       Tarif applicable pour toute inscription réalisée en 2026.
+
+Présentation
+
+Certification
+       OPEN BADGE CESI : validation numérique de compétences et de
+       connaissances
+
+Le système d’évaluation
+       Ce module fait l'objet d'une évaluation en fin de programme
+
+Le programme
+
+Objectifs
+          + Renforcer la solidarité et l’entre-aide entre ses
+            collaborateurs
+          + Réussir collectivement
+          + Susciter la participation de tous
+
+Détail du programme
+
+Déclencheurs de la performance collective, confiance et valeurs communes,
+exemplarité
+          + Cette journée spécifique, dédiée au développement de la soft
+            skill esprit d'équipe, repose sur une expérience unique basée
+            sur 3 caractéristiques :
+          + - une expérimentation qui renforce le plaisir d'apprendre
+          + - un apprentissage 100% expérientiel
+          + - un débriefing en fin de journée pour faire le lien entre
+            l'expérience vécue et la mise en oeuvre de la compétence
+            développée dans son quotidien professionnel
+
+Les points forts
+       Le module esprit d'équipe permet de comprendre l'intérêt de faire
+       passer le collectif avant l'individuel. Les échanges entre pairs et
+       avec nos intervenants experts  enrichissent les compétences et
+       contribuent à la prise de conscience. Tout en élargissant les
+       points de vue, il développe cet esprit d'équipe et permet de
+       transposer directement les connaissances acquises dans son contexte
+       professionnel.
+
+Les ouvertures dans nos campus
+          + Arras  (09/03/2026)
+          + Nancy  (05/01/2026)
+          + Reims  (12/01/2026, 20/11/2026)
+          + Strasbourg  (22/01/2026)
+         ______________________________________________________________
+
+Contact
+       Appelez le service relation candidats
+       0 800 054 568
+       Du lundi au vendredi de 9H à 12H et de 14H à 17H.
+       Ou écrivez-nous
+
+Admission
+
+(BUTTON) Pré-requis
+          + Aucun prérequis exigé
+
+(BUTTON) Conditions d’admission
+       Admission sur dossier d'inscription. Un échange sur les objectifs
+       individuels est prévu.
+       La décision d'admission est communiquée au candidat sous un mois
+       par CESI.
+       Tout est prêt ?
+          + Déposer une candidature
+
+Nos partenaires
+          + erasmus + ; enrichit les vies, ouvre les esprits
+          + CGE : conférence des grandes écoles
+          + CDEFI - Conférences des directeurs des écoles françaises
+            d'ingénieurs
+          + CTI : commission des titres d'ingénieur
+          + investir l'avenir
+          + Bienvenue en France
+          + CESI DD&RS 2025-28 Développement durable et responsabilité
+            sociétale
+          +
+
+Rubriques principales du site
+
+CESI
+          + École
+          + Recherche et innovation
+          + International
+          + Actualités
+          + Alumni
+          + Presse
+          + Entreprises
+          + Carrières
+          + Plan de site
+
+Programmes
+          + Grande École
+          + Technicien·ne supérieur·e
+          + Bachelor
+          + Mastère Professionnel
+          + Mastère Spécialisé®
+          + Executive
+          + Doctoral
+          + Internationaux
+
+Domaines
+          + BTP & Génie Civil
+          + Industrie & Innovation
+          + Informatique & Numérique
+          + RH & Management
+          + QSE & Développement Durable
+
+L'actualité de CESI
+          + Facebook
+          + LinkedIn
+          + Instagram
+          + YouTube
+          + TikTok
+       Établissement d’enseignement supérieur technique privé -
+       Association à but non lucratif
+          + Accessibilité
+          + Anti-corruption
+          + CGU
+          + Données personnelles
+          + Mentions légales
+          + Politique de cookies
+          + Cookies
+       ↑ Retour en haut de page

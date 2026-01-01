@@ -1,0 +1,685 @@
+   #alternate
+
+     * Contenu
+     * Menu
+     * Recherche
+     * Pied de page
+
+   [min_education_nationale_rvb.jpg] Accueil - Site éduscol
+   (BUTTON)
+     * Se connecter (BUTTON)
+
+   (BUTTON)
+
+     * (BUTTON) Enseignement et formation
+       (BUTTON) Close Button
+       Enseignement et formation Enseignement et formation
+          + (BUTTON) Niveaux
+            (BUTTON) Retour Niveaux Accéder à la rubrique Niveaux
+               o J'enseigne au cycle 1
+               o J'enseigne au cycle 2
+               o J'enseigne au cycle 3
+               o J'enseigne au cycle 4
+               o J'enseigne au lycée général/technologique
+               o J'enseigne au lycée professionnel
+          + (BUTTON) Disciplines
+            (BUTTON) Retour Disciplines Accéder à la rubrique Disciplines
+               o Arts plastiques
+               o Biotechnologies, sciences et techniques médico-sociales
+               o Documentation
+               o Économie et gestion
+               o Éducation musicale
+               o Éducation physique et sportive
+               o Enseignement moral et civique
+               o Enseignements artistiques au lycée
+               o Histoire des arts
+               o Histoire-géographie
+               o Langues et cultures de l'Antiquité
+               o Langues vivantes étrangères et régionales
+               o Lettres
+               o Mathématiques
+               o Philosophie
+               o Physique-chimie
+               o Sciences de la vie et de la Terre
+               o Sciences du numérique
+               o Sciences économiques et sociales
+               o Sciences et techniques industrielles
+               o Technologie au collège
+          + (BUTTON) Pratique enseignante
+            (BUTTON) Retour Pratique enseignante Accéder à la rubrique
+            Pratique enseignante
+               o Enseigner les fondamentaux
+               o Mener un projet avec ses élèves
+               o Enseigner avec le numérique
+               o Se former
+               o Innover et expérimenter
+               o Développer les compétences psychosociales des élèves
+          + (BUTTON) Thématiques
+            (BUTTON) Retour Thématiques Accéder à la rubrique Thématiques
+               o Citoyenneté et valeurs de la République
+               o Éducation à la défense
+               o Éducation à la responsabilité
+               o Éducation artistique et culturelle
+               o Éducation au développement durable
+               o Éducation aux médias et à l'information
+               o Education économique, budgétaire et financière
+               o Pratiques sportives à l’École
+               o Promotion de la santé
+       Innovation pédagogique et expérimentation dérogatoire L’éducation
+       au développement durable dans le cadre des enseignements Enseigner
+       à des élèves à besoins éducatifs particuliers Évaluer, développer
+       et certifier les compétences numériques
+     * (BUTTON) Scolarité de l'élève et diplômes
+       (BUTTON) Close Button
+       Scolarité de l'élève et diplômes Scolarité de l'élève et diplômes
+          + (BUTTON) Organisation des enseignements
+            (BUTTON) Retour Organisation des enseignements Accéder à la
+            rubrique Organisation des enseignements
+               o École maternelle
+               o École élémentaire
+               o Collège
+               o Lycée général
+               o Lycée technologique
+               o Lycée professionnel
+               o Formation en apprentissage
+               o Enseignements européens et internationaux
+          + (BUTTON) Diplômes
+            (BUTTON) Retour Diplômes Accéder à la rubrique Diplômes
+               o Diplôme national du brevet
+               o Baccalauréat général
+               o Baccalauréat technologique
+               o Diplômes professionnels
+               o Certificat de formation générale
+               o Les aménagements d'examens pour les élèves en situation
+                 de handicap
+          + (BUTTON) Certifications
+            (BUTTON) Retour Certifications Accéder à la rubrique
+            Certifications
+               o Cadre de référence des compétences numériques
+               o Sécurité routière : APER
+               o Sécurité routière : ASSR 1 et 2
+               o Prévention et secours civiques de niveau 1
+               o Certifications en langues vivantes étrangères
+          + (BUTTON) L'accompagnement des élèves
+            (BUTTON) Retour L'accompagnement des élèves Accéder à la
+            rubrique L'accompagnement des élèves
+               o Dispositifs d'accompagnement
+               o Orientation
+               o Prévention et lutte contre le décrochage
+               o École inclusive
+               o Agir contre l'illettrisme de l'école au collège
+          + (BUTTON) Suivi et évaluation
+            (BUTTON) Retour Suivi et évaluation Accéder à la rubrique
+            Suivi et évaluation
+               o Socle commun
+               o Livret scolaire unique
+               o Livret scolaire du lycée
+               o Évaluation et positionnement en langues vivantes
+               o Évaluations nationales et tests de positionnement
+               o Repères annuels et attendus de fin d'année
+       Allocation de stage au lycée professionnel Certifications en
+       langues vivantes étrangères Devoirs faits, un temps dédié pour
+       accompagner les collégiens dans la réalisation de leurs devoirs
+       Prévention et lutte contre le décrochage
+     * (BUTTON) Vie des écoles et des établissements
+       (BUTTON) Close Button
+       Vie des écoles et des établissements Vie des écoles et des
+       établissements
+          + (BUTTON) Fonctionnement des établissements scolaires
+            (BUTTON) Retour Fonctionnement des établissements scolaires
+            Accéder à la rubrique Fonctionnement des établissements
+            scolaires
+               o Assurer la continuité des enseignements
+               o L'instruction obligatoire
+               o Vie des écoles
+               o Vie des établissements
+               o Parents d'élèves
+               o Les établissements d'enseignement français à l'étranger
+               o La mobilité européenne et internationale
+               o Qualéduc
+          + (BUTTON) Protection et prévention
+            (BUTTON) Retour Protection et prévention Accéder à la rubrique
+            Protection et prévention
+               o Aide aux victimes
+               o Transmettre et faire respecter les principes et valeurs
+                 de la République
+               o Climat scolaire et prévention des violences
+               o Promotion de la santé
+               o Éducation à la sécurité routière
+               o Sensibilisation aux gestes qui sauvent et formation aux
+                 premiers secours
+               o Sécurité des écoles et des établissements
+               o Éducation à la responsabilité
+               o Prévenir la radicalisation en milieu scolaire
+               o Protection de l'enfance
+          + (BUTTON) Le numérique à l'École
+            (BUTTON) Retour Le numérique à l'École Accéder à la rubrique
+            Le numérique à l'École
+               o Applications et services numériques nationaux
+               o Le site archiclasse
+               o Réseaux et interlocuteurs pour le numérique
+          + (BUTTON) Éducation, formations et territoires
+            (BUTTON) Retour Éducation, formations et territoires Accéder à
+            la rubrique Éducation, formations et territoires
+               o Accueil élargi 8h-18h
+               o Éducation prioritaire
+               o Territoires ruraux et de montagne
+               o Territoires d'outre-mer
+               o Internat d'excellence
+               o Les locaux scolaires
+               o Carte des formations professionnelles initiales
+               o L’apprentissage et la formation continue à l’Éducation
+                 nationale
+       Catalogue national des structures d'accueil et d'hébergement Une
+       École engagée en faveur du climat scolaire Transmettre et faire
+       respecter les principes et valeurs de la République Je souhaite
+       m’engager dans la démarche École promotrice de santé
+
+     *
+     * Recherche
+     * (BUTTON)
+
+Restez connectés
+
+     * Accéder au X (ex-Twitter) d'éduscol
+     * Accéder au facebook d'éduscol
+
+    1. Accueil
+    2. Enseignement et formation
+    3. Thématiques
+    4. Éducation aux médias et à l'information
+    5. Former l'esprit critique des élèves
+
+Sommaire
+
+Dans la même rubrique
+
+     * Déconstruire la désinformation et les théories conspirationnistes
+     * Former l'esprit critique des élèves
+     * Le professeur documentaliste, maître d’œuvre de l’éducation aux
+       médias et à l'information
+     * Ressources pour des usages responsables sur Internet
+     * Semaine de la presse et des médias
+     * Séminaire national EMI, ambitions et pilotage
+
+   (BUTTON) Tout afficher
+     * Éducation aux médias et à l'information
+     * Thématiques
+     * Enseignement et formation
+     * Accueil
+
+   éducation aux médias et à l'information (discipline)éducation à la
+   citoyenneté - valeurs républicaineséducation artistique et culturelle
+   (BUTTON) Voir plus de mots-clés Cacher les mots-clés
+
+Former l'esprit critique des élèves
+
+   (BUTTON) Ajouter à une sélection
+
+   Cette fonctionnalité est destinée aux agents de l'éducation nationale.
+   Pour ajouter cet élément à vos sélections, inscrivez-vous ou
+   connectez-vous.
+   Se connecter
+
+   Développé dans tous les enseignements et présent dans de nombreux
+   programmes, notamment en enseignement moral et civique (EMC), et dans
+   le cadre de l’éducation aux médias et à l'information (EMI), l’esprit
+   critique forme les élèves au décryptage du réel et à la construction
+   progressive d'un esprit éclairé, autonome et critique. C’est une
+   ambition majeure de l'École.
+
+   Mis à jour : juin 2025
+
+Vidéo " Comment définir l'esprit critique ? "
+
+   IFRAME:
+   //podeduc.apps.education.fr/video/64006-lesprit-critique-un-ensemble-da
+   ttitudes-et-de-procedes-jerome-grondeux/?is_iframe=true
+
+   (BUTTON) Ajouter à une sélection
+
+   Cette fonctionnalité est destinée aux agents de l'éducation nationale.
+   Pour ajouter cet élément à vos sélections, inscrivez-vous ou
+   connectez-vous.
+   Se connecter
+
+   Esprit critique - Jérôme Grondeux, Inspecteur général de l’éducation,
+   du sport et de la recherche
+
+Approche globale de l'esprit critique
+
+   L’esprit critique est la disposition de l’esprit qui consiste à ne
+   jamais admettre une affirmation, un jugement ou un fait sans en avoir
+   reconnu la légitimité rationnelle. L’esprit critique se construit à
+   travers un état d’esprit (curiosité, écoute, autonomie, modestie,
+   lucidité), des pratiques (s’informer, comprendre avant de juger,
+   évaluer l’information, chercher la source, distinguer les faits et leur
+   interprétation, accepter le débat, résister à des intuitions
+   immédiates) et des connaissances.
+
+   Selon l’OCDE, l’esprit critique serait la compétence éducative la plus
+   importante du XXI^e siècle. Le code de l’éducation fixe le
+   développement de l’esprit critique comme un objectif de l’instruction
+   (article L131-1-1) et le définit (article L. 312-9) comme un instrument
+   fondamental de la connaissance en affirmant que la compréhension,
+   l’usage autonome et responsable des médias sont indispensables.
+
+   (BUTTON) Afficher la transcription
+
+   L’esprit critique est à la fois un état d’esprit et un ensemble de
+   pratiques qui se nourrissent mutuellement. En effet, l’esprit critique
+   n’est jamais acquis, il est une exigence, toujours à actualiser. Il
+   naît et se renforce par des pratiques, dans un progrès continuel : on
+   ne peut jamais prétendre le posséder parfaitement et en tous domaines,
+   mais on doit toujours chercher à l’accroître.
+
+   S’informer consiste à prendre le temps de s’informer et comprendre
+   avant de juger.
+
+   La curiosité consiste à avoir envie de connaître et développer son
+   ouverture d’esprit.
+
+   Évaluer l’information consiste à en chercher la source et à comprendre
+   qu’une connaissance est construite et comment elle se construit.
+
+   L’autonomie consiste à chercher à penser par soi-même et se méfier de
+   ses préjugés.
+
+   Distinguer les faits et les interprétations correspond à différencier
+   les faits de l’interprétation qui les relie et les explique.
+
+   La lucidité consiste à savoir ce que l’on sait avec certitude, ce que
+   l’on suppose et ce que l’on ignore.
+
+   Confronter les interprétations correspond à prendre acte des débats
+   entre les interprétations et de la nécessité du pluralisme en ne
+   s’arrêtant pas à la première explication présentée.
+
+   La modestie consiste à avoir conscience de la complexité du réel et à
+   accepter de s’être trompé.
+
+   Évaluer les interprétations consiste à distinguer les interprétations
+   validées par l’expérience, les hypothèses et les opinions liées à nos
+   croyances.
+
+   L’écoute consiste à s’intéresser à ce que pensent et savent les autres,
+   à accepter le débat.
+   (BUTTON) Ajouter à une sélection
+
+   Cette fonctionnalité est destinée aux agents de l'éducation nationale.
+   Pour ajouter cet élément à vos sélections, inscrivez-vous ou
+   connectez-vous.
+   Se connecter
+
+   (BUTTON) L'esprit critique est une dynamique
+
+   Ce n'est jamais un acquis définitif, et il peut toujours nous arriver
+   d'en manquer, d'être entraîné par nos opinions, par nos préjugés, de
+   laisser de côté des aspects de la réalité qui nous gênent ou nous
+   remettent en question. Le sociologue Max Weber, dans un ouvrage
+   célèbre, Le savant et le politique, écrit : « La tâche primordiale d'un
+   professeur capable est d'apprendre à ses élèves à reconnaître qu'il y a
+   des faits inconfortables, j'entends par là des faits qui sont
+   désagréables à l'opinion personnelle d'un individu ; en effet il existe
+   des faits extrêmement désagréables pour chaque opinion, y compris la
+   mienne. » On ne peut donc pas se prévaloir purement et simplement de
+   l'esprit critique : on s'efforce d'en avoir, et cela se traduit par des
+   pratiques. C'est à cet effort incessant que l'enseignant initie
+   progressivement ses élèves.
+   (BUTTON) L'éveil de la curiosité est à la fois indispensable et
+   difficile
+
+   L'habitude de chercher à s'informer, au sens le plus large du terme, à
+   acquérir des connaissances, est le premier pas vers l'autonomie
+   intellectuelle. La curiosité induit toutes les autres attitudes, car
+   elle seule peut faire prendre conscience de la multiplicité des
+   informations (et donc de la nécessité de les trier) et de l'immensité
+   des champs du savoir. L'éveil de la curiosité renvoie d'autre part au
+   rapport global de l'élève à l'école, lieu de transmission et de
+   valorisation du savoir. Enfin, l'éducation aux médias et à
+   l'information nécessite de communiquer aux élèves l'habitude de
+   s'informer régulièrement et à des sources variées. La variété des
+   sources d'information est un vaccin assez efficace contre une approche
+   simpliste du réel, à l'œuvre, par exemple, avec le complotisme.
+   (BUTTON) L'autonomie semble un terme préférable à l'indépendance
+
+   L'autonomie semble un terme préférable à l'indépendance, dans la mesure
+   où nous connaissons toujours en nous appuyant sur des savoirs déjà
+   établis. Cette autonomie se nourrit de notre information, mais aussi de
+   notre capacité à avoir du recul par rapport à celle-ci. Ce recul se
+   traduit d'abord par une temporalité. On prend le temps de s'informer et
+   on ne « saute » pas sur la première information pour juger et conclure.
+   Le jugement (au sens large de conclusion), quand il est possible, ne
+   doit intervenir qu'après un temps consacré à prendre connaissance des
+   faits. La pratique de la suspension de jugement est d'autant plus
+   importante que les questions sont sensibles et peuvent toucher de près
+   les élèves ; elle nécessite un effort et permet de mettre à distance
+   ses préjugés. Ce recul permet aussi d'évaluer l'information sur un plan
+   qualitatif. La critique des sources en histoire, la connaissance du
+   raisonnement scientifique en sciences, rentrent en jeu dans cette
+   vérification. Évaluer une information suppose de comprendre comment les
+   connaissances sont construites. Enfin, une condition essentielle de
+   l'autonomie intellectuelle est la distinction des faits et des
+   interprétations. Que s'est-il passé ? Comment peut-on l'expliquer ? La
+   distinction entre ces deux questions est fondamentale. Le complotisme
+   présuppose l'explication, et cherche ensuite les indices qui la
+   confirment. Et si les faits dérangent, on en nie l'existence, ce qui ne
+   permet pas à l'individu de remettre en question la théorie présentée.
+   (BUTTON) La lucidité renvoie ici à une attitude réflexive
+
+   La lucidité renvoie ici à une attitude réflexive de chacun sur ses
+   connaissances et sur leur degré de certitude. Connaître ses ignorances
+   est considéré depuis l'Antiquité comme une des bases de la sagesse.
+   Cette lucidité alimente une prise de conscience : celle de la nécessité
+   de prendre le temps de s'informer et de ne pas précipiter son jugement,
+   mais aussi pour vérifier une hypothèse. Elle nourrit et se nourrit de
+   l'exercice de la distinction entre les faits et les interprétations :
+   tant que l'on n'a des faits qu'une connaissance très incomplète, on ne
+   peut que faire des hypothèses ou émettre des jugements franchement
+   erronés. La lucidité aide donc à une progression prudente dans
+   l'élaboration d'une interprétation, en acceptant le risque de l'erreur
+   et en étant prêt à rectifier son interprétation lorsque l'on est mieux
+   informé. Enfin, cette lucidité est indispensable lorsque l'on se trouve
+   face à plusieurs interprétations en conflit : peut-on trancher entre
+   différentes interprétations sur un sujet dont on ignore tout ?
+   (BUTTON) La lucidité conduit parfois à s'abstenir d'avoir une opinion
+   sur tout
+
+   La lucidité conduit parfois à s'abstenir d'avoir une opinion sur tout,
+   et la confrontation des interprétations ne nous conduit pas toujours à
+   conclure. Cela renvoie à ce que faute de mieux il convient d'appeler la
+   modestie, et au lien fort de cette dernière avec la reconnaissance de
+   la nécessité du pluralisme. Une interprétation qui se donne comme
+   définitive et exclusive suscite la défiance quand on a conscience de la
+   complexité du réel.
+   (BUTTON) La confrontation des interprétations naît de la nécessité du
+   débat
+
+   La confrontation des interprétations naît de la nécessité du débat, qui
+   existe dans tous les secteurs de la connaissance, y compris le secteur
+   scientifique. Le débat savant a ses règles et comporte ses procédures
+   de vérification, mais il est décisif pour le progrès des sciences et
+   l'élaboration de théories toujours plus complètes et affinées. De
+   manière plus générale, le pluralisme nous sert à avoir une vision la
+   plus complète possible des choses. L'un des objectifs de la discussion
+   à visée philosophique ou du débat réglé, qui sont des outils essentiels
+   de l'enseignement moral et civique, montre aussi que dans beaucoup de
+   questions essentielles, une pluralité d'opinions est envisageable et
+   doit être respectée, en particulier dans le domaine des croyances qui
+   sont par essence non vérifiables.
+   (BUTTON) Une attitude d'écoute est ainsi une composante importante de
+   l'esprit
+
+   Quand bien même on cherche à penser de manière autonome, on ne pense
+   jamais seul. L'effort de l'humanité vers la connaissance est collectif.
+   Un seul individu ne peut réédifier tout ce que nous savons dans les
+   différentes disciplines enseignées à l'école, un seul individu ne peut
+   s'informer directement, à un moment donné, de la marche du monde. Le
+   complotisme repose sur un déni du savoir accumulé en tout domaine et
+   sur une récusation systématique des « experts ». Cependant, l'écoute
+   prônée ici n'est ni passive ni naïve, elle conduit, attentive et
+   informée, à ce que la confrontation des interprétations aboutisse à une
+   classification pragmatique, permettant une première évaluation des
+   interprétations : suis-je en présence d'une interprétation validée par
+   l'expérience (à l'image des théories scientifique), d'hypothèses (dont
+   la qualité peut être très variables) ou de simples opinions, qui
+   peuvent être respectables, mais l'informeront plus sur ceux qui les
+   émettent que sur le monde qui m'entoure ?
+
+L’esprit critique dans les programmes
+
+   Présent dans de nombreux programmes d'enseignement, la formation de
+   l’esprit critique passe par le décryptage du réel par les élèves, avec
+   pour principal objectif la construction, progressive, d'un esprit
+   éclairé et autonome. Il s’agit ainsi de questionner leur rapport à la
+   vérité et à leurs croyances.
+
+   La place de l'éducation à l'esprit critique dans les programmes est une
+   ressource annexe au rapport « Éduquer à l’esprit critique. Bases
+   théoriques et indications pratiques pour l’enseignement et la
+   formation » du Conseil scientifique de l’éducation nationale.
+   La place de l'éducation à l'esprit critique dans les programmes La
+   place de l'éducation à l'esprit critique dans les programmes
+
+Esprit critique et enseignement moral et civique (EMC)
+
+   Les nouveaux programmes d’enseignement moral et civique (EMC),
+   applicables progressivement à partir de la rentrée 2024, ont pour
+   ambition de former les élèves à l’exercice et à une conscience claire
+   de leur citoyenneté. Ils développent et consolident des compétences qui
+   permettront aux futurs adultes de contribuer à résoudre les problèmes
+   collectifs de leur temps.
+
+   À ce titre, l’esprit critique y est mentionné comme une aptitude que
+   l’EMC cherche à développer chez les élèves pour construire chez eux une
+   culture de la démocratie.
+
+   Ainsi, l'EMC s'appuie sur des méthodes et des pratiques pédagogiques
+   spécifiques, de nature à faire travailler l'esprit critique : débat
+   réglé, discussion à visée philosophique, dilemme moral, conseil
+   d'élèves ...
+
+   Enfin, en intégrant des contenus identifiés par l’éducation aux médias
+   et à l'information (EMI), les programmes d’EMC participent également au
+   développement de l’esprit critique.
+
+Esprit critique et éducation aux médias et à l'information (EMI)
+
+   L'éducation aux médias et à l'information (EMI) vise une lecture
+   critique et distanciée des contenus et des formes médiatiques,
+   notamment via le développement des usages du numérique. En permettant
+   aux élèves de reconnaître ce qu’est une information fiable, l’EMI lutte
+   contre la désinformation, introduite dans le Code de l’éducation sous
+   le terme « manipulation de l’information ».
+
+   Exercer son esprit critique consiste aussi à comprendre le système
+   actuel de l’information :
+     * le marché de l’information en ligne et le rôle que joue la
+       publicité ;
+     * le fonctionnement technique organisant ce marché et la manière dont
+       il conforte certains biais cognitifs et peut créer la « crédulité
+       collective » ;
+     * les différentes manières de produire des informations afin de
+       pouvoir en évaluer leur « valeur ».
+
+   Parmi les questions travaillées en EMI, on peut notamment citer :
+     * Comprendre ce qu’est une rumeur : comment naît-elle ? comment se
+       propage-t-elle ? comment la déjouer ? quelle est la part de la
+       responsabilité individuelle dans sa propagation ?
+     * Comprendre comment on peut faire mentir une image (montage, images
+       sorties de leur contexte, recadrage, falsification des dates IA) ?
+     * Reconnaitre un message complotiste par sa rhétorique (absence de
+       hasard, mélange entre vraies et fausses informations, manichéisme,
+       faits invérifiables).
+     * Comprendre les mécanismes de la désinformation scientifique
+       (distinguer science et croyance, fait et interprétation).
+
+Des ressources pour former l’esprit critique des élèves
+
+     * Outils et ressources pour « Développer l’esprit critique » sur la
+       plateforme « Valeurs de la République » de réseau Canopé
+     * Ressources du CLEMI, opérateur du ministère pour l’éducation aux
+       médias et à l’information :
+          + Le vademecum pour l’éducation aux médias et à l’information –
+            Généraliser l’EMI – De la maternelle au lycée
+          + Les essentiels de l’EMI
+          + L’article « Comment ”muscler” l’esprit critique de vos enfants
+            ou comment réagir face aux théories du complot ? » dans le
+            guide de la famille Tout-Écran
+     * Série « S.P.A.M. » (« Savoir, Penser, Analyser les Messages »),
+       co-produite par FTV et l’INA avec le MEN et le CLEMI, sur Lumni
+       Enseignement
+     * « Esprit scientifique, Esprit critique – cycle 3 » de l'association
+       La main à la pâte
+     * « Malette esprit critique », un parcours magistère en libre accès
+     * « Esprit scientifique, esprit critique » - séminaire national pour
+       les cycles 2, 3 et 4 – mai 2018
+     * Ressources du Conseil scientifique de l’Éducation nationale
+       (CSEN) : Référentiel et grilles pour l'évaluation en classe des
+       compétences de l'esprit critique (janvier 2025) et Éduquer à
+       l’esprit critique, Bases théoriques et indications pratiques pour
+       l’enseignement et la formation
+     * Les 9 outils d’auto-défense intellectuelle développés par Sophie
+       Mazet, professeure (cf. vidéo ci-après)
+
+Vidéo " L'esprit critique - Sophie Mazet "
+
+   IFRAME:
+   //podeduc.apps.education.fr/video/64008-lesprit-critique-sophie-mazet/?
+   is_iframe=true
+
+   (BUTTON) Ajouter à une sélection
+
+   Cette fonctionnalité est destinée aux agents de l'éducation nationale.
+   Pour ajouter cet élément à vos sélections, inscrivez-vous ou
+   connectez-vous.
+   Se connecter
+
+   Dans sa classe Sophie Mazet a travaillé à un ensemble d'outils qui
+   permettent de développer le regard critique des élèves.
+   (BUTTON) Détail des 9 outils d’auto-défense intellectuelle développés
+   par Sophie Mazet
+
+Le cadrage
+
+   La question du point de vue (échantillonnage, suppression des données
+   pertinentes) et la réflexion sur les outils statistiques, la
+   construction des sondages notamment, constituent un moment essentiel de
+   la construction intellectuelle. Cette réflexion permet d'éviter les
+   paralogismes, (i.e. un raisonnement faux perçu rigoureux par le
+   producteur comme le récepteur de bonne foi tous les deux, en raison du
+   fait qu'il s'appuierait sur des statistiques).
+
+La reconnaissance des faux dilemmes
+
+   L'actualité, les débats sociaux, les réseaux sociaux nous imposent
+   fréquemment des réactions binaires (être « pour » ou « contre »). Cela
+   pose deux problèmes : comment exprimer une position nuancée ? Comment
+   revendiquer le droit de ne pas avoir la possibilité, ni l'envie, de
+   trancher, ou de ne pas se sentir autorisé à le faire ?
+
+La rhétorique visuelle
+
+   Dans les sociétés d'informations, la capacité à décoder les images
+   relève d'un apprentissage nécessaire. Apprendre pour permettre aux
+   élèves de découvrir la diversité des médias d'information, pour
+   comprendre leur construction, leur réalisation, pour en déjouer les
+   logiques et faire des élèves des citoyens critiques et responsables
+   médias. Une image se lit et se décode, elle est manipulable. Il est
+   important de faire comprendre aux élèves comment une information par
+   l'image se construit, et aussi de les initier à ne pas s'en tenir à
+   l'image, mais à faire appel à l'ensemble des médias pour s'informer sur
+   un point précis, afin qu'ils deviennent des utilisateurs avertis des
+   médias. C'est notamment le rôle de l'éducation aux médias et à
+   l'information.
+
+Le retour aux faits contre l'appel à l'émotion
+
+   Les discours, les images, dans les échanges de points de vue ou
+   d'arguments, font appel, souvent à l'émotion. Contre le pathos-roi qui
+   ne répond pas au sujet traité, tout en faisant semblant de s'y
+   intéresser, il s'agit de comprendre comment et pourquoi l'émotion peut
+   être utilisée et comment elle peut permettre de toucher et ainsi de
+   crédibiliser un propos lui-même pas nécessairement crédible
+   rationnellement. L'approche compassionnelle en lieu et place d'une
+   approche factuelle et critique.
+
+La question de la légitimité ou contre l'argument d'autorité
+
+   Le syndrome de la blouse blanche ; celui qui veut qu'un titre
+   universitaire, scientifique, ou même une simple notoriété médiatique
+   (chanteurs, acteurs, sportifs) permette aux personnes qui en disposent
+   de dire et d'écrire sur tous les sujets, y compris en dehors de leurs
+   champs d'expertise initiale.
+
+La prise en compte du complexe, contre la généralisation abusive
+
+   La généralisation repose sur l'idée qu'à partir d'un cas singulier du
+   réel, du social, l'on puisse extrapoler les caractéristiques repérées à
+   l'ensemble, alors qu'elles ne sont liées qu'à cet exemple. « Les hommes
+   politiques sont tous corrompus : regardez X, Y, Z. » ; « Les
+   professeurs sont des paresseux. Moi, je vois, mon beau-frère, il ne
+   fait rien. »
+
+La décentration contre l'isolement égotique
+
+   Se décentrer, c'est apprendre à changer de perspective, de point de
+   vue. C'est accepter d'endosser le point de vue de l'autre, y compris
+   quand, spontanément, on ne partage rien avec lui. C'est accepter de
+   ressentir à la place de l'autre (empathie). La non-décentration empêche
+   le développement du sentiment de fraternité et isole dans la certitude
+   d'avoir raison en tout.
+
+La suspension du jugement
+
+   Accepter de suspendre son jugement, accepter de ne pas juger trop vite,
+   sans être sûr d'avoir tous les éléments en main. C'est aussi accepter
+   du prendre du recul, et de ne pas avoir de jugement sur une question
+   soulevée, faute de maîtriser un sujet, et faute d'être en capacité d'en
+   avoir tous les tenants et les aboutissants. C'est adopter une posture
+   de prudence : soit indéfiniment au risque d'être sceptique, soit pour
+   un temps et c'est alors le moment qui précède la construction d'un
+   raisonnement.
+
+Le questionnement sur le monde
+
+   Le questionnement du monde qui est le nôtre constitue le socle
+   indépassable de l'activité intellectuelle contre ceux qui préfèrent les
+   certitudes et les réponses à ce qui est problématique. On peut
+   développer un art du questionnement authentique, en écartant les
+   fausses questions qui déterminent d'avance les réponses et restreignent
+   notre liberté de jugement, et en questionnant également les
+   formulations de questions perçues comme évidentes.
+
+À consulter
+
+   Déconstruire la désinformation et les théories conspirationnistes
+
+     * Sites Éducation
+          + education.gouv.fr
+          + Devenir enseignant
+          + Onisep
+          + Cned
+          + Réseau Canopé
+          + CLEMI
+          + France Éducation International
+          + Institut des hautes études de l'éducation et de la formation
+          + Enseignement supérieur, Recherche et Innovation
+          + Sites académiques
+     * Sites de formation et thématiques
+          + CultureSciences-Chimie
+          + Culture sciences de l'ingénieur
+          + CultureSciences-physique
+          + Encyclopédie d'histoire numérique de l'Europe
+          + Géoconfluences
+          + La Clé des langues
+          + Planet-Terre
+          + Planet-Vie
+          + Sciences économiques et sociales
+          + Ces chansons qui font l'histoire
+     * Sites publics
+          + Élysée.fr
+          + Data.gouv.fr
+          + Gouvernement.fr
+          + Legifrance.gouv.fr
+          + Service-public.gouv.fr
+          + Jeunes.gouv.fr
+          + Sports.gouv.fr
+
+Restez connectés
+
+     * Accéder au X (ex-Twitter) d'éduscol
+     * Accéder au facebook d'éduscol
+
+     * Mentions légales
+     * Données personnelles et cookies
+     * Gestion des cookies
+     * Accessibilité du site : partiellement conforme
+     * Contact
+     * Plan du site
+     * DE
+     * EN
+     * ES
+     * Comprendre l'espace personnel éduscol
+
+   éduscol | Ministère de l'Éducation nationale

@@ -1,0 +1,414 @@
+       (BUTTON) Afficher / masquer la sous-section Histoire
+          + 1.1 Définition
+     * 2 Lien avec la philosophie de l'esprit
+       (BUTTON) Afficher / masquer la sous-section Lien avec la
+       philosophie de l'esprit
+          + 2.1 Théorie-théorie ou simulation ?
+     * 3 Psychologie du développement
+--
+               o 3.1.2 Interprétation classique et critiques
+               o 3.1.3 Attribution automatique de fausses croyances
+          + 3.2 Autres étapes du développement de la théorie de l'esprit
+     * 4 Langage
+       (BUTTON) Afficher / masquer la sous-section Langage
+          + 4.1 Acquisition du langage
+               o 4.1.1 Acquisition de la théorie de l'esprit et
+                 acquisition du langage
+     * 5 Déficits
+--
+   [ ] Basculer la table des matières
+
+Théorie de l'esprit
+
+   [ ] 33 langues
+--
+   Un article de Wikipédia, l'encyclopédie libre.
+
+   La théorie de l'esprit (de l'anglais theory of mind) désigne, en
+   sciences cognitives, non pas une théorie, mais l'aptitude permettant à
+   un individu d’attribuer des états mentaux inobservables (ex. :
+--
+   Différentes branches de la psychologie se sont intéressées à cette
+   capacité depuis la fin des années 1970 : en éthologie^[4] afin de
+   déterminer si la théorie de l'esprit est présente chez d'autres
+   espèces ; en psychologie du développement^[5] afin de comprendre
+   comment cette capacité se développe au cours de l'enfance ; en
+--
+
+   Bien qu'il y ait certains aspects philosophiques dans l'étude de cette
+   capacité^[9], la théorie de l'esprit est à distinguer de la philosophie
+   de l'esprit.
+
+Histoire
+--
+   [modifier | modifier le code]
+
+   L'expression « théorie de l'esprit » provient de l'éthologie. Elle a
+   été introduite en 1978 par les éthologues David Premack et Guy Woodruff
+   dans une étude visant à déterminer si les chimpanzés pouvaient
+--
+   géométriques en mouvement)^[11].
+
+   L'étude expérimentale de la théorie de l'esprit s'est faite en lien
+   avec des réflexions philosophiques sur cette capacité. Ainsi, dans un
+   commentaire de l'étude de Premack et Woodruff, le philosophe Daniel
+   Dennett souligne la difficulté de véritablement tester si un individu
+   utilise une théorie de l'esprit^[12]. Il propose comme critère la
+   capacité à attribuer à une autre personne des croyances différentes de
+   ses propres croyances. Ce critère a donné naissance à la tâche de
+--
+   Depuis le développement des techniques d'imagerie cérébrale, le champ
+   des neurosciences sociales qui s'intéresse notamment aux bases
+   neurophysiologiques de la théorie de l'esprit s'est rapidement
+   développé^[14].
+
+--
+   [modifier | modifier le code]
+
+   La théorie de l'esprit est une capacité cognitive qui permet de se
+   représenter les états mentaux d'autres individus et d'utiliser ces
+   représentations afin d'expliquer ou de prédire leur comportement. Cette
+--
+   émotionnelles, etc.)^[1].
+
+   La notion de théorie de l'esprit est proche de la notion
+   d'empathie^[1]. Cependant, la notion d'empathie comporte une dimension
+   émotionnelle et affective alors que la théorie de l'esprit renvoie
+   plutôt à des processus cognitifs représentationnels^[15].
+
+   L'expression « théories de l'esprit », au pluriel, apparaît
+   régulièrement pour mettre l'accent sur la diversité, phylogénétique et
+   ontogénétique, des systèmes cognitifs pouvant rendre compte de
+   différents niveaux de compréhension du comportement des autres^[16].
+
+   Le terme « théorie de l'esprit » est parfois jugé inadapté : pour
+   certains parce qu'il postule le développement d'une « théorie » sur
+   l'esprit des autres, ce qui est débattu^[9], pour d'autres, car cela
+   impliquerait à tort une capacité sans faille chez les adultes
+   sains^[17]. ^[note 1]
+
+Lien avec la philosophie de l'esprit
+
+   [modifier | modifier le code]
+   Articles connexes : Psychologie naïve et Daniel Dennett.
+
+   Les débats contemporains de la théorie de l'esprit s'inscrivent dans
+   une riche tradition philosophique de l'étude de l'esprit : on peut
+   faire remonter le questionnement sur la nature de l'esprit à Descartes.
+
+   À partir des années 1950, les travaux respectifs de Fritz Heider et
+--
+   expérimentaux menés en parallèle en psychologie du développement ont vu
+   se confronter deux positions sur la nature de la théorie de
+   l'esprit^[9] :
+     * la théorie de la théorie, qui insiste sur l'organisation
+       proto-scientifique de la théorie de l'esprit ;
+     * la théorie de la simulation, qui insiste sur la capacité de simuler
+       les états mentaux d'autrui.
+
+   Du point de vue de la théorie-théorie, l'utilisation de la théorie de
+   l'esprit relève de l'application d'une théorie. Au sein des défenseurs
+   de la théorie-théorie, plusieurs versions s'opposent quant à son
+   développement. Pour certains, comme Alison Gopnik et Andrew Meltzoff,
+   l'enfant acquiert la théorie de l'esprit de la même manière que les
+   scientifiques construisent des théories (par voie de tests d'hypothèses
+   notamment). Pour d'autres, comme Jerry Fodor, l'enfant dispose de
+--
+   simulation de ses propres états mentaux.
+
+   Récemment, les débats sur la nature de la théorie de l'esprit se sont
+   davantage tournés vers les mécanismes computationnels et neuronaux de
+   la théorie de l'esprit^[2].
+
+Psychologie du développement
+--
+   [modifier | modifier le code]
+
+   Le développement de la théorie de l'esprit chez les enfants a donné
+   lieu à de très nombreuses études depuis les années 1980.
+
+--
+   penchés sur la question, les tests visant à déterminer à quel âge les
+   enfants sont capables d'attribuer des fausses croyances ont connu une
+   place centrale dans l'étude du développement de la théorie de l'esprit.
+
+La tâche classique de fausses croyances : le test du transfert inattendu
+--
+   L'interprétation classique de ces résultats, largement répandue jusque
+   dans les années 2000, est qu'autour de 4 ans, une maturation de la
+   théorie de l'esprit se produit afin de donner lieu à une capacité
+   "méta-représentationnelle". Entre 3 et 5 ans, les enfants
+   développeraient ainsi le concept de croyance : une représentation, dont
+   le contenu peut différer de l'état réel du monde. Avant 4-5 ans les
+   enfants disposeraient tout de même d'une théorie de l'esprit, non
+   mature (prenant en compte que les personnes agissent selon leur désir
+   par exemple)^[19].
+--
+   expérimental et l'interprétation des résultats en découlant ont été
+   sujet à diverses critiques. Ainsi, Paul Boom et Tim German proposaient
+   en 2000 d'abandonner cette tâche comme mesure de théorie de l'esprit
+   pour deux raisons : d'une part, ce test fait appel à d'autres aptitudes
+   qui sont également en maturation chez le jeune enfant (capacités
+   verbales, fonctions exécutives et notamment inhibition) et d'autre
+   part, il ne permet pas de rendre compte de tous les aspects d'une
+   théorie de l'esprit mature^[20].
+
+Attribution automatique de fausses croyances
+--
+   classique^[23].
+
+Autres étapes du développement de la théorie de l'esprit
+
+   [modifier | modifier le code]
+--
+   Les psychologues et neuroscientifiques Uta Frith et Chris Frith
+   résument comme suit les différentes étapes du développement de la
+   théorie de l'esprit^[24] :
+     * À partir de 3 mois : Préférence pour les stimuli sociaux ;
+     * à partir de 6 mois : Compréhension de l'agentivité et des actions
+--
+   [modifier | modifier le code]
+
+   La théorie de l’esprit, sans être tout à fait nécessaire au langage,
+   constitue tout de même un atout important, autant en communication
+   verbale que non verbale^[25]. Un exemple de communication verbale : une
+--
+   commencer à préparer le souper et qu’il cherche un ustensile pour ce
+   faire. On peut donc affirmer que Léo et Catherine ont chacun une
+   théorie de l’esprit, car ils arrivent à attribuer des états mentaux
+   l’un à l’autre.^[pas clair]
+
+--
+   [modifier | modifier le code]
+
+   L’acquisition de la théorie de l’esprit est étroitement liée à
+   l’acquisition de certains aspects du langage. D’une part, l’acquisition
+   de la théorie de l’esprit influence l’acquisition du langage ; d’autre
+   part, l’acquisition du langage influence l’acquisition de la théorie de
+   l’esprit.
+
+   L’apprentissage d’une langue aide à l’acquisition de la théorie de
+   l’esprit. En effet, on observe chez les enfants privés de langage au
+   début de leur vie (tels que les enfants sourds diagnostiqués
+   tardivement) un retard dans le développement de la théorie de
+   l’esprit^[26]. Selon certains auteurs, ce serait la structure générale
+   du langage qui aurait un impact sur la théorie de l’esprit, comme le
+   fait qu’une idée puisse être insérée de manière répétée dans une phrase
+   (principe de subordination). C'est le cas dans la phrase : « Jacques
+   pense que Jean, qui est son frère, est parti. » Pour d’autres auteurs,
+   ce seraient certaines constructions très spécifiques du langage qui
+   permettraient de développer la théorie de l’esprit^[27]. En revanche,
+   comme les langues n’ont pas toutes les mêmes types de construction et
+   qu’il n’a jamais été prouvé que la langue maternelle a un impact sur
+   l’acquisition de la théorie de l’esprit, cela reste à vérifier^[28].
+
+   Bien que le langage et la théorie de l’esprit soient liés durant
+   l’acquisition, des études montrent que la perte du langage chez
+   l’adulte n’affecte pas la théorie de l’esprit. Cette hypothèse prouve
+   que langage et théorie de l’esprit sont indépendants^[29]^,^[30]. Pour
+   ce qui est du développement normal, la théorie de l’esprit comporte
+   deux niveaux de représentation mentale, respectivement acquis lorsque
+   les enfants réussissent les tests de fausse croyance de premier et de
+--
+   événement objectif »^[31].
+
+Acquisition de la théorie de l'esprit et acquisition du langage
+
+   [modifier | modifier le code]
+
+   La première étape vers l’acquisition de la théorie de l’esprit est
+   l’attention partagée (ou attention conjointe). Celle-ci est cruciale
+   dans l’apprentissage d’une langue^[32]. En effet, pour pouvoir assigner
+--
+   impératif^[35]) ou dans le but de montrer (pointage déclaratif^[35]).
+   Ces actes de pointage sont considérés comme des précurseurs de la
+   théorie de l’esprit. Ils « peuvent être considérés comme les rudiments
+   d’actes de langage »^[35].
+
+   Vers 4 ans, grâce au développement de la théorie de l’esprit, l’enfant
+   arrive à s’adapter à la personne avec qui il parle et à bien gérer les
+   tours de parole^[35].
+
+   L’enfant de 5 ans commence à réussir les tests de fausses croyances.
+   Ainsi, il acquiert la théorie de l’esprit élémentaire. Le moment de la
+   réussite de ce test est lié à la maîtrise de la communication
+   figurée^[35]. De plus, il y a corrélation entre la réussite au test de
+--
+   corrélée à la capacité de départager l’ironie du mensonge^[37].
+
+   De plus, la mise en place de la théorie de l’esprit est un atout pour
+   la compréhension de certains verbes, tels que « savoir », « deviner »,
+   « se souvenir », « plaisanter », « mentir », etc^[38]. Essentiellement,
+   la théorie de l’esprit a un grand impact sur l’acquisition de la
+   faculté de comprendre un message en lien avec un contexte donné
+   (pragmatique)^[37].
+--
+   [modifier | modifier le code]
+
+   Certains déficits de la théorie de l'esprit sont présents chez des
+   personnes atteintes de schizophrénie ou encore d’atteinte neurologique
+   due à l'abus d'alcool^[39]. Il n’y a pas de consensus actuel sur un
+   déficit de la théorie de l’esprit chez les personnes avec trouble de
+   l’attention avec ou sans hyperactivité(TDAH). Six études différentes
+   ont été menées à ce sujet et cinq d’entre elles démontrent même le
+   contraire. Il semblerait effectivement que les personnes ayant le TDAH
+   n’aient pas de déficit de la théorie de l’esprit à l’instar des
+   personnes autistes, mais qu’elles partagent avec ces derniers des
+   problèmes d’empathie ainsi que de reconnaissance et de traitement des
+--
+   condition neurodéveloppementale^[42] dans laquelle plusieurs facettes
+   du développement psychologique de l’enfant seraient touchées d'après la
+   théorie de l’esprit. Prétendument grandement affectés, les autistes
+   auraient une difficulté à participer aux jeux imaginaires, aux
+   interactions sociales et à utiliser adéquatement le langage
+--
+   Baron-Cohen, ils obtiendraient donc moins d’informations sur ce que
+   veut l'autre, ce qui serait à relier à une moins bonne théorie de
+   l’esprit.
+
+   Il y a toutefois une nuance à apporter quant à la théorie de l’esprit
+   chez les personnes autistes. Les recherches récentes montrent chez les
+   autistes un retard plutôt qu’une déficience de la théorie de
+   l’esprit^[43]. Ils se démarquent entre autres par le manque de
+   vocabulaire décrivant les états mentaux, et par des compétences
+   pragmatiques faibles, notamment une utilisation peu appropriée du
+--
+
+   D’un autre côté, Baron-Cohen et Howlin ont établi une liste de
+   difficultés résultant d'une déficience de la théorie de l’esprit chez
+   les enfants autistes :
+     * « Insensibilité aux émotions d’autrui ;
+--
+   chercher dans le placard (endroit où il se trouve réellement) et non
+   dans le réfrigérateur. Les chercheurs en concluent que les enfants
+   autistes ont des lacunes au niveau de la théorie de l’esprit^[46].
+
+   Le débat reste ouvert quant aux interprétations de ce protocole
+--
+
+   Toutefois, certains auteurs précisent qu’il ne faut pas réduire
+   l’autisme à une lacune au niveau de la théorie de l’esprit, et que
+   celle-ci n’est pas spécifique à l’autisme^[38].
+
+--
+       sens littéral des mots est préservé ;
+     * l’isolement social (Nuechterlein, 2004) ;
+     * des déficits de la théorie de l’esprit.
+
+   Hypothèse : les symptômes et les troubles de la communication de la
+--
+   de délire paranoïaque, ils vivent un excès d’attribution injustifiée
+   d’états mentaux négatifs à autrui^[44]. Donc, une personne peut avoir
+   une théorie de l’esprit, mais pas nécessairement d’empathie envers les
+   autres, l’inverse n’étant pas possible. Enfin, le trouble de la théorie
+   de l’esprit est acquis, à la différence des autistes, car certaines de
+   ses bases développées lors de l’enfance demeurent^[44].
+
+--
+   Le mécanisme neurophysiologique principal utilisé serait un système de
+   codage partagé de l’action : les systèmes chez certains primates de
+   neurones miroirs, que la théorie de l'esprit tente d'extrapoler à
+   l'homme. Grâce à l’imagerie fonctionnelle, on a pu montrer que la
+   perception d'une action entraîne dans le cerveau une représentation
+--
+   [modifier | modifier le code]
+
+   La théorie de l'esprit sous-entend qu'une représentation mentale est un
+   phénomène interne au système cognitif et qu'elle est spécifiée
+   préalablement à toute activité cognitive. Ainsi, la faculté de prédire
+--
+   d'une action en fonction d'un certain nombre de connaissances^[58].
+
+   Une étude de l'université de Stanford montre que la théorie de l'esprit
+   semble être une capacité émergente des modèles de langage neuronaux les
+   plus gros conçus après 2022, notamment les modèles gpt3-davinci-002 et
+--
+   [modifier | modifier le code]
+    1. ↑ Ainsi, en anglais, certains auteurs préfèrent au terme theory of
+       mind (« théorie de l'esprit » en français), les termes mind reading
+       ou mentalizing (que l'on pourrait adapter en français en « lecture
+       d'états mentaux » ou « mentalisation »)^[15].
+
+    1. ↑ ^a b c et d Céline Duval, Pascale Piolino, Alexandre Bejanin et
+       Mickael Laisney, « La théorie de l’esprit : aspects conceptuels,
+       évaluation et effets de l’âge », Revue de neuropsychologie, vol. 3,
+       n^o 1,‎ 1^er avril 2011 (ISSN 2101-6739, DOI 10.1684/nrp.2011.0168,
+--
+    3. ↑ Geoffrey Marcaggi, Laetitia Bon, Francis Eustache et Bérengère
+       Guillery-Girard, « La mémoire dans l'autisme : 40 ans après (voir
+       le chapitre : « Mémoire et théorie de l’esprit » », Revue de
+       neuropsychologie, vol. 2, n^o 4,‎ 2010, p. 310–319 (ISSN 2101-6739,
+       DOI 10.1684/nrp.2010.0104, lire en ligne, consulté le 3 janvier
+       2025)
+    4. ↑ Lia Rosso, « Les grands singes ont de l'esprit », Le Temps,‎ 6
+       octobre 2016 (lire en ligne, consulté le 1^er octobre 2018)
+    5. ↑ Anne-Marie Melot, Évelyne Thommen, « Les théories de l'esprit »,
+       cerveauetpsycho.fr,‎ 13 août 2014 (lire en ligne, consulté le 1^er
+       octobre 2018)
+    6. ↑ « Participate! », sur www.participate-autisme.be (consulté le
+       1^er octobre 2018)
+    7. ↑ Yves Sarfati, « Déficit en théorie de l'esprit dans la
+       schizophrénie », Enfance, vol. 52, n^o 3,‎ 1999, p. 294–303
+       (ISSN 0013-7545, DOI 10.3406/enfan.1999.3154, lire en ligne,
+--
+       dans Neuroeconomics, Elsevier, 2014 (ISBN 9780124160088, lire en
+       ligne), p. 513–532.
+   16. ↑ J. Nadel et A.-M. Melot, « Théorie de l'esprit », In O. Houdé
+       (Ed), Vocabulaire des sciences cognitives, Paris, PUF, 2003,
+       p. 437-440.
+--
+       5719, p. 255-258. DOI: 10.1126/science.1107621 ; pour une
+       vulgarisation en français de l'étude, voir Jean-François Dortier,
+       "Quand l'enfant acquiert « la théorie de l'esprit »", Sciences
+       humaines, 01/10/2005
+   22. ↑ V. Southgate, A. Senju, G. Csibra, "Action anticipation through
+--
+       sciences humaines, 2012, 253 p. (ISBN 978-2-36106-032-9), p. 158
+   38. ↑ ^a et b Evelyne Thommen, « L'enfant et les phénomènes mentaux:
+       les théories de l'esprit. », Langage et pratiques,‎ 2007, p. 9-19
+       (lire en ligne)
+   39. ↑ (en) J. Uekermann J et I. Daum, « Social cognition in alcoholism:
+--
+       1176 p. (ISBN 978-2-294-74338-2, lire en ligne)
+   43. ↑ Miguel Maneira, « Les tests d'évaluation de la théorie de
+       l'esprit de second ordre | autismes et potentiels », 20 juin 2014
+       (consulté le 20 juillet 2016)
+   44. ↑ ^a b c d et e (en) Sandrine Zufferey, Lexical Pragmatics and
+--
+       septembre 2010, 192 p. (ISBN 978-90-272-8757-1,
+       DOI 10.1075/pbns.201, lire en ligne)
+   45. ↑ Nathalie Poirier, « La théorie de l’esprit de l’enfant autiste »,
+       Santé mentale au Québec, vol. 23,‎ 1^er janvier 1998
+       (ISSN 0383-6320 et 1708-3923, DOI 10.7202/032440ar, lire en ligne,
+--
+   47. ↑ Autism Aspergers Myths - The Theory of Mind sur le site d’Eric
+       Chen, diagnostiqué « Asperger ».
+   48. ↑ l'intérêt de Intérêts de la notion de « théorie de l'esprit »
+       pour la psychopathologie Nicolas Georgieff référence et court
+       résumé en ligne
+--
+     * Exactitude interpersonnelle
+     * Intentionnalité
+     * Philosophie de l'esprit
+     * Psychologie du développement
+     * Psychologie naïve
+--
+     * Jean Daunizeau « D’où vient l’intelligence sociale humaine ? » sur
+       INSERM, le 22 décembre 2017.
+     * Anne-Marie Melot et Évelyne Thommen « Les théories de l'esprit »
+       sur Cerveau&Psycho, octobre 2014.
+     * Jean-François Dortier « Quand l'enfant acquiert « la théorie de
+       l'esprit » » sur Sciences humaines, octobre 2005.
+     * (en) The Computational Theory of Mind
+     * (en) The Identity Theory of Mind
+--
+     * Enfant transgenre
+     * Dysphorie de genre chez les enfants
+     * Théorie de l'esprit
+
+   Psychopathologie, conduites à risque et événements de vie
+--
+
+   [ ] Basculer la table des matières
+   Théorie de l'esprit
+   (BUTTON) 33 langues Ajouter un sujet

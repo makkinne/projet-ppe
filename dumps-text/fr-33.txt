@@ -1,0 +1,189 @@
+   #alternate
+
+   Aller au contenu principal
+
+   Les réseaux cérébraux à l’origine de la conscience de soi enfin…
+     * twitter
+     * Bluesky
+
+   Menu
+   Accueil Accueil
+
+Navigation principale
+
+     * Accueil
+     * A proposOrganisation, missions, histoire
+     * RechercheStratégie, structures et laboratoires
+     * InnovationValorisation, partenariats, entreprises
+     * InternationalCoopération et rayonnement
+     * TalentsPrix et distinctions
+
+Navigation secondaire
+
+     * Actualités
+     * Agenda
+     * Appels à candidature
+     * Librairie
+     * ATIP-Avenir
+     * Annuaires
+     * Intranet
+     * CNRS.FR
+
+   Faire un don
+   CNRS Header Ontheweb
+
+   ©Descartes, 1692
+   ^-A ^+A
+   Partager ce contenu
+     * Share on Bluesky
+     * Partager sur Twitter
+     * Share on Linkedin
+     * Partager sur Facebook
+     * Send by mail
+     * https://www.insb.cnrs.fr/fr/cnrsinfo/les-reseaux-cerebraux-lorigine
+       -de-la-conscience-de-soi-enfin-identifies
+
+   Imprimer
+     * https://www.insb.cnrs.fr/fr/cnrsinfo/les-reseaux-cerebraux-lorigine
+       -de-la-conscience-de-soi-enfin-identifies
+
+Fil d'Ariane
+
+    1. Accueil
+    2. Actualités
+
+Les réseaux cérébraux à l’origine de la conscience de soi enfin identifiés
+
+   19 septembre 2019
+   Résultats scientifiques Neuroscience, cognition
+   ^-A ^+A
+   Partager ce contenu
+     * Share on Bluesky
+     * Partager sur Twitter
+     * Share on Linkedin
+     * Partager sur Facebook
+     * Send by mail
+     * https://www.insb.cnrs.fr/fr/cnrsinfo/les-reseaux-cerebraux-lorigine
+       -de-la-conscience-de-soi-enfin-identifies
+
+   D’où vient la conscience de son propre corps ? C’est l’étude de
+   cerveaux lésés qui permet aujourd’hui de montrer qu’être conscient de
+   ses mouvements nécessite la contribution conjointe de 3 réseaux
+   cérébraux. L’un est responsable de la surveillance sensorimotrice, les
+   deux autres du maintien et de la mise à jour des croyances sur soi. Ce
+   nouveau mécanisme d’association entre le corps et l’esprit a été
+   découvert grâce à la mise en commun de bases de données cliniques à
+   l’échelle internationale. Ce travail est publié dans la revue Elife.
+
+   Les récentes études sur le cerveau humain ont montré que l’esprit est
+   inscrit dans la matière cérébrale et non pas séparé du corps comme le
+   postulaient les anciennes théories dualistes. L’association entre le
+   cerveau et l’esprit est particulièrement évidente chez les patients
+   atteints de lésions cérébrales du lobe frontal qui montrent des
+   changements de personnalité radicaux. De la même façon, les accidents
+   vasculaires cérébraux (AVC) provoquent fréquemment une paralysie du
+   corps qui s’accompagne parfois d’un déni complet de ce nouvel handicap
+   moteur. Comme si le cerveau refusait d’accepter la perte motrice du
+   bras ou de la jambe. On parle alors d’anosognosie (absence de
+   reconnaissance consciente par l’esprit) de l’hémiplégie (paralysie de
+   la moitié du corps). L’exemple d’un échange type entre un patient ayant
+   subi un AVC et son neuropsychologue parle de lui-même.
+
+   Le neuropsychologue « Bougez votre bras gauche »
+
+   Le patient ne bouge pas.
+
+   Le neuropsychologue « Avez-vous bougé votre bras gauche ?»
+
+   Le patient « oui »
+
+   Encore récemment, les mécanismes biologiques responsables de ce
+   phénomène étaient inconnus. Dans le cadre d'une collaboration
+   internationale avec l'Italie et le Royaume Uni , les chercheurs ont
+   rassemblé et analysé 10 années de recherche sur l’anosognosie pour
+   l’hémiplégie, ce qui représente pas moins d’une centaine de patients
+   atteints d’AVC. Grâce au nouveau logiciel (BCBtoolkit
+   http://toolkit.bcblab.com), les chercheurs ont pu modéliser les
+   dommages engendrés par les lésions vasculaires sur la communication
+   entre toutes les régions du cerveau. L’étude fine de ces lésions a
+   montré que l’anosognosie pour l’hémiplégie se produit lors de la
+   déconnexion simultanée de 3 réseaux.
+
+   Ces réseaux incluent (1) le système prémoteur, sans lequel
+   l’organisation du mouvement est perdue, (2) le système limbique, sans
+   lequel la mémoire ne fonctionne plus, et (3) le système attentionnel
+   ventral sans lequel la vigilance n’est plus possible.
+
+   C’est 3 réseaux sont apparus fortement complémentaires et leur
+   interaction s’avère essentielle à la capacité de reconnaître
+   consciemment la paralysie de la moitié du corps. Ces résultats sont une
+   preuve supplémentaire que les fonctions cérébrales de haut-niveau
+   reposent sur une forte interaction entre les réseaux cérébraux plutôt
+   que sur une région isolée.
+   figure Figure : Réseaux de la conscience motrice. (a) vue médiane de
+   l'hémisphère droit (gauche) vue latérale de l'hémisphère droit
+   (droite). Le système prémoteur (bleu et vert), le système limbique
+   (rouge), le système attentionnel (jaune).
+   ©Michel Thiebaut de Schotten
+
+
+   Pour en savoir plus
+   Anosognosia for hemiplegia as a tripartite disconnection syndrome
+   Pacella V, Foulon C, Jenkinson PM, Scandola M, Bertagnoli S, Avesani R,
+   Fotopoulou A, Moro V, Thiebaut de Schotten M
+   Elife. 2019 Aug 6;8. pii: e46075. doi: 10.7554/eLife.46075
+
+Contact
+
+   Michel Thiebaut de Schotten
+   Chercheur CNRS à l'Institut des maladies neurodégénératives (CNRS /
+   Université de Bordeaux / CEA / Inria)
+   4<<)@)A<)>9)A:)?9
+   vrlqnu7}qrnkj~}Ipvjru7lxv
+   Partager ce contenu
+     * Share on Bluesky
+     * Partager sur Twitter
+     * Share on Linkedin
+     * Partager sur Facebook
+     * Send by mail
+     * https://www.insb.cnrs.fr/fr/cnrsinfo/les-reseaux-cerebraux-lorigine
+       -de-la-conscience-de-soi-enfin-identifies
+
+   Restez informé avec l'INSB
+
+   Découvrez les actualités de l’Institut des sciences biologiques
+   Découvrez les actualités
+
+   Accueil
+
+Nous suivre
+
+     * twitter
+     * Bluesky
+
+   Tous nos réseaux sociaux
+   Nos Labels
+     * Accédez aux ERC du CNRS
+
+Pied de page secondaire
+
+     * Crédits
+     * Mentions légales
+     * Données personnelles
+     * Gestion des cookies
+
+Naviguer
+
+     * CNRS Biologie
+     * Recherche
+     * Innovation
+     * International
+     * Talents
+     * Comité national
+     * Actualités
+     * Agenda
+     * Appels à candidature
+     * Librairie
+     * Annuaires
+     * Intranet
+     * Les sciences du vivant au XXIe siècle
