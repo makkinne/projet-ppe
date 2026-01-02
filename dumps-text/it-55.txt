@@ -1,0 +1,538 @@
+   #oEmbed (JSON) oEmbed (XML)
+
+   [INS: :INS] [INS: :INS]
+
+   (BUTTON) Naviga
+   [svg%3E] [logo-compact.svg] (BUTTON)
+     * Chi siamo
+     * Brains & Contest
+
+   ____________________ [icon-search.svg]-Submit
+
+     * Attualità
+          + Bioetica
+          + Consumi
+          + Criminalità
+          + Diritti
+          + Immigrazione
+          + Questione islamica
+          + Questioni di genere
+          + Terrorismo
+     * Città
+          + Agrigento
+          + Bergamo
+          + Bologna
+          + Bruxelles
+          + Firenze
+          + Genova
+          + Londra
+          + Messina
+          + Milano
+          + Napoli
+          + New York
+          + Padova
+          + Palermo
+          + Parigi
+          + Roma
+          + San Francisco
+          + Siena
+          + Smart city
+          + Torino
+          + Trieste
+          + Urbanistica
+          + Venezia
+     * Cultura
+          + Arte
+          + Beni culturali
+          + Cinema
+          + Eventi
+          + Filosofia
+          + Fotografia
+          + Fumetti
+          + Letteratura
+          + Musei
+          + Musica
+          + Scienze
+          + Storia
+          + Teatro
+     * Economia e Lavoro
+          + Agricoltura
+          + Agroalimentare
+          + Artigiani
+          + Commercio
+          + Cooperazione
+          + Economia
+          + Economia civile
+          + Energia
+          + Grandi imprese
+          + Immobiliare
+          + Imprenditori
+          + Industria
+          + Innovazione
+          + Lavoro
+          + Macroeconomia
+          + Moda & Design
+          + Pmi
+          + Previdenza
+          + Professioni
+          + Sindacati
+          + Startup
+          + Terzo Settore
+          + Trasporti
+          + Turismo
+     * Esteri
+          + Africa
+          + America
+          + Asia
+          + Cina
+          + Commercio globale
+          + Geopolitica
+          + India
+          + Medio Oriente
+          + Mediterraneo
+     * Europa
+          + Germania
+          + Russia
+          + Spagna
+          + UE
+     * Finanza e Soldi
+          + Bollette
+          + Borsa
+          + Finanza
+          + Mercati
+          + Polizze
+          + Risparmio
+          + Tasse
+     * Politica
+          + Appalti
+          + Autorità indipendenti
+          + Enti locali
+          + Fisco
+          + Giustizia
+          + Governo
+          + Legislazione
+          + P.A.
+          + Parlamento
+          + Partiti e politici
+          + Quirinale
+     * Salute
+          + Benessere
+          + Medicina
+          + Salute mentale
+          + Sanità
+     * Società
+          + Cibo
+          + Costume
+          + Famiglia
+          + Lifestyle
+          + Privacy
+          + Relazioni
+          + Religione
+          + Scuola
+          + Università
+          + Viaggi
+     * Sostenibilità
+          + Acqua
+          + Ambiente
+          + Beni comuni
+          + Clima
+          + Economia circolare
+          + Infrastrutture
+          + Mobilità
+     * Sport
+          + Altri sport
+          + Arrampicata
+          + Basket
+          + Calcio
+          + Ciclismo
+          + Nuoto
+          + Olimpiadi
+          + Rugby
+          + Sci
+          + Tennis
+     * Tecnologia e Media
+          + Internet
+          + Media
+          + Tecnologia
+
+     * Chi siamo
+     * Brains & Contest
+
+Accedi a glistatigenerali.com
+
+   (BUTTON) Close modal
+
+   Nome utente/E-mail: ____________________
+
+   Password: ____________________
+
+   Password dimenticata?
+
+   IFRAME:
+   https://www.google.com/recaptcha/api/fallback?k=6LdyCXgqAAAAAF92OtDG5kv
+   EWhsVxmsroA2-ymcw
+
+   (BUTTON) Accedi
+
+   Non sei ancora registrato?
+   Registrati
+
+   Oppure accedi con:
+
+Registrati
+
+   (BUTTON) Close modal
+
+   Registrazione effettuata con successo
+
+   controlla la tua e-mail e segui le istruzioni.
+
+   Nome* ____________________
+
+   Cognome* ____________________
+
+   Indirizzo e-mail* ____________________
+
+   Password:* ____________________
+
+   Conferma Password:* ____________________
+
+   [ ] Voglio ricevere la newsletter giornaliera de "Gli Stati Generali".
+   La gestione dei miei dati avverrà in conformità con l'informativa sulla
+   privacy.
+
+   [ ] * Accetto la gestione dei miei dati in conformità con l'informativa
+   sulla privacy.
+
+   IFRAME:
+   https://www.google.com/recaptcha/api/fallback?k=6LdyCXgqAAAAAF92OtDG5kv
+   EWhsVxmsroA2-ymcw
+
+   (BUTTON) Registrati
+   Privacy policy Termini e condizioni d'uso
+
+Cambio Password
+
+   (BUTTON) Close modal
+
+   Username/E-mail ____________________
+
+   IFRAME:
+   https://www.google.com/recaptcha/api/fallback?k=6LdyCXgqAAAAAF92OtDG5kv
+   EWhsVxmsroA2-ymcw
+
+   (BUTTON) Richiedi il cambio password
+
+Calcio
+
+George Orwell e lo “spirito sportivo”
+
+   di Paolo Bruschi
+   14 Dicembre 2021
+
+   È attribuita a Rinus Michels, l’allenatore olandese inventore del
+   “calcio totale”, l’affermazione che il calcio somiglia molto a una
+   guerra. Del resto, per il carattere estremamente autoritario, Michels
+   era soprannominato “Il Generale” e tecnici della stessa specie sono
+   chiamati sovente “sergenti di ferro”. Nel linguaggio a circolazione
+   forzosa del giornalismo sportivo, le metafore belliche sono vecchie
+   come il football stesso: l’area di rigore viene “eroicamente difesa”
+   per resistere al “tambureggiante assedio” della squadra avversaria;
+   quando le partite si svolgono principalmente a centrocampo quasi
+   irrimediabilmente si sente dire che “infuria la battaglia”, la cui
+   soluzione può certe volte consistere in una rapida “incursione” che
+   consente il gol al “cannoniere”, che in passato era conosciuto anche
+   come “tiratore scelto”.
+
+   [INS: :INS] [INS: :INS]
+
+   Per venire alla culla del calcio moderno, giova riandare a un uomo di
+   estrazione proletaria come il tecnico scozzese Bill Shankly, il quale,
+   pur presumibilmente avvezzo alle vere durezze della vita, è ricordato
+   per averci ammonito sulla reale essenza del calcio, che lungi
+   dall’essere una questione di vita o di morte, è in realtà qualcosa di
+   ben più importante. Resta da stabilire se questa cosa così seria, o lo
+   sport più in generale, sia un bene o un male, e qui la questione si
+   complica alquanto.
+
+   Giusto qualche anno prima che Shankly si ponesse all’origine
+   dell’irresistibile ascesa del Liverpool, George Orwell aveva espresso
+   il suo reciso parere in un commento che da allora è stato citato
+   innumerevoli volte. Il 14 dicembre 1945, lo scrittore vergò una puntuta
+   requisitoria contro la presunta funzione pacificatoria dello sport
+   nell’articolo “The sporting spirit”, pubblicato dal quotidiano Tribune.
+   L’occasione venne dalla pubblicizzata e attesissima tournée che la
+   Dinamo Mosca effettuò in Gran Bretagna nel precedente mese di novembre,
+   giocando di fronte a folle strabocchevoli contro il Chelsea, il
+   Cardiff, l’Arsenal e il Glasgow Rangers. La guerra era finita in Europa
+   appena il maggio precedente e la Gran Bretagna e l’Unione Sovietica
+   facevano ancora parte della coalizione che aveva sconfitto il mostro
+   nazi-fascista. Presso l’opinione pubblica britannica, che con grande
+   meraviglia di molti alle elezioni generali dell’estate aveva dato il
+   benservito a Winston Churchill e mandato al potere il Partito
+   Laburista, l’Urss godeva di grande prestigio: l’eroica resistenza del
+   popolo russo, gli enormi costi umani sofferti dalla patria del
+   comunismo e la forza dell’Armata Rossa rappresentavano un mito anche di
+   là della Manica.
+   Le partite della Dinamo Mosca attirarono così tanti spettatori che
+   molti dovettero essere addirittura sistemati a bordo campo
+
+   L’origine della tournée può esser fatta risalire a un approccio di
+   Stanley Rous, segretario della Football Association, che negli ultimi
+   mesi del 1944 l’aveva proposta all’ambasciatore sovietico a Londra Ivan
+   Maisky. L’ipotesi fu poi discussa dal Ministro degli Esteri Anthony
+   Eden e dalla sig.ra Churchill, prima che questa visitasse Mosca alla
+   fine della guerra. Il Foreign Office abbozzò a malincuore, avvertendo
+   però che ci sarebbe voluto assai più di una partita di calcio per
+   affratellare le due nazioni [1].
+
+   Nei mesi successivi alla resa dell’Asse, si posero rapidamente le
+   premesse per la Guerra fredda. I motivi di disagio e divergenza, che
+   avrebbero avuto bisogno di molta buona volontà per la ricerca di
+   soluzioni di compromesso, divennero linee di faglia insanabili e sul
+   finire del 1945 la Casa Bianca e il Cremlino cominciarono a guardarsi
+   non più come alleati malfidati ma come antagonisti e nemici [2]. Le
+   immani distruzioni lasciate dal conflitto, il debito spaventoso
+   accumulato con l’estero, l’impero sul punto di dissolversi e il
+   mutamento degli equilibri internazionali erano in procinto di relegare
+   la Gran Bretagna in una posizione di secondo piano e qualche partita di
+   calcio non poteva certo fornire agli inglesi nemmeno il più minimo
+   spazio di autonomia in un mondo che si apprestava a diventare
+   rigidamente bipolare.
+
+   In questo contesto, George Orwell non accolse con favore la visita
+   della Dinamo Mosca, espressione sportiva del Ministero dell’Interno e
+   del sanguinario capo della polizia politica Lavrentij Berija. Orwell
+   simpatizzava per la sinistra, considerava il socialismo democratico il
+   modo migliore per fronteggiare le sfide del presente e aborriva lo
+   stalinismo, che gli era parso ancora più minaccioso partecipando alla
+   guerra civile spagnola a fianco dei repubblicani, quando aveva visto
+   gli agenti sovietici adoperarsi per eliminare i dissidenti comunisti,
+   che pure lottavano contro il generale golpista Francisco Franco,
+   sostenuto da Hitler e Mussolini [3]. Orwell aveva chiaramente parlato
+   contro lo stalinismo già in “La fattoria degli animali”, la cui
+   pubblicazione era slittata all’estate del 1945 per la difficoltà di
+   trovare un editore disposto a schierarsi apertamente contro il potente
+   alleato [4], e nel pezzo per il Tribune riversò i temi tipici della sua
+   visione politico-sociale. Vi aggiunse la sua personale esperienza dello
+   sport e soprattutto il crescente allarme per l’alto valore simbolico
+   dello sport come strumento del nazionalismo.
+
+   Quando aveva prestato servizio militare in Birmania, in uno dei molti
+   territori soggetti all’Impero britannico, lo scrittore aveva
+   sperimentato sulla propria pelle l’aperta avversione che i locali
+   manifestavano per i colonizzatori proprio in occasione di confronti
+   sportivi fra le due parti [5]. Era pur vero che l’animosità dei birmani
+   non aveva molte altre occasioni per emergere e per dare voce alla loro
+   più che legittima aspirazione all’indipendenza, ma tutto ciò agli occhi
+   di Orwell appariva – oltre che un deprecabile segno di declino del
+   fair-play – un portato evidente delle pericolose implicazioni
+   nazionalistiche dello sport.
+
+   In “Note sul nazionalismo”, uscito sul Polemic nell’ottobre 1945,
+   Orwell ebbe modo di divulgare la sua preoccupazione per la febbre
+   nazionalista che era stata la causa scatenante delle due guerre
+   mondiali e che dilagava a ogni latitudine. Tutti propugnavano la
+   superiorità della propria nazione non solo in termini politici,
+   militari ed economici, ma anche in altri ambiti come lo sport, e a ogni
+   costo si impegnavano per difendere e accrescere l’interesse nazionale
+   ricercando maggior potere e prestigio.
+
+   In “The sporting spirit”, Orwell compì un salto di analisi, lasciando
+   sullo sfondo lo specifico sportivo per investigare il modo in cui gli
+   spettatori e i media reagivano all’uso strumentale dello sport da parte
+   dei governi. Sotto questa luce, lo scritto fu in pratica una diretta
+   risposta al ricevimento ufficiale organizzato per la delegazione
+   sovietica e al discorso improntato all’amicizia fra i popoli che fu
+   pronunciato in quell’occasione da Philip Noel-Baker, sottosegretario
+   agli Esteri, uno dei principali artefici della tournée, fautore del
+   dialogo anglo-sovietico e indefesso sostenitore del disarmo
+   internazionale, il che gli valse nel 1959 il premio Nobel per la pace
+   [6].
+   I giocatori della Dinamo Mosca sorpresero i britannici recando dei
+   fiori per i loro avversari
+
+   Se Noel-Baker, e la principale stampa, avevano sottolineato con enfasi
+   gli elementi di accordo e di comune sentire fra le parti, tralasciando
+   i dissapori generati da lamentale e dispute su aspetti tecnici come la
+   composizione delle squadre, l’interpretazione delle regole, alcune
+   controverse decisioni arbitrali, Orwell decise invece di collocarli al
+   centro della sua disamina, così da stabilire che se le quattro partite
+   avevano avuto un impatto sui rapporti anglo-sovietici era stato nel
+   senso di peggiorarli e non di migliorarli. Il che non lo sorprendeva,
+   dato che non appena il nazionalismo, l’onore patriottico e il prestigio
+   occupavano la scena, ogni barlume di sportività veniva spazzato via,
+   per fare spazio all’odio, al disprezzo delle regole e al piacere sadico
+   della violenza: non restava posto per nient’altro che, era l’amara
+   conclusione, la “guerra senza sparatorie”.
+
+   Orwell non intendeva certo scambiare la causa (l’esacerbata rivalità
+   fra le nazioni) con l’effetto (lo sport come arena di confronto
+   politico), ma mettere in guardia contro il montante antagonismo
+   nazionale. Tuttavia, la sua netta interpretazione impediva di
+   concentrarsi sulla feconda ambivalenza dello sport e del suo uso
+   politico e pubblico. Molti osservatori sostengono che lo sport
+   internazionale fomenta lo sciovinismo e l’intolleranza, alimentando gli
+   standard di aggressività del discorso collettivo. Aldous Huxley, che
+   scriveva all’indomani delle Olimpiadi naziste del 1936, sosteneva che
+   lo sport preparava gli uomini alla guerra [7], come già aveva affermato
+   lo stesso Hitler nel “Mein Kampf” e come avrebbe ammesso il presidente
+   americano Dwight Eisenhower [8]. Sull’altro versante, Bertrand Russell
+   argomentò che lo sport allestisce uno spazio regolato e ritualizzato
+   nel quale gli esseri umani possono sfogare gli innati istinti
+   competitivi, mentre George Santayana affermò che lo sport può
+   costituire un antidoto alla guerra [9]. Anche l’etologo Konrad Lorenz
+   sposò lo stesso punto di vista, dichiarando che il confronto sportivo
+   sublima l’irreprimibile aggressività umana, promuove la mutua
+   conoscenza fra estranei e riunisce sotto una causa comune individui che
+   avrebbero altrimenti ben poco da spartire [10].
+
+   È appena il caso di osservare che nemmeno gli studi storici e le
+   indagini sociologiche hanno raggiunto risultati univoci, così che più
+   prudentemente si può concludere che la verità sta da qualche parte nel
+   mezzo. Senza negare i suoi profondi nessi politico-sociali, occorre
+   ammettere che lo sport non è la vera essenza della politica e come tale
+   è incapace di comporre le differenze che dividono i sistemi politici e
+   i paesi se questi non sono disponibili a incontrarsi su un terreno
+   comune [11]. Lo sport può fornire un pretesto, una scusa, un’occasione;
+   lo sport può inaugurare, seguire o rinforzare una disposizione, ma
+   difficilmente è in grado di portare a compimento una tendenza senza il
+   contributo decisivo della politica.
+
+   [INS: :INS]
+
+
+   [1] Wagg, S. (a cura di), East Plays West: Sport and the Cold War,
+   Routledge, 2006
+
+   [2] Di Nolfo, E., Storia delle relazioni internazionali (1918-1992),
+   Editori Laterza, 1999
+
+   [3] Beck, P. J., ‘War Minus the Shooting’: George Orwell on
+   International Sport and the Olympics, in “Sport in History”, 2013, Vol.
+   33, No. 1
+
+   [4] Ibidem
+
+   [5] Ibidem
+
+   [6] Ibidem
+
+   [7] AA.VV., Sport and International Understanding, Springer, 1985
+
+   [8] Zirin, D., A people’s history of sports in the United States, The
+   New Press, 2008
+
+   [9] AA.VV., Sport and International Understanding, op. cit.
+
+   [10] Lorenz, K., L’aggressività, Mondadori, 1990
+
+   [INS: :INS] [INS: :INS]
+
+   [11] Wagg, S. (a cura di), East Plays West: Sport and the Cold War, op.
+   cit.
+
+   Condividi
+   Altri articoli di Sport
+   Enel milano cortina Enel milano cortina Olimpiadi
+
+Enel, al via il nuovo spot per Milano Cortina 2026
+
+   di redazione
+   2 Gennaio 2026
+   Sabalenka e Kyorgios Sabalenka e Kyorgios Tennis
+
+Sabalenka-Kyrgios, l’ultimo episodio della “battaglia dei sessi” nel tennis
+
+   di Paolo Bruschi
+   27 Dicembre 2025
+   SEA Fiera Milano Olimpiadi
+
+Verso Milano-Cortina: SEA e Fiera a confronto su investimenti, turismo e
+governance
+
+   di redazione
+   2 Dicembre 2025
+   Calcio
+
+Il tifo sportivo nel rispetto della propria dignità
+
+   di Massimo Pamio
+   28 Novembre 2025
+   Esplora Sport
+   [INS: :INS]
+
+   Commenti
+
+Annulla risposta
+
+   Devi fare login per commentare
+   Accedi
+
+   Dallo stesso autore
+   Sabalenka e Kyorgios Sabalenka e Kyorgios Tennis
+
+Sabalenka-Kyrgios, l’ultimo episodio della “battaglia dei sessi” nel tennis
+
+   di Paolo Bruschi
+   27 Dicembre 2025
+   Tennis
+
+La piramide del tennis mondiale: pochi salvati, molti sommersi
+
+   di Paolo Bruschi
+   17 Novembre 2025
+   Calcio
+
+“Centoventi contro Novecento”, il derby del secolo breve
+
+   di Paolo Bruschi
+   2 Novembre 2025
+   Basket
+
+Da Jerry Buss a Donald Trump, dallo Showtime all’era del risentimento
+
+   di Paolo Bruschi
+   22 Ottobre 2025
+   Tutti i post
+
+Gli Stati Generali è anche piattaforma di giornalismo partecipativo
+
+   Vuoi collaborare ?
+
+Newsletter
+
+   Nome ____________________
+
+   Cognome ____________________
+
+   Indirizzo E-mail ____________________
+
+   [ ] Accetto la gestione dei miei dati in conformità con l'informativa
+   sulla privacy.
+   [ ]
+
+   (BUTTON) Invia
+
+   Ti sei registrato con successo alla newsletter de Gli Stati Generali,
+   controlla la tua mail per completare la registrazione.
+
+     * Chi siamo
+     * Brains & Contest
+     * GSG LAB E PUBBLICITÀ
+
+Contattaci
+
+   info@glistatigenerali.com
+
+Seguici su
+
+     * Termini e condizioni d’uso
+     * Privacy Policy
+     __________________________________________________________________
+
+   Gli Stati Generali Srl | Capitale sociale 10.271,25 euro i.v. - Partita
+   I.V.A. e Iscrizione al Registro delle Imprese di Milano n. 08572490962
+   glistatigenerali.com è una testata registrata al Tribunale di Milano
+   (n. 300 del 18-9-2014) | Change privacy settings
+   Developed by Watuppa

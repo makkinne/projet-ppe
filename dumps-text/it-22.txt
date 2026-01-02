@@ -1,0 +1,1486 @@
+   #Modifica Wikipedia (it) Feed Atom di Wikipedia
+
+   Vai al contenuto
+
+   [ ] Menu principale
+   Menu principale
+   (BUTTON) sposta nella barra laterale (BUTTON) nascondi
+   Navigazione
+     * Pagina principale
+     * Ultime modifiche
+     * Una voce a caso
+     * Nelle vicinanze
+     * Vetrina
+     * Aiuto
+     * Sportello informazioni
+     * Pagine speciali
+
+   Comunità
+     * Portale Comunità
+     * Bar
+     * Il Wikipediano
+     * Contatti
+
+   Wikipedia L'enciclopedia libera
+   Ricerca
+   ____________________
+   (BUTTON) Ricerca
+
+   [ ] Aspetto
+
+     * Fai una donazione
+     * registrati
+     * entra
+
+   [ ] Strumenti personali
+     * Fai una donazione
+     * registrati
+     * entra
+
+Indice
+
+   (BUTTON) sposta nella barra laterale (BUTTON) nascondi
+     * Inizio
+     * 1 Nascita e sviluppo del sistema
+       (BUTTON) Attiva/disattiva la sottosezione Nascita e sviluppo del
+       sistema
+          + 1.1 Scritti teologici giovanili
+          + 1.2 Dalla religione popolare all'Assoluto
+               o 1.2.1 La definizione dell'Assoluto
+          + 1.3 La critica alle filosofie precedenti
+               o 1.3.1 La critica agli illuministi
+               o 1.3.2 La critica a Kant
+               o 1.3.3 La critica ai Romantici
+               o 1.3.4 La critica a Fichte
+               o 1.3.5 La critica a Schelling
+               o 1.3.6 La critica a Jacobi
+     * 2 Ideale e reale
+       (BUTTON) Attiva/disattiva la sottosezione Ideale e reale
+          + 2.1 Monismo assoluto materiale e spirituale
+          + 2.2 La separazione tra ideale e reale ad opera della religione
+          + 2.3 La "coscienza infelice"
+          + 2.4 La Fenomenologia dello Spirito
+          + 2.5 Dall'individuo all'Assoluto
+     * 3 I capisaldi del sistema hegeliano
+       (BUTTON) Attiva/disattiva la sottosezione I capisaldi del sistema
+       hegeliano
+          + 3.1 La realtà come Spirito infinito
+          + 3.2 Identità fra ragione e realtà
+          + 3.3 Reale ed esistente
+          + 3.4 Funzione giustificatrice della filosofia
+          + 3.5 La dialettica
+          + 3.6 Il momento intellettivo astratto
+          + 3.7 Il momento razionale negativo
+          + 3.8 Il momento razionale positivo
+          + 3.9 La logica hegeliana e quella aristotelica
+     * 4 L'ultimo Hegel
+     * 5 Note
+     * 6 Bibliografia
+       (BUTTON) Attiva/disattiva la sottosezione Bibliografia
+          + 6.1 Opere maggiori di Hegel con relativa traduzione italiana
+          + 6.2 Saggi su Hegel
+     * 7 Voci correlate
+
+   [ ] Mostra/Nascondi l'indice
+
+Pensiero di Hegel
+
+   [ ] 2 lingue
+     * Slovenčina
+     * Vèneto
+
+   Modifica collegamenti
+
+     * Voce
+     * Discussione
+
+   [ ] italiano
+
+     * Leggi
+     * Modifica
+     * Modifica wikitesto
+     * Cronologia
+
+   [ ] Strumenti
+   Strumenti
+   (BUTTON) sposta nella barra laterale (BUTTON) nascondi
+   Azioni
+     * Leggi
+     * Modifica
+     * Modifica wikitesto
+     * Cronologia
+
+   Generale
+     * Puntano qui
+     * Modifiche correlate
+     * Link permanente
+     * Informazioni pagina
+     * Cita questa voce
+     * Ottieni URL breve
+     * Scarica codice QR
+     * Passa al parser legacy
+
+   Stampa/esporta
+     * Crea un libro
+     * Scarica come PDF
+     * Versione stampabile
+
+   In altri progetti
+     * Elemento Wikidata
+
+   Aspetto
+   (BUTTON) sposta nella barra laterale (BUTTON) nascondi
+   Da Wikipedia, l'enciclopedia libera.
+
+   [20px-1leftarrow_blue.svg.png] Voce principale: Georg Wilhelm Friedrich
+   Hegel.
+   [250px-Hegel_portrait_by_Schlesinger_1831.jpg] Georg Wilhelm Friedrich
+   Hegel
+
+   La filosofia di Georg Wilhelm Friedrich Hegel rappresenta una delle
+   linee di pensiero più profonde e complesse^[1] della tradizione
+   occidentale. Partendo dal lavoro dei suoi predecessori nell'idealismo
+   (Fichte e Schelling) e con influenze e suggestioni di altri sistemi di
+   pensiero (come Immanuel Kant), sviluppò una filosofia innovativa,
+   profonda e articolata. La sua visione storicista e idealista della
+   realtà nel suo complesso ha rivoluzionato il pensiero europeo, gettando
+   le basi della filosofia continentale e del marxismo successivi.
+
+   Hegel sviluppò un quadro teorico completo come non veniva sviluppato
+   dall'epoca di Platone e Aristotele, un "sistema"^[2] (idealismo
+   assoluto), studiando il rapporto tra mente e natura, soggetto e oggetto
+   della conoscenza e della psicologia; e tenendo conto nella sua
+   prospettiva dello Stato, della storia, dell'arte, della religione e
+   della filosofia. In particolare, ha sviluppato un concetto di mente o
+   spirito, manifestatosi in una serie di contraddizioni e di opposizioni
+   e, in ultima analisi, pervenendo ad una filosofia della totalità.
+   Esempi di contraddizioni che vengono superate nel suo sistema
+   filosofico sono quelle tra natura e libertà o tra immanenza e
+   trascendenza. Le pagine che ricercano tali soluzioni sono spesso di una
+   complessità tale da lasciare incerti sull'interpretazione più corretta.
+
+   Da Hegel, sia accogliendo le sue proposizioni che rifiutandole, si
+   sviluppa gran parte della filosofia moderna, dagli sviluppi successivi
+   della filosofia romantica all'hegelismo e al neohegelismo di Benedetto
+   Croce e Giovanni Gentile, da Karl Marx a Arthur Schopenhauer, e a
+   Friedrich Nietzsche.
+
+Nascita e sviluppo del sistema
+
+   [modifica | modifica wikitesto]
+
+   Compiuti gli studi classici a Stoccarda, Hegel si iscrisse
+   all'Università di Tubinga, dove strinse amicizia con Friedrich
+   Hölderlin e Friedrich Schelling, suoi compagni di stanza
+   all'università. Terminati gli studi di filosofia lavorò come precettore
+   privato. Nel 1801 si trasferì a Jena, dove terminò il primo dei suoi
+   capolavori: la complessa Fenomenologia dello spirito (1807).
+
+   Nel 1817 pubblicò un'esposizione completa e sistematica della sua
+   filosofia, l'Enciclopedia delle scienze filosofiche in compendio. Nel
+   1818 gli venne offerta la cattedra di filosofia che era stata di Johann
+   Fichte all'Università di Berlino, dove rimase fino alla morte, avvenuta
+   nel 1831 a causa di un'epidemia di colera.
+
+Scritti teologici giovanili
+
+   [modifica | modifica wikitesto]
+
+   Nel periodo trascorso a Berna e a Francoforte, dal 1794 al 1800, Hegel
+   redasse i saggi pubblicati postumi nel 1907 a cura di Herman Nohl col
+   titolo di Scritti teologici giovanili.^[3]
+
+   Nello scritto Religione popolare e cristianesimo (1794), la religione
+   popolare (Volksreligion) è quella che Hegel definisce soggettiva perché
+   impegna la fantasia e il cuore della singola persona ed è insieme
+   pubblica, perché s'identifica con i costumi e le istituzioni di un
+   popolo, come avveniva nella religione della polis greca. La città -
+   Stato greca, secondo Hegel, che riprende motivi di Hölderlin, Schiller
+   e Lessing, è una comunità organica di persone le quali sono, in modo
+   concreto (concretum, cresciuto insieme), cittadini e religiosi insieme,
+   ove si realizza la vera libertà che esclude sia le forme oppressive
+   della comunità sull'individuo che l'indipendenza di ogni individuo
+   dalla comunità; vera libertà è la possibilità di realizzare la propria
+   volontà nella realtà politica, sociale e religiosa della comunità alla
+   quale si appartiene.
+
+   Il Cristianesimo è invece una religione privata e oggettiva, vissuta
+   cioè, in quanto privata, in un rapporto personale tra l'individuo e
+   Dio, ma è anche oggettiva, ossia fondata sugli scritti testamentari e
+   su dogmi ed è tutelata e prescritta da un ceto particolare, separato
+   dal resto dei cittadini, il clero. Le società dove domina
+   religiosamente il cristianesimo sono comunità non organiche di persone
+   le quali sono in modo astratto, (abstractum, tirato fuori), cioè
+   separatamente, cittadini e religiosi.
+
+   Nella La vita di Gesù (1795) Hegel ne espone la biografia - senza
+   riferimenti all'incarnazione, ai miracoli, alla sua divinità e alla
+   resurrezione - e l'insegnamento, considerato equivalente alla legge
+   morale kantiana, sulla scorta della Religione entro i limiti della sola
+   ragione di Kant. Hegel ha sostenuto che "Gesù ha essenzialmente
+   insegnato l'imperativo categorico kantiano": «Fate che valga per voi
+   quel che volete che valga come legge universale fra gli
+   uomini».^[4]^[5]
+
+   Ne La positività della religione cristiana (1796) Hegel rintraccia
+   nell'ambiente e nella cultura ebraica, incapace di cogliere la
+   spiritualità dell'etica cristiana, legata com'è all'esteriorità del
+   formalismo farisaico, la causa dell'involuzione della religione
+   naturale in una religione positiva, ossia tradotta in dogmi, perché
+   fondata sulla rivelazione divina e sulla struttura autoritaria della
+   Chiesa.
+
+   Ebreo che si rivolge agli ebrei, Gesù è costretto a presentarsi come
+   Messia, a fondare il cristianesimo sulla rivelazione di Dio, a operare
+   miracoli, a istituire un sacerdozio che ne conservi l'insegnamento,
+   negando la libertà di pensiero: in questo modo la ragione diviene
+   passiva e non legislativa.
+
+   Se nel popolo ebraico a predominare è lo spirito di separatezza – in
+   quanto popolo eletto opposto agli altri popoli, che vive in una natura
+   che si contrappone ostilmente all'uomo, diversamente da quello greco -
+   il popolo ebreo è un popolo infelice, che non vivendo l'armonia di una
+   religione popolare vive una coscienza infelice, caratterizzata
+   dall'alienazione, dalla separazione tra sé e Dio.
+
+   Ma Cristo si è anche contrapposto al kantismo e all'ebraismo,
+   predicando non tanto il rispetto della legge, ma l'amore. Smentendo
+   quanto sostenuto negli scritti precedenti - del resto non destinati
+   alla pubblicazione - ne Lo spirito del cristianesimo e il suo destino
+   (1799) Hegel afferma la superiorità della legge morale di Gesù sulla
+   legge kantiana del dovere, vista come un'etica ebraica interiorizzata.
+   L'amore è superiore al dovere perché "nell'amore viene meno ogni
+   pensiero di dovere", il comportamento che ha per base l'amore non è più
+   uniformato all'ubbidienza a una legge. Come l'incarnazione di Cristo è
+   il congiungimento di umano e divino, di naturale e soprannaturale, così
+   l'amore è la conciliazione di ciò che è separato, è l'unità degli
+   uomini ottenuta non naturalmente ma dopo l'esperienza della
+   separazione.
+
+   L'ultimo degli scritti teologici è il Frammento di sistema (1800),
+   composto avendo presente i Discorsi di Friedrich Schleiermacher, nei
+   quali la religione è il sentimento di compenetrazione di finito e
+   infinito, unione mistica di umano e divino. Ma qui il finito e
+   l'infinito sono intesi come termini assolutamente separati, distinti,
+   senza alcuna relazione tra loro; tuttavia il finito, in quanto vita,
+   "ha in sé la possibilità d'innalzarsi alla vita infinita", ha la
+   possibilità di confluire, mediante la ragione che realizza
+   dialetticamente l'unità dei due distinti momenti, nell'infinità della
+   vita divina, oltre ogni distinzione e riflessione. Nel Frammento di
+   sistema sono già introdotti alcuni termini che diverranno centrali
+   nella filosofia hegeliana: finito, infinito, momento, dialettica,
+   intelletto, ragione, spirito.
+
+Dalla religione popolare all'Assoluto
+
+   [modifica | modifica wikitesto]
+
+   Stranamente in Hegel assistiamo a un processo inverso a quello che ha
+   caratterizzato il percorso del pensiero in Fichte e Schelling: questi
+   iniziano da problematiche filosofiche e arrivano a soluzioni religiose.
+   In Hegel avviene l'opposto e questo non per una conversione a rovescio,
+   dalla religione alla filosofia, ma perché egli trova un concetto di
+   filosofia nuovo capace anche di risolvere i problemi religiosi.
+
+   Nell'ambiente accademico di Tubinga, dove opera il giovane Hegel, c'è
+   una corrente legata alla tradizione filosofica religiosa: il cosiddetto
+   "indirizzo soprannaturale" che tende a difendere la religione naturale.
+   È in questo filone religioso che Hegel pensa si debba procedere a un
+   rinnovamento culturale e politico per l'umanità e in particolare per il
+   popolo tedesco, tramite una nuova religione popolare che realizzi
+   un'armonia tra le religioni razionali (soggettive) e quelle positive,
+   rivelate (oggettive). Questa nuova religione unirà nell'uomo ragione e
+   sensibilità e lo avvierà alla felicità. Tramite essa poi si supererà
+   quella scissione tra il cittadino e lo Stato e tra il fedele e la
+   Chiesa che segna la crisi del popolo tedesco. Questa nuova religione
+   porterà al rinnovamento morale e politico della Germania.
+   [500px-Hegel_Jena.svg.png]
+
+   Una religione popolare e priva di dogmi era quella dell'Ellade antica
+   dove il sacerdote svolgeva anche una funzione pubblica. Il cittadino
+   greco si identificava nella vita dello stato e della chiesa. Con
+   l'avvento del Cristianesimo ecclesiastico e dogmatico si è verificata
+   invece la separazione dell'individuo dalla vita politica e religiosa.
+   Questo non accadeva con la religione predicata da Gesù che era fondata
+   sull'unità degli aspetti razionali e sensibili dell'uomo, ed era quindi
+   più vicina al mondo greco, capace di godere della natura e di vivere la
+   vita religiosa in comunanza con quella politica. Il mondo greco quindi
+   espressione di quella totalità-unione che si è persa con la morte di
+   Cristo.
+
+   Questa perdita è avvenuta per il legalismo (la legge di Mosè)
+   dell'ambiente giudaico dove si è sviluppata la dottrina cristiana che
+   ha trasformato questa religione in senso ecclesiastico e dogmatico
+   operando una scissione tra l'individuo e la totalità. La sottomissione
+   alla legge mosaica o a quella dei dominatori che tenevano in schiavitù
+   il popolo d'Israele, ha causato il passaggio dalla fede morale e
+   spontanea, alla fede nell'autorità.
+
+   Si deve al popolo ebraico infatti questa scissione tra l'uomo e Dio.
+   Nella loro antica storia l'origine di questa separazione è stata
+   l'esperienza del diluvio universale che ha portato gli ebrei a
+   concepire una natura ostile da cui poteva salvarli solo il loro potente
+   Dio trascendente e lontano da loro: il Dio di Mosè che ha dato loro le
+   tavole dei comandamenti. L'uomo e la natura sono niente, Dio è tutto.
+   Quindi per gli ebrei la natura è nemica, e diversi e ostili sono gli
+   altri uomini, poiché essi soli sono il popolo eletto che non deve
+   confondere l'unico Dio con gli dei di altri popoli.
+
+   Occorre quindi una nuova religione in grado di conciliare con l'amore
+   la vita politica con quella religiosa, l'umano col divino. Con l'amore,
+   unendo il finito con l'infinito, il soggetto fa tutt'uno con l'oggetto,
+   l'umano si riconcilia con il divino, così che noi abbiamo la
+   possibilità di cogliere la totalità, l'Assoluto, unione di finito ed
+   infinito.
+   [500px-Hegel_Jena2.svg.png]
+
+La definizione dell'Assoluto
+
+   [modifica | modifica wikitesto]
+
+   Se ogni definizione è una relativizzazione, pretendere di definire
+   l'Assoluto comporta necessariamente includere nella sua "definizione"
+   ciò che non può rimanere escluso da lui, poiché esso è una totalità
+   onnicomprensiva che non può avere nulla fuori di sé. Quindi si dovrà
+   definire l'Assoluto come
+     * unione di finito e infinito, ma anche come
+     * non unione e cioè opposizione di finito ed infinito.
+
+   Afferma a proposito Hegel, che per essere infinito deve anche essere
+   finito, ossia deve includere la finitezza al suo interno.
+
+   Ed è proprio l'opposizione, la negazione, l'antitesi, la caratteristica
+   essenziale dello sviluppo dialettico della realtà: l'opposizione è la
+   molla della vita, l'elemento dell'infinito progresso. Questo allora
+   vuol dire che l'Assoluto come opposizione coincide con la
+   realtà-opposizione, l'Assoluto è immanente alla realtà, assomiglia al
+   Deus sive Natura di Spinoza, ma in realtà per Spinoza quella di Dio e
+   Natura era una coincidenza che si dà da sola, senza bisogno di
+   interazioni tra presunte tesi e antitesi.
+
+   Ecco spiegata la presunta conversione a rovescio: la problematica
+   religiosa ha portato Hegel a scoprire un nuovo concetto filosofico
+   tramite il quale la filosofia potrà raggiungere l'Assoluto.^[6]
+
+La critica alle filosofie precedenti
+
+   [modifica | modifica wikitesto]
+
+La critica agli illuministi
+
+   [modifica | modifica wikitesto]
+
+   Appare immediata la contrapposizione sussistente fra Hegel e gli
+   Illuministi: mentre Hegel crede nell'identità fra ragione e realtà, gli
+   illuministi assumono la ragione come unico giudice della realtà,
+   ragione finita e parziale. E mentre per Hegel la ragione è una costante
+   della Storia ed ogni periodo storico va ben valutato, per gli
+   illuministi la ragione è presente solo in determinate epoche storiche,
+   contrapponendo le età illuminate alle epoche buie.
+
+La critica a Kant
+
+   [modifica | modifica wikitesto]
+
+   Hegel, come già i pre-romantici e i romantici, critica Kant per il suo
+   dualismo, ovvero per la contrapposizione fra fenomeno e noumeno. In
+   questo modo Kant dimostra di non avere la concezione dell'Assoluto che
+   implica il superamento tra finito ed infinito nell'Assoluto. In secondo
+   luogo, Hegel critica l'intento di Kant di volere realizzare una
+   filosofia del finito, vale a dire la sua missione di rintracciare
+   soltanto l'esistenza delle colonne d'Ercole della conoscenza umana^[7],
+   cioè della Ragione oltre la quale c'è l'inconoscibilità razionale della
+   metafisica. Ma se Kant si propone di criticare la Ragione ancor prima
+   di conoscerla, egli non farà altro che tentare di imparare a nuotare,
+   prima ancora di buttarsi in acqua. La ragione invece può cogliere
+   l'Assoluto. Bisogna restituire al popolo tedesco la metafisica. «Un
+   popolo senza metafisica è come un tempio senza santuario»^[8].
+
+   Muove quindi la critica al Criticismo: nella Prefazione alla Filosofia
+   del Diritto, afferma che criticare è facile, la mentalità superficiale
+   critica sempre, Kant vede solo il negativo che è solo un momento
+   -l'antitesi- e una parte della realtà, invece bisogna considerare la
+   realtà nella sua totalità: il vero è l'intero.
+
+   Per Hegel Kant ha ridotto la conoscenza filosofica a una mera indagine
+   sulle forme -gli strumenti e le capacità soggettive del conoscere-
+   vuota di contenuto. Kant intende questa operazione come opportuna prima
+   di addentrarsi nella conoscenza di Dio, anima e mondo, che sarebbero
+   una vana fatica se prima si dimostrasse che sono inconoscibili. Secondo
+   Hegel, invece, è impossibile e una vana fatica il discorso formale sul
+   metodo fatto a priori del contenuto, perché la filosofia coincide con
+   il suo oggetto, e riesce a conoscere gli strumenti solo dopoché sta già
+   conoscendo l'oggetto e li astrae da questo, non è come altri campi del
+   sapere in cui mi posso interrogare sul metodo prima di entrare nel
+   merito.
+   ««In questa rinuncia della ragione a se stessa il concetto della verità
+   va perduto. La ragione viene ristretta a conoscere soltanto una verità
+   soggettiva, soltanto l’apparenza [il fenomeno di Kant] soltanto
+   qualcosa cui la natura dell’oggetto stesso non corrisponda. Il sapere è
+   tornato ad esser l’opinione.^[9]»
+
+   La filosofia di Kant ha affermato l'inconoscibilità
+   dell'Incondizionato/infinito, e ridotto la conoscenza delle cose
+   finite, l'anima e il mondo, alla sola manifestazione sensibile,
+   nell'impossibilità anche per questi di conoscere la cosa in sé e per
+   sé; perdendosi in un vuoto discorso sulle forme del sapere.
+
+   Hegel critica in particolare la filosofia morale e la filosofia del
+   diritto di Kant, che concepiscono solo astrattamente i rapporti tra
+   l'individuo e lo Stato^[10].
+
+La critica ai Romantici
+
+   [modifica | modifica wikitesto]
+
+   Il rapporto fra Hegel e i Romantici è abbastanza complesso. Pur vivendo
+   nel medesimo periodo storico, bisogna ricordare che Hegel non è un
+   romantico, bensì un idealista. Nei Romantici è il sentimento, la fede,
+   l'intuizione, che Hegel definisce come «romantiche fantasticherie», a
+   primeggiare su qualunque altra facoltà umana. È la Ragione il principio
+   primo del pensiero e della realtà. Inoltre Hegel critica
+   l'atteggiamento individualistico dei romantici, che chiudendosi
+   narcisisticamente in sé stessi, perdono ogni contatto con il mondo.
+
+   Tuttavia è inevitabile riscontrare in Hegel la partecipazione a questo
+   particolare momento storico, rintracciabile specialmente nell'anelare
+   all'infinito. Si potrebbe pertanto dire che Hegel, più che essere
+   separato dai Romantici, è piuttosto un momento a sé particolare di quel
+   periodo.
+
+La critica a Fichte
+
+   [modifica | modifica wikitesto]
+
+   Si è detto che la filosofia di Fichte è paragonabile a una semiretta,
+   di cui si conosce il punto di inizio, ma di cui non è possibile
+   intravedere la fine.^[11]^[12] Hegel critica Fichte in due punti:
+   Fichte, pur tentando, non risolve affatto il dualismo, poiché assume
+   l'oggetto come semplice ostacolo, comunque separato, come finzione
+   voluta dall'Io, per esercitare la sua assoluta libertà. L'assoluto è
+   visto semplicemente come un ideale da raggiungere, una meta che però
+   non si realizza mai. In Fichte dunque c'è la concezione dell'Assoluto
+   come opposizione di finito ed infinito ma manca l'unione perché questo
+   corre lungo la retta non raggiungendo mai il Non-Io che sempre gli si
+   ripropone davanti. L'assoluto di Fichte è un "cattivo infinito".^[13]
+
+La critica a Schelling
+
+   [modifica | modifica wikitesto]
+
+   Nella filosofia di Schelling, invece, l'Assoluto è correttamente
+   indicato come unione di finito ed infinito che vive nell'arte, ma manca
+   la caratteristica dell'opposizione poiché per questa occorre che i due
+   elementi dell'opposizione siano distinti, mentre in Schelling
+   costituiscono un'unità indifferenziata. Schelling pone l'assoluto in
+   modo a-dialettico, come un'unità astratta priva di concretezza, perciò
+   Hegel afferma che il suo concetto dell'Assoluto è paragonabile ad una
+   notte in cui tutte le vacche sono nere^[14]. Qui vale la figura del
+   cerchio dove come nell'unità indifferenziata ogni punto si confonde con
+   il precedente. Un'altra critica è rivolta all'intuizionismo
+   schellinghiano; ossia la pretesa che la coscienza possa immediatamente
+   innalzarsi al sapere attraverso quello che Hegel definisce "il colpo di
+   pistola" dell'intuizione^[14].
+
+La critica a Jacobi
+
+   [modifica | modifica wikitesto]
+
+   Nel saggio Fede e sapere, pubblicato nel 1802 sul "Giornale critico
+   della filosofia", diretto insieme con Schelling, Hegel critica, oltre
+   Kant e Fichte, anche Jacobi il cui fideismo esprime la dottrina del
+   sapere immediato, senza le mediazioni razionali, facendo un salto dal
+   soggetto all'oggetto senza cogliere la razionalità che, superando
+   metodicamente l'opposizione tra soggetto e oggetto, perviene allo
+   stesso risultato. Nell'Enciclopedia scriverà che « [...] la filosofia
+   del sapere immediato va così oltre nelle sue astrazioni che vuole la
+   determinazione dell'esistenza inseparabilmente congiunta, non solo col
+   pensiero di Dio, ma anche con le rappresentazioni del mio corpo e delle
+   cose esterne...la differenza tra l'affermazione del sapere immediato e
+   la filosofia si riduce a questo...che si contrappone al
+   filosofare.»^[15] E altrove, ironicamente, scriverà che il salto
+   mortale di Jacobi^[16] dall'uomo a Dio è mortale... solo per la
+   filosofia. Ricorrere alla fede implica necessariamente l'esclusione
+   della filosofia.
+
+Ideale e reale
+
+   [modifica | modifica wikitesto]
+
+   Secondo Hegel la libertà individuale non esiste e tutto è determinato
+   nello Spirito e dallo Spirito, che è anche Ragione, Essere e Idea e,
+   insieme, il Dio di Platone, quello di Plotino, di Proclo e di Spinoza,
+   panteistico e panenteistico. Il Dio di Hegel è necessità assoluta che
+   si fa identità assoluta. Nell'Enciclopedia delle scienze filosofiche
+   scrive:
+
+   §149. Quindi la necessità è "in sé" un'unica essenza identica "con sé".
+
+   §150. Ciò che è necessario è "in sé" relazione assoluta. Nella sua
+   processualità la relazione si nega e si supera [Aufhebung] in assoluta
+   identità.
+
+   "Il tutto è l'essenza che viene a compimento mediante il suo sviluppo,
+   di esso si può dire che è essenzialmente risultato, che esso è alla
+   fine quello che in realtà è."^[17]
+
+Monismo assoluto materiale e spirituale
+
+   [modifica | modifica wikitesto]
+
+   Sin dagli scritti teologici giovanili Hegel si oppone energicamente al
+   cosiddetto "principio del nord", a quella separazione tra ideale e
+   reale che era tipica del kantismo e che non lasciava spazio alla
+   conoscenza del Reale, inteso questo come l'Intero dal quale la Ragione
+   traeva il suo senso e il suo perché. Per Hegel il presupposto della
+   verità della conoscenza è un monismo assoluto di forme spirituali che
+   si evolvono e si assolutizzano in un'unicità diveniente continua, dove
+   il materiale e lo spirituale sono indistinguibili e connessi in un
+   continuo superamento di "momenti" necessari del divenire storico per
+   mezzo di una fenomenologia dove ciò che è posto trova la sua negazione
+   e poi il suo superamento in una nuova figura (o appunto "fenomeno").
+
+   Si tratta di un processo teleologico necessario, che già nel 1807
+   veniva presentato così:
+   «Il rapporto del quale si è qui sopra discusso, dell'organico con la
+   natura degli elementi, non esprime l'essenza dell'organico stesso;
+   questa essenza è invece contenuta nel concetto finalistico. Invero a
+   questa coscienza osservativa quel concetto non è l'essenza propria
+   dell'organico; anzi, a quella coscienza medesima il concetto cade fuori
+   dell'essenza, e quindi è poi soltanto quell'estrinseco rapporto
+   teleologico. Solamente, l'organico come testé fu determinato è esso
+   stesso proprio il fine reale; infatti, poiché l'organico "conserva se
+   stesso" pur nel rapporto ad Altro, esso viene appunto ad essere quella
+   naturale essenza in cui la natura si riflette nel concetto, e in cui i
+   momenti di causa e di effetto, di attivo e di passivo, che nella
+   necessità sono posti l'uno di fronte all'altro, vengono contratti in
+   unità.^[18]»
+
+La separazione tra ideale e reale ad opera della religione
+
+   [modifica | modifica wikitesto]
+
+   La separazione tra ideale e reale, tra cielo e terra, ebbe luogo,
+   secondo il filosofo tedesco, con l'avvento del pensiero ebraico e con
+   il successivo pensiero cristiano. La religione cristiana, derivata da
+   quella ebraica, aveva staccato il senso della propria vita dalla vita
+   stessa, ponendolo al di sopra della terra, in un dio lontano posto in
+   cielo. Dio non apparteneva più all'intima natura delle cose, com'era,
+   per esempio, presso gli antichi Greci, ma veniva scisso dal mondo;
+   l'uomo così, lasciato al suo destino, viveva in uno stato, per così
+   dire, di minorità dal quale, attraverso il senso del peccato e
+   l'insoddisfazione per la propria esistenza, sentiva il bisogno di
+   ricongiungersi con il senso vero delle cose. Con il cristianesimo era
+   nato perciò quel senso di frustrazione e di pena, di infelicità
+   concettuale nella "scissione", che per millesettecento anni aveva
+   impedito di capire il vero senso dello Spirito.
+
+La "coscienza infelice"
+
+   [modifica | modifica wikitesto]
+
+   Hegel definisce tale stato di scissione o alienazione "Coscienza
+   infelice". Quest'ultima è una situazione necessaria che serve all'uomo
+   per ricercare quel senso dell'armonia perduta, per creare in lui la
+   consapevolezza della propria esperienza tragica, la quale si risolve
+   nell'aspirare alla riconciliazione finale con Dio, in una sorta
+   d'armonia dinamica, con lo stesso significato che ne aveva dato Platone
+   nel Sofista, quando si trovò a definire la Dialettica come rapporto
+   dell'unità con la molteplicità. Questo fenomeno pregresso della storia
+   dell'uomo è così descritto da Hegel:
+   «Questa coscienza infelice scissa entro se stessa è così costituita
+   che, essendo tale contraddizione della sua essenza una coscienza, la
+   sua prima coscienza deve sempre avere insieme anche l'altra. In tal
+   modo, mentre essa ritiene di aver conseguito la vittoria e la quiete
+   dell'unità, deve immediatamente venire cacciata da ciascuna delle due
+   coscienze.^[19]»
+
+   L'atteggiamento di Hegel si pone allora come una negazione del
+   cristianesimo ma anche come suo assorbimento nel procedere storico.
+   L'Aufhebung (il Superamento) è possibile se, come dice più avanti con
+   la fusione dell'effettualità reale con l'autocoscienza:
+   «Tale coscienza deve pertanto innalzare all'assoluto divenir-uno il
+   rapporto inizialmente esteriore verso quell'intrasmutabile figurato,
+   come fosse un'effettualità estranea. Il movimento nel quale la
+   coscienza inessenziale si adopera a raggiungere questo esser-uno è un
+   triplice movimento, secondo la triplice relazione che essa assumerà in
+   rapporto al suo al di là che ha forma e figura: in primo luogo come
+   coscienza pura, poi come essenza singola, comportantesi verso la
+   effettualità come appetito e lavoro, e in terzo luogo come coscienza
+   del suo essere-per-sé.^[20]»
+
+   È sulla base di questa nuova visione dell'Assoluto che si possono
+   intendere le critiche di Hegel alle filosofie precedenti di Kant,
+   Fichte e Schelling. Nei confronti di Schelling, Hegel lamenta, a
+   partire dalla Fenomenologia dello spirito, l'assenza della prospettiva
+   metodologica della dialettica. Per quanto concerne la conoscenza del
+   Reale, che per Schelling si risolveva nella indifferenziata sinossi di
+   ideale e reale, è "la notte in cui tutte le vacche sono nere", come
+   commenta Hegel nella prefazione della sua opera.
+
+   Proprio in virtù di questo attacco alle filosofie precedenti La
+   Fenomenologia dello spirito cerca di spiegare la storia del pensiero,
+   attraverso un divenire, nel tempo e nelle epoche, dell'esperienza della
+   coscienza, che Hegel intese come sottotitolo alla sua opera e che
+   meglio inquadra il suo testo. L'opera descrive i tre momenti che, nella
+   storia, hanno caratterizzato la cultura umana e che si ripetono
+   continuamente nella vita di ciascun individuo, con l'intento di
+   dimostrare, laddove ce ne fosse bisogno, la contemporaneità del modello
+   astratto e del modello concreto, affinché, attraverso i fatti della
+   storia, possa dispiegarsi, rendendo conto di sé, il divenire dello
+   Spirito.
+     * La prima posizione che lo Spirito ha assunto nella storia è quella
+       dello stato ingenuo dell'armonia originaria, rappresentata dai
+       Greci, dove le forze del dio erano presenti nella natura stessa
+       delle cose, un aspetto del pensiero che contraddistingueva anche le
+       religioni più primitive (animismo).
+     * Il secondo momento è quello della scissione dal dio, introdotto
+       dalla religioni abramitiche; Dio si manifesta all'uomo, ma,
+       attraverso il peccato originale, opera la scissione; l'uomo, come
+       un angelo caduto, sperimenta l'angoscia e il dolore nella Valle di
+       lacrime che il Padre celeste ha posto per lui: è il Medioevo, l'età
+       che precede la modernità fino a Kant.
+     * Il terzo momento è scandito dall'avvento della Ragione, lo Spirito
+       si eleva ad una consapevolezza compiuta, conscio della tristezza
+       della scissione, vuole riconciliarsi con il mondo, diventa così
+       Autocoscienza, la presenza attiva di uno Spirito nel mondo che si
+       riconcilia con il mondo stesso, è, dunque, lo Spirito infinito, non
+       più rappresentato dalla sostanza che è posta staticamente al di
+       sotto delle cose, ricoperte dalla loro apparenza fenomenica. La
+       realtà è Soggetto, attività e automovimento.
+
+   Non sono le cose che procedono dall'Assoluto, ma l'Assoluto è questo
+   stesso procedere. Da ciò se ne deduce che per Hegel la Realtà è
+   infinita, è un Soggetto che tiene i fili della storia e che parla
+   attraverso i suoi uomini, quegli uomini che la storia l'hanno sempre
+   fatta in prima persona, che come strumenti nelle mani di questo
+   ineluttabile essere supremo, ne operano il naturale svolgimento.
+   Cosicché le vicende del mondo non sono estranee alla storia dello
+   Spirito perché la storia del mondo è la storia stessa di Dio, è la
+   storia dell'avvento dello Spirito, del realizzarsi della Ragione.
+
+La Fenomenologia dello Spirito
+
+   [modifica | modifica wikitesto]
+   [20px-Magnifying_glass_icon_mgx2.svg.png] Lo stesso argomento in
+   dettaglio: Fenomenologia dello spirito.
+
+   Hegel sviluppa il tema della risoluzione del finito nell'infinito nella
+   Fenomenologia dello Spirito (laddove fenomenologia significa Scienza di
+   ciò che appare). La fenomenologia è la storia romanzata dello Spirito
+   (Geist) che si ripercorre a partire dalla forme più semplici della
+   coscienza individuale; potremmo dire che la Fenomenologia sia il
+   ricongiungersi dell'universale con sé stesso, attraversando il
+   concreto: in pratica è come se nella dottrina hegeliana esistessero due
+   piani separati che s'intersecano e sovrappongono quando l'Assoluto
+   s'incarna nello Spirito soggettivo.
+   [330px-Fenomenologia.svg.png]
+     * Il primo percorso è quello della coscienza individuale verso il
+       possesso dell'Assoluto ed è questa la strada indicata nella
+       Fenomenologia.
+     * Il secondo cammino è quello dell'Assoluto che attraverso gli stadi
+       dialettici dello sviluppo logico di Idea (con la corrispondente
+       dottrina della Logica) - Natura (studiata dalla Filosofia della
+       Natura) - Spirito (descritto nella Filosofia dello Spirito) si
+       manifesta come Spirito soggettivo nell'individuo e, da questo punto
+       coincidendo con la prima via giunge, passando attraverso lo Spirito
+       oggettivo, su se stesso, gonfio di realtà, come Spirito assoluto.
+
+   Hegel riproporrà infine l'intero percorso, sia quello individuale che
+   quello dello stesso Assoluto, nella Enciclopedia delle scienze
+   filosofiche in compendio.
+
+Dall'individuo all'Assoluto
+
+   [modifica | modifica wikitesto]
+
+   Il farsi dinamico dell'Assoluto, ovvero il divenire, il continuo
+   cambiamento della realtà, avviene attraverso tre momenti dialettici
+   fondamentali:
+     * idea in sé (tesi), che può essere identificata con il Dio prima
+       della creazione dell'entità finita (il mondo), o, per meglio dire,
+       quando il mondo è solo un programma ed è presente soltanto
+       l'ossatura razionale del finito;
+     * idea fuori di sé (antitesi), è la Natura, cioè l'estrinsecazione o
+       l'alienazione dell'Idea nelle realtà spazio-temporali del mondo;
+     * idea in sé e per sé (sintesi), che ritorna in sé, cioè lo Spirito,
+       ovvero l'idea che ritorna al suo stadio iniziale, gonfia di
+       concretezza, dopo il passaggio attraverso la Natura.
+
+   Queste tre fasi non devono essere intese in senso cronologico, ma solo
+   in senso ideale: infatti lo Spirito è eterno sia come l'idea, sia come
+   il suo opposto, la Natura. A questi tre momenti, corrispondono tre
+   diverse branche della filosofia hegeliana:
+     * La logica, suddivisa a sua volta in dottrina dell'essere, dottrina
+       dell'essenza e dottrina del concetto;
+     * La filosofia della natura, ripartita in meccanica, fisica e
+       organica;
+     * La filosofia dello spirito, che studia lo spirito soggettivo,
+       oggettivo e assoluto.
+
+   La manifestazione dell'Assoluto, la sua discesa nel mondo è
+   rappresentata nella Fenomenologia, che secondo il primo progetto
+   dell'autore doveva essere un'introduzione alla Logica: la coscienza
+   umana, partendo dallo stadio della conoscenza empirica, si evolve
+   gradualmente al sapere scientifico. Con l'ampliarsi della materia
+   trattata, il testo si trasformò in un'esposizione dell'intero sistema:
+   da qui le confusioni e le oscurità che caratterizzano l'opera. La
+   Fenomenologia è un'indagine, non solo della coscienza teoretica, ma
+   anche della coscienza morale, sociale, politica e religiosa.
+
+   La Coscienza individuale ripercorre tutte le tappe dello Spirito
+   Assoluto, e dopo molti travagli, viene ad identificarsi con esso. Da
+   ciò prende l'avvio una delle più famose figure^[21] della Fenomenologia
+   dello Spirito, vale a dire quella della Coscienza infelice^[22] cioè
+   quella coscienza che non sa di essere tutta la realtà, e che pertanto
+   viene dilaniata da opposizioni interne che riesce a superare solo
+   comprendendo di essere il tutto. Inconsapevole di essere tutta la
+   Realtà, versa in uno stato di scissione con l'Intero, sperimentando le
+   lacerazioni, le opposizioni, i conflitti che si possono risolvere
+   soltanto con la certezza che, su ogni singola realtà, questa stessa
+   coscienza vi potrà scorgere la sua piena realizzazione come Ragione,
+   ritrovando la piena armonia con l'Assoluto.
+
+   Sono quattro i momenti dello sviluppo fenomenologico: la coscienza,
+   l'autocoscienza, la ragione e lo spirito.
+
+I capisaldi del sistema hegeliano
+
+   [modifica | modifica wikitesto]
+
+   Per comprendere al meglio il pensiero di Hegel, è necessario chiarire
+   nuovamente i punti fondamentali della sua dottrina che sono tre: La
+   realtà come Spirito Infinito (o Finito per Infinito), Identità di
+   Razionalità (o Ragione) e Realtà e infine Il Compito della Filosofia (o
+   funzione giustificatrice della Filosofia).^[23]
+
+La realtà come Spirito infinito
+
+   [modifica | modifica wikitesto]
+
+   Per Hegel è fondamentale superare le opposizioni e le scissioni della
+   mente (ad esempio fenomeno/noumeno kantiano oppure Essere immutabile di
+   Parmenide/Essere in divenire di Eraclito). Il fine di Hegel (e di
+   conseguenza della sua filosofia) è quello di costruire una totalità
+   unificata, che chiamerà Spirito Assoluto, superando questa armonia
+   scissa e, pertanto, il compito della filosofia sarà quello di costruire
+   questo Assoluto al fine di superare le opposizioni e le scissioni. Lo
+   stesso Hegel dice: "l'interesse della Ragione è raggiungere una sintesi
+   unificata", cioè l'unione tra in sé (Tesi) e per sé (Antitesi).
+
+   La conflittualità che per prima cosa Hegel deve risolvere è la dualità
+   Finito/Infinito. Egli non vuole né ridurre l'infinito ad una
+   molteplicità di finito né considerare il finito come molteplicità
+   dell'infinito. Hegel, dunque, deve mettere sullo stesso piano Finito e
+   Infinito insieme, sostenendo che il mondo non è altro che la
+   manifestazione e realizzazione dell'infinito.^[24] Il finito,
+   costituito dalle sue parti finite, esiste solo e unicamente in funzione
+   dell'Infinito. Ciò significa che una parte di finito presa
+   singolarmente per Hegel non esiste. Per comprendere a fondo questo
+   concetto hegeliano, è necessario rifarsi alla concezione romantica (di
+   impronta schellinghiana) della Natura, intesa come Organismo vitale.
+   Essa, infatti, è costituita da parti, le quali singolarmente non
+   esistono, ma insieme formano il Tutto (Il Tutto al di sopra della
+   Parte). Questa concezione che risale al pensiero spinoziano, sarà in
+   seguito definita come "olismo". In particolare il sistema filosofico
+   hegeliano è stato chiamato "Monismo Panteistico Dinamico"^[25].
+
+   In questo senso Hegel si avvicina in parte al concetto di Sostanza già
+   presente in Spinoza, salvo che l'Assoluto è Soggetto dinamico in
+   divenire, Pensiero di Pensiero (Aristotele). La realtà, dunque, non è
+   sostanza ma Soggetto, Spirito. Il soggetto inteso come attività,
+   processo, automovimento, rappresenta un'acquisizione moderna resa
+   possibile ad Hegel dalla scoperta di Kant dell'"io penso"
+   (l'appercezione trascendentale). La realtà dunque è Spirito infinito e
+   non è più rappresentata dalla sostanza staticamente al di sotto delle
+   cose ricoperte dalla loro apparenza fenomenica. La realtà è soggetto,
+   attività, automovimento. Non sono le cose che procedono dall'Assoluto
+   ma l'Assoluto è questo stesso procedere.
+
+   Cosicché le vicende del mondo non sono estranee alla storia dello
+   Spirito. La storia del mondo è la storia stessa di Dio, è la storia
+   dell'avvento dello Spirito, del realizzarsi della ragione.^[26]
+
+Identità fra ragione e realtà
+
+   [modifica | modifica wikitesto]
+
+   «Ciò che è razionale, è reale; e ciò che è reale, è razionale.^[27]»
+
+   La ragione (Vernunft), per Hegel non è esclusivamente un mezzo legato
+   alla mente umana, ma come intelletto (Verstand), è un principio
+   metafisico. La razionalità dunque non è pura astrazione, ma può essere
+   trovata nel mondo come un raggruppamento delle leggi che lo regolano
+   (infatti il mondo non è una realtà caotica, un susseguirsi disordinato
+   di eventi, bensì è dominato da un ordine razionale).
+     * Con la prima parte della formula ("ciò che è razionale è reale"),
+       Hegel vuole dire che ciò che è ragionevole diventa realtà, si attua
+       in forme concrete. Un ideale razionale prima o poi si realizza. E
+       se non si realizza, vuol dire che non è razionale. Quindi, secondo
+       Hegel, gli ideali e i programmi politici che non si sono mai
+       tradotti in atto, si sono dimostrati, proprio per questo,
+       irrazionali e senza alcun valore, delle vane fantasie di esaltati.
+       Per sapere se un programma politico o un'ideologia è giusta, è
+       razionale, bisogna vedere se si attua concretamente nella
+       storia.^[28]
+     * La seconda parte della formula ("ciò che è reale è razionale") dice
+       che in tutto ciò che è reale (nella natura e nella storia) si può
+       rintracciare un'intrinseca razionalità. La realtà, cioè l'insieme
+       dei fenomeni naturali e degli eventi storici, non è una materia
+       caotica, caratterizzata dal caso, ma ha un suo sviluppo logico,
+       poiché è il manifestarsi di una struttura razionale (l'Idea, o
+       Ragione), che è inconsapevole nella natura e consapevole nell'uomo.
+       Tutto ciò che esiste deve poter essere compreso. Non esiste
+       veramente nulla che la nostra ragione non sia in grado di capire.
+       Pertanto, il manifestarsi di un'azione reale è rintracciabile nella
+       sola Ragione, origine e procedimento del reale stesso.^[29]
+
+   Allora la logica, che studia i processi del pensiero, troverà la sua
+   corrispondenza nella metafisica, che studia i processi della realtà.
+   Una delle colpe di Kant è stata quella di avere privato con il
+   criticismo il popolo tedesco della metafisica, ma un popolo senza
+   metafisica è come «un tempio senza santuario». Bisogna restituire alla
+   speculazione la metafisica identificandola con la logica.
+
+Reale ed esistente
+
+   [modifica | modifica wikitesto]
+
+   Con questa affermazione, Hegel non vuole comunque sostenere che tutto
+   ciò che accade è da considerarsi razionale (e quindi necessario e
+   giusto) nei minimi particolari. È vero che il reale è razionale, cioè
+   perfettamente necessario, ma non è vero che tutto ciò che esiste in un
+   determinato momento è da considerarsi reale. Hegel, infatti, distingue
+   fra reale ed esistente. Solo gli aspetti più profondi e universali
+   dell'esistenza sono reali e quindi razionali. Invece, le manifestazioni
+   particolari dell'esistenza (ciò che è contingente e inessenziale) non
+   sono veramente reali. Ad esempio, sul piano politico, veramente reali
+   non sono i sentimenti e le passioni degli individui, ma sono reali e
+   razionali le istituzioni e soprattutto lo Stato. Analogamente, sul
+   piano naturale, veramente reale non è il singolo fenomeno, come, per
+   esempio, l'iridescenza dell'arcobaleno, ma lo sono ben più le leggi
+   fisiche che lo determinano.
+
+   Reale non è, dunque, per Hegel, il particolare, l'individuo, ma
+   l'universale.
+
+Funzione giustificatrice della filosofia
+
+   [modifica | modifica wikitesto]
+
+   Una volta appurato che la realtà è ragione e di conseguenza idea, e che
+   tutto ciò che avviene è razionale, si tratta di stabilire quale sia il
+   compito della filosofia. Hegel lo riscontra nel semplice prendere atto
+   della realtà quale essa sia. La filosofia non deve prefiggersi di
+   trasformare la realtà, come dirà Marx. La filosofia, essendo la più
+   alta e compiuta manifestazione dell'Assoluto, non può essere presente
+   in ogni stadio del pensiero umano, ma solo alla fine del percorso,
+   quando la realtà è già compiuta e non vi è più nulla da trasformare. Si
+   tratta di rendere sistematico e organico il processo descrittivo di
+   "ricapitolazione"^[30]. Ecco dunque che la filosofia altro non deve se
+   non giustificare.^[31]
+
+   Ad ogni modo, anche se si ammette l'esistenza dell'accidentale nella
+   natura e nella storia, la trama essenziale del mondo, gli aspetti che
+   contano nell'universo, restano, per Hegel, razionali e necessari. E se
+   il reale è razionale, per Hegel la filosofia deve sostanzialmente
+   accettare la realtà presente, senza contrapporre ad essa degli ideali
+   alternativi (poiché la realtà, sostanzialmente, è già come deve
+   essere). Compito della filosofia è prendere atto della realtà storica e
+   giustificarla con la ragione.
+
+   In particolare, la filosofia del diritto deve mostrare la razionalità,
+   e cioè la positività, dell'epoca attuale e delle sue istituzioni
+   politiche, per esempio dello Stato. Hegel afferma che «la filosofia è
+   il proprio tempo appreso con il pensiero». La filosofia non può
+   superare la propria età, non può prevedere il futuro; non dev'essere
+   promotrice di progresso, non deve annunciare nuove epoche. La filosofia
+   cerca, invece, di comprendere il presente, e di dimostrarne, con la
+   riflessione, l'intrinseca necessità.
+
+   La filosofia non ha il compito di trasformare la società, di
+   determinarla o guidarla, ma di spiegarla. La filosofia, però, può
+   spiegare la realtà solo al termine del suo processo di realizzazione.
+   Infatti, un periodo storico può essere pienamente compreso solo al
+   termine del suo sviluppo, quando ha espresso tutte le sue potenzialità.
+
+   Hegel sostiene che la filosofia è simile alla Nottola di Minerva^[32]
+   (una specie di civetta, uccello sacro alla dea Minerva (Atena), la
+   quale nasce dal cervello di Giove e rappresenta la sapienza) che inizia
+   il suo volo solo al crepuscolo, quando il sole è già tramontato. Hegel,
+   con questa metafora, vuole dire che la filosofia sorge quando una
+   civiltà ha ormai compiuto il suo processo di formazione e si avvia al
+   suo declino. Così, al tramonto degli stati ionici nell'Asia Minore
+   sorge la filosofia ionica. Con la decadenza di Atene nasce la filosofia
+   di Platone e di Aristotele. A Roma la filosofia si diffonde solo al
+   tramonto della repubblica e col regime dittatoriale degli imperatori,
+   ecc.
+
+La dialettica
+
+   [modifica | modifica wikitesto]
+
+   L'Assoluto, per Hegel, è fondamentalmente il divenire. La legge che
+   regola tale divenire - e cioè la legge dell'Assoluto - è la
+   dialettica.^[33] La dialettica è in primo luogo la legge della
+   razionalità, cioè il principio universale che fissa i rapporti fra i
+   concetti opposti del pensiero. Ma la dialettica è anche la legge della
+   realtà, cioè chiave stessa dell'universo, dato che la realtà (la natura
+   e il mondo umano della storia) è una manifestazione della razionalità.
+   La dialettica è una proprietà dei pensieri e una proprietà delle cose.
+   Anche il mondo, in ogni sua parte, nella natura e nella storia, porta
+   le tracce di questa legge.
+
+   Il concetto di dialettica, nella tradizione filosofica, ha ricevuto
+   significati diversi. Per Kant, dialettica è l'attività della ragione
+   che si dibatte in insanabili contraddizioni quando abbandona il terreno
+   dell'esperienza. Per Fichte dialettico è lo sviluppo dell'Io che
+   procede attraverso tre momenti: uno positivo (tesi), uno negativo di
+   opposizione (antitesi), e uno di conciliazione degli opposti tramite
+   limitazione (sintesi).
+
+   Hegel riprende la concezione triadica fichtiana secondo cui i rapporti
+   fra i concetti si articolano in tre momenti (tesi, antitesi e sintesi).
+   Questi termini, però non compaiono in Hegel^[34]^[35], che preferisce i
+   termini di natura ontologica (e di estrazione teologica): in sé (an
+   sich), per sé (für sich), e in sé e per sé (an sich und für sich). È
+   pertanto un linguaggio un po' più complesso che nell'Enciclopedia delle
+   scienze filosofiche è così spiegato:
+     * il 1º momento è definito intellettivo astratto, o l'idea in sé
+       (studiata dalla logica)
+     * il 2º momento è definito razionale negativo o dialettico, o l'idea
+       fuori di sé (studiata dalla filosofia della natura)
+     * il 3º momento è definito razionale positivo o speculativo, o l'idea
+       in sé e per sé (studiata dalla filosofia dello spirito)
+
+Il momento intellettivo astratto
+
+   [modifica | modifica wikitesto]
+
+   Il 1º momento intellettivo astratto consiste nel considerare i concetti
+   opposti del pensiero come del tutto distinti e separati gli uni dagli
+   altri. Questo modo di pensare i concetti opposti, come sussistenti di
+   per sé e senza influenze reciproche (il bene distinto dal male, la vita
+   dalla morte, ecc.), è opera dell'intelletto (Verstand), che si lascia
+   guidare dal principio di identità e di non contraddizione, secondo cui
+   ogni cosa è uguale a se stessa ed è assolutamente diversa dalle altre.
+
+   Per l'intelletto (Verstand), ad esempio, il bene è bene e basta, e per
+   esistere non ha bisogno che di se stesso, la vita è vita e basta, ecc.
+   Si tenga presente che per Hegel l'intelletto è la facoltà del dividere,
+   del classificare, che separa e irrigidisce i concetti. La ragione
+   (Vernunft), invece, è la facoltà che li mette in movimento e ne coglie
+   l'unità.
+
+   L'intelletto è il pensiero astratto, la ragione è il pensiero concreto.
+
+Il momento razionale negativo
+
+   [modifica | modifica wikitesto]
+
+   Nel 2º momento razionale negativo o dialettico, interviene appunto la
+   ragione, che mette in evidenza i limiti dell'intelletto: infatti la
+   ragione dimostra che ogni concetto, per essere compreso, non dev'essere
+   isolato da tutti gli altri, ma, al contrario, va messo in relazione con
+   la sua negazione, col suo opposto e l'opposizione per Hegel è la molla
+   della realtà: il bene, per essere compreso, va messo in relazione con
+   l'esperienza concreta del male, ecc.
+
+   Infatti, il bene è tale solo in rapporto al male: chi non conosce il
+   male non conosce nemmeno il bene. Per spiegare ciò che una cosa è
+   bisogna chiarire ciò che essa non è. Secondo Hegel, se isoliamo
+   totalmente un concetto dal suo opposto, questo concetto perde di
+   significato e addirittura si confonde e si rovescia nel suo opposto.
+
+Il momento razionale positivo
+
+   [modifica | modifica wikitesto]
+
+   Nel 3º momento, razionale positivo o speculativo, la ragione si rende
+   conto che ogni coppia di idee opposte si trova sempre contenuta in
+   un'altra idea superiore che ne rappresenta la sintesi, ossia la loro
+   correlazione. L'idea del vendere è l'opposto di quella del comprare, ma
+   l'una non può sussistere senza l'altra, ed entrambe sono contenute
+   nell'idea del commercio (sintesi) che le mette in correlazione.
+
+   Il terzo momento è detto anche della negazione della negazione, giacché
+   in esso gli opposti vengono negati nella loro negatività (cioè nella
+   loro separazione) e affermati nella loro unità in un concetto
+   superiore. Il terzo momento è detto anche del superamento, parola
+   italiana che traduce il sostantivo tedesco "Aufhebung", dal verbo
+   Aufheben. Questo in realtà, ha tre significati etimologici: 1º
+   "togliere" (auf), 2º "sollevare/raccogliere", 3º "conservare superando"
+   (hebung). Infatti nel terzo momento gli opposti sono tolti dal loro
+   isolamento e conservati nella loro unità per il superamento.
+
+   Ma la sintesi, a sua volta, diviene tesi di una successiva triade, e
+   così via. In tal modo lo spirito passa da sintesi particolari a sintesi
+   sempre più vaste. Ad esempio, il mercato è solo una delle componenti di
+   una sintesi più vasta, la società, e questa di una sintesi ancora più
+   ampia, lo Stato, ecc.
+
+   Il processo dialettico per Hegel non è, però, a sintesi aperta, ma a
+   sintesi chiusa. Se il processo fosse aperto, cioè se non si concludesse
+   mai, l'Assoluto non avrebbe mai il pieno possesso di se stesso. Di
+   conseguenza, Hegel opta per una dialettica a sintesi finale chiusa,
+   cioè per una dialettica che ha un ben preciso punto di arrivo (lo
+   Spirito Assoluto). Pertanto, solo la sintesi finale è propriamente il
+   Vero. La Verità definitiva si comprende solo alla fine del processo
+   dialettico, quando ne abbiamo percorso tutte le articolazioni.
+
+La logica hegeliana e quella aristotelica
+
+   [modifica | modifica wikitesto]
+
+   [500px-Dialettica_hegeliana.png] Mentre la logica classica partiva da
+   un punto A del tutto a priori rispetto all'esito del ragionamento (B),
+   nella dialettica hegeliana il flusso logico che va da A a B, dove
+   questo antiteticamente contraddice ma non annulla (aufheben), spinge ad
+   arricchire la tesi iniziale in una sintesi onnicomprensiva (C).^[36]
+
+   La logica dialettica di Hegel è diversa dalla logica aristotelica^[37]
+   Questa aveva per suoi princìpi fondamentali il principio di identità e
+   quello di non contraddizione, secondo cui gli opposti non possono mai
+   stare insieme. Invece, per Hegel il reale è proprio un insieme (una
+   sintesi) di opposti. La logica aristotelica, dunque, non serve; o, per
+   meglio dire, è la logica dell'intelletto, non della ragione.
+
+   Una volta trasferita dal mondo dei concetti a quello della natura e
+   della storia, la dialettica si svolge logicamente. I vari momenti
+   (tesi, antitesi e sintesi) si succedono logicamente gli uni agli altri.
+   Sennonché Hegel pensa che anche nella natura e nella storia la sintesi
+   sia sempre il solo momento concreto, mentre tesi e antitesi restano
+   astratti una volta superati. La sintesi è il solo momento concreto
+   perché costituisce il fine che guida lo sviluppo dialettico dei due
+   momenti precedenti che ne costituiscono i passi intermedi e che
+   esistono solo in funzione di essa.
+
+   La sintesi è cronologicamente ultima ma logicamente prima. Tutto in
+   modo coerente a ciò che diceva Aristotele, per il quale ciò che è primo
+   al pensiero è ultimo nell'essere, e viceversa.
+
+   Per esempio, nello sviluppo di una pianta dal seme (tesi), al fiore
+   (antitesi), al frutto (sintesi), è il frutto che guida lo sviluppo
+   dell'organismo e che costituisce il fine verso cui il seme e il fiore
+   tendono. Anche nella realtà naturale e storica lo sviluppo avviene per
+   negazioni: il seme per diventare fiore deve morire, negarsi, ma anche
+   il fiore per diventare frutto (sintesi) deve morire. Analogamente, il
+   bambino diviene adolescente solo se come bambino muore, e l'adolescente
+   diventa adulto negando se stesso. Ogni negazione è un'ulteriore
+   determinazione. Il fiore nega la realtà del seme ma dà senso alla vita
+   del seme, traduce la sua fine in una vita ulteriore e più progredita.
+
+   La concezione dialettica del mondo elaborata da Hegel è
+   fondamentalmente ottimistica: infatti anche il momento dell'opposizione
+   (dell'antitesi) è benefico. La vita e la storia dell'uomo sono
+   indubbiamente caratterizzate da drammi, fratture, contrasti e
+   contraddizioni; tuttavia tali fratture sono necessarie, altrimenti la
+   vita e la storia stesse verrebbero del tutto meno. Se il seme non
+   “morisse” in quanto seme, non si trasformerebbe in fiore e non ci
+   sarebbe sviluppo. Il negativo è l'ostacolo su cui si esercita la
+   libertà dell'uomo e il progresso dell'umanità.
+
+   Il divenire dell'identità viene rappresentato da Hegel con esempi e in
+   termini più generali, con una notazione letterale, tipica del rigore
+   matematico. Aristotele, fondatore della logica, era solito a sua volta
+   rappresentare i concetti di logica con delle lettere, e con tale
+   simbologia enunciava le proprietà riflessiva, simmetrica e transitiva
+   degli enti.
+
+   L'identità dell'identico e del diverso permea tutta la matematica e le
+   scienze.
+   Nella Fenomenologia dello Spirito, Hegel esemplifica che quando
+   scriviamo "A = B" stiamo affermando un'identità dell'identico e del
+   diverso: con due lettere "A" e "B" indichiamo due enti-idee diversi (in
+   quanto due) e allo stesso tempo uguali, a meno di ammettere che "A" e
+   "B" sono semplicemente parole vuote di significato, due nomi per la
+   stessa realtà e che ogni uguaglianza è una tautologia inutile
+   all'essere e al limite al pensiero, vale a dire un io che diviene
+   cosciente che due parole che credeva differenti in realtà sono sinonimi
+   per la stessa realtà.
+   L'identità "A = B" non è la presa di coscienza di una realtà statica,
+   preesistente e persistente a chi la scopre, che porta a accorgersi in
+   un secondo momento che le realtà fisiche sottostanti a due parole "A" e
+   "B", magari non simili a prima vista, sono le stesse.
+   L'identità "A = B" è un processo dinamico in cui le parole "A" e "B"
+   sono sinonimi intercambiabili soltanto nel momento di sintesi, per
+   tornare poi a divergere e contrapporsi. Nel primo caso, dopo questa
+   presa di coscienza, la persona è libera di impoverire il suo linguaggio
+   e il suo pensiero, usando solo uno dei due termini che sono intanto
+   equivalenti, e dimenticando l'altro; né è libera di cancellare il
+   percorso che ha portato a notare l'identità, perché tale insieme di
+   passaggi non è una mera costruzione mentale, è un divenire dell'essere:
+   non si deve perdere la dialettica, se non si vuole perdere l'oggetto
+
+   Hegel mostra non solo la valenza di quelle proprietà, ma che una
+   qualunque identità del tipo "A = B", non è mai un'identità statica, ma
+   un'identità dinamica, che diviene nel tempo (tesi: A = A; antitesi: B'=
+   A, B= (A'); sintesi: A = (A')). Indicando i due termini
+   dell'eguaglianza non con un'unica lettera A, ma con due "A" e "B", è
+   implicita una differenza fra i due termini, che resta aufheben come
+   tolta nella sintesi, in cui "A" è identico al suo diverso "A'". La
+   sintesi è logicamente prima perché rappresenta alla coscienza anche i
+   due successivi momenti dell'identità riflessiva, e della manifestazione
+   e della contrapposizione col diverso al proprio interno ("B" è anche
+   uguale ad "A").
+
+L'ultimo Hegel
+
+   [modifica | modifica wikitesto]
+
+   Nella visione dialettica della realtà di Hegel, il male, l'antitesi, il
+   negativo, la tragicità della vita sono sempre risolti dalla positività
+   della sintesi finale ottenuta tramite la ragione, che nega la negazione
+   e quindi riafferma il bene a un grado più elevato.
+
+   Andando oltre la teodicea di Leibniz, secondo Hegel il male presente in
+   ogni aspetto dell'esistenza, il pantragismo, rientra nell'ottimismo
+   dialettico in cui la negatività viene conservata e superata dalla
+   sintesi della razionalità, il panlogismo.
+
+   Invece nel pensiero dell'ultimo Hegel sorge una drastica dissociazione
+   da questo processo dialettico che, mediante il logico, neutralizzerebbe
+   il tragico rendendolo giustificabile e quindi giusto
+   (pangiustificazionismo).
+
+   Infatti, nella famosa sezione dedicata all'"astuzia della Ragione"
+   (List der Vernunft), nella "Introduzione" alle Lezioni sulla filosofia
+   della storia (1837), Hegel distingue
+     * l'alienazione (Entäusserung) dello Spirito assoluto, che è
+       riconciliabile (Versöhnung) con se stesso, e
+     * l'estraniazione (Entfremdung) dello spirito soggettivo e personale,
+       il quale invece non ne può ricavare alcuna consolazione e conforto.
+
+   L'ottimistica visione esistenziale svanisce davanti alla constatazione
+   del persistere della coscienza infelice nelle singole soggettività in
+   preda dell'Assoluto, vittime passive d'un fatalismo storico che sfrutta
+   gli individui per il suo presunto progresso provvidenziale.^[38] Così
+   Hegel finisce col sostenere che «La storia non è il terreno della
+   felicità. I periodi di felicità sono in essa pagine vuote»^[39] e con
+   il parlare di [Geschichte als] Schlachtbank, del «[banco da] mattatoio
+   della storia».^[40]
+
+Note
+
+   [modifica | modifica wikitesto]
+
+    1. ↑ Francesco Coniglione, Michele Lenoci, Giovanni Mari, Gaspare
+       Polizzi, Manuale di base di storia della filosofia. Autori,
+       indirizzi, problemi, Firenze University Press, 2009, p.140
+    2. ↑ Sapere.it alla voce Sistema hegeliano
+    3. ↑ Theologische Jugendschriften; questi scritti sono ora raccolti
+       nei primi due volumi dell'edizione critica delle opere di Hegel:
+       Frühe Schriften I, (1989) e Frühe Schriften II, (2014), Hamburg,
+       Meiner. Traduzione italiana in Scritti giovanili, a cura di E.
+       Mirri, Guida, Napoli 2015.
+    4. ↑ «Così Hegel produce una costante traduzione delle parole di Gesù
+       in altrettante espressioni kantiane così come del filosofo di
+       Königsberg tende a riproporre il tessuto concettuale e teoretico in
+       merito alla dottrina dell'etica e della religione.» (in Guida allo
+       studio della Vita di Gesù di Hegel. A cura di Maurizio Pancaldi
+    5. ↑ «Hegel arriva ad attribuire a Gesù la stessa formulazione
+       dell'imperativo categorico kantiano: "Agite secondo una massima
+       tale che, ciò che voi volete che valga come legge universale fra
+       gli uomini, valga anche per voi».
+    6. ↑ Plotino ed Hegel: la dialettica, movimento di pensiero ed essere.
+       L'Assoluto di Hegel è l'Uno di Plotino in senso rovesciato. Hegel
+       stesso noterà che come il sistema di Plotino conclude la filosofia
+       greca, quello di Hegel conclude la filosofia moderna, affermando
+       gli stessi concetti ma portandoli su un piano immanente, con un
+       maggiore dettaglio e ad un livello massimo di consapevolezza.
+       Mentre l'Uno di Plotino restava collocato su un piano mistico e
+       trascendente, a partire dal quale generava il divenire e si
+       disperdeva nella molteplicità senza una ragione apparente,
+       l'Assoluto hegeliano entra lui stesso nel divenire per rendere
+       ragione di sé. L'Uno viene identificato così con la molteplicità
+       stessa, la quale attraverso successivi passaggi giunge alla fine a
+       diventare consapevole di sé e a riconoscersi nell'Assoluto. La
+       prospettiva plotiniana risulta dunque capovolta: in Plotino, la
+       consapevolezza che l'Uno ha di sé è posta all'origine, e si
+       affievolisce man mano che esso si disperde nel molteplice; in
+       Hegel, invece, l'Uno si trova all'inizio disperso nel molteplice, e
+       prenderà coscienza di sé solo alla fine acquistando concretezza nel
+       suo percorso attraverso il mondo. In tal modo però Hegel sovverte
+       la logica di non-contraddizione, facendo coincidere l'Uno col suo
+       contrario, cioè con la molteplicità stessa. L'Assoluto hegeliano è
+       l'Uno-Tutto, è una realtà che non trascende gli enti finiti, ma è
+       ad essi immanente. È il nodo dell'albero delle essenze platoniche,
+       collocate non più al vertice, ma identificate con la dialettica
+       stessa del pensiero e dell'essere. Pensando all'Assoluto si finisce
+       inevitabilmente (per necessità filosofica) per parlare di essere e
+       non-essere. Analogamente, dalla posizione dell'Assoluto nasce
+       l'antitesi fra essere e non-essere. Questi due termini
+       originariamente contrapposti e inconciliabili vengono ora fatti
+       coincidere. Il successivo passo di sintesi trova così un punto di
+       arrivo nel divenire. Il primo passaggio della filosofia è quindi il
+       movimento Assoluto→essere/non-essere→divenire. Segue:
+       divenire-→nascita/morte→ente. In Hegel certezza e verità tornano a
+       coincidere, così come pensiero ed essere, ma in forma mediata. Le
+       tesi, antitesi e sintesi si trovano sia nel pensiero di chiunque
+       parli dell'Assoluto, sia in particolare nella prima manifestazione
+       di questi concetti nella storia del pensiero filosofico, che
+       nell'essere. Finché si parla di entità percepibili con la nostra
+       mente soltanto, è chiaro che una dialettica del pensiero
+       corrisponde anche una dialettica dell'essere, perché l'unico essere
+       di cui si può parlare è la nostra mente, il pensiero stesso. Meno
+       ovvio è quando si parla di enti sensibili, in cui l'antitesi e la
+       sintesi non sono solo chiare alla mente e al pensiero, ma devono
+       anche esserlo all'essere percepito dai sensi
+    7. ↑ Critica della ragion pura, A 395.
+    8. ↑ Hegel, Scienza della logica, Prefazione alla prima edizione
+    9. ↑ Hegel, Scienza della logica, Introduzione
+   10. ↑ Enciclopedia Italiana Treccani alla voce "eticità"
+   11. ↑ Giovanni Giovannini, Questionario di filosofia da Kant
+       all'esistenzialismo, Edizioni Remo Sandron, 2000.
+   12. ↑ Giuseppe Colombo, La filosofia come soteriologia: l'avventura
+       spirituale e intellettuale di Piero Martinetti, Vita e Pensiero,
+       2005, p.521
+   13. ↑ Scienza della logica, Libro I. La dottrina dell'essere, Sezione
+       1, Qualità. Capitolo II, L'essere determinato.
+   14. 1 2 Hegel, Fenomenologia dello Spirito, Prefazione
+   15. ↑ Enciclopedia delle scienze filosofiche in compendio, Parte prima:
+       La scienza della logica, § 64.
+   16. ↑ Jacobi usa questa espressione in un dialogo con Lessing riportato
+       nelle Lettere sulla dottrina di Spinoza a Mosè Mendelssohn (1785).
+   17. ↑ In Pietro Piovani, Indagini di storia della filosofia: incontri e
+       confronti, Liguori Editore Srl, 2006. p.105
+   18. ↑ Hegel, Fenomenologia dello spirito, La Nuova Italia, Firenze
+       1973, vol.I, pp.216-217
+   19. ↑ Hegel, Fenomenologia dello spirito, cit. vol.I, p.174
+   20. ↑ Hegel, Fenomenologia dello spirito, cit. vol.I, pp.178-179
+   21. ↑ Espediente retorico utilizzato da Hegel per esporre tramite
+       descrizioni metaforiche le sue concezioni filosofiche. Qualcosa di
+       simile era già avvenuto con l'uso del mito nella filosofia
+       platonica.
+   22. ↑ «Questa coscienza infelice scissa entro se stessa è così
+       costituita che, essendo tale contraddizione della sua essenza una
+       coscienza, la sua prima coscienza deve sempre avere insieme anche
+       l'altra. In tal modo, mentre essa ritiene di aver conseguito la
+       vittoria e la quiete dell'unità, deve immediatamente venire
+       cacciata da ciascuna delle due coscienze» (g.F.W. Hegel,
+       Fenomenologia dello spirito vol. I; 1973, p. 174)
+   23. ↑ Diego Fusaro, Filosofico net
+   24. ↑ Gianluigi Pasquale, La ragione della storia, Bollati Boringhieri,
+       p. 20 e sgg.
+   25. ↑ Enciclopedia filosofica: Conrad-Martius, C. Sansoni, 1967, p. 20
+   26. ↑ Luigi Gandini, In dialogo con la Filosofia, vol. II, Edizioni
+       Lulu, 2010, passim
+   27. ↑ Georg Wilhelm Friedrich Hegel, Lineamenti di filosofia del
+       diritto, Bompiani, Milano 2006, p. 59.
+   28. ↑ Questa prima parte della formula riprende evidentemente la
+       conclusione cartesiana del cogito ergo sum per il quale è veramente
+       razionale ciò che trova la sua corrispondenza nella realtà
+   29. ↑ Diego Fusaro, op.cit., ibidem
+   30. ↑ Anna Giannatiempo Quinzi, Il "cominciamento in Hegel". Edizioni
+       di Storia e Letteratura, 1983 pag. 210 e sgg.
+   31. ↑ Ubaldo Nicola, Antologia di filosofia. Atlante illustrato del
+       pensiero, Giunti Editore, 2003 p.355 e sgg.
+   32. ↑ Hegel, Prefazione ai Lineamenti di filosofia del diritto
+   33. ↑ Ubaldo Nicola, op.cit., p.358 e sgg.
+   34. ↑ «Terry Pinkard ha definito il "perdurante mito" "di un sistema
+       hegeliano consistente in un bizzarro triumvirato formale, composto
+       da Tesi, Antitesi e Sintesi (termini che Hegel non usa mai e che
+       equivocano completamente il suo pensiero)". Il mito risale al
+       filosofo tedesco Heinrich Moritz Chalybäus (1796-1862) che nelle
+       sue non molto note opere propose un’interpretazione divulgativa
+       della dialettica hegeliana (fondamentalmente, i tre momenti della
+       logicità chiariti da Hegel nei §§ 79-82 dell’Enciclopedia delle
+       scienze filosofiche in compendio) destinata a un grande successo»
+       (in Alessandro Bellan, Un mito sulla Scienza della logica, Prismi –
+       Pensieri filosofici, 2009)
+   35. ↑ Il testo di Chalybäus a cui si riferisce Pinkard è Historische
+       Entwicklung der spekulativen Philosophie von Kant bis Hegel,
+       Dresden-Leipzig (1837), p. 367 della quarta edizione (1848).
+   36. ↑ Nel formulare la sua Logica, Hegel respingeva come irrazionale
+       qualsiasi forma di trascendenza o di concetto a priori che non
+       potesse essere a sua volta dimostrato, e costruì pertanto una
+       dialettica a spirale dove ogni princìpio iniziale trovi
+       giustificazione, su un piano immanente, alla fine del percorso
+       dimostrativo, in una sintesi che è l'avvio di un ulteriore circolo.
+       Gli studi condotti da Gödel nel XX secolo hanno tuttavia dimostrato
+       l'inconsistenza logica dei ragionamenti circolari, in cui si
+       presume che la verità del sistema possa venire dimostrata
+       dall'interno del sistema stesso (cfr. Teoremi di incompletezza).
+   37. ↑ EMSF Rai, Leo Lugarini, Introduzione alla scienza della logica di
+       Hegel, su emsf.rai.it. URL consultato il 19 dicembre 2015
+       (archiviato dall'url originale il 22 dicembre 2015).
+   38. ↑ Paul Ricœur, Il male. Una sfida alla filosofia e alla teologia,
+       ed. or. 1986, trad. it. Brescia, Morcelliana, 1993, pp. 35-38. ISBN
+       8837215207; ISBN 9788837215200.
+   39. ↑ (Lezioni sulla filosofia della storia, Introduzione generale, II,
+       2 a - L'individualità) citazione su dizionari.corriere.it.
+   40. ↑ Lezioni sulla filosofia della storia, p. 57 ss. Cfr. ampio
+       stralcio su filosofico.net.
+
+Bibliografia
+
+   [modifica | modifica wikitesto]
+
+Opere maggiori di Hegel con relativa traduzione italiana
+
+   [modifica | modifica wikitesto]
+
+     * Scritti teologici giovanili, a cura di Edoardo Mirri, Napoli,
+       Guida, 1972 (traduzione dell'edizione curata da Herman Nohl nel
+       1907).
+     * Scritti giovanili, a cura di Edoardo Mirri, Napoli-Salerno,
+       Orthotes, 2015 (traduzione dei primi due volumi dell'edizione
+       critica (Gesammelte Werke) delle Opere di Hegel).
+     * Primi scritti critici, a c. di Remo Bodei, Milano, Mursia, 1971.
+     * Filosofia dello spirito jenese, a c. di Giuseppe Cantillo, Bari.
+       Laterza, 1984
+     * Fenomenologia dello spirito, a c. di Enrico De Negri, Firenze, La
+       Nuova Italia, 1933.
+     * Fenomenologia dello spirito, testo a fronte, trad. di Vincenzo
+       Cicero, Milano, Bompiani, 1995.
+     * Fenomenologia dello spirito, a c. di Gianluca Garelli, Torino,
+       Einaudi, 2008.
+     * La scienza della logica, a c. di A. Moni, Bari, Laterza, 1924.
+     * Enciclopedia delle scienze filosofiche in compendio, a c. di B.
+       Croce, Bari, Laterza, 1907.
+     * Enciclopedia delle scienze filosofiche in compendio (1830), a c. di
+       Vincenzo Cicero, Milano, Bompiani, 2000.
+     * Enciclopedia delle scienze filosofiche in compendio, con le
+       aggiunte a cura di L. von Henning, K. L. Michelet e L. Boumann,
+       Torino, UTET, 1981-2002 (tre volumi).
+     * Lineamenti di filosofia del diritto, a c. di Giuliano Marini, Bari,
+       Laterza, 1987 (nuova edizione riveduta 1999.
+     * Lineamenti di filosofia del diritto, a c. di Vincenzo Cicero,
+       Milano, Rusconi, 1996.
+     * Estetica a cura di Nicolao Merker, traduzione dal tedesco di N.
+       Merker e Nicola Vaccaro, Milano, Feltrinelli, 1963.
+     * Lezioni sulla filosofia della religione, a c. di Elisa Oberti e
+       Gaetano Borruso, Bologna, Zanichelli, 1974.
+     * Lezioni sulla filosofia della storia, a c. di Guido Calogero e
+       Corrado Fatta, Firenze, La Nuova Italia, 1941-1963, 4 vol.
+     * Lezioni sulla storia della filosofia, a c. di E. Codignola e G.
+       Sanna, Firenze, La Nuova Italia, 1930-1944, 4 vol.
+
+Saggi su Hegel
+
+   [modifica | modifica wikitesto]
+
+     * AA. VV., Interpretazioni hegeliane, Firenze, La Nuova Italia, 1980.
+     * Emiliano Alessandroni, Potenza ed eclissi di un sistema. Hegel e i
+       fondamenti della trasformazione, Mimesis, Milano 2016.
+     * Giuseppe Bedeschi, Hegel, Laterza, Bari 1993.
+     * Ernst Bloch, Soggetto - oggetto. Commento a Hegel, Il Mulino,
+       Bologna, Il Mulino, 1975.
+     * Remo Bodei, Sistema ed epoca in Hegel, Il Mulino, Bologna 1975.
+     * Claudio Cesa (a cura di), Guida a Hegel, Laterza, Roma-Bari 2004.
+     * Benedetto Croce, Saggio sullo Hegel, Bibliopolis, Napoli, 2006.
+     * Gianfranco Dalmasso, Hegel probabilmente, Jaca Book, Milano, 2015.
+     * Enrico De Negri, Interpretazione di Hegel, Firenze, Sansoni, 1943.
+     * Cornelio Fabro, La prima riforma della dialettica hegeliana,
+       Editrice del Verbo Incarnato, Segni (RM) 2004.
+     * Martin Heidegger, "Il concetto hegeliano di esperienza", in
+       Sentieri interrotti, La nuova Italia, Milano 1999.
+     * Martin Heidegger, La fenomenologia dello spirito di Hegel, Guida,
+       Napoli 2000.
+     * Martin Heidegger, "Colloquio sulla dialettica", in Archivio di
+       filosofia, LXVIII, 2000, 1-3.
+     * Martin Heidegger, "Hegel e i greci", in Segnavia, Adelphi, Milano
+       2002.
+     * Dieter Henrich, Hegel im Kontext, Suhrkamp, Frankfurt a.M., 1981.
+     * Sidney Hook, "Da Hegel a Marx", Sansoni, Firenze, 1972.
+     * Vittorio Hösle, Il sistema di Hegel: l'idealismo della soggettività
+       e il problema della intersoggettività, Napoli, La Scuola di
+       Pitagora, 2012.
+     * Jean Hyppolite, Genesi e struttura della Fenomenologia dello
+       Spirito di Hegel, Firenze, La nuova Italia, 1972.
+     * Alexandre Kojève, Introduzione alla lettura di Hegel. Milano,
+       Adelphi, 1996.
+     * Domenico Losurdo, Hegel e la libertà dei moderni, Roma, Editori
+       Riuniti, 1972.
+     * Domenico Losurdo, Hegel. Questione nazionale, restaurazione.
+       Presupposti e sviluppi di una battaglia politica, Università degli
+       Studi, Urbino 1983.
+     * Domenico Losurdo, Tra Hegel e Bismarck. La rivoluzione del 1848 e
+       la crisi della cultura tedesca, Editori Riuniti, Roma 1983.
+     * Domenico Losurdo, La catastrofe della Germania e l'immagine di
+       Hegel, Guerini, Milano 1987.
+     * Domenico Losurdo, Hegel, Marx e la tradizione liberale. Libertà,
+       uguaglianza, Stato, Editori Riuniti, Roma 1988.
+     * Domenico Losurdo, L'ipocondria dell'impolitico. La critica di Hegel
+       ieri e oggi, Milella, Lecce 2001.
+     * Karl Löwith, Da Hegel a Nietzsche. La frattura rivoluzionaria nel
+       pensiero del secolo XIX, Torino, Einaudi, 1949.
+     * Leo Lugarini, Orizzonti hegeliani di comprensione dell'essere. Una
+       rilettura della scienza della logica, Guerini e Associati, 1998.
+     * Leo Lugarini, Hegel. Dal mondo storico alla filosofia, Guerini e
+       associati, Napoli 2000.
+     * György Lukács, Il giovane Hegel e i problemi della società
+       capitalistica, Einaudi, 1960.
+     * Alexander Magee, Hegel e la tradizione ermetica, Edizioni
+       Meditarrenee, 2013.
+     * ̪Herbert Marcuse, Ragione e rivoluzione: Hegel e il sorgere della
+       teoria sociale, Il Mulino, Bologna, 1997.
+     * Arturo Massolo, Logica hegeliana e filosofia contemporanea, Giunti
+       Marzocco, Firenze 1967.
+     * Costanzo Preve, Hegel Marx Heidegger, C.R.T., Pistoia 1999.
+     * Costanzo Preve, Hegel antiutilitarista, Settimo Sigillo, Roma 2007.
+     * Michael Quante, La realtà dello spirito: studi su Hegel, Milano
+       Franco Angeli, 2016.
+     * Luigi Ruggiu, Lo spirito è tempo. Saggi su Hegel, Milano, Mimesis,
+       2013.
+     * Herbert Schnädelbach, Hegel, Bologna, Il Mulino, 2002.
+     * Livio Sichirollo, Ritratto di Hegel, Manifestolibri, Roma 1996.
+     * Livio Sichirollo, Hegel e la tradizione, Guerini e Associati,
+       Napoli 2002.
+     * Vincenzo Vitiello, Dialettica e ermeneutica, Guida, Napoli 1976.
+     * Jean Wahl, La coscienza infelice nella filosofia di Hegel, Milano,
+       ILI, 1971.
+
+Voci correlate
+
+   [modifica | modifica wikitesto]
+
+     * Idealismo tedesco
+     * Fenomenologia dello spirito
+     * La vita di Gesù
+     * Scienza della logica
+     * Uno (filosofia)
+
+     Portale Filosofia: accedi alle voci di Wikipedia che trattano di
+   filosofia
+
+   Estratto da
+   "https://it.wikipedia.org/w/index.php?title=Pensiero_di_Hegel&oldid=147
+   262772"
+
+   Categorie:
+     * Posizioni e teorie filosofiche
+     * Idealismo tedesco
+     * Georg Wilhelm Friedrich Hegel
+     * Filosofia romantica
+
+   Categoria nascosta:
+     * Pagine che utilizzano collegamenti magici ISBN
+
+     * Questa pagina è stata modificata per l'ultima volta il 17 ott 2025
+       alle 08:40.
+     * La pagina è stata renderizzata con Parsoid.
+     * Il testo è disponibile secondo la licenza Creative Commons
+       Attribuzione-Condividi allo stesso modo; possono applicarsi
+       condizioni ulteriori. Vedi le condizioni d'uso per i dettagli.
+
+     * Informativa sulla privacy
+     * Informazioni su Wikipedia
+     * Avvertenze
+     * Contatti legali e di sicurezza
+     * Codice di condotta
+     * Sviluppatori
+     * Statistiche
+     * Dichiarazione sui cookie
+     * Versione mobile
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki
+
+   (BUTTON) Ricerca
+   ____________________
+   (BUTTON) Ricerca
+
+   [ ] Mostra/Nascondi l'indice
+   Pensiero di Hegel
+   (BUTTON) 2 lingue Aggiungi argomento
