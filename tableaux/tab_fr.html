@@ -1,24 +1,71 @@
-<html>
+<!DOCTYPE html>
+<html lang="fr">
 <head>
     <meta charset="UTF-8">
-    <title>Tableau des résultats</title>
-    <style>table { border-collapse: collapse; width: 100%; } th, td { border: 1px solid black; padding: 8px; } th { background-color: #f2f2f2; }</style>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Tableau des résultats : esprit</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.4/css/bulma.min.css">
+    <style>
+        :root {
+            --primary-gradient: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        }
+        body {
+            background-color: #f9fafb;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+        .hero {
+            background: var(--primary-gradient);
+            color: white;
+        }
+        .section {
+            flex: 1;
+        }
+        .footer {
+            background-color: white;
+            padding: 2rem 1.5rem;
+        }
+    </style>
 </head>
 <body>
-<h1>Résultats pour le mot : \besprit*</h1>
-<table>
-    <tr>
-        <th>N°</th>
-        <th>URL</th>
-        <th>Code HTTP</th>
-        <th>Encodage détecté</th>
-        <th>Page Aspirée (HTML)</th>
-        <th>Dump Textuel (TXT)</th>
-        <th>Contexte</th>
-    </tr>
+    <section class="hero is-small">
+        <div class="hero-body">
+            <div class="container">
+                <div class="columns is-vcentered">
+                    <div class="column">
+                        <h1 class="title has-text-white">Résultats pour : esprit</h1>
+                    </div>
+                    <div class="column is-narrow">
+                        <a href="../index.html" class="button is-light is-outlined">
+                            Retour à l'accueil
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="section">
+        <div class="container">
+            <div class="box">
+                <div class="table-container">
+                    <table class="table is-bordered is-striped is-hoverable is-fullwidth">
+                        <thead>
+                            <tr>
+                                <th>N°</th>
+                                <th>URL</th>
+                                <th>Code HTTP</th>
+                                <th>Encodage</th>
+                                <th>HTML</th>
+                                <th>TXT</th>
+                                <th>Contexte</th>
+                            </tr>
+                        </thead>
+                        <tbody>
     <tr>
             <td>1</td>
-            <td><a href="https://eglise.catholique.fr/glossaire/esprit/" target="_blank">https://eglise.catholique.fr/glossaire/esprit/</a></td>
+            <td><a href="https://eglise.catholique.fr/glossaire/esprit/" target="_blank">lien</a></td>
             <td>200</td>
             <td>utf-8</td>
             <td><a href="../aspirations/fr-1.html">html</a></td>
@@ -27,7 +74,7 @@
         </tr>
     <tr>
             <td>2</td>
-            <td><a href="https://fr.wiktionary.org/wiki/esprit" target="_blank">https://fr.wiktionary.org/wiki/esprit</a></td>
+            <td><a href="https://fr.wiktionary.org/wiki/esprit" target="_blank">lien</a></td>
             <td>200</td>
             <td>utf-8</td>
             <td><a href="../aspirations/fr-2.html">html</a></td>
@@ -36,7 +83,7 @@
         </tr>
     <tr>
             <td>3</td>
-            <td><a href="https://www.dvv-international.de/fr/education-des-adultes-et-developpement/numeros/ead-832016-aptitudes-et-competences/section-4-voila-ce-quil-vous-faut/lesprit-critique-une-competence-cle-pour-lavenir" target="_blank">https://www.dvv-international.de/fr/education-des-adultes-et-developpement/numeros/ead-832016-aptitudes-et-competences/section-4-voila-ce-quil-vous-faut/lesprit-critique-une-competence-cle-pour-lavenir</a></td>
+            <td><a href="https://www.dvv-international.de/fr/education-des-adultes-et-developpement/numeros/ead-832016-aptitudes-et-competences/section-4-voila-ce-quil-vous-faut/lesprit-critique-une-competence-cle-pour-lavenir" target="_blank">lien</a></td>
             <td>200</td>
             <td>utf-8</td>
             <td><a href="../aspirations/fr-3.html">html</a></td>
@@ -45,7 +92,7 @@
         </tr>
     <tr>
             <td>4</td>
-            <td><a href="https://kadampa.org/fr/reference/quest-ce-que-lesprit" target="_blank">https://kadampa.org/fr/reference/quest-ce-que-lesprit</a></td>
+            <td><a href="https://kadampa.org/fr/reference/quest-ce-que-lesprit" target="_blank">lien</a></td>
             <td>200</td>
             <td>utf-8</td>
             <td><a href="../aspirations/fr-4.html">html</a></td>
@@ -54,7 +101,7 @@
         </tr>
     <tr>
             <td>5</td>
-            <td><a href="https://philosciences.com/esprit" target="_blank">https://philosciences.com/esprit</a></td>
+            <td><a href="https://philosciences.com/esprit" target="_blank">lien</a></td>
             <td>200</td>
             <td>utf-8</td>
             <td><a href="../aspirations/fr-5.html">html</a></td>
@@ -63,7 +110,7 @@
         </tr>
     <tr>
             <td>6</td>
-            <td><a href="https://www.gotquestions.org/Francais/esprit-humain.html" target="_blank">https://www.gotquestions.org/Francais/esprit-humain.html</a></td>
+            <td><a href="https://www.gotquestions.org/Francais/esprit-humain.html" target="_blank">lien</a></td>
             <td>200</td>
             <td>utf-8</td>
             <td><a href="../aspirations/fr-6.html">html</a></td>
@@ -72,16 +119,16 @@
         </tr>
     <tr>
             <td>7</td>
-            <td><a href="https://www.viedanslesprit.fr/programme" target="_blank">https://www.viedanslesprit.fr/programme</a></td>
+            <td><a href="https://www.viedanslesprit.fr/programme" target="_blank">lien</a></td>
             <td>200</td>
             <td>us-ascii</td>
             <td><a href="../aspirations/fr-7.html">html</a></td>
             <td><a href="../dumps-text/fr-7.txt">txt</a></td>
-            <td><a href="../contextes/fr-7.txt">contexte (36 lignes)</a></td>
+            <td><a href="../contextes/fr-7.txt">contexte (46 lignes)</a></td>
         </tr>
     <tr>
             <td>8</td>
-            <td><a href="https://www.cnrtl.fr/definition/esprit" target="_blank">https://www.cnrtl.fr/definition/esprit</a></td>
+            <td><a href="https://www.cnrtl.fr/definition/esprit" target="_blank">lien</a></td>
             <td>200</td>
             <td>utf-8</td>
             <td><a href="../aspirations/fr-8.html">html</a></td>
@@ -90,16 +137,16 @@
         </tr>
     <tr>
             <td>9</td>
-            <td><a href="https://www.larousse.fr/dictionnaires/francais/esprit/31059" target="_blank">https://www.larousse.fr/dictionnaires/francais/esprit/31059</a></td>
+            <td><a href="https://www.larousse.fr/dictionnaires/francais/esprit/31059" target="_blank">lien</a></td>
             <td>200</td>
             <td>utf-8</td>
             <td><a href="../aspirations/fr-9.html">html</a></td>
             <td><a href="../dumps-text/fr-9.txt">txt</a></td>
-            <td><a href="../contextes/fr-9.txt">contexte (771 lignes)</a></td>
+            <td><a href="../contextes/fr-9.txt">contexte (765 lignes)</a></td>
         </tr>
     <tr>
             <td>10</td>
-            <td><a href="https://www.dictionnaire-academie.fr/article/A9E2642-A" target="_blank">https://www.dictionnaire-academie.fr/article/A9E2642-A</a></td>
+            <td><a href="https://www.dictionnaire-academie.fr/article/A9E2642-A" target="_blank">lien</a></td>
             <td>200</td>
             <td>utf-8</td>
             <td><a href="../aspirations/fr-10.html">html</a></td>
@@ -108,7 +155,7 @@
         </tr>
     <tr>
             <td>11</td>
-            <td><a href="https://regardsprotestants.com/video/bible-theologie/comprendre-bible/le-saint-esprit-quest-ce-que-cest/" target="_blank">https://regardsprotestants.com/video/bible-theologie/comprendre-bible/le-saint-esprit-quest-ce-que-cest/</a></td>
+            <td><a href="https://regardsprotestants.com/video/bible-theologie/comprendre-bible/le-saint-esprit-quest-ce-que-cest/" target="_blank">lien</a></td>
             <td>200</td>
             <td>utf-8</td>
             <td><a href="../aspirations/fr-11.html">html</a></td>
@@ -117,7 +164,7 @@
         </tr>
     <tr>
             <td>12</td>
-            <td><a href="https://regardsprotestants.com/bible-theologie/saint-esprit-dieu-agit-en-nous/" target="_blank">https://regardsprotestants.com/bible-theologie/saint-esprit-dieu-agit-en-nous/</a></td>
+            <td><a href="https://regardsprotestants.com/bible-theologie/saint-esprit-dieu-agit-en-nous/" target="_blank">lien</a></td>
             <td>200</td>
             <td>utf-8</td>
             <td><a href="../aspirations/fr-12.html">html</a></td>
@@ -126,7 +173,7 @@
         </tr>
     <tr>
             <td>13</td>
-            <td><a href="https://www.lejourduseigneur.com/bible/esprit-saint" target="_blank">https://www.lejourduseigneur.com/bible/esprit-saint</a></td>
+            <td><a href="https://www.lejourduseigneur.com/bible/esprit-saint" target="_blank">lien</a></td>
             <td>200</td>
             <td>utf-8</td>
             <td><a href="../aspirations/fr-13.html">html</a></td>
@@ -135,7 +182,7 @@
         </tr>
     <tr>
             <td>14</td>
-            <td><a href="https://monegliseaozoir.fr/predication/pentecote-2005/" target="_blank">https://monegliseaozoir.fr/predication/pentecote-2005/</a></td>
+            <td><a href="https://monegliseaozoir.fr/predication/pentecote-2005/" target="_blank">lien</a></td>
             <td>200</td>
             <td>utf-8</td>
             <td><a href="../aspirations/fr-14.html">html</a></td>
@@ -144,16 +191,16 @@
         </tr>
     <tr>
             <td>15</td>
-            <td><a href="https://encyclo-philo.fr/philosophie-de-lesprit-a" target="_blank">https://encyclo-philo.fr/philosophie-de-lesprit-a</a></td>
+            <td><a href="https://encyclo-philo.fr/philosophie-de-lesprit-a" target="_blank">lien</a></td>
             <td>200</td>
             <td>utf-8</td>
             <td><a href="../aspirations/fr-15.html">html</a></td>
             <td><a href="../dumps-text/fr-15.txt">txt</a></td>
-            <td><a href="../contextes/fr-15.txt">contexte (152 lignes)</a></td>
+            <td><a href="../contextes/fr-15.txt">contexte (151 lignes)</a></td>
         </tr>
     <tr>
             <td>16</td>
-            <td><a href="https://philosciences.com/idee-esprit" target="_blank">https://philosciences.com/idee-esprit</a></td>
+            <td><a href="https://philosciences.com/idee-esprit" target="_blank">lien</a></td>
             <td>200</td>
             <td>utf-8</td>
             <td><a href="../aspirations/fr-16.html">html</a></td>
@@ -162,16 +209,16 @@
         </tr>
     <tr>
             <td>17</td>
-            <td><a href="https://cortecs.org/superieur/former-lesprit-critique-ressources-pour-enseignant%C2%B7e%C2%B7s/" target="_blank">https://cortecs.org/superieur/former-lesprit-critique-ressources-pour-enseignant%C2%B7e%C2%B7s/</a></td>
+            <td><a href="https://cortecs.org/superieur/former-lesprit-critique-ressources-pour-enseignant%C2%B7e%C2%B7s/" target="_blank">lien</a></td>
             <td>200</td>
             <td>utf-8</td>
             <td><a href="../aspirations/fr-17.html">html</a></td>
             <td><a href="../dumps-text/fr-17.txt">txt</a></td>
-            <td><a href="../contextes/fr-17.txt">contexte (65 lignes)</a></td>
+            <td><a href="../contextes/fr-17.txt">contexte (66 lignes)</a></td>
         </tr>
     <tr>
             <td>18</td>
-            <td><a href="https://www.mcommemutuelle.com/magazine/un-esprit-sain-dans-un-corps-sain-comment-y-parvenir-jour-apres-jour/" target="_blank">https://www.mcommemutuelle.com/magazine/un-esprit-sain-dans-un-corps-sain-comment-y-parvenir-jour-apres-jour/</a></td>
+            <td><a href="https://www.mcommemutuelle.com/magazine/un-esprit-sain-dans-un-corps-sain-comment-y-parvenir-jour-apres-jour/" target="_blank">lien</a></td>
             <td>200</td>
             <td>utf-8</td>
             <td><a href="../aspirations/fr-18.html">html</a></td>
@@ -180,7 +227,7 @@
         </tr>
     <tr>
             <td>19</td>
-            <td><a href="https://fr.wikipedia.org/wiki/Esprit_de_l%27escalier" target="_blank">https://fr.wikipedia.org/wiki/Esprit_de_l%27escalier</a></td>
+            <td><a href="https://fr.wikipedia.org/wiki/Esprit_de_l%27escalier" target="_blank">lien</a></td>
             <td>200</td>
             <td>utf-8</td>
             <td><a href="../aspirations/fr-19.html">html</a></td>
@@ -189,7 +236,7 @@
         </tr>
     <tr>
             <td>20</td>
-            <td><a href="https://www.zenngo.fr/guide-voyage/guide-bien-etre/details/108/515-les-animaux-totems.html" target="_blank">https://www.zenngo.fr/guide-voyage/guide-bien-etre/details/108/515-les-animaux-totems.html</a></td>
+            <td><a href="https://www.zenngo.fr/guide-voyage/guide-bien-etre/details/108/515-les-animaux-totems.html" target="_blank">lien</a></td>
             <td>200</td>
             <td>utf-8</td>
             <td><a href="../aspirations/fr-20.html">html</a></td>
@@ -198,7 +245,7 @@
         </tr>
     <tr>
             <td>21</td>
-            <td><a href="https://meditation-zen.org/fr/zazen-meditation-assise/quest-ce-que-le-zen" target="_blank">https://meditation-zen.org/fr/zazen-meditation-assise/quest-ce-que-le-zen</a></td>
+            <td><a href="https://meditation-zen.org/fr/zazen-meditation-assise/quest-ce-que-le-zen" target="_blank">lien</a></td>
             <td>200</td>
             <td>utf-8</td>
             <td><a href="../aspirations/fr-21.html">html</a></td>
@@ -207,25 +254,25 @@
         </tr>
     <tr>
             <td>22</td>
-            <td><a href="https://www.sengager.fr/editos/esprit-et-valeurs-de-l-armee-de-terre" target="_blank">https://www.sengager.fr/editos/esprit-et-valeurs-de-l-armee-de-terre</a></td>
+            <td><a href="https://www.sengager.fr/editos/esprit-et-valeurs-de-l-armee-de-terre" target="_blank">lien</a></td>
             <td>200</td>
             <td>utf-8</td>
             <td><a href="../aspirations/fr-22.html">html</a></td>
             <td><a href="../dumps-text/fr-22.txt">txt</a></td>
-            <td><a href="../contextes/fr-22.txt">contexte (44 lignes)</a></td>
+            <td><a href="../contextes/fr-22.txt">contexte (49 lignes)</a></td>
         </tr>
     <tr>
             <td>23</td>
-            <td><a href="https://www.euclea-business-school.com/actualites/lesprit-entrepreneurial-au-dela-dun-metier-une-philosophie/" target="_blank">https://www.euclea-business-school.com/actualites/lesprit-entrepreneurial-au-dela-dun-metier-une-philosophie/</a></td>
+            <td><a href="https://www.euclea-business-school.com/actualites/lesprit-entrepreneurial-au-dela-dun-metier-une-philosophie/" target="_blank">lien</a></td>
             <td>200</td>
             <td>utf-8</td>
             <td><a href="../aspirations/fr-23.html">html</a></td>
             <td><a href="../dumps-text/fr-23.txt">txt</a></td>
-            <td><a href="../contextes/fr-23.txt">contexte (65 lignes)</a></td>
+            <td><a href="../contextes/fr-23.txt">contexte (66 lignes)</a></td>
         </tr>
     <tr>
             <td>24</td>
-            <td><a href="https://www.pensezpsychomot.com/esprit-critique-derives-soins-sante/" target="_blank">https://www.pensezpsychomot.com/esprit-critique-derives-soins-sante/</a></td>
+            <td><a href="https://www.pensezpsychomot.com/esprit-critique-derives-soins-sante/" target="_blank">lien</a></td>
             <td>200</td>
             <td>utf-8</td>
             <td><a href="../aspirations/fr-24.html">html</a></td>
@@ -234,7 +281,7 @@
         </tr>
     <tr>
             <td>25</td>
-            <td><a href="https://www.insb.cnrs.fr/fr/cnrsinfo/les-reseaux-cerebraux-lorigine-de-la-conscience-de-soi-enfin-identifies" target="_blank">https://www.insb.cnrs.fr/fr/cnrsinfo/les-reseaux-cerebraux-lorigine-de-la-conscience-de-soi-enfin-identifies</a></td>
+            <td><a href="https://www.insb.cnrs.fr/fr/cnrsinfo/les-reseaux-cerebraux-lorigine-de-la-conscience-de-soi-enfin-identifies" target="_blank">lien</a></td>
             <td>200</td>
             <td>utf-8</td>
             <td><a href="../aspirations/fr-25.html">html</a></td>
@@ -243,7 +290,7 @@
         </tr>
     <tr>
             <td>26</td>
-            <td><a href="https://fr.aleteia.org/2014/10/16/messe-que-signifie-exactement-et-avec-votre-esprit/" target="_blank">https://fr.aleteia.org/2014/10/16/messe-que-signifie-exactement-et-avec-votre-esprit/</a></td>
+            <td><a href="https://fr.aleteia.org/2014/10/16/messe-que-signifie-exactement-et-avec-votre-esprit/" target="_blank">lien</a></td>
             <td>200</td>
             <td>utf-8</td>
             <td><a href="../aspirations/fr-26.html">html</a></td>
@@ -252,7 +299,7 @@
         </tr>
     <tr>
             <td>27</td>
-            <td><a href="https://www.lexpress.fr/sciences-sante/sciences/lesprit-critique-est-il-vraiment-en-declin-pourquoi-il-est-permis-den-douter-MGJ75TMSHRAWPLF2DSBDSQMQXY/" target="_blank">https://www.lexpress.fr/sciences-sante/sciences/lesprit-critique-est-il-vraiment-en-declin-pourquoi-il-est-permis-den-douter-MGJ75TMSHRAWPLF2DSBDSQMQXY/</a></td>
+            <td><a href="https://www.lexpress.fr/sciences-sante/sciences/lesprit-critique-est-il-vraiment-en-declin-pourquoi-il-est-permis-den-douter-MGJ75TMSHRAWPLF2DSBDSQMQXY/" target="_blank">lien</a></td>
             <td>200</td>
             <td>utf-8</td>
             <td><a href="../aspirations/fr-27.html">html</a></td>
@@ -261,7 +308,7 @@
         </tr>
     <tr>
             <td>28</td>
-            <td><a href="https://www.radiofrance.fr/franceculture/podcasts/affaire-en-cours/notre-esprit-critique-est-il-en-peril-1524000" target="_blank">https://www.radiofrance.fr/franceculture/podcasts/affaire-en-cours/notre-esprit-critique-est-il-en-peril-1524000</a></td>
+            <td><a href="https://www.radiofrance.fr/franceculture/podcasts/affaire-en-cours/notre-esprit-critique-est-il-en-peril-1524000" target="_blank">lien</a></td>
             <td>200</td>
             <td>utf-8</td>
             <td><a href="../aspirations/fr-28.html">html</a></td>
@@ -270,7 +317,7 @@
         </tr>
     <tr>
             <td>29</td>
-            <td><a href="https://journals.openedition.org/ress/284" target="_blank">https://journals.openedition.org/ress/284</a></td>
+            <td><a href="https://journals.openedition.org/ress/284" target="_blank">lien</a></td>
             <td>200</td>
             <td>utf-8</td>
             <td><a href="../aspirations/fr-29.html">html</a></td>
@@ -279,16 +326,16 @@
         </tr>
     <tr>
             <td>30</td>
-            <td><a href="https://eduscol.education.fr/1538/former-l-esprit-critique-des-eleves" target="_blank">https://eduscol.education.fr/1538/former-l-esprit-critique-des-eleves</a></td>
+            <td><a href="https://eduscol.education.fr/1538/former-l-esprit-critique-des-eleves" target="_blank">lien</a></td>
             <td>200</td>
             <td>utf-8</td>
             <td><a href="../aspirations/fr-30.html">html</a></td>
             <td><a href="../dumps-text/fr-30.txt">txt</a></td>
-            <td><a href="../contextes/fr-30.txt">contexte (131 lignes)</a></td>
+            <td><a href="../contextes/fr-30.txt">contexte (135 lignes)</a></td>
         </tr>
     <tr>
             <td>31</td>
-            <td><a href="https://www.academie-francaise.fr/des-effets-de-lesprit-litteraire-dans-les-sciences-et-de-lesprit-scientifique-dans-les-lettres" target="_blank">https://www.academie-francaise.fr/des-effets-de-lesprit-litteraire-dans-les-sciences-et-de-lesprit-scientifique-dans-les-lettres</a></td>
+            <td><a href="https://www.academie-francaise.fr/des-effets-de-lesprit-litteraire-dans-les-sciences-et-de-lesprit-scientifique-dans-les-lettres" target="_blank">lien</a></td>
             <td>200</td>
             <td>utf-8</td>
             <td><a href="../aspirations/fr-31.html">html</a></td>
@@ -297,7 +344,7 @@
         </tr>
     <tr>
             <td>32</td>
-            <td><a href="https://www.academie-francaise.fr/linstitution-academique-des-sciences-morales-et-politiques-communication-lacademie-des-sciences" target="_blank">https://www.academie-francaise.fr/linstitution-academique-des-sciences-morales-et-politiques-communication-lacademie-des-sciences</a></td>
+            <td><a href="https://www.academie-francaise.fr/linstitution-academique-des-sciences-morales-et-politiques-communication-lacademie-des-sciences" target="_blank">lien</a></td>
             <td>200</td>
             <td>utf-8</td>
             <td><a href="../aspirations/fr-32.html">html</a></td>
@@ -306,7 +353,7 @@
         </tr>
     <tr>
             <td>33</td>
-            <td><a href="https://www.fabula.org/lht/8/bridet.html" target="_blank">https://www.fabula.org/lht/8/bridet.html</a></td>
+            <td><a href="https://www.fabula.org/lht/8/bridet.html" target="_blank">lien</a></td>
             <td>200</td>
             <td>utf-8</td>
             <td><a href="../aspirations/fr-33.html">html</a></td>
@@ -315,7 +362,7 @@
         </tr>
     <tr>
             <td>34</td>
-            <td><a href="https://approche-tissulaire.fr/le-blog/archive-blog-approche-tissulaire/271-esprit-ou-esprit" target="_blank">https://approche-tissulaire.fr/le-blog/archive-blog-approche-tissulaire/271-esprit-ou-esprit</a></td>
+            <td><a href="https://approche-tissulaire.fr/le-blog/archive-blog-approche-tissulaire/271-esprit-ou-esprit" target="_blank">lien</a></td>
             <td>200</td>
             <td>utf-8</td>
             <td><a href="../aspirations/fr-34.html">html</a></td>
@@ -324,7 +371,7 @@
         </tr>
     <tr>
             <td>35</td>
-            <td><a href="https://www.marvinroger.fr/skills/team-spirit" target="_blank">https://www.marvinroger.fr/skills/team-spirit</a></td>
+            <td><a href="https://www.marvinroger.fr/skills/team-spirit" target="_blank">lien</a></td>
             <td>200</td>
             <td>utf-8</td>
             <td><a href="../aspirations/fr-35.html">html</a></td>
@@ -333,16 +380,16 @@
         </tr>
     <tr>
             <td>36</td>
-            <td><a href="https://blog.candidatus.com/processus-de-recrutement/soft-skills/soft-skill-esprit-dequipe/" target="_blank">https://blog.candidatus.com/processus-de-recrutement/soft-skills/soft-skill-esprit-dequipe/</a></td>
+            <td><a href="https://blog.candidatus.com/processus-de-recrutement/soft-skills/soft-skill-esprit-dequipe/" target="_blank">lien</a></td>
             <td>200</td>
             <td>utf-8</td>
             <td><a href="../aspirations/fr-36.html">html</a></td>
             <td><a href="../dumps-text/fr-36.txt">txt</a></td>
-            <td><a href="../contextes/fr-36.txt">contexte (78 lignes)</a></td>
+            <td><a href="../contextes/fr-36.txt">contexte (74 lignes)</a></td>
         </tr>
     <tr>
             <td>37</td>
-            <td><a href="https://www.cesi.fr/formation/approche-augmentee-soft-skills-esprit-dequipe-2336660/" target="_blank">https://www.cesi.fr/formation/approche-augmentee-soft-skills-esprit-dequipe-2336660/</a></td>
+            <td><a href="https://www.cesi.fr/formation/approche-augmentee-soft-skills-esprit-dequipe-2336660/" target="_blank">lien</a></td>
             <td>200</td>
             <td>utf-8</td>
             <td><a href="../aspirations/fr-37.html">html</a></td>
@@ -351,7 +398,7 @@
         </tr>
     <tr>
             <td>38</td>
-            <td><a href="https://www.boostrh.com/les-soft-skills-le-secret-dune-equipe-performante/" target="_blank">https://www.boostrh.com/les-soft-skills-le-secret-dune-equipe-performante/</a></td>
+            <td><a href="https://www.boostrh.com/les-soft-skills-le-secret-dune-equipe-performante/" target="_blank">lien</a></td>
             <td>200</td>
             <td>utf-8</td>
             <td><a href="../aspirations/fr-38.html">html</a></td>
@@ -360,7 +407,7 @@
         </tr>
     <tr>
             <td>39</td>
-            <td><a href="https://myconnecting.fr/articles/10-soft-skills-indispensables-entreprise/" target="_blank">https://myconnecting.fr/articles/10-soft-skills-indispensables-entreprise/</a></td>
+            <td><a href="https://myconnecting.fr/articles/10-soft-skills-indispensables-entreprise/" target="_blank">lien</a></td>
             <td>200</td>
             <td>utf-8</td>
             <td><a href="../aspirations/fr-39.html">html</a></td>
@@ -369,7 +416,7 @@
         </tr>
     <tr>
             <td>40</td>
-            <td><a href="https://klaxoon.com/fr/insight/comprendre-les-soft-skills-le-secret-dun-bon-travail-dequipe/" target="_blank">https://klaxoon.com/fr/insight/comprendre-les-soft-skills-le-secret-dun-bon-travail-dequipe/</a></td>
+            <td><a href="https://klaxoon.com/fr/insight/comprendre-les-soft-skills-le-secret-dun-bon-travail-dequipe/" target="_blank">lien</a></td>
             <td>200</td>
             <td>utf-8</td>
             <td><a href="../aspirations/fr-40.html">html</a></td>
@@ -378,7 +425,7 @@
         </tr>
     <tr>
             <td>41</td>
-            <td><a href="https://www.universcience.fr/fr/esprit-critique/barometre-esprit-critique-2024" target="_blank">https://www.universcience.fr/fr/esprit-critique/barometre-esprit-critique-2024</a></td>
+            <td><a href="https://www.universcience.fr/fr/esprit-critique/barometre-esprit-critique-2024" target="_blank">lien</a></td>
             <td>200</td>
             <td>utf-8</td>
             <td><a href="../aspirations/fr-41.html">html</a></td>
@@ -387,7 +434,7 @@
         </tr>
     <tr>
             <td>42</td>
-            <td><a href="https://www.universcience.fr/fr/esprit-critique" target="_blank">https://www.universcience.fr/fr/esprit-critique</a></td>
+            <td><a href="https://www.universcience.fr/fr/esprit-critique" target="_blank">lien</a></td>
             <td>200</td>
             <td>utf-8</td>
             <td><a href="../aspirations/fr-42.html">html</a></td>
@@ -396,7 +443,7 @@
         </tr>
     <tr>
             <td>43</td>
-            <td><a href="https://www.actuia.com/actualite/universcience-presente-la-3eme-edition-de-son-barometre-de-lesprit-critique/" target="_blank">https://www.actuia.com/actualite/universcience-presente-la-3eme-edition-de-son-barometre-de-lesprit-critique/</a></td>
+            <td><a href="https://www.actuia.com/actualite/universcience-presente-la-3eme-edition-de-son-barometre-de-lesprit-critique/" target="_blank">lien</a></td>
             <td>200</td>
             <td>utf-8</td>
             <td><a href="../aspirations/fr-43.html">html</a></td>
@@ -405,7 +452,7 @@
         </tr>
     <tr>
             <td>44</td>
-            <td><a href="https://www.franceinfo.fr/partenariats/evenement-universcience-presente-le-barometre-national-de-l-esprit-critique_5021521.html" target="_blank">https://www.franceinfo.fr/partenariats/evenement-universcience-presente-le-barometre-national-de-l-esprit-critique_5021521.html</a></td>
+            <td><a href="https://www.franceinfo.fr/partenariats/evenement-universcience-presente-le-barometre-national-de-l-esprit-critique_5021521.html" target="_blank">lien</a></td>
             <td>200</td>
             <td>utf-8</td>
             <td><a href="../aspirations/fr-44.html">html</a></td>
@@ -414,7 +461,7 @@
         </tr>
     <tr>
             <td>45</td>
-            <td><a href="https://espritcritique.hypotheses.org/" target="_blank">https://espritcritique.hypotheses.org/</a></td>
+            <td><a href="https://espritcritique.hypotheses.org/" target="_blank">lien</a></td>
             <td>200</td>
             <td>utf-8</td>
             <td><a href="../aspirations/fr-45.html">html</a></td>
@@ -423,7 +470,7 @@
         </tr>
     <tr>
             <td>46</td>
-            <td><a href="https://www.openedition.org/33101" target="_blank">https://www.openedition.org/33101</a></td>
+            <td><a href="https://www.openedition.org/33101" target="_blank">lien</a></td>
             <td>200</td>
             <td>utf-8</td>
             <td><a href="../aspirations/fr-46.html">html</a></td>
@@ -432,16 +479,16 @@
         </tr>
     <tr>
             <td>47</td>
-            <td><a href="https://fr.wikipedia.org/wiki/Th%C3%A9orie_de_l'esprit" target="_blank">https://fr.wikipedia.org/wiki/Th%C3%A9orie_de_l'esprit</a></td>
+            <td><a href="https://fr.wikipedia.org/wiki/Th%C3%A9orie_de_l'esprit" target="_blank">lien</a></td>
             <td>200</td>
             <td>utf-8</td>
             <td><a href="../aspirations/fr-47.html">html</a></td>
             <td><a href="../dumps-text/fr-47.txt">txt</a></td>
-            <td><a href="../contextes/fr-47.txt">contexte (365 lignes)</a></td>
+            <td><a href="../contextes/fr-47.txt">contexte (370 lignes)</a></td>
         </tr>
     <tr>
             <td>48</td>
-            <td><a href="https://www.running-addict.fr/actualite/pensee-runner/esprit-sain-corps-sain/" target="_blank">https://www.running-addict.fr/actualite/pensee-runner/esprit-sain-corps-sain/</a></td>
+            <td><a href="https://www.running-addict.fr/actualite/pensee-runner/esprit-sain-corps-sain/" target="_blank">lien</a></td>
             <td>200</td>
             <td>utf-8</td>
             <td><a href="../aspirations/fr-48.html">html</a></td>
@@ -450,7 +497,7 @@
         </tr>
     <tr>
             <td>49</td>
-            <td><a href="https://www.nicematin.com/sante/bigorexie-le-sport-a-la-vie-a-la-mort-10660969" target="_blank">https://www.nicematin.com/sante/bigorexie-le-sport-a-la-vie-a-la-mort-10660969</a></td>
+            <td><a href="https://www.nicematin.com/sante/bigorexie-le-sport-a-la-vie-a-la-mort-10660969" target="_blank">lien</a></td>
             <td>200</td>
             <td>utf-8</td>
             <td><a href="../aspirations/fr-49.html">html</a></td>
@@ -459,11 +506,20 @@
         </tr>
     <tr>
             <td>50</td>
-            <td><a href="https://www.hp-recruitment.com/fr/la-publication-hr-group/65-esprit-de-competition-performances-des-systemes-entrepreneuriaux.html" target="_blank">https://www.hp-recruitment.com/fr/la-publication-hr-group/65-esprit-de-competition-performances-des-systemes-entrepreneuriaux.html</a></td>
+            <td><a href="https://www.hp-recruitment.com/fr/la-publication-hr-group/65-esprit-de-competition-performances-des-systemes-entrepreneuriaux.html" target="_blank">lien</a></td>
             <td>200</td>
             <td>utf-8</td>
             <td><a href="../aspirations/fr-50.html">html</a></td>
             <td><a href="../dumps-text/fr-50.txt">txt</a></td>
             <td><a href="../contextes/fr-50.txt">contexte (103 lignes)</a></td>
         </tr>
-</table></body></html>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    
+</body>
+</html>

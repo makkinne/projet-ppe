@@ -28,6 +28,9 @@ Former l'esprit critique des élèves
 Vidéo " Comment définir l'esprit critique ? "
 
    IFRAME:
+   //podeduc.apps.education.fr/video/64006-lesprit-critique-un-ensemble-da
+   ttitudes-et-de-procedes-jerome-grondeux/?is_iframe=true
+
 --
    Se connecter
 
@@ -160,3 +163,6 @@ Des ressources pour former l’esprit critique des élèves
 Vidéo " L'esprit critique - Sophie Mazet "
 
    IFRAME:
+   //podeduc.apps.education.fr/video/64008-lesprit-critique-sophie-mazet/?
+   is_iframe=true
+

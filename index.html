@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Projet PPE</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.4/css/bulma.min.css">
+    <style>
+      :root {
+        --primary-gradient: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        --card-hover-transform: translateY(-5px);
+      }
+      
+      body {
+        background-color: #f9fafb;
+        min-height: 100vh;
+        display: flex;
+        flex-direction: column;
+      }
+
+      .hero {
+        background: var(--primary-gradient);
+        color: white;
+      }
+
+      .hero-title {
+        font-weight: 800;
+      }
+
+      .card {
+        border-radius: 12px;
+        border: none;
+        box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+        transition: all 0.3s ease;
+        height: 100%;
+        cursor: pointer;
+      }
+
+      .card:hover {
+        transform: var(--card-hover-transform);
+        box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+      }
+
+      .card-content {
+        padding: 3rem 2rem;
+        text-align: center;
+      }
+
+      .word-title {
+        font-size: 2.5rem;
+        font-weight: 700;
+        margin-bottom: 0.5rem;
+        color: #2d3748;
+      }
+
+      .langue-title {
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        font-size: 0.875rem;
+        color: #718096;
+        font-weight: 600;
+      }
+
+    </style>
+  </head>
+  <body>
+    
+    <section class="hero is-medium">
+      <div class="hero-body">
+        <div class="container has-text-centered">
+          <h1 class="title is-1 hero-title">
+            Projet PPE
+          </h1>
+          <p class="subtitle is-4">
+            Analyse des mots : Esprit, Spirito, Дух
+          </p>
+         
+        </div>
+      </div>
+    </section>
+
+
+    <section class="section">
+      <div class="container">
+        <div class="columns is-variable">
+          
+          <!-- French Card -->
+          <div class="column is-one-third">
+            <a href="tableaux/tab_fr.html" style="text-decoration: none;">
+              <div class="card">
+                <div class="card-content">
+                  <h2 class="word-title">Esprit</h2>
+                  <p class="langue-title">Français</p>
+                </div>
+              </div>
+            </a>
+          </div>
+
+          <!-- Italian Card -->
+          <div class="column is-one-third">
+            <a href="tableaux/tab_it.html" style="text-decoration: none;">
+              <div class="card">
+                <div class="card-content">
+                  <h2 class="word-title">Spirito</h2>
+                  <p class="langue-title">Italiano</p>
+                </div>
+              </div>
+            </a>
+          </div>
+
+          <!-- Russian Card -->
+          <div class="column is-one-third">
+            <a href="tableaux/tab_ru.html" style="text-decoration: none;">
+              <div class="card">
+                <div class="card-content">
+                  <h2 class="word-title">Дух</h2>
+                  <p class="langue-title">Русский</p>
+                </div>
+              </div>
+            </a>
+          </div>
+
+        </div>
+      </div>
+    </section>
+
+    <br><br>
+    <div class="has-text-centered">
+      <pre ><code>
+        Les commandes utilisées pour obtenir les tableaux sont :
+
+        ./programmes/script_URLs_treatement.sh URLs/it.txt tableaux/ tableaux/tab_it.html "spirito" it
+        ./programmes/script_URLs_treatement.sh URLs/fr.txt tableaux/ tableaux/tab_fr.html "esprit" fr
+        ./programmes/script_URLs_treatement.sh URLs/ru.txt tableaux/ tableaux/tab_ru.html "дух" ru
+      </code></pre>
+    </div>
+
+  </body>
+</html>

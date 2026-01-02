@@ -22,24 +22,71 @@ mkdir -p "$DOSSIER_TABLEAUX/../aspirations"
 mkdir -p "$DOSSIER_TABLEAUX/../dumps-text"
 mkdir -p "$DOSSIER_TABLEAUX/../contextes"
 
-echo "<html>
+echo "<!DOCTYPE html>
+<html lang=\"fr\">
 <head>
     <meta charset=\"UTF-8\">
-    <title>Tableau des résultats</title>
-    <style>table { border-collapse: collapse; width: 100%; } th, td { border: 1px solid black; padding: 8px; } th { background-color: #f2f2f2; }</style>
+    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">
+    <title>Tableau des résultats : $MOT_CLE</title>
+    <link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/bulma@1.0.4/css/bulma.min.css\">
+    <style>
+        :root {
+            --primary-gradient: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        }
+        body {
+            background-color: #f9fafb;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+        .hero {
+            background: var(--primary-gradient);
+            color: white;
+        }
+        .section {
+            flex: 1;
+        }
+        .footer {
+            background-color: white;
+            padding: 2rem 1.5rem;
+        }
+    </style>
 </head>
 <body>
-<h1>Résultats pour le mot : $MOT_CLE</h1>
-<table>
-    <tr>
-        <th>N°</th>
-        <th>URL</th>
-        <th>Code HTTP</th>
-        <th>Encodage détecté</th>
-        <th>Page Aspirée (HTML)</th>
-        <th>Dump Textuel (TXT)</th>
-        <th>Contexte</th>
-    </tr>" > "$FICHIER_RESULTAT"
+    <section class=\"hero is-small\">
+        <div class=\"hero-body\">
+            <div class=\"container\">
+                <div class=\"columns is-vcentered\">
+                    <div class=\"column\">
+                        <h1 class=\"title has-text-white\">Résultats pour : $MOT_CLE</h1>
+                    </div>
+                    <div class=\"column is-narrow\">
+                        <a href=\"../index.html\" class=\"button is-light is-outlined\">
+                            Retour à l'accueil
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class=\"section\">
+        <div class=\"container\">
+            <div class=\"box\">
+                <div class=\"table-container\">
+                    <table class=\"table is-bordered is-striped is-hoverable is-fullwidth\">
+                        <thead>
+                            <tr>
+                                <th>N°</th>
+                                <th>URL</th>
+                                <th>Code HTTP</th>
+                                <th>Encodage</th>
+                                <th>HTML</th>
+                                <th>TXT</th>
+                                <th>Contexte</th>
+                            </tr>
+                        </thead>
+                        <tbody>" > "$FICHIER_RESULTAT"
 
 lineno=1
 while read -r URL; do
@@ -98,7 +145,7 @@ while read -r URL; do
         # output pour le tableau, avec une ligne par URL
         echo "    <tr>
             <td>$lineno</td>
-            <td><a href=\"$URL\" target=\"_blank\">$URL</a></td>
+            <td><a href=\"$URL\" target=\"_blank\">lien</a></td>
             <td>$code</td>
             <td>$encoding</td>
             <td><a href=\"../aspirations/${LANGUE}-${lineno}.html\">html</a></td>
@@ -111,5 +158,14 @@ while read -r URL; do
     fi
 done < "$FICHIER_URL"
 
-echo "</table></body></html>" >> "$FICHIER_RESULTAT"
+echo "                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    
+</body>
+</html>" >> "$FICHIER_RESULTAT"
 echo "fichier texte généré: $FICHIER_RESULTAT"
