@@ -1,473 +1,1250 @@
-   #alternate JSON oEmbed (JSON) oEmbed (XML)
+   #Modifier Wikipédia (fr) Flux Atom de Wikipédia
 
    Aller au contenu
 
-   Logiciel de recrutement ATS : Candidatus Logiciel de recrutement ATS :
-   Candidatus
+   [ ] Menu principal
+   Menu principal
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Navigation
+     * Page d’accueil
+     * Portails thématiques
+     * Article au hasard
+     * Contact
 
-     * Ebook
-     * Qui sommes-nous ?
-     * L’univers RH (BUTTON) Permutateur de Menu
-          + ATS recrutement
-          + Processus de recrutement
-          + Sourcing recrutement
-          + Marque employeur
-          + KPI RH
-          + Métiers des RH
-     * Nos thématiques (BUTTON) Permutateur de Menu
-          + Nos catégories
-          + Glossaire du recrutement
-     * Candidatus.com
+   Contribuer
+     * Débuter sur Wikipédia
+     * Aide
+     * Communauté
+     * Pages spéciales
+     * Modifications récentes
 
-   👉 Parlez‑à un expert ATS Candidatus · +33 1 88 33 66 00 ·
-   contact@candidatus.com · Calendly
-   Rechercher : ____________________ (BUTTON) Rechercher
+   Wikipédia l'encyclopédie libre
    Rechercher
-   Logiciel de recrutement ATS : Candidatus Logiciel de recrutement ATS :
-   Candidatus
-   (BUTTON) Main Menu
+   ____________________
+   (BUTTON) Rechercher
 
-     * Bienvenue sur le Blog de CANDIDATUS
-     * Qui sommes-nous ?
-     * Univers RH (BUTTON) Permutateur de Menu
-          + ATS recrutement
-          + Processus de recrutement
-          + Sourcing recrutement
-          + Marque employeur
-          + KPI RH
-          + Métiers des RH
-     * Candidatus.com
+   [ ] Apparence
 
-     Accueil
+     * Faire un don
+     * Créer un compte
+     * Se connecter
 
-     Processus de recrutement
+   [ ] Outils personnels
+     * Faire un don
+     * Créer un compte
+     * Se connecter
 
-     Soft skills
+Sommaire
 
-     Identifier la soft skill Esprit d’équipe d’un candidat
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+     * Début
+     * 1 Histoire
+       (BUTTON) Afficher / masquer la sous-section Histoire
+          + 1.1 Définition
+     * 2 Lien avec la philosophie de l'esprit
+       (BUTTON) Afficher / masquer la sous-section Lien avec la
+       philosophie de l'esprit
+          + 2.1 Théorie-théorie ou simulation ?
+     * 3 Psychologie du développement
+       (BUTTON) Afficher / masquer la sous-section Psychologie du
+       développement
+          + 3.1 L'attribution de fausses croyances
+               o 3.1.1 La tâche classique de fausses croyances : le test
+                 du transfert inattendu
+               o 3.1.2 Interprétation classique et critiques
+               o 3.1.3 Attribution automatique de fausses croyances
+          + 3.2 Autres étapes du développement de la théorie de l'esprit
+     * 4 Langage
+       (BUTTON) Afficher / masquer la sous-section Langage
+          + 4.1 Acquisition du langage
+               o 4.1.1 Acquisition de la théorie de l'esprit et
+                 acquisition du langage
+     * 5 Déficits
+       (BUTTON) Afficher / masquer la sous-section Déficits
+          + 5.1 Autisme
+               o 5.1.1 Psychophysiologie
+          + 5.2 Schizophrénie
+               o 5.2.1 Mémoire autobiographique
+     * 6 Neurosciences sociales
+     * 7 Intelligence artificielle
+     * 8 Chez les animaux
+     * 9 Notes et références
+     * 10 Bibliographie
+     * 11 Voir aussi
+       (BUTTON) Afficher / masquer la sous-section Voir aussi
+          + 11.1 Articles connexes
+          + 11.2 Liens externes
 
-   soft skill esprit d'équipe soft skill esprit d'équipe
+   [ ] Basculer la table des matières
 
-Identifier la soft skill Esprit d’équipe d’un candidat
+Théorie de l'esprit
 
-   Par Manon / 23 janvier 2024
+   [ ] 33 langues
+     * العربية
+     * کوردی
+     * Deutsch
+     * English
+     * Español
+     * فارسی
+     * Suomi
+     * עברית
+     * Hrvatski
+     * Magyar
+     * Հայերեն
+     * Bahasa Indonesia
+     * Italiano
+     * 日本語
+     * 한국어
+     * Bahasa Melayu
+     * Nederlands
+     * Norsk bokmål
+     * Polski
+     * Português
+     * Română
+     * Русский
+     * Simple English
+     * Slovenčina
+     * Slovenščina
+     * Српски / srpski
+     * Svenska
+     * Тоҷикӣ
+     * ไทย
+     * Türkçe
+     * Українська
+     * 中文
+     * 粵語
 
-   ✅ Lire l'article d'introduction : Une liste de 53 soft skills
-   Lecture de 4 min.
+   Modifier les liens
 
-   Lors d’un entretien d’embauche, il est essentiel d’évaluer les
-   compétences relationnelles et l’esprit d’équipe d’un candidat. Ces soft
-   skills sont des sélections d’aptitudes douces cruciales pour favoriser
-   la coopération, la collaboration et la communication au sein d’une
-   équipe de travail.
-   Espace découverte : ATS Candidatus 👉
+     * Article
+     * Discussion
 
-   Pour vous aider à déterminer si un candidat possède ces qualités, et
-   notamment la soft skill Esrit d’équipe, voici quelques questions clés à
-   poser :
+   [ ] français
 
-   1. Parlez-moi d’une expérience de travail en équipe qui vous a
-   particulièrement marqué. Comment avez-vous contribué à la réussite de
-   l’équipe ?
+     * Lire
+     * Modifier
+     * Modifier le code
+     * Voir l’historique
 
-   2. Comment gérez-vous les conflits au sein d’une équipe ? Pourriez-vous
-   me donner un exemple concret de situation et de la façon dont vous
-   l’avez résolue ?
+   [ ] Outils
+   Outils
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Actions
+     * Lire
+     * Modifier
+     * Modifier le code
+     * Voir l’historique
 
-   3. Comment communiquez-vous avec vos collègues de travail ?
-   Décrivez-moi une situation où vous avez dû faire face à des barrières
-   de communication et comment vous les avez surmontées.
+   Général
+     * Pages liées
+     * Suivi des pages liées
+     * Téléverser un fichier
+     * Lien permanent
+     * Informations sur la page
+     * Citer cette page
+     * Obtenir l'URL raccourcie
+     * Télécharger le code QR
 
-   4. Quels sont les traits que vous admirez chez vos coéquipiers et
-   pourquoi ? Comment ces traits vous aident-ils à travailler efficacement
-   en équipe ?
+   Imprimer / exporter
+     * Créer un livre
+     * Télécharger comme PDF
+     * Version imprimable
 
-   5. Pourriez-vous me parler d’un projet complexe sur lequel vous avez
-   travaillé en équipe ? Quel était votre rôle et comment avez-vous
-   contribué à la réalisation du projet ?
+   Dans d’autres projets
+     * Wikimedia Commons
+     * Élément Wikidata
 
-Les points clés à retenir :
+   Apparence
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Un article de Wikipédia, l'encyclopédie libre.
 
-     * La soft skill Esprit d’équipe est une compétence essentielle dans
-       le monde professionnel.
-     * Les questions posées lors d’un entretien permettent d’évaluer la
-       capacité d’un candidat à travailler en équipe.
-     * La coopération, la communication et la gestion des conflits sont
-       des aspects importants de la soft skill Esprit d’équipe.
-     * Les candidats qui ont déjà une expérience de travail en équipe et
-       qui ont su contribuer à sa réussite sont souvent de bons choix.
-     * La capacité à surmonter les obstacles de communication et à
-       travailler efficacement avec les autres sont des compétences
-       précieuses en équipe.
+   La théorie de l'esprit (de l'anglais theory of mind) désigne, en
+   sciences cognitives, non pas une théorie, mais l'aptitude permettant à
+   un individu d’attribuer des états mentaux inobservables (ex. :
+   intention, désir, sentiment, conviction...) à soi-même ou à d'autres
+   individus^[1]. « Le principe de base étant celui de l’attribution ou de
+   l’inférence, les états affectifs ou cognitifs d’autres personnes sont
+   déduits sur la base de leurs expressions émotionnelles, de leurs
+   attitudes ou de leur connaissance supposée de la réalité »^[1].
 
-   Sommaire
-   Toggle
+   Cette capacité est centrale dans la cognition sociale humaine et joue
+   un rôle primordial dans les interactions sociales — communication,
+   empathie, collaboration, enseignement, compétition, etc.^[2], en
+   permettant de mieux s'expliquer les attitudes des autres pour mieux
+   prédire et anticiper leurs comportements et y adapter les nôtres^[3].
 
-     * Les compétences clés pour une équipe performante
-     * Les meilleures questions pour évaluer la soft skill Esprit d’équipe
-          + Ces articles peuvent aussi vous intéresser…
-          + Evaleur la soft skill Tolérance à l’ambiguïté dans un monde
-            changeant
-          + Comment mesurer en entretien la soft skill Autonomie ?
-          + Identifier la soft skill Planification Stratégique chez les
-            candidats
+   Différentes branches de la psychologie se sont intéressées à cette
+   capacité depuis la fin des années 1970 : en éthologie^[4] afin de
+   déterminer si la théorie de l'esprit est présente chez d'autres
+   espèces ; en psychologie du développement^[5] afin de comprendre
+   comment cette capacité se développe au cours de l'enfance ; en
+   neuropsychologie dans des populations spécifiques (personnes du spectre
+   autistique^[6] et schizophrènes^[7] notamment) et chez l'adulte typique
+   afin de décrire les mécanismes sous-jacents et les bases neurales de
+   cette aptitude^[8].
 
-Les compétences clés pour une équipe performante
+   Bien qu'il y ait certains aspects philosophiques dans l'étude de cette
+   capacité^[9], la théorie de l'esprit est à distinguer de la philosophie
+   de l'esprit.
 
-   Pour former une équipe performante, il est essentiel de recruter des
-   candidats dotés de compétences clés. Voici quelques compétences à
-   rechercher chez les candidats pour renforcer la performance collective
-   de votre équipe :
-    1. Performance collective : Recherchez des candidats capables de
-       travailler efficacement en équipe, de contribuer activement aux
-       objectifs communs et de surpasser les attentes ensemble.
-    2. Synergie d’équipe : Identifiez des candidats qui peuvent collaborer
-       harmonieusement avec les autres membres de l’équipe, en combinant
-       leurs talents et leurs compétences pour atteindre des résultats
-       exceptionnels.
-    3. Cohésion d’équipe : Cherchez des candidats qui favorisent un esprit
-       de camaraderie au sein de l’équipe, créant un environnement positif
-       et encourageant où chacun se sent valorisé.
-    4. Intelligence collective : Priorisez les candidats qui démontrent
-       une pensée analytique et créative, et qui sont capables de résoudre
-       des problèmes de manière collaborative en tirant parti des
-       compétences individuelles de chaque membre de l’équipe.
-    5. Dynamique de groupe : Sélectionnez des candidats capables de
-       s’adapter facilement aux changements, de travailler dans des
-       situations complexes et de maintenir une atmosphère dynamique et
-       productive.
-    6. Communication d’équipe : Recherchez des candidats dotés
-       d’excellentes compétences en communication, capables d’écouter
-       activement, d’exprimer clairement leurs idées et de promouvoir un
-       échange ouvert et constructif au sein de l’équipe.
-    7. Leadership participatif : Identifiez des candidats qui ont la
-       capacité de guider l’équipe de manière participative, en incitant
-       la collaboration, la prise de décision partagée et en inspirant les
-       membres de l’équipe à donner le meilleur d’eux-mêmes.
-    8. Fit culturel : Assurez-vous que les candidats partagent les valeurs
-       et la vision de votre entreprise, et qu’ils s’intègrent
-       harmonieusement à la culture existante de votre équipe et de votre
-       organisation.
+Histoire
 
-   Pour former une équipe performante, il est essentiel de recruter des
-   candidats qui possèdent ces compétences clés. En tirant parti de la
-   performance collective, de la synergie d’équipe, de la cohésion
-   d’équipe, de l’intelligence collective, de la dynamique de groupe, de
-   la communication d’équipe, du leadership participatif et du fit
-   culturel, votre équipe peut atteindre des résultats exceptionnels et
-   affronter les défis avec succès.
+   [modifier | modifier le code]
 
-   Un peu d’humour pour illustrer la force de l’esprit d’équipe 😉 !
+   L'expression « théorie de l'esprit » provient de l'éthologie. Elle a
+   été introduite en 1978 par les éthologues David Premack et Guy Woodruff
+   dans une étude visant à déterminer si les chimpanzés pouvaient
+   attribuer des états mentaux à d'autres individus^[10]. En psychologie
+   expérimentale, Heider et Simmel se sont en 1944 intéressés à la
+   capacité à attribuer des états mentaux (en l'occurrence à des formes
+   géométriques en mouvement)^[11].
 
-   IFRAME:
-   https://www.youtube.com/embed/XgpRWmw7Pdc?enablejsapi=1&autoplay=0&cc_l
-   oad_policy=0&cc_lang_pref=&iv_load_policy=3&loop=0&rel=0&fs=1&playsinli
-   ne=0&autohide=2&theme=dark&color=red&controls=1&disablekb=0&
+   L'étude expérimentale de la théorie de l'esprit s'est faite en lien
+   avec des réflexions philosophiques sur cette capacité. Ainsi, dans un
+   commentaire de l'étude de Premack et Woodruff, le philosophe Daniel
+   Dennett souligne la difficulté de véritablement tester si un individu
+   utilise une théorie de l'esprit^[12]. Il propose comme critère la
+   capacité à attribuer à une autre personne des croyances différentes de
+   ses propres croyances. Ce critère a donné naissance à la tâche de
+   fausse croyance décrite pour la première fois par Wimmer et Perner en
+   1983^[13] et très largement utilisée ensuite dans les études de
+   psychologie comparée et de psychologie du développement.
 
-   En synthèse, les compétences essentielles pour développer un esprit
-   d’équipe :
-   Compétence Description
-   Performance collective Capacité à travailler efficacement en équipe et
-   à atteindre des objectifs communs.
-   Synergie d’équipe Collaboration harmonieuse pour combiner les talents
-   et les compétences de chaque membre.
-   Cohésion d’équipe Création d’un esprit de camaraderie et d’un
-   environnement positif au sein de l’équipe.
-   Intelligence collective Pensée analytique et créative permettant de
-   résoudre des problèmes ensemble.
-   Dynamique de groupe Adaptabilité aux changements, travail dans des
-   situations complexes et productivité.
-   Communication d’équipe Compétences en communication favorisant un
-   échange ouvert et constructif.
-   Leadership participatif Guidance de l’équipe de manière collaborative
-   et inspirante.
-   Fit culturel Intégration harmonieuse aux valeurs et à la vision de
-   l’entreprise.
+   Depuis le développement des techniques d'imagerie cérébrale, le champ
+   des neurosciences sociales qui s'intéresse notamment aux bases
+   neurophysiologiques de la théorie de l'esprit s'est rapidement
+   développé^[14].
 
-Les meilleures questions pour évaluer la soft skill Esprit d’équipe
+Définition
 
-   Pour évaluer les soft skills, dont la soft skill Esprit d’équipe, lors
-   d’un entretien, il est essentiel de poser des questions spécifiques qui
-   permettent de cerner les compétences relationnelles d’un candidat.
-   Voici quelques exemples de questions à considérer :
-    1. Décrivez une situation où vous avez dû travailler en collaboration
-       avec d’autres membres de votre équipe pour atteindre un objectif
-       commun. Comment avez-vous contribué à la réussite de l’équipe ?
-    2. Parlez-moi d’une expérience où vous avez été confronté à un conflit
-       au sein de votre équipe. Comment avez-vous géré la situation et
-       quelles étaient les actions que vous avez prises pour résoudre le
-       conflit ?
-    3. Comment communiquez-vous avec vos collègues de travail ?
-       Pouvez-vous donner un exemple concret d’une situation où vous avez
-       utilisé vos compétences en communication pour résoudre un problème
-       ou faciliter la coopération au sein de l’équipe ?
-    4. Comment démontrez-vous de l’empathie envers vos collègues ?
-       Pouvez-vous partager une expérience où vous avez fait preuve
-       d’empathie pour soutenir un membre de votre équipe dans une
-       situation difficile ?
+   [modifier | modifier le code]
 
-   En posant ces questions, vous pourrez évaluer la capacité d’un candidat
-   à travailler en équipe (soft skill Esprit d’équipe), à collaborer
-   efficacement, à gérer les conflits et à communiquer de manière
-   constructive. N’oubliez pas de tenir compte du fit culturel avec votre
-   entreprise pour trouver le candidat qui s’intégrera le mieux à votre
-   équipe.
-   Manon Manon
-   Manon
+   La théorie de l'esprit est une capacité cognitive qui permet de se
+   représenter les états mentaux d'autres individus et d'utiliser ces
+   représentations afin d'expliquer ou de prédire leur comportement. Cette
+   capacité est inférentielle par nature puisque les états mentaux
+   (croyances, désirs, émotions…) des autres individus ne sont pas
+   observables directement, mais doivent donc être inférés à partir de
+   l'observation de leur comportement (choix, réactions
+   émotionnelles, etc.)^[1].
 
-   Consultante en RH et en recrutement, Manon aime créer des opportunités
-   pour chacun. Animée d’une passion pour les ressources humaines, elle
-   apporte une contribution percutante à ses clients.
+   La notion de théorie de l'esprit est proche de la notion
+   d'empathie^[1]. Cependant, la notion d'empathie comporte une dimension
+   émotionnelle et affective alors que la théorie de l'esprit renvoie
+   plutôt à des processus cognitifs représentationnels^[15].
 
-Ces articles peuvent aussi vous intéresser...
+   L'expression « théories de l'esprit », au pluriel, apparaît
+   régulièrement pour mettre l'accent sur la diversité, phylogénétique et
+   ontogénétique, des systèmes cognitifs pouvant rendre compte de
+   différents niveaux de compréhension du comportement des autres^[16].
 
-Top 10 des soft skills dans les professions de santé
+   Le terme « théorie de l'esprit » est parfois jugé inadapté : pour
+   certains parce qu'il postule le développement d'une « théorie » sur
+   l'esprit des autres, ce qui est débattu^[9], pour d'autres, car cela
+   impliquerait à tort une capacité sans faille chez les adultes
+   sains^[17]. ^[note 1]
 
-Soft skill assertivité : les bonnes questions
+Lien avec la philosophie de l'esprit
 
-Soft skill Pensée systémique: son importance en entreprise
+   [modifier | modifier le code]
+   Articles connexes : Psychologie naïve et Daniel Dennett.
 
-   IFRAME:
-   https://player.vimeo.com/video/772451145?h=f136bfcce7&badge=0&autopause
-   =0&autoplay=1&muted=1&loop=0&player_id=0&app_id=58479
+   Les débats contemporains de la théorie de l'esprit s'inscrivent dans
+   une riche tradition philosophique de l'étude de l'esprit : on peut
+   faire remonter le questionnement sur la nature de l'esprit à Descartes.
 
-Qui sommes-nous ?
+   À partir des années 1950, les travaux respectifs de Fritz Heider et
+   Wilfrid Sellars ont introduit l'idée de l'usage d'une théorie
+   psychologique du sens commun ou psychologie naïve que les hommes
+   utiliseraient pour interpréter le comportement de leurs congénères^[9].
 
-   Candidatus est une société française. Elle édite un logiciel de
-   recrutement et de gestion de candidatures.
+Théorie-théorie ou simulation ?
 
-   Cette application est utilisée depuis plus de 10 ans par des
-   entreprises de toutes tailles et dans tous secteurs.
+   [modifier | modifier le code]
 
-   Contactez-nous pour une démo :
-    +33 (0)1 88 33 66 00
-    contact@candidatus.com
+   Depuis les années 1970, des débats, alimentés par les travaux
+   expérimentaux menés en parallèle en psychologie du développement ont vu
+   se confronter deux positions sur la nature de la théorie de
+   l'esprit^[9] :
+     * la théorie de la théorie, qui insiste sur l'organisation
+       proto-scientifique de la théorie de l'esprit ;
+     * la théorie de la simulation, qui insiste sur la capacité de simuler
+       les états mentaux d'autrui.
 
-candidatus.ats
+   Du point de vue de la théorie-théorie, l'utilisation de la théorie de
+   l'esprit relève de l'application d'une théorie. Au sein des défenseurs
+   de la théorie-théorie, plusieurs versions s'opposent quant à son
+   développement. Pour certains, comme Alison Gopnik et Andrew Meltzoff,
+   l'enfant acquiert la théorie de l'esprit de la même manière que les
+   scientifiques construisent des théories (par voie de tests d'hypothèses
+   notamment). Pour d'autres, comme Jerry Fodor, l'enfant dispose de
+   modules cognitifs innés dédiés à la compréhension du comportement des
+   autres qui arrivent à maturation au cours du développement.
 
-   🤔 Trouver l’équilibre parfait entre le travail et 🤔 Trouver l’équilibre
-   parfait entre le travail et la vie personnelle peut sembler une tâche
-   ardue. Voici quelques conseils pour vous aider à trouver la sauce
-   secrète du succès : 📝1. Établissez des priorités : sachez quelles
-   tâches nécessitent votre attention en premier et concentrez-vous sur
-   celles-ci. 🗣2. Communiquez : restez en contact avec vos collègues et
-   établissez des limites si nécessaire. ⏰3. Planifiez : planifiez votre
-   temps et créez des objectifs réalisables qui correspondent à votre
-   calendrier. 😊4. Prenez des pauses: n’oubliez pas de vous déconnecter du
-   travail et de prendre des pauses régulières pour vous détendre et vous
-   rafraîchir. 👩5. Obtenez de l’aide : demandez de l’aide si nécessaire,
-   n’ayez pas peur de demander de l’aide à vos amis, à votre famille ou à
-   vos mentors. ✅6. Réfléchissez : prenez le temps d’évaluer vos méthodes
-   pour atteindre l’équilibre travail-vie personnelle et ajustez-vous en
-   conséquence. Trouver cet équilibre parfait n’est pas toujours facile,
-   mais c’est possible ! Quels conseils avez-vous pour trouver un meilleur
-   équilibre ? Faites-le nous savoir dans les commentaires ci-dessous. #rh
-   #conseilsrh #travail #equilibre 🤔 Trouver l’équilibre parfait entre le
-   travail et la vie personnelle peut sembler une tâche ardue. Voici
-   quelques conseils pour vous aider à trouver la sauce secrète du succès
-   : 📝1. Établissez des priorités : sachez quelles tâches nécessitent
-   votre attention en premier et concentrez-vous sur celles-ci. 🗣2.
-   Communiquez : restez en contact avec vos collègues et établissez des
-   limites si nécessaire. ⏰3. Planifiez : planifiez votre temps et créez
-   des objectifs réalisables qui correspondent à votre calendrier. 😊4.
-   Prenez des pauses: n’oubliez pas de vous déconnecter du travail et de
-   prendre des pauses régulières pour vous détendre et vous rafraîchir.
-   👩5. Obtenez de l’aide : demandez de l’aide si nécessaire, n’ayez pas
-   peur de demander de l’aide à vos amis, à votre famille ou à vos
-   mentors. ✅6. Réfléchissez : prenez le temps d’évaluer vos méthodes pour
-   atteindre l’équilibre travail-vie personnelle et ajustez-vous en
-   conséquence. Trouver cet équilibre parfait n’est pas toujours facile,
-   mais c’est possible ! Quels conseils avez-vous pour trouver un meilleur
-   équilibre ? Faites-le nous savoir dans les commentaires ci-dessous. #rh
-   #conseilsrh #travail #equilibre
-   Avouons-le, on est tous à la recherche du candidat Avouons-le, on est
-   tous à la recherche du candidat parfait 🤩 ! Comment le trouver ?
-   Quelques pistes sur notre blog 🚀 : https://candidat.us/plUZ40
-   #recrutement #recruteur #candidat #candidatus #emploi #rh #ats
-   Avouons-le, on est tous à la recherche du candidat parfait 🤩 ! Comment
-   le trouver ? Quelques pistes sur notre blog 🚀 :
-   https://candidat.us/plUZ40 #recrutement #recruteur #candidat
-   #candidatus #emploi #rh #ats
-   Assurez-vous de « maîtriser l’art de la communicat Assurez-vous de «
-   maîtriser l’art de la communication » si vous voulez atteindre vos
-   objectifs professionnels ! 🎯 Voici comment procéder : ✅ 1. Écoutez
-   attentivement - Votre capacité à comprendre vos collègues contribuera
-   grandement à créer des partenariats fructueux. 😀 2. Soyez confiant - Si
-   vous croyez en vous et en votre idée, les autres le feront aussi. 🗣 3.
-   Parlez clairement - Faites passer votre message sans utiliser de jargon
-   ou de langage compliqué. 💬 4. Adaptez-vous à différentes situations -
-   Les besoins de chaque conversation sont uniques, alors assurez-vous
-   d’ajuster votre approche en conséquence. 📝 5. Gardez l’esprit ouvert -
-   N’ayez pas peur de poser des questions et de considérer d’autres
-   perspectives. 🤝 6. Faites preuve d’empathie - Mettez-vous à la place de
-   la personne à qui vous parlez afin de mieux communiquer avec elle. 🔁 7.
-   Pratiquez régulièrement - Développer des compétences en communication
-   exige du dévouement et de l’engagement. D'autres conseils pour
-   maîtrisez l'art de la communication pour atteindre vos objectifs
-   professionnels ? 🤩 #communication #rh #travail #communication
-   Assurez-vous de « maîtriser l’art de la communication » si vous voulez
-   atteindre vos objectifs professionnels ! 🎯 Voici comment procéder : ✅
-   1. Écoutez attentivement - Votre capacité à comprendre vos collègues
-   contribuera grandement à créer des partenariats fructueux. 😀 2. Soyez
-   confiant - Si vous croyez en vous et en votre idée, les autres le
-   feront aussi. 🗣 3. Parlez clairement - Faites passer votre message sans
-   utiliser de jargon ou de langage compliqué. 💬 4. Adaptez-vous à
-   différentes situations - Les besoins de chaque conversation sont
-   uniques, alors assurez-vous d’ajuster votre approche en conséquence. 📝
-   5. Gardez l’esprit ouvert - N’ayez pas peur de poser des questions et
-   de considérer d’autres perspectives. 🤝 6. Faites preuve d’empathie -
-   Mettez-vous à la place de la personne à qui vous parlez afin de mieux
-   communiquer avec elle. 🔁 7. Pratiquez régulièrement - Développer des
-   compétences en communication exige du dévouement et de l’engagement.
-   D'autres conseils pour maîtrisez l'art de la communication pour
-   atteindre vos objectifs professionnels ? 🤩 #communication #rh #travail
-   #communication
-   Conseil de pro 😄 illustrant l'article de notre blo Conseil de pro 😄
-   illustrant l'article de notre blog : 🖇️ https://candidat.us/AaGxgL Au
-   sommaire : 1️⃣ Pourquoi la marque employeur est-elle si importante pour
-   les ressources humaines ? 2️⃣ Comment identifier vos personas de
-   candidats ? 3️⃣ Comment développer votre EVP pour attirer les meilleurs
-   talents ? 4️⃣ Comment attirer des talents sur les réseaux sociaux ? 5️⃣
-   Comment soigner votre site carrière dédié aux marque employeur et
-   recrutement ? 6️⃣ Quels canaux les RH doivent-elles choisir pour
-   diffuser ses offres d’emploi ? 7️⃣ Comment créer une expérience
-   candidat satisfaisante ? 8️⃣ Comment moderniser votre processus de
-   recrutement pour séduire les candidats ? 9️⃣ Comment authentifier votre
-   marque employeur pour éviter les déceptions ? 🔟 Le témoignage d’un
-   expert : comment recruter des talents grâce à sa marque employeur ?
-   Adopter un communication de marque employeur pour attirer les
-   collaborateurs de votre réussite #recrutement #marqueemployeur #drh
-   #candidatus Conseil de pro 😄 illustrant l'article de notre blog : 🖇️
-   https://candidat.us/AaGxgL Au sommaire : 1️⃣ Pourquoi la marque
-   employeur est-elle si importante pour les ressources humaines ? 2️⃣
-   Comment identifier vos personas de candidats ? 3️⃣ Comment développer
-   votre EVP pour attirer les meilleurs talents ? 4️⃣ Comment attirer des
-   talents sur les réseaux sociaux ? 5️⃣ Comment soigner votre site
-   carrière dédié aux marque employeur et recrutement ? 6️⃣ Quels canaux
-   les RH doivent-elles choisir pour diffuser ses offres d’emploi ? 7️⃣
-   Comment créer une expérience candidat satisfaisante ? 8️⃣ Comment
-   moderniser votre processus de recrutement pour séduire les candidats ?
-   9️⃣ Comment authentifier votre marque employeur pour éviter les
-   déceptions ? 🔟 Le témoignage d’un expert : comment recruter des talents
-   grâce à sa marque employeur ? Adopter un communication de marque
-   employeur pour attirer les collaborateurs de votre réussite
-   #recrutement #marqueemployeur #drh #candidatus
-   Maîtrisez l’art de la communication pour atteindre Maîtrisez l’art de
-   la communication pour atteindre vos objectifs professionnels ! 🤝 Une
-   communication efficace est la clé pour atteindre tout objectif
-   professionnel! 🎯 Voici quelques conseils pour vous aider à
-   perfectionner vos compétences en communication afin que vous puissiez
-   atteindre de nouveaux sommets dans votre carrière : 🗣 Écoute active. Il
-   ne s’agit pas seulement de ce qui est dit, mais aussi de comprendre
-   comment cela est dit et d’être conscient du message sous-jacent. 💬
-   Clarté et concision. Gardez le jargon inutile et assurez-vous que votre
-   message est facile à comprendre. 🤐 Communication non-verbale. Le
-   langage corporel, le contact visuel et le ton jouent tous un rôle
-   important dans la communication - soyez conscient de la façon dont vous
-   les utilisez! 😌 Empathie. Être capable de ressentir ce que les autres
-   ressentent peut vous aider à établir des liens plus forts et à
-   communiquer plus efficacement. 👍 Commentaires constructifs. Donner et
-   recevoir des commentaires peut aider à améliorer les performances et à
-   améliorer la communication. 🤝 Adaptabilité. Tout le monde communique
-   différemment, alors soyez flexible et ajustez votre style pour
-   s’adapter à différentes personnes et situations. Alors pourquoi ne pas
-   libérer le pouvoir d’une communication efficace dans votre vie
-   professionnelle? Commençons dès aujourd’hui! 🙌 #recrutement #recruteur
-   #candidat #emploi #employeur #marqueemployeur #talents #talent
-   #sourcing #rh #drh #fonctionsrh #ressourceshumaines #conseilrh #ats
-   #candidatus Maîtrisez l’art de la communication pour atteindre vos
-   objectifs professionnels ! 🤝 Une communication efficace est la clé pour
-   atteindre tout objectif professionnel! 🎯 Voici quelques conseils pour
-   vous aider à perfectionner vos compétences en communication afin que
-   vous puissiez atteindre de nouveaux sommets dans votre carrière : 🗣
-   Écoute active. Il ne s’agit pas seulement de ce qui est dit, mais aussi
-   de comprendre comment cela est dit et d’être conscient du message
-   sous-jacent. 💬 Clarté et concision. Gardez le jargon inutile et
-   assurez-vous que votre message est facile à comprendre. 🤐 Communication
-   non-verbale. Le langage corporel, le contact visuel et le ton jouent
-   tous un rôle important dans la communication - soyez conscient de la
-   façon dont vous les utilisez! 😌 Empathie. Être capable de ressentir ce
-   que les autres ressentent peut vous aider à établir des liens plus
-   forts et à communiquer plus efficacement. 👍 Commentaires constructifs.
-   Donner et recevoir des commentaires peut aider à améliorer les
-   performances et à améliorer la communication. 🤝 Adaptabilité. Tout le
-   monde communique différemment, alors soyez flexible et ajustez votre
-   style pour s’adapter à différentes personnes et situations. Alors
-   pourquoi ne pas libérer le pouvoir d’une communication efficace dans
-   votre vie professionnelle? Commençons dès aujourd’hui! 🙌 #recrutement
-   #recruteur #candidat #emploi #employeur #marqueemployeur #talents
-   #talent #sourcing #rh #drh #fonctionsrh #ressourceshumaines #conseilrh
-   #ats #candidatus
-   ✍️ Comment développer sa marque employeur ? Commen ✍️ Comment
-   développer sa marque employeur ? Comment attirer et fidéliser les
-   talents et les salariés ? 🤔 Notre article 🔗 https://candidat.us/NMDbPf
-   #recrutement #ats #marquemployeur #rh #candidatus ✍️ Comment développer
-   sa marque employeur ? Comment attirer et fidéliser les talents et les
-   salariés ? 🤔 Notre article 🔗 https://candidat.us/NMDbPf #recrutement
-   #ats #marquemployeur #rh #candidatus
-   (BUTTON) En voir plus Nous suivre sur Instagram
+   Les défenseurs de la théorie de la simulation^[18] avancent au
+   contraire que la capacité d'attribuer des états mentaux aux autres
+   individus ne repose pas sur l'application d'une théorie mais sur la
+   capacité de prendre la perspective de l'autre et d'utiliser une
+   simulation de ses propres états mentaux.
 
-   Copyright © 2026 Blog Candidatus | Fait avec ❤️ par Candidatus
+   Récemment, les débats sur la nature de la théorie de l'esprit se sont
+   davantage tournés vers les mécanismes computationnels et neuronaux de
+   la théorie de l'esprit^[2].
 
-   Mentions légales
+Psychologie du développement
 
-   Gérer le consentement aux cookies
-   Pour offrir les meilleures expériences, nous utilisons des technologies
-   telles que les cookies pour stocker et/ou accéder aux informations des
-   appareils. Le fait de consentir à ces technologies nous permettra de
-   traiter des données telles que le comportement de navigation ou les ID
-   uniques sur ce site. Le fait de ne pas consentir ou de retirer son
-   consentement peut avoir un effet négatif sur certaines caractéristiques
-   et fonctions.
-   Fonctionnel [ ] Fonctionnel Toujours activé
-   Le stockage ou l’accès technique est strictement nécessaire dans la
-   finalité d’intérêt légitime de permettre l’utilisation d’un service
-   spécifique explicitement demandé par l’abonné ou l’utilisateur, ou dans
-   le seul but d’effectuer la transmission d’une communication sur un
-   réseau de communications électroniques.
-   Préférences [ ] Préférences
-   Le stockage ou l’accès technique est nécessaire dans la finalité
-   d’intérêt légitime de stocker des préférences qui ne sont pas demandées
-   par l’abonné ou l’utilisateur.
-   Statistiques [ ] Statistiques
-   Le stockage ou l’accès technique qui est utilisé exclusivement à des
-   fins statistiques. Le stockage ou l’accès technique qui est utilisé
-   exclusivement dans des finalités statistiques anonymes. En l’absence
-   d’une assignation à comparaître, d’une conformité volontaire de la part
-   de votre fournisseur d’accès à internet ou d’enregistrements
-   supplémentaires provenant d’une tierce partie, les informations
-   stockées ou extraites à cette seule fin ne peuvent généralement pas
-   être utilisées pour vous identifier.
-   Marketing [ ] Marketing
-   Le stockage ou l’accès technique est nécessaire pour créer des profils
-   d’utilisateurs afin d’envoyer des publicités, ou pour suivre
-   l’utilisateur sur un site web ou sur plusieurs sites web ayant des
-   finalités marketing similaires.
-     * Gérer les options
-     * Gérer les services
-     * Gérer {vendor_count} fournisseurs
-     * En savoir plus sur ces finalités
+   [modifier | modifier le code]
 
-   (BUTTON) Accepter (BUTTON) Refuser (BUTTON) Voir les préférences
-   (BUTTON) Enregistrer les préférences Voir les préférences
-     * {title}
-     * {title}
-     * {title}
+   Le développement de la théorie de l'esprit chez les enfants a donné
+   lieu à de très nombreuses études depuis les années 1980.
 
-   (BUTTON) Gérer le consentement
+L'attribution de fausses croyances
 
-   Sommaire
-   ×
+   [modifier | modifier le code]
+   Article connexe : Test de Sally et Anne.
 
-     * Les compétences clés pour une équipe performante
-     * Les meilleures questions pour évaluer la soft skill Esprit d’équipe
-          + Ces articles peuvent aussi vous intéresser…
-          + Evaleur la soft skill Tolérance à l’ambiguïté dans un monde
-            changeant
-          + Comment mesurer en entretien la soft skill Autonomie ?
-          + Identifier la soft skill Planification Stratégique chez les
-            candidats
+   En lien avec les réflexions proposées par les philosophes s'étant
+   penchés sur la question, les tests visant à déterminer à quel âge les
+   enfants sont capables d'attribuer des fausses croyances ont connu une
+   place centrale dans l'étude du développement de la théorie de l'esprit.
 
-   → Sommaire
+La tâche classique de fausses croyances : le test du transfert inattendu
 
-   Retour en haut
+   [modifier | modifier le code]
+
+   Heinz Wimmer et Josef Perner^[13] introduisent en 1983 le protocole
+   opératoire du transfert inattendu (unexpected transfer) qui sera repris
+   sous de nombreuses formes différentes dans des études ultérieures. Dans
+   cette tâche, un enfant-spectateur doit prédire qu'une personne ignorant
+   le déplacement d'un objet le cherchera là où elle croit qu'il se trouve
+   et non là où il est en réalité. En pratique, on présente à l'enfant, à
+   l'aide de poupées et de jouets, l'histoire suivante :
+    1. Max et sa maman sont dans la cuisine ; ils rangent le chocolat dans
+       le réfrigérateur. Max part rejoindre ses amis pour jouer.
+    2. Pendant son absence, sa maman décide de préparer un gâteau. Elle
+       prend le chocolat dans le réfrigérateur, en utilise une partie et
+       range le reste du chocolat dans le placard.
+    3. Plus tard, Max revient ; il veut manger du chocolat. Où va-t-il le
+       chercher ?
+
+   L'expérimentateur demande alors à l'enfant-spectateur où il pense que
+   Max va chercher le chocolat.
+
+   L'idée sous-jacente au paradigme réside dans le fait que pour répondre
+   correctement que Max va chercher le chocolat dans le réfrigérateur, il
+   faut lui attribuer une fausse croyance concernant la position du
+   chocolat.
+
+   Différentes versions de ce paradigme expérimental ont été utilisées
+   dans de nombreuses études. (La version du test de Sally et Anne étant
+   la plus célèbre.) Le pattern de résultats suivant a ainsi émergé : vers
+   3 ans les enfants ne répondent pas correctement à la question (ils
+   répondent d'après leur propre connaissance de la position du chocolat)
+   alors qu'à partir de cinq ans ils répondent correctement. Si ces
+   résultats ont bien été répliqués et semblent robustes dans différentes
+   cultures, leur interprétation est plus controversée^[19].
+
+Interprétation classique et critiques
+
+   [modifier | modifier le code]
+
+   L'interprétation classique de ces résultats, largement répandue jusque
+   dans les années 2000, est qu'autour de 4 ans, une maturation de la
+   théorie de l'esprit se produit afin de donner lieu à une capacité
+   "méta-représentationnelle". Entre 3 et 5 ans, les enfants
+   développeraient ainsi le concept de croyance : une représentation, dont
+   le contenu peut différer de l'état réel du monde. Avant 4-5 ans les
+   enfants disposeraient tout de même d'une théorie de l'esprit, non
+   mature (prenant en compte que les personnes agissent selon leur désir
+   par exemple)^[19].
+
+   Il est à noter que malgré son succès, notamment dans l'étude des
+   troubles du développement comme l'autisme (cf infra), ce paradigme
+   expérimental et l'interprétation des résultats en découlant ont été
+   sujet à diverses critiques. Ainsi, Paul Boom et Tim German proposaient
+   en 2000 d'abandonner cette tâche comme mesure de théorie de l'esprit
+   pour deux raisons : d'une part, ce test fait appel à d'autres aptitudes
+   qui sont également en maturation chez le jeune enfant (capacités
+   verbales, fonctions exécutives et notamment inhibition) et d'autre
+   part, il ne permet pas de rendre compte de tous les aspects d'une
+   théorie de l'esprit mature^[20].
+
+Attribution automatique de fausses croyances
+
+   [modifier | modifier le code]
+
+   Au-delà des critiques formulées contre le paradigme, de nouvelles
+   expériences ont remis en cause l'interprétation classique de la tâche
+   de fausse croyance. En effet, à l'aide de mesures implicites telles que
+   le temps de regard, ces études ont indiqué que les enfants semblent
+   attribuer des fausses croyance dès l'âge de 15 mois^[21]^,^[22]. Les
+   jeunes enfants entre 3 et 4 ans seraient donc capables de se
+   représenter des fausses croyances mais pas encore capables de donner
+   explicitement le bon jugement dans la tâche de fausse croyance
+   classique^[23].
+
+Autres étapes du développement de la théorie de l'esprit
+
+   [modifier | modifier le code]
+
+   Les psychologues et neuroscientifiques Uta Frith et Chris Frith
+   résument comme suit les différentes étapes du développement de la
+   théorie de l'esprit^[24] :
+     * À partir de 3 mois : Préférence pour les stimuli sociaux ;
+     * à partir de 6 mois : Compréhension de l'agentivité et des actions
+       dirigées vers un objectif ;
+     * à partir de 9 mois : Attribution d'un principe de rationalité aux
+       agents (les enfants s'attendent à ce que l'objectif de l'agent soit
+       atteint par "le chemin le plus économique/direct") ;
+     * à partir de 12 mois : Reconnaissance d'agents intentionnels,
+       utilisation de la direction du regard des autres pour prédire leur
+       comportement ;
+     * à partir de 18 mois : Attribution d'intentions à d'autres
+       personnes, engagement dans des jeux "en faisant semblant",
+       développement attention conjointe (poursuite par l'enfant d'un but
+       qu'un adulte désigne ou regarde, même s'il n'est pas dans le champ
+       visuel direct de l'enfant) ;
+     * à partir de 3 ans : Utilisation de vocabulaire mentaliste "Je
+       pensais que / je croyais que", prise en compte d'une perspective
+       visuelle différente ;
+     * à partir de 5 ans : Attribution de fausses croyances de second
+       ordre (Marie croit que Jean croit quelque chose).
+
+Langage
+
+   [modifier | modifier le code]
+
+   La théorie de l’esprit, sans être tout à fait nécessaire au langage,
+   constitue tout de même un atout important, autant en communication
+   verbale que non verbale^[25]. Un exemple de communication verbale : une
+   personne, appelons-la Catherine, est attendue à une réunion après le
+   dîner, par exemple ; elle demande l’heure à son ami Léo. Celui-ci lui
+   répond « On a le temps de finir de manger. » Ici, Léo ne répond pas
+   directement à la question de Catherine car il a compris qu’elle
+   souhaitait savoir s’ils avaient le temps de terminer le repas, et non
+   pas l’heure qu’il était. Léo a attribué un état mental à Catherine. Des
+   états mentaux peuvent aussi être attribués en communication non
+   verbale. Par exemple, Catherine entre dans la cuisine et voit Léo en
+   train de chercher dans les tiroirs. Elle raisonne alors de manière
+   inférentielle à partir de ce qu’elle voit pour comprendre que Léo veut
+   commencer à préparer le souper et qu’il cherche un ustensile pour ce
+   faire. On peut donc affirmer que Léo et Catherine ont chacun une
+   théorie de l’esprit, car ils arrivent à attribuer des états mentaux
+   l’un à l’autre.^[pas clair]
+
+Acquisition du langage
+
+   [modifier | modifier le code]
+
+   L’acquisition de la théorie de l’esprit est étroitement liée à
+   l’acquisition de certains aspects du langage. D’une part, l’acquisition
+   de la théorie de l’esprit influence l’acquisition du langage ; d’autre
+   part, l’acquisition du langage influence l’acquisition de la théorie de
+   l’esprit.
+
+   L’apprentissage d’une langue aide à l’acquisition de la théorie de
+   l’esprit. En effet, on observe chez les enfants privés de langage au
+   début de leur vie (tels que les enfants sourds diagnostiqués
+   tardivement) un retard dans le développement de la théorie de
+   l’esprit^[26]. Selon certains auteurs, ce serait la structure générale
+   du langage qui aurait un impact sur la théorie de l’esprit, comme le
+   fait qu’une idée puisse être insérée de manière répétée dans une phrase
+   (principe de subordination). C'est le cas dans la phrase : « Jacques
+   pense que Jean, qui est son frère, est parti. » Pour d’autres auteurs,
+   ce seraient certaines constructions très spécifiques du langage qui
+   permettraient de développer la théorie de l’esprit^[27]. En revanche,
+   comme les langues n’ont pas toutes les mêmes types de construction et
+   qu’il n’a jamais été prouvé que la langue maternelle a un impact sur
+   l’acquisition de la théorie de l’esprit, cela reste à vérifier^[28].
+
+   Bien que le langage et la théorie de l’esprit soient liés durant
+   l’acquisition, des études montrent que la perte du langage chez
+   l’adulte n’affecte pas la théorie de l’esprit. Cette hypothèse prouve
+   que langage et théorie de l’esprit sont indépendants^[29]^,^[30]. Pour
+   ce qui est du développement normal, la théorie de l’esprit comporte
+   deux niveaux de représentation mentale, respectivement acquis lorsque
+   les enfants réussissent les tests de fausse croyance de premier et de
+   second ordre aux âges habituels, soit vers 4 à 5 ans puis vers 7 ans.
+   En premier lieu, l’enfant doit posséder « l’habileté à attribuer à
+   autrui des états mentaux en fonction d’un événement objectif »^[31] ;
+   en second lieu, il doit pouvoir « évaluer les états mentaux d’une autre
+   personne selon les états mentaux d’une tierce personne en fonction d’un
+   événement objectif »^[31].
+
+Acquisition de la théorie de l'esprit et acquisition du langage
+
+   [modifier | modifier le code]
+
+   La première étape vers l’acquisition de la théorie de l’esprit est
+   l’attention partagée (ou attention conjointe). Celle-ci est cruciale
+   dans l’apprentissage d’une langue^[32]. En effet, pour pouvoir assigner
+   un nom à un objet, l’enfant doit savoir ce que l’adulte nomme lorsqu’il
+   parle. C’est d’ailleurs lorsque l’attention partagée avec autrui est
+   mise en place que l’apprentissage du vocabulaire se voit accéléré de
+   manière considérable^[32]^,^[33]^,^[34].
+
+   Parallèlement à l’attention partagée, l’enfant acquiert la capacité,
+   vers 1 an, de désigner un objet dans le but de demander (pointage
+   impératif^[35]) ou dans le but de montrer (pointage déclaratif^[35]).
+   Ces actes de pointage sont considérés comme des précurseurs de la
+   théorie de l’esprit. Ils « peuvent être considérés comme les rudiments
+   d’actes de langage »^[35].
+
+   Vers 4 ans, grâce au développement de la théorie de l’esprit, l’enfant
+   arrive à s’adapter à la personne avec qui il parle et à bien gérer les
+   tours de parole^[35].
+
+   L’enfant de 5 ans commence à réussir les tests de fausses croyances.
+   Ainsi, il acquiert la théorie de l’esprit élémentaire. Le moment de la
+   réussite de ce test est lié à la maîtrise de la communication
+   figurée^[35]. De plus, il y a corrélation entre la réussite au test de
+   fausse croyance et la capacité à sélectionner un référent ambigu dans
+   un contexte donné (par exemple : « Prends le ballon » alors qu’il y a
+   plusieurs ballons devrait être interprété comme l’indication de prendre
+   le ballon le plus saillant pour le locuteur)^[36].
+
+   L’enfant de 6 ans, contrairement aux enfants plus jeunes, réussit les
+   tests de fausses croyances impliquant l’inférence. En d’autres termes,
+   avant 6 ans, il ne peut pas concevoir ce qu'une autre personne infère.
+   Par ailleurs, c’est entre 6 et 8 ans que les enfants commencent à
+   réussir les tests de double inférence. La réussite à ces tests est
+   corrélée à la capacité de départager l’ironie du mensonge^[37].
+
+   De plus, la mise en place de la théorie de l’esprit est un atout pour
+   la compréhension de certains verbes, tels que « savoir », « deviner »,
+   « se souvenir », « plaisanter », « mentir », etc^[38]. Essentiellement,
+   la théorie de l’esprit a un grand impact sur l’acquisition de la
+   faculté de comprendre un message en lien avec un contexte donné
+   (pragmatique)^[37].
+
+Déficits
+
+   [modifier | modifier le code]
+
+   Certains déficits de la théorie de l'esprit sont présents chez des
+   personnes atteintes de schizophrénie ou encore d’atteinte neurologique
+   due à l'abus d'alcool^[39]. Il n’y a pas de consensus actuel sur un
+   déficit de la théorie de l’esprit chez les personnes avec trouble de
+   l’attention avec ou sans hyperactivité(TDAH). Six études différentes
+   ont été menées à ce sujet et cinq d’entre elles démontrent même le
+   contraire. Il semblerait effectivement que les personnes ayant le TDAH
+   n’aient pas de déficit de la théorie de l’esprit à l’instar des
+   personnes autistes, mais qu’elles partagent avec ces derniers des
+   problèmes d’empathie ainsi que de reconnaissance et de traitement des
+   émotions ^[40].
+
+Autisme
+
+   [modifier | modifier le code]
+   Article connexe : Empathie des personnes autistes.
+
+   L’autisme n'est plus une psychopathologie depuis 1980^[41], mais une
+   condition neurodéveloppementale^[42] dans laquelle plusieurs facettes
+   du développement psychologique de l’enfant seraient touchées d'après la
+   théorie de l’esprit. Prétendument grandement affectés, les autistes
+   auraient une difficulté à participer aux jeux imaginaires, aux
+   interactions sociales et à utiliser adéquatement le langage
+   pragmatique. Les autistes de haut niveau (qui ont un retard social mais
+   dont les habiletés motrices, langagières et imaginatives sont
+   préservées) sont ainsi plus littéraux dans leurs interprétations
+   pragmatiques : si, par exemple, on leur demande « Peux-tu fermer la
+   porte ? », ils peuvent parfaitement répondre « Oui » sans aller la
+   fermer. De plus, ils suivent moins des yeux le regard des autres. Selon
+   Baron-Cohen, ils obtiendraient donc moins d’informations sur ce que
+   veut l'autre, ce qui serait à relier à une moins bonne théorie de
+   l’esprit.
+
+   Il y a toutefois une nuance à apporter quant à la théorie de l’esprit
+   chez les personnes autistes. Les recherches récentes montrent chez les
+   autistes un retard plutôt qu’une déficience de la théorie de
+   l’esprit^[43]. Ils se démarquent entre autres par le manque de
+   vocabulaire décrivant les états mentaux, et par des compétences
+   pragmatiques faibles, notamment une utilisation peu appropriée du
+   langage pour communiquer, la non observation des critères habituels de
+   politesse et des difficultés à soutenir une conversation. Il est à
+   noter que toutes ces compétences pragmatiques relèvent de la capacité à
+   attribuer des états mentaux à autrui^[44].
+
+   D’un autre côté, Baron-Cohen et Howlin ont établi une liste de
+   difficultés résultant d'une déficience de la théorie de l’esprit chez
+   les enfants autistes :
+     * « Insensibilité aux émotions d’autrui ;
+     * Inaptitude à prendre en compte les connaissances d’une autre
+       personne ;
+     * Inaptitude à discerner les intentions d’autrui ;
+     * Inaptitude à s'assurer de l’intérêt de la part de l’autre ;
+     * Difficultés à anticiper ce que l'autre pense de ses propres
+       comportements ;
+     * Inaptitude à comprendre les malentendus ;
+     * Difficulté à concevoir la tromperie ;
+     * Difficulté à reconnaître la motivation, chez l'autre, à poser
+       certains gestes^[45]. »
+
+   L'épreuve de transfert inattendu décrite plus haut a été proposée à des
+   enfants autistes, des enfants atteints du syndrome de Down et des
+   enfants neurotypiques. Tous ont réussi aux questions-contrôles, ce qui
+   montrait que le test fonctionnait. Les enfants neurotypiques et ceux
+   atteints du syndrome de Down répondaient correctement à la question
+   « Où Maxi ira-t-il chercher le chocolat ? », mais pas les enfants
+   autistes. En effet, à cette question, ils répondaient qu’il irait le
+   chercher dans le placard (endroit où il se trouve réellement) et non
+   dans le réfrigérateur. Les chercheurs en concluent que les enfants
+   autistes ont des lacunes au niveau de la théorie de l’esprit^[46].
+
+   Le débat reste ouvert quant aux interprétations de ce protocole
+   d'expérimentation, mais il est moins critiqué que les suivants (test
+   consistant à feindre d'appeler en portant à son oreille une banane,
+   test des Smarties, test du « caillou éponge »…) dont l'aspect de
+   « piège » tendu par l'expérimentateur a été lourdement critiqué (ou du
+   moins l'interférence créée par le rôle de l'expérimentateur). Ainsi,
+   selon G. Bonitatibus, les jeunes enfants seraient incapables de
+   contrôler et gérer la compréhension du paradigme de la communication
+   référentielle car trop occupés à deviner l'intention de l'interlocuteur
+   et à saisir le sens des mots eux-mêmes.
+
+   L'utilisation de cette théorie dans le cadre de l'autisme est également
+   critiquée par des autistes^[47].
+
+   D'une manière plus générale, l'intérêt de cette théorisation dans le
+   contexte de la psychopathologie est remis en question^[48].
+
+   Toutefois, certains auteurs précisent qu’il ne faut pas réduire
+   l’autisme à une lacune au niveau de la théorie de l’esprit, et que
+   celle-ci n’est pas spécifique à l’autisme^[38].
+
+Psychophysiologie
+
+   [modifier | modifier le code]
+
+   Diminution de l’activité des neurones miroirs^[49] :
+     * dans le gyrus frontal inférieur : incapacité à évaluer les
+       intentions d’autrui ;
+     * dans l’insula et le cingulaire antérieur : absence d’empathie ;
+     * dans le gyrus angulaire : troubles de la parole.
+
+Schizophrénie
+
+   [modifier | modifier le code]
+
+   Le déficit de cognition sociale est un signe clinique de la
+   schizophrénie.
+
+   Les schizophrènes ne construisent pas de savoir partagé, ne tiennent
+   pas compte de la compréhension (ou du questionnement) de l’autre. Ce
+   qui entraîne :
+     * des troubles de la communication dans la vie quotidienne
+       (Champagne, 2006) notamment les aspects pragmatiques, les
+       sous-entendus (ironie^[44], métaphore, demande indirecte). Mais le
+       sens littéral des mots est préservé ;
+     * l’isolement social (Nuechterlein, 2004) ;
+     * des déficits de la théorie de l’esprit.
+
+   Hypothèse : les symptômes et les troubles de la communication de la
+   schizophrénie seraient dus à l’incapacité à se représenter les états
+   mentaux des autres et les siens propres
+
+   Parmi les onze symptômes schneidériens (voir Kurt Schneider), plusieurs
+   découlent d’erreurs d’attribution :
+     * erreurs d’interprétation des intentions d’autrui, de ce que les
+       autres croient ou pensent : délire de référence ou de persécution ;
+     * difficulté à se représenter ses propres intentions d’agir : vol,
+       imposition et divulgation de la pensée, délires de contrôle,
+       sentiments, actes et impulsions contrôlés.
+
+   Piètre connaissance des règles de conversation :
+     * répondent mal aux demandes de l’interlocuteur (en termes de
+       quantité d’information à donner) ;
+     * ne saisissent pas ce que l’autre a besoin de comprendre ;
+     * ne respectent pas les tours de parole.
+
+   Contrairement aux autistes, les schizophrènes peuvent utiliser des mots
+   adéquats pour parler d’états mentaux, et se représenter les croyances
+   d'autrui jusqu’à un certain point^[44]. D’autre part, lors des phases
+   de délire paranoïaque, ils vivent un excès d’attribution injustifiée
+   d’états mentaux négatifs à autrui^[44]. Donc, une personne peut avoir
+   une théorie de l’esprit, mais pas nécessairement d’empathie envers les
+   autres, l’inverse n’étant pas possible. Enfin, le trouble de la théorie
+   de l’esprit est acquis, à la différence des autistes, car certaines de
+   ses bases développées lors de l’enfance demeurent^[44].
+
+Mémoire autobiographique
+
+   [modifier | modifier le code]
+
+   Pour savoir ce que l’autre pense, veut ou croit, l'individu déjà
+   expérimenté recherche d’abord dans ses propres souvenirs une situation
+   similaire dans le passé. Il estime que l'autre agit en fonction de
+   certains objectifs de la même façon que lui, car il suppose que l'autre
+   peut vivre ces mêmes actions, et éprouver ces mêmes émotions et
+   sensations.
+
+   Dans la schizophrénie :
+     * il y aurait un déficit de la mémoire autobiographique (en)
+       (Danion) ;
+     * le patient raisonne en fonction de son Moi antérieur et non de son
+       Moi actuel ;
+     * il y a trouble du raisonnement conditionnel sur le matériel social
+       ("si"… "alors"…).
+
+   Dans l'autisme, concernant la mémoire sémantique et la mémoire
+   épisodique, Marcaggi et a. (2010) rapportent que « plusieurs études ont
+   mis en évidence ce qui semble être une dissociation : des performances
+   intactes de mémoire sémantique et des performances altérées de mémoire
+   épisodique »^[50].
+
+Neurosciences sociales
+
+   [modifier | modifier le code]
+
+   La découverte de systèmes neurocognitifs spécialisés dans la
+   représentation de l’action intentionnelle et des émotions a bouleversé
+   l'approche cognitiviste.
+
+   Le mécanisme neurophysiologique principal utilisé serait un système de
+   codage partagé de l’action : les systèmes chez certains primates de
+   neurones miroirs, que la théorie de l'esprit tente d'extrapoler à
+   l'homme. Grâce à l’imagerie fonctionnelle, on a pu montrer que la
+   perception d'une action entraîne dans le cerveau une représentation
+   similaire à ce qu'elle aurait été si le sujet avait agi lui-même^[51].
+
+   Le lien entre ces deux approches se situe actuellement dans les
+   hypothèses autour de la structure de représentation motrice du langage
+   et de la pensée.
+
+   Le schéma de fonctionnement physiocognitif serait le suivant :
+     * « Lecture de l’action » motrice de l’autre : ses comportements mais
+       aussi ses réactions émotionnelles (mouvements du visage par
+       exemple) ;
+     * « Codage de l’action » (d’autrui), qui se fait en lien (ou
+       « partage ») avec les émotions et les actes issus de notre propre
+       expérience (soi). Ceci génère des « représentations partagées »
+       d’action et d’émotion entre soi et autrui : ce qu’on appelle les
+       processus de « résonance motrice » et de « résonance
+       émotionnelle ».
+
+   Cette théorie du partage des émotions motrices rejoint la théorie de
+   l’empathie de Lipps : l’accès aux états mentaux et émotionnels d’autrui
+   reposerait sur une « imitation automatique » de l’autre. De façon
+   générale, on retrouve un mécanisme similaire à différents niveaux. Le
+   mécanisme général est le suivant : la perception d’un événement ou état
+   mental active en même temps le processus de génération ou production de
+   cet état.
+
+   Cela se retrouve au niveau du langage avec la théorie motrice de la
+   perception, mais également au niveau émotionnel puisque la génération
+   d’expressions utilise les mêmes systèmes corticaux que la
+   reconnaissance perceptive des émotions chez autrui : processus de
+   « résonance émotionnelle ». Enfin, cela se retrouve au niveau des
+   idées, avec le mécanisme de « contagion des idées » constaté par
+   Sperber, qui serait à la base du développement des sociétés.
+
+   Cependant, ces mécanismes de représentation de l'action d'autrui sont
+   insuffisants pour comprendre celui-ci : si l'on peut suivre le regard
+   de l'autre et identifier ce qu'il regarde, il faut inclure la
+   représentation de la croyance afin d'identifier le sens, pour l'autre,
+   de cette action^[52]. Cette capacité est connue chez l'homme et chez
+   certains primates, tels les chimpanzés ou les grands singes. Les aires
+   cérébrales concernées sont le sillon temporal supérieur et la jonction
+   temporo-pariétale (STS-TPJ), le cortex cingulaire postérieur et
+   antérieur, le cortex orbitofrontal latéral et médial et l’amygdale.
+
+   La compréhension des croyances d'autrui implique-t-elle dans ces
+   régions une inhibition de la compréhension de soi, ou bien le cerveau
+   mène-t-il ces deux activités en parallèle ? La question n'est pas
+   tranchée.
+
+Intelligence artificielle
+
+   [modifier | modifier le code]
+
+   La théorie de l'esprit sous-entend qu'une représentation mentale est un
+   phénomène interne au système cognitif et qu'elle est spécifiée
+   préalablement à toute activité cognitive. Ainsi, la faculté de prédire
+   un comportement en fonction des connaissances nécessite des compétences
+   déductives spécifiques, et notamment celle de distinguer le vrai du
+   faux : « Max a vu que le chocolat était rangé dans le placard A » Vrai,
+   « Max n'a pas vu le déplacement du chocolat dans le placard B » Vrai,
+   donc « Max ira chercher le chocolat dans le placard A »
+   Vrai^[53]^,^[54].
+
+   En informatique, le type d'architecture correspondant à cet univers
+   structuré en représentations dont dépendrait le sens de ce qui est
+   perçu, est appelé système symbolique. Basés sur un système
+   d'inférences, les systèmes symboliques sont incapables de traiter les
+   problèmes concernant les représentations des représentations mentales,
+   sauf à employer des subterfuges^[55]. À ces modèles symboliques, on
+   oppose les systèmes connexionnistes (ou neuromimétiques) dont la règle
+   de fonctionnement repose sur le principe de Hebb^[56] établissant une
+   moyenne pondérale des forces de connexion neuronales. Le perceptron est
+   l'exemple le plus élémentaire de ce type d'architecture. Ici, il n'y a
+   aucune règle d'encodage. Pourtant, un perceptron suffit pour identifier
+   un visage comme étant féminin ou masculin ^[57]. Cette évaluation
+   probabiliste est également suffisante pour modéliser la prédiction
+   d'une action en fonction d'un certain nombre de connaissances^[58].
+
+   Une étude de l'université de Stanford montre que la théorie de l'esprit
+   semble être une capacité émergente des modèles de langage neuronaux les
+   plus gros conçus après 2022, notamment les modèles gpt3-davinci-002 et
+   gpt3-davinci-003 de OpenAI^[59].
+
+Chez les animaux
+
+   [modifier | modifier le code]
+
+   Des expériences ont mis en évidence, notamment chez les chimpanzés,
+   parmi plusieurs espèces de singe, le cheval, le perroquet gris du
+   Gabon, la capacité de prêter aux autres des états mentaux. Chez les
+   chiens, des travaux prouvent qu'il s'agit d'une prédisposition innée et
+   non apprise qui est déjà présente chez les chiots^[60]. Une étude
+   publiée en 2021 montre que les chiens se comportent différemment selon
+   que les actions d'un expérimentateur humain sont intentionnelles ou
+   non. Cela suggère que les chiens peuvent être capables d'identifier
+   l'intention-en-action de l'expérimentateur^[61].
+
+Notes et références
+
+   [modifier | modifier le code]
+    1. ↑ Ainsi, en anglais, certains auteurs préfèrent au terme theory of
+       mind (« théorie de l'esprit » en français), les termes mind reading
+       ou mentalizing (que l'on pourrait adapter en français en « lecture
+       d'états mentaux » ou « mentalisation »)^[15].
+
+    1. ↑ ^a b c et d Céline Duval, Pascale Piolino, Alexandre Bejanin et
+       Mickael Laisney, « La théorie de l’esprit : aspects conceptuels,
+       évaluation et effets de l’âge », Revue de neuropsychologie, vol. 3,
+       n^o 1,‎ 1^er avril 2011 (ISSN 2101-6739, DOI 10.1684/nrp.2011.0168,
+       lire en ligne, consulté le 1^er octobre 2018)
+    2. ↑ ^a et b Chris D. Frith et Uta Frith, « Mechanisms of social
+       cognition », Annual Review of Psychology, vol. 63,‎ 2012,
+       p. 287–313 (ISSN 1545-2085, PMID 21838544,
+       DOI 10.1146/annurev-psych-120710-100449, lire en ligne, consulté le
+       1^er octobre 2018)
+    3. ↑ Geoffrey Marcaggi, Laetitia Bon, Francis Eustache et Bérengère
+       Guillery-Girard, « La mémoire dans l'autisme : 40 ans après (voir
+       le chapitre : « Mémoire et théorie de l’esprit » », Revue de
+       neuropsychologie, vol. 2, n^o 4,‎ 2010, p. 310–319 (ISSN 2101-6739,
+       DOI 10.1684/nrp.2010.0104, lire en ligne, consulté le 3 janvier
+       2025)
+    4. ↑ Lia Rosso, « Les grands singes ont de l'esprit », Le Temps,‎ 6
+       octobre 2016 (lire en ligne, consulté le 1^er octobre 2018)
+    5. ↑ Anne-Marie Melot, Évelyne Thommen, « Les théories de l'esprit »,
+       cerveauetpsycho.fr,‎ 13 août 2014 (lire en ligne, consulté le 1^er
+       octobre 2018)
+    6. ↑ « Participate! », sur www.participate-autisme.be (consulté le
+       1^er octobre 2018)
+    7. ↑ Yves Sarfati, « Déficit en théorie de l'esprit dans la
+       schizophrénie », Enfance, vol. 52, n^o 3,‎ 1999, p. 294–303
+       (ISSN 0013-7545, DOI 10.3406/enfan.1999.3154, lire en ligne,
+       consulté le 1^er octobre 2018)
+    8. ↑ (en) « The Neural Basis of Mentalizing », Neuron, vol. 50,
+       n^o 4,‎ 18 mai 2006, p. 531–534 (ISSN 0896-6273,
+       DOI 10.1016/j.neuron.2006.05.001, lire en ligne, consulté le 2
+       octobre 2018)
+    9. ↑ ^a b c et d (en) « Theory of Mind », sur www.iep.utm.edu
+       (consulté le 1^er octobre 2018)
+   10. ↑ (en) David Premack et Guy Woodruff, « Does the chimpanzee have a
+       theory of mind? », Behavioral and Brain Sciences, vol. 1, n^o 4,‎
+       décembre 1978, p. 515–526 (ISSN 1469-1825 et 0140-525X,
+       DOI 10.1017/S0140525X00076512, lire en ligne, consulté le 2 octobre
+       2018)
+   11. ↑ Fritz Heider et Marianne Simmel, « An Experimental Study of
+       Apparent Behavior », The American Journal of Psychology, vol. 57,
+       n^o 2,‎ 1944, p. 243–259 (DOI 10.2307/1416950, lire en ligne,
+       consulté le 2 octobre 2018)
+   12. ↑ Daniel C. Dennett, « Beliefs about beliefs [P&W, SR&B] »,
+       Behavioral and Brain Sciences, vol. 1, n^o 04,‎ décembre 1978,
+       p. 568 (ISSN 0140-525X et 1469-1825, DOI 10.1017/s0140525x00076664,
+       lire en ligne, consulté le 2 octobre 2018)
+   13. ↑ ^a et b (en) Wimmer H & Perner J, « Beliefs about beliefs:
+       Representing and constraining function of wrong beliefs in young
+       children's understanding of deception » Cognition 1983;13:103-128.
+   14. ↑ (en) Helen Gallagher et Chris Frith, « Functional imaging of
+       ‘theory of mind’ », Trends in Cognitive Sciences, vol. 7, n^o 2,‎
+       1^er février 2003, p. 77–83 (ISSN 1364-6613,
+       DOI 10.1016/S1364-6613(02)00025-6, lire en ligne, consulté le 2
+       octobre 2018)
+   15. ↑ ^a et b Tania Singer et Anita Tusche, « Understanding Others »,
+       dans Neuroeconomics, Elsevier, 2014 (ISBN 9780124160088, lire en
+       ligne), p. 513–532.
+   16. ↑ J. Nadel et A.-M. Melot, « Théorie de l'esprit », In O. Houdé
+       (Ed), Vocabulaire des sciences cognitives, Paris, PUF, 2003,
+       p. 437-440.
+   17. ↑ (en) Dana Samson et Ian A. Apperly, « There is more to mind
+       reading than having theory of mind concepts: new directions in
+       theory of mind research », Infant and Child Development, vol. 19,
+       n^o 5,‎ 2010, n/a–n/a (ISSN 1522-7227 et 1522-7219,
+       DOI 10.1002/icd.678, lire en ligne, consulté le 1^er octobre 2018).
+   18. ↑ Robert Gordon, « Folk Psychology as Simulation », Mind &
+       Language, vol. 1, n^o 2,‎ juin 1986, p. 158–171 (ISSN 0268-1064 et
+       1468-0017, DOI 10.1111/j.1468-0017.1986.tb00324.x, lire en ligne,
+       consulté le 2 octobre 2018)
+   19. ↑ ^a et b H. Gweon et R. Saxe, « Developmental Cognitive
+       Neuroscience of Theory of Mind », dans Neural Circuit Development
+       and Function in the Brain, Elsevier, 2013 (ISBN 9780123972675,
+       DOI 10.1016/b978-0-12-397267-5.00057-1, lire en ligne), p. 367–377
+   20. ↑ Paul Bloom et Tim P German, « Two reasons to abandon the false
+       belief task as a test of theory of mind », Cognition, vol. 77,
+       n^o 1,‎ octobre 2000, B25–B31 (ISSN 0010-0277,
+       DOI 10.1016/s0010-0277(00)00096-2, lire en ligne, consulté le 5
+       octobre 2018)
+   21. ↑ Kristine H. Onishi, Renée Baillargeon, "Do 15-Month-Old Infants
+       Understand False Beliefs?", Science, 8 avril 2005, Vol. 308, Issue
+       5719, p. 255-258. DOI: 10.1126/science.1107621 ; pour une
+       vulgarisation en français de l'étude, voir Jean-François Dortier,
+       "Quand l'enfant acquiert « la théorie de l'esprit »", Sciences
+       humaines, 01/10/2005
+   22. ↑ V. Southgate, A. Senju, G. Csibra, "Action anticipation through
+       attribution of false belief by 2-year-olds". Psychol. Sci. 18,
+       587–592 (2007). doi:10.1111/j.1467-9280.2007.01944.x PMID 17614866
+   23. ↑ W. A. Clements, J. Perner, "Implicit understanding of belief".
+       Cogn. Dev. 9, 377–395 (1994). doi:10.1016/0885-2014(94)90012-4
+   24. ↑ (en) Uta Frith et Christopher D. Frith, « Development and
+       neurophysiology of mentalizing », Philosophical Transactions of the
+       Royal Society B: Biological Sciences, vol. 358, n^o 1431,‎ 29 mars
+       2003, p. 459–473 (ISSN 0962-8436 et 1471-2970, PMID 12689373,
+       PMCID PMC1693139, DOI 10.1098/rstb.2002.1218, lire en ligne,
+       consulté le 11 octobre 2018)
+   25. ↑ Zufferey et Moeschler 2012, p. 162.
+   26. ↑ (en) Candida C. Peterson et Michael Siegal, « Insights into
+       Theory of Mind from Deafness and Autism. », Mind and Language,‎
+       2000, p. 123-145
+   27. ↑ (en) Jill G. de Villiers et Jennie E. Pyers, « Complements to
+       cognition: a longitudinal study of the relationship between complex
+       syntax and false-belief-understanding », Cognitive Development,‎
+       2002, p. 1037-1060
+   28. ↑ (en) David R. Olson, « On the origins of beliefs and other
+       intentional states in children », dans Janet W. Ashington, David R.
+       Olson et Paul L. Harris, Developing Theories of the Mind, New York,
+       Cambridge University Press, 1988, p. 414-426
+   29. ↑ Ian A. Apperly, Dana Samson, Naomi Carroll et Shazia Hussain,
+       « Intact first- and second-order false belief reasoning in a
+       patient with severely impaired grammar », Social Neuroscience,
+       vol. 1,‎ 1^er septembre 2006, p. 334–348 (ISSN 1747-0919,
+       PMID 18633798, DOI 10.1080/17470910601038693, lire en ligne,
+       consulté le 20 juillet 2016)
+   30. ↑ (en) Rosemary Varley et Michael Siegal, « Evidence for cognition
+       without grammar from causal reasoning and "theory of mind" in an
+       agrammatic aphasic patient », Current Biology,‎ 2000, p. 723-726
+   31. ↑ ^a et b Poirier 1998, p. 116
+   32. ↑ ^a et b (en) Dare A. Baldwin, « Infants' contribution to the
+       achievement of joint reference », Child Development,‎ 1991,
+       p. 874-890
+   33. ↑ (en) Dare A. Baldwin, « Infants' ability to consult the speaker
+       for clues to word reference », Journal of Child Language,‎ 1993,
+       p. 395-418
+   34. ↑ (en) Paul Bloom, How children learn the meanings of words,
+       Cambridge, Massachusetts, MIT Press, 2002, 300 p.
+       (ISBN 978-0-262-52329-5, lire en ligne)
+   35. ↑ ^a b c d et e Zufferey et Moeschler 2012, p. 160.
+   36. ↑ (en) Anne Bezuidenhout et Mary Sue Sroda, « Children’s use of
+       contextual cues to resolve referential ambiguity: An application of
+       Relevance Theory », Pragmatics & Cognition,‎ 1998, p. 265-299
+   37. ↑ ^a et b Sandrine Zufferey et Jacques Moeschler, Initiation à
+       l'étude du sens : sémantique et pragmatique, Auxerre, Éditions
+       sciences humaines, 2012, 253 p. (ISBN 978-2-36106-032-9), p. 158
+   38. ↑ ^a et b Evelyne Thommen, « L'enfant et les phénomènes mentaux:
+       les théories de l'esprit. », Langage et pratiques,‎ 2007, p. 9-19
+       (lire en ligne)
+   39. ↑ (en) J. Uekermann J et I. Daum, « Social cognition in alcoholism:
+       a link to prefrontal cortex dysfunction? », Addiction, vol. 103,
+       n^o 5,‎ mai 2008, p. 726–35 (PMID 18412750,
+       DOI 10.1111/j.1360-0443.2008.02157.x)
+   40. ↑ (en) Lucia Morellini, Martino Ceroni, Stefania Rossi et Giorgia
+       Zerboni, « Social Cognition in Adult ADHD: A Systematic Review »,
+       Frontiers in Psychology, vol. 13,‎ 11 juillet 2022 (ISSN 1664-1078,
+       DOI 10.3389/fpsyg.2022.940445, lire en ligne, consulté le 25 mai
+       2024)
+   41. ↑ (en) James C. Harris, Developmental Neuropsychiatry : Assessment,
+       Diagnosis, and Treatment of Developmental Disorders, Oxford
+       University Press, 1998, 624 p. (ISBN 978-0-19-513111-6, lire en
+       ligne), p. 184
+   42. ↑ American Psychiatric Association, DSM-5 - Manuel diagnostique et
+       statistique des troubles mentaux, Elsevier Masson, 16 juin 2015,
+       1176 p. (ISBN 978-2-294-74338-2, lire en ligne)
+   43. ↑ Miguel Maneira, « Les tests d'évaluation de la théorie de
+       l'esprit de second ordre | autismes et potentiels », 20 juin 2014
+       (consulté le 20 juillet 2016)
+   44. ↑ ^a b c d et e (en) Sandrine Zufferey, Lexical Pragmatics and
+       Theory of Mind : the acquisition of connectives,
+       Amsterdam/Philadelphia, John Benjamins Publishing Company, 15
+       septembre 2010, 192 p. (ISBN 978-90-272-8757-1,
+       DOI 10.1075/pbns.201, lire en ligne)
+   45. ↑ Nathalie Poirier, « La théorie de l’esprit de l’enfant autiste »,
+       Santé mentale au Québec, vol. 23,‎ 1^er janvier 1998
+       (ISSN 0383-6320 et 1708-3923, DOI 10.7202/032440ar, lire en ligne,
+       consulté le 20 juillet 2016).
+   46. ↑ (en) Simon Baron-Cohen, Alan M. Leslie et Uta Frith, « Does the
+       autistic child have a « theory of mind » ? », Cognition,‎ 1985,
+       p. 37-46 (lire en ligne)
+   47. ↑ Autism Aspergers Myths - The Theory of Mind sur le site d’Eric
+       Chen, diagnostiqué « Asperger ».
+   48. ↑ l'intérêt de Intérêts de la notion de « théorie de l'esprit »
+       pour la psychopathologie Nicolas Georgieff référence et court
+       résumé en ligne
+   49. ↑ Pour la science, janvier 2007
+   50. ↑ Geoffrey Marcaggi, Laetitia Bon, Francis Eustache et Bérengère
+       Guillery-Girard, « La mémoire dans l'autisme : 40 ans après »,
+       Revue de neuropsychologie, vol. 2, n^o 4,‎ 2010, p. 310–319
+       (ISSN 2101-6739, DOI 10.1684/nrp.2010.0104, lire en ligne, consulté
+       le 3 janvier 2025)
+   51. ↑ Utiliser sa propre perspective pour comprendre les actions et
+       émotions d’autrui de Comprendre les actions, émotions et états
+       mentaux d’autrui : psychologie et neurosciences, une conférence au
+       Collège de France de Coralie Chevallier, Nicolas Baumard, Julie
+       Grèzes et Lydia Pouga.
+   52. ↑ Changer de perspective pour comprendre les intentions et
+       croyances d’autrui de Comprendre les actions, émotions et états
+       mentaux d’autrui : psychologie et neurosciences, une conférence au
+       Collège de France de Coralie Chevallier, Nicolas Baumard, Julie
+       Grèzes et Lydia Pouga.
+   53. ↑ Fodor, J. (1995). A theory of the child's theory of mind. Folk
+       Psychology. Readings in mind and language, Davies, Stone, T.
+       Cambridge : Blackwell publischers LTD
+   54. ↑ Leslie, A.M. (1994). Pretending and believing : issues of theory
+       of ToMM. Cognition, 50, 211-238.
+   55. ↑ Laurière J.L. (1988). Intelligence artificielle. Représentations
+       des connaissances. Tome 2. Paris : Eyrolles.
+   56. ↑ Hebb D.O. (1949). The organization of behavior. New-York : Wiley.
+   57. ↑ Abdi H. (1988). Generalised approaches for connectionnist
+       auto-associative memories. Interpretation, implication and
+       illustration for face processing. In J. Demongeot (Ed.). Arficial
+       intelligence and cognitive sciences. Manchester : Manchester
+       University Press.
+   58. ↑ Della Santa S. (2003). La sémantique de l'objet : l'avantage du
+       traitement probabiliste. Bulag, Modélisation, systèmique,
+       traductibilité, n^o 28. Centre Lucien Tesnière.
+   59. ↑ Michal Kosinski, « Theory of Mind May Have Spontaneously Emerged
+       in Large Language Models », arXiv:2302.02083 [cs],‎ 3 février 2023
+       (lire en ligne, consulté le 11 février 2023)
+   60. ↑ (en) Emily E. Bray et al., Early-emerging and highly heritable
+       sensitivity to human communication in dogs, Current Biology, Volume
+       31, Numéro 14, 26 juillet 2021, pages 3132-3136.e5
+   61. ↑ (en) Britta Schünemann, Judith Keller, Hannes Rakoczy et al, Dogs
+       distinguish human intentional and unintentional action, Scientific
+       Reports, volume 11, 14967 2021. doi.org/10.1038/s41598-021-94374-3
+
+Bibliographie
+
+   [modifier | modifier le code]
+     * Hauser, M. (2002), À quoi pensent les animaux ?, Odile Jacob.
+     * Engel, P. (1996), Philosophie et psychologie, Gallimard.
+
+Voir aussi
+
+   [modifier | modifier le code]
+
+Articles connexes
+
+   [modifier | modifier le code]
+     * Attitude propositionnelle
+     * Autisme
+     * Cognition sociale
+     * Concept de soi
+     * Daniel Dennett
+     * Exactitude interpersonnelle
+     * Intentionnalité
+     * Philosophie de l'esprit
+     * Psychologie du développement
+     * Psychologie naïve
+     * Soi (psychologie)
+     * Test de Sally et Anne
+
+Liens externes
+
+   [modifier | modifier le code]
+     * Jean Daunizeau « D’où vient l’intelligence sociale humaine ? » sur
+       INSERM, le 22 décembre 2017.
+     * Anne-Marie Melot et Évelyne Thommen « Les théories de l'esprit »
+       sur Cerveau&Psycho, octobre 2014.
+     * Jean-François Dortier « Quand l'enfant acquiert « la théorie de
+       l'esprit » » sur Sciences humaines, octobre 2005.
+     * (en) The Computational Theory of Mind
+     * (en) The Identity Theory of Mind
+
+   v · m
+   Psychologie de l'enfant et de l'adolescent
+     * Psychologie de l'enfant
+     * Psychologie de l'adolescent
+     * Psychologie du développement
+     * Psychologie interculturelle du développement
+     * Psychologie de l'éducation
+     * Sciences de l'éducation
+     * Psychologie scolaire
+
+   Étapes
+     * Embryon
+     * Fœtus
+     * Naissance
+     * Périnatalité
+     * Nourrisson
+     * Petite enfance
+     * Enfant
+     * Adolescence
+     * Fin de vie
+
+   Lettre psy stylisée
+   Psycho-motricité
+     * Embryogenèse
+     * Développement psychomoteur
+     * Neurodéveloppement
+     * Réflexes archaïques
+
+   Cognition et apprentissages
+     * Acquisition du langage
+     * Apprentissage de la lecture
+     * Conduites alimentaires chez l'enfant et l'adolescent
+     * Construction du nombre chez l'enfant
+     * Décrochage scolaire
+     * Échec scolaire
+     * Intelligence humaine
+     * Langage enfantin
+
+   Émotions et relations sociales
+     * Attention conjointe
+     * Ami imaginaire
+     * Deuil chez l'enfant et l'adolescent
+     * Développement psychosexuel
+     * Intelligence émotionnelle
+     * Intelligence sociale
+     * Jeu
+     * Jeu enfantin
+     * Sexualité infantile (psychanalyse)
+     * Style parental
+
+   Identité, conscience et représentation de soi
+     * Enfant transgenre
+     * Dysphorie de genre chez les enfants
+     * Théorie de l'esprit
+
+   Psychopathologie, conduites à risque et événements de vie
+     * Abus sexuel sur mineur
+     * Délinquance juvénile
+     * Dépression chez l'enfant et l'adolescent
+     * Dys- (pathologie)
+     * Handicap mental
+     * Hospitalisme
+     * Maltraitance sur mineur
+     * Développement psychomoteur
+     * Trouble d'apprentissage
+     * Trouble de la communication
+     * Trouble de la parole
+     * Trouble des conduites
+     * Trouble du déficit de l'attention avec ou sans hyperactivité
+     * Trouble du développement
+     * Trouble du développement de la personnalité
+     * Trouble du langage
+     * Trouble envahissant du développement
+     * Trouble oppositionnel avec provocation
+     * Trouble réactionnel de l'attachement de l'enfance
+     * Trouble du spectre de l'autisme
+     * Violences éducatives ordinaires
+     * Violence familiale
+
+   Psychothérapie, applications et prévention
+     * Psycho-oncologie pédiatrique
+     * Psychanalyse de l'enfance
+     * Prévention du suicide
+     * Thérapie cognitivo-comportementale
+     * Thérapie familiale
+
+   Pionniers
+     * Albert Bandura
+     * James M. Baldwin
+     * Alfred Binet
+     * Eleanor Gibson
+     * Alan S. Kaufman
+     * Melanie Klein
+     * Jean Piaget
+     * Burrhus Frederic Skinner
+     * David Wechsler
+     * Robert Woodworth
+     * Lev Vygotski
+
+   Méthodes de recherche
+     * Habituation
+     * Étude longitudinale
+
+   Tests
+     * Test psychologique pour enfant
+     * Échelles métriques de l'intelligence : Binet-Simon, NEMI-I et
+       NEMI-II
+     * Échelle d'intelligence Stanford-Binet
+     * Test des cubes de Kohs
+     * Échelles de Wechsler WPPSI, WISC et WAIS
+     * Matrices Progressive (MP) de Raven
+     * K-ABC et KABC-II
+
+   Théories
+     * Complexe d'Œdipe
+     * Paliers d'acquisition (Piaget)
+     * Paracosme
+     * Période critique
+     * Stade du miroir
+     * Stade sensori-moteur
+     * Théorie de l'attachement
+     * Théorie de l'apprentissage social
+     * Théorie du développement moral de Kohlberg
+     * Zone proximale de développement
+
+   Liste des sociétés et revues spécialisées
+     * Clinical Practice in Pediatric Psychology
+     * Journal of Pediatric Psychology
+     * Society for Research in Child Development
+
+     * Psychologue scolaire
+     * Conseiller en orientation
+     * Code de déontologie des psychologues
+
+     * icône décorative Portail de la psychologie
+     * icône décorative Portail des neurosciences
+
+   Ce document provient de
+   « https://fr.wikipedia.org/w/index.php?title=Théorie_de_l%27esprit&oldi
+   d=231933687 ».
+   Catégories :
+     * Théorie psychologique
+     * Éthologie
+     * Psychologie cognitive
+
+   Catégories cachées :
+     * Article contenant un appel à traduction en anglais
+     * Portail:Psychologie/Articles liés
+     * Portail:Sciences humaines et sociales/Articles liés
+     * Portail:Sciences/Articles liés
+     * Portail:Neurosciences/Articles liés
+     * Portail:Biologie/Articles liés
+     * Projet:Biologie/Pages liées
+
+     * La dernière modification de cette page a été faite le 29 décembre
+       2025 à 19:22.
+     * Droit d'auteur : les textes sont disponibles sous licence Creative
+       Commons attribution, partage dans les mêmes conditions ; d’autres
+       conditions peuvent s’appliquer. Voyez les conditions d’utilisation
+       pour plus de détails, ainsi que les crédits graphiques. En cas de
+       réutilisation des textes de cette page, voyez comment citer les
+       auteurs et mentionner la licence.
+       Wikipedia® est une marque déposée de la Wikimedia Foundation, Inc.,
+       organisation de bienfaisance régie par le paragraphe 501(c)(3) du
+       code fiscal des États-Unis.
+
+     * Politique de confidentialité
+     * À propos de Wikipédia
+     * Avertissements
+     * Contact
+     * Contacts juridiques & sécurité
+     * Code de conduite
+     * Développeurs
+     * Statistiques
+     * Déclaration sur les témoins (cookies)
+     * Version mobile
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki
+
+   (BUTTON) Rechercher
+   ____________________
+   (BUTTON) Rechercher
+
+   [ ] Basculer la table des matières
+   Théorie de l'esprit
+   (BUTTON) 33 langues Ajouter un sujet

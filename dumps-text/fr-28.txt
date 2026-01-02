@@ -1,207 +1,354 @@
-    [LOGO_Min_sengager_blanc_dd9c9544d5.svg]
-   [Logo_Ad_T_white_47b45afeb1.svg]
+   Avez-vous toujours l’esprit critique ?
+     * (BUTTON) Contenu
+     * (BUTTON) Lecteur audio
+     * (BUTTON) Menu
+     * (BUTTON) Pied de page
+
+   javascript désactivé
+
+   Votre expérience sur le site radiofrance.fr risque d’être dégradée.
+   (BUTTON)
+     * (BUTTON) Menu
+     * (BUTTON) Radios
+          +
+          +
+          +
+          +
+          +
+          +
+          +
+     * Podcasts
+     * (BUTTON) Catégories
+          + Sciences et Savoirs
+          + Société
+          + Environnement
+          + Arts et Divertissements
+          + Monde
+          + Politique
+          + Économie
+          + Cellule Investigation
+          + Vie quotidienne
+          + Bien-être
+          + Mon petit France Inter
+          + Sports
+          + Actualités musicales
+          + Musique
+          + Concerts
+          + Fictions
+          + Info
+          + Apprendre et réviser
+          + True crime
+          + Histoire
+     * Musique
+     * Enfants
+     * Radio France, aller à la page d'accueil
+     *
+     *
+     * Rechercher
+     * (BUTTON) Se connecter
+     * (BUTTON)
+
+   France Culture
+     *
+     * Grille des programmes
+     * Podcasts
+     * Fictions
+     * Documentaires
+     * Savoirs
+     * Arts et Création
+
+   La statue du philosophe Socrate en face de l'Académie d'Athènes ©Getty
+   - © Getty Images
+   La statue du philosophe Socrate en face de l'Académie d'Athènes ©Getty
+   - © Getty Images
+
+Avez-vous toujours l’esprit critique ?
+
+   Mardi 22 novembre 2022
+   (BUTTON)
+   écouter   (7 min)
+   (BUTTON)
+   (BUTTON)
+   Publicité
+   Affaire en cours
+   Provenant du podcast Affaire en cours
+   (BUTTON)
    (BUTTON)
 
-   Prise de rendez-vous
-   (BUTTON) MENU
+   Avons-nous perdu notre esprit critique ? Myriam Revault D'Allonnes,
+   philosophe, nous rappelle l'importance pour notre démocratie d'exercer
+   la critique.
+   Avec
+     * Myriam Revault d'Allonnes, philosophe.
 
-   VIVRE L'AVENTUREUNE ARMÉE DE TERRE DE COMBATESPRIT ET VALEURS DE
-   L'ARMÉE DE TERRESALAIRE, AVANTAGES ET VIE QUOTIDIENNETOUS NOS
-   RÉGIMENTSPRENDRE RENDEZ-VOUS AVEC UN CONSEILLERTROUVER UN EMPLOITOUS
-   NOS POSTESDEVENIR SOLDATL’EMPT, UNE FORMATION POUR DEVENIR
-   MILITAIREÉVOLUTION ET RECONVERSIONPRENDRE RENDEZ-VOUS AVEC UN
-   CONSEILLERDÉCOUVRIR ET SE FORMERL'ARMÉE DE TERRE POUR LES JEUNES ET LES
-   ÉTUDIANTSSERVICE NATIONALPÉRIODES MILITAIRES : STAGES ET PRÉPARATIONS
-   EN IMMERSIONCOMMENT FINANCER VOS ÉTUDES ?VOTRE ADO S'INTÉRESSE À
-   L'ARMÉE DE TERRE ? PRENDRE RENDEZ-VOUS AVEC UN CONSEILLERDEVENIR
-   RÉSERVISTEPourquoi devenir réserviste ?PAROLE DE RÉSERVISTES : RETOUR
-   D'EXPERIENCEDES QUESTIONS SUR LA RÉSERVE ?Parcours et formationsJE
-   POSTULE POUR LA RÉSERVE OPÉRATIONNELLERESSOURCESLES INFORMATIONS DE
-   L'ARMÉE DE TERREGLOSSAIREPRENDRE RENDEZ-VOUS AVEC UN CONSEILLER
-   [LOGO_Min_sengager_blanc_dd9c9544d5.svg]
-   [Logo_Ad_T_white_47b45afeb1.svg]
-   Prise de rendez-vous
-   (BUTTON) MENU
+   On doit l’émergence de la notion de critique au philosophe Emmanuel
+   Kant et plus largement aux philosophes des Lumières en France au
+   XVIIIème siècle. On peut la définir brièvement comme une mise à
+   distance des croyances préconçues pour les soumettre au crible.
+   D’ailleurs étymologiquement, critique a la même racine que crise qui
+   vient du grec « crisis » dont l’un des sens est « passer au crible ».
+   On peut donc dire que la critique désigne notre capacité de
+   discernement. Alors comment expliquer le déclin de la critique à notre
+   époque contemporaine ? Marie Sorbier est allée demander à Myriam
+   Revault d’Allonnes pourquoi nous avons perdu notre goût de la critique.
+   Publicité
 
-    1. Accueil
-    2. Editos
-    3. Esprit Et Valeurs De L Armee De Terre
+La faculté critique, une donnée collective…
 
-   Les valeurs fortes de l'armée de Terre
-   SE SENTIR SOLDAT
+   Myriam Revault D'Allonnes souhaiterait redonner vigueur à notre
+   d'esprit critique car, loin d'être un tribunal de la raison punitive,
+   il nous permet d'opérer en toute liberté nos expériences de pensées et
+   nos jugements. Toutefois, le danger serait de limiter la critique à une
+   donnée purement individuelle.
 
-ESPRIT ET VALEURS DE L’ARMÉE DE TERRE
+   "Il y a un apprentissage absolument fondamental de l'esprit critique,
+   c'est-à-dire qu'il y a une pédagogie de cet exercice de la raison."
+   Myriam Revault D'Allonnes
 
-ÊTRE SOLDAT. UN ENGAGEMENT FORT.
+   La critique n'est pas simplement une faculté individuelle, elle se
+   forge par l'intermédiaire d'un apprentissage collectif, au contact des
+   opinions et des jugements des autres. Autrui est donc indispensable.
 
-   S'engager, c'est faire le choix d’un métier utile et porteur de sens.
-   Il s'agit d'un projet professionnel ambitieux, passionnant et source de
-   fierté.
-   En rejoignant l’armée de Terre, vous intégrez une institution riche de
-   valeurs et de savoir-faire.
+   "La capacité ou la faculté critique, qui est aussi une faculté
+   collective, est absolument fondamentale à la démocratie." Myriam
+   Revault D'Allonnes
 
-NOS VALEURS
+…et éminemment politique
 
-   LE MÉRITE
+   Ainsi, la critique n'est pas simplement un exercice intellectuel mais
+   aussi un exercice politique, qui se développe à travers une certaine
+   éthique. Myriam Revault D'Allonnes substitue au terme de morale celui
+   d'éthique, car ce-dernier n'est pas de l'ordre d'une injonction.
 
-   Volonté et détermination sont vos atouts pour progresser au sein de
-   l'institution.
-   L’ÉQUITÉ
+   "Comme disaient les Grecs, c'est un ethos, une conduite, un
+   comportement, un geste, comme dirait Michel Foucault, qui englobe la
+   capacité intellectuelle et notre attitude politique par rapport au
+   monde." Myriam Revault D'Allonnes
 
-   Le droit à un traitement égal, sans distinction de sexe, de religion ou
-   d’origine.
-   LA FRATERNITÉ
+   L'ethos serait alors profondément lié à notre humanité et une condition
+   de notre vie en commun. Loin d'être réservée aux experts, la critique
+   existe dès qu'un débat est ouvert. Dans son ouvrage, Myriam Revault
+   D'Allonnes cite le célèbre débat entre Socrate et Protagoras dans le
+   "Protagoras" de Platon et Socrate, qui défend la position
+   platonicienne.
 
-   Tous ensemble. L'esprit de cohésion et la notion d’équipe soudée sont
-   votre quotidien.
-   L’ALTRUISME
+   "Protagoras estime que notre aptitude à juger et à délibérer n'est pas
+   une compétence spécialisée. Ça ne signifie pas que n'importe qui dit
+   n'importe quoi, mais ça veut dire qu'il y a une virtualité, une
+   disposition au jugement qui est commune à tous les hommes." Myriam
+   Revault D'Allonnes
 
-   Votre mission est tournée vers la défense de votre pays, la protection
-   des populations et le soutien à vos camarades.
-   LE DÉPASSEMENT
+   Cette disposition - en puissance si l'on reprend les termes kantiens -
+   doit forcément être développée par une éducation civique, sans laquelle
+   elle ne pourrait se déployer tout à fait. L'esprit critique ne peut
+   avoir cours sans exercice répété et permanent dans l'espace public, et
+   se voit donc lié à la faculté de débattre.
 
-   Dépassez vos limites pour agir en situation de crise et surpassez vous
-   tout au long de votre parcours professionnel.
-   L’EXIGENCE
+La critique laissée pour compte par notre société
 
-   Excellence, discipline et rigueur, exprimez le meilleur de vous-même à
-   chaque mission.
-   Les valeurs de l'armée de Terre et le code d'honneur du soldat
+   Cependant, cette faculté s’est réduite. En cause, une combinaison de
+   facteurs. D'une part, l'affaissement du débat démocratique est bien
+   réel. Et d'autre part, il y aurait, selon Myriam Revault D'Allonnes un
+   affaissement de la capacité à juger de manière globale.
 
-LE CODE D’HONNEUR DU SOLDAT
+   "Avec les réseaux sociaux, il y a une sorte de confusion généralisée
+   entre le fait de pouvoir émettre des opinions et le fait d'en émettre
+   fondées sur des jugements." Myriam Revault D'Allonnes
 
-   Prendre rendez vous
-   1. Soldat français, je m’engage à servir mon pays.
-   2. En toutes circonstances, je me conduis avec honneur, courage et
-   dignité.
-   3. Toujours disponible et discipliné, je suis exemplaire dans mon
-   comportement comme dans ma tenue.
-   4. Respectueux des lois et des règlements, je m’exprime avec la réserve
-   qu’exige mon état militaire.
-   5. Loyal à mes chefs et dévoué à mes subordonnés, j’obéis avec
-   confiance et je commande avec exigence et bienveillance.
-   6. Membre d’une communauté soudée par l’esprit de corps, je respecte
-   tous mes frères d’armes.
-   7. Prêt à l’engagement, je m’entraîne sans relâche et recherche
-   l’excellence.
-   8. Au combat, je n’abandonne ni mon arme, ni mes camarades morts ou
-   blessés. Maître de ma force, j’agis avec humanité et respecte mon
-   ennemi.
-   9. La mission est sacrée, je l’accomplis jusqu’au bout avec
-   déterminationet esprit d’initiative.
-   10. Le succès des armes de la France guide mon action.
-   Prendre rendez vous
-   Cultiver l'esprit guerrier du soldat
-   UN ÉTAT D'ESPRIT
+   La tendance du moment serait de prononcer ses propres "vérités", sans
+   soumettre d'opinions qui agrémenteraient le débat. Dans cet étalage de
+   "vérités de fait", la vérité elle-même en ressort perdante, et non pas
+   triomphante. Avec cet affaissement de la critique, c'est enfin notre
+   capacité à vivre ensemble qui est ébranlée.
 
-Cultiver l’esprit guerrier…
+   "Cette atteinte à la capacité critique n'est pas dissociable d'une
+   crise très profonde que nous vivons aujourd'hui et qui touche beaucoup
+   de domaines." Myriam Revault D'Allonnes
+     * À lire : "Le Crépuscule de la critique", de Myriam Revault
+       D'Allonnes, est disponible aux éditions du Seuil.
 
-   Le soldat français, successeur d'une lignée de combattants, progresse
-   avec force et détermination dans un environnement incertain. L'esprit
-   guerrier se compose de l'aguerrissement, de la maîtrise des nouvelles
-   technologies et des traditions militaires. Les qualités fondamentales
-   de cet esprit sont la combativité, la résistance et la rusticité.
-   Les activités sportives et aptitudes physiques
-   ÊTRE PRÊT À L'ACTION
+     * Sciences et Savoirs
+     * Philosophie
+     * Philosophie antique
+     * Philosophie contemporaine
+     * Le Fil Culture
+     * Les Éditions du Seuil
 
-... et ses aptitudes physiques.
+   Publicité
+   Publicité
 
-   Être en bonne forme physique est indispensable pour le soldat. Les
-   activités sportives occuperont une grande place dans votre quotidien.
-   L’entraînement vous permettra de progresser et de prendre goût au
-   dépassement de soi. Les quatre principaux sports pratiqués en régiment
-   sont la course, la musculation, la natation et le TIOR ( technique
-   d’intervention opérationnelle rapprochée). Vous pourrez également
-   pratiquer divers autres sports selon votre régiment.
-   Les traditions militaires
+   L'équipe
+     * Marie Sorbier
+       Marie Sorbier
+       Productrice du "Point Culture" sur France Culture, et rédactrice en
+       chef de I/O
+     * Alexandre Fougeron
+       Réalisation
+     * Apolline Limosino
+       Stagiaire
 
-NOS TRADITIONS, JALONS DE NOTRE HISTOIRE
+   Épisodes précédents (BUTTON) Passer cette liste
+   (BUTTON)
+     * Chapan de style « Daukhor » 1895-1898 Boukhara. Velours bakhmal et
+       broderies d’or et d’argent, soie et tissu shoi, Tachkent, State
+       museum of arts of Uzbekistan
+       Découvrir la richesse de l’art ouzbek
+       (BUTTON) Indisponible
+       21 nov. 2022
+        •
+       7 min
+     * Marcel Proust
+       Lire à voix haute le "Le Temps retrouvé", un hommage au verbe
+       proustien
+       (BUTTON) Indisponible
+       18 nov. 2022
+        •
+       7 min
+     * Les Feux de l'Amour
+       L'univers impitoyable des "Soap Opera"
+       (BUTTON) Indisponible
+       17 nov. 2022
+        •
+       7 min
+     * Descendre ou monter ?
+       Une nouvelle édition pour le roman culte de Danielewski "La Maison
+       des feuilles"
+       (BUTTON) Indisponible
+       16 nov. 2022
+        •
+       7 min
+     * Nicolas Sarkozy rentrant au Palais de l'Elysée après un footing
+       avec François Fillon le 17/05/2007
+       Comment les photographes modèlent l'image des présidents
+       (BUTTON) Indisponible
+       15 nov. 2022
+        •
+       6 min
 
-   Les traditions militaires enrichissent l'esprit de corps et la
-   fraternité d'armes. Elles forgent une identité et renforcent les liens
-   avec les autres régiments et armées.Votre régiment est lui aussi riche
-   de ses propres traditions. Il incarne l’armée de Terre, symbolisé par
-   son drapeau, sa devise et ses attributs vestimentaires. Le chant, outil
-   de mémoire, renforce l'identité des unités et facilite l’appropriation
-   de l'esprit de corps par les nouveaux arrivants.
-   Les cérémonies militaires
+   (BUTTON)
+   Sur le même thème (BUTTON) Passer cette liste
+   (BUTTON)
+     * Pierre Judet de la Combe
+       Pierre Judet de La Combe : "Le mythe, ce n'est pas prétentieux, pas
+       dogmatique"
+       (BUTTON) Indisponible
+       L'invité de 8h20
+       21 déc. 2025
+        •
+       24 min
+     * "On ne se baigne jamais deux fois dans le même fleuve"
+       "On ne se baigne jamais deux fois dans le même fleuve" d'Héraclite
+       (BUTTON) Indisponible
+       Les punchlines de la philo
+       5 déc. 2025
+        •
+       4 min
+     * Le dilemme intérieur : faire le bien ou le mal. La morale comme
+       expérience intime de liberté.
+       Comment être quelqu’un de bien – ou pas, avec Emmanuel Kant
+       (BUTTON) Indisponible
+       Le Fil philo
+       20 nov. 2025
+        •
+       3 min
+     * Critias, homme politique et philosophe présocratique
+       Que faut-il savoir pour gouverner ?
+       (BUTTON) Indisponible
+       Avec philosophie
+       19 nov. 2025
+        •
+       58 min
+     * Arnaques et coeurs brisés
+       Débusquer les arnaques à la romance avec Platon
+       (BUTTON) Indisponible
+       Le Fil philo
+       30 oct. 2025
+        •
+       3 min
+     * Un jeune chevalier affronte son dragon : métaphore de la colère que
+       l’on apprend à maîtriser et à orienter vers la justice et le
+       courage
+       Comment agir sur sa colère ?
+       (BUTTON) Indisponible
+       Le Pourquoi du comment : philo
+       30 sept. 2025
+        •
+       3 min
 
-LES CÉRÉMONIES, MOMENTS DE PARTAGE
+   (BUTTON)
+     * Accueil
+     * France Culture
+     * Podcasts
+     * Le Point culture
+     * Avez-vous toujours l’esprit critique ?
 
-   Les cérémonies militaires sont codifiées et ritualisées, chaque aspect
-   étant chargé de sens profond. Elles valorisent le mérite et
-   l'engagement, partageant les valeurs militaires avec le collectif.Elles
-   maintiennent également le lien entre l'armée de Terre et les français,
-   vecteurs de cohésion et symbole d’union avec la Nation.
+   La radio
+     * Contacter France Culture
+     * Newsletters
+     * Podcasts A-Z
+     * Espace presse
+     * Événements
 
-Les Décorations
+   Catégories
+     * Histoire
+     * Géopolitique
+     * Fictions littéraires
+     * Sciences
+     * Politique
+     * Philosophie
 
-   Être soldat, c’est embrasser la vie de la patrie avec cohésion,
-   détermination, et courage.
-   En fonction de votre grade et de votre implication, vous pouvez
-   recevoir des décorations et récompenses en reconnaissance de vos
-   actions et de votre dévouement.
-   Les traditions et décorations militaires
+   Personnes
+     * Simone Veil
+     * Edith Piaf
+     * Victor Hugo
+     * Martin Luther King
+     * Robert Badinter
+     * Albert Camus
 
-LE MÉRITE, LE COURAGE ET LE DÉVOUEMENT
+   Suivre France Culture
+     *
+     *
+     *
+     *
+     *
+     *
+     *
 
-   Symbole de reconnaissance et de fierté, les médailles font partie des
-   récompenses des militaires pour leur courage et leur dévouement. Ces
-   distinctions font partie entière des particularités de votre carrière
-   et de votre fierté de militaire.
+     * Radio France, aller à la page d'accueil
 
-LA CELLULE D’AIDE AUX BLESSÉS DE L’ARMÉE DE TERRE
+   Toutes les radios
+     * France Inter
+     * franceinfo
+     * ICI
+     * France Culture
+     * Mon petit France Inter
+     * France Musique
+     * Fip
+     * Mouv'
 
-   LA CABAT
-   Créée le 1er septembre 1993, la CABAT soutient les blessés et les
-   familles endeuillées. Elle assure une coordination et un conseil
-   continu, sous l’autorité du gouverneur militaire de Paris. Son crédo,
-   ne jamais laisser personne au bord de la route.
-   L'ACCOMPAGNEMENT DES BLESSÉS
-   La CABAT veille à ce que les blessés soient suivis jusqu’à leur
-   réinsertion dans l’institution militaire ou leur reconversion civile.
-   Son parcours de soutien est reconnu et place le soldat et sa famille au
-   centre des actions menées.
-   L'ACCOMPAGNEMENT DES FAMILLES ENDEUILLÉES
-   En appui des régiments, la CABAT accompagne les familles de camarades
-   disparus, coordonnant les actions nécessaires avec les acteurs
-   ministériels et l’Office national des combattants et des victimes de
-   guerre pour garantir le droit à réparation.
+   Radio France
+     * La Maison de la Radio et de la Musique
+     * L'entreprise Radio France
+     * Les Editions Radio France
+     * Personnalités
+     * Sujets
+     * Archives
+     * Fréquences
+     * Index
+     * Flux RSS
 
-   IFRAME: https://www.youtube.com/embed/xdAPXiaL_FA?si=I7srPvdAlFMi_ClA
+   Aide et contacts
+     * Nous contacter
+     * Comment écouter Radio France
+     * Questions fréquentes (FAQ)
+     * La Médiatrice
+     * Votre avis sur le site
 
-   Découvrez comment la cellule d'aide aux blessés de l'armée de Terre
-   agit concrètement, du théâtre d'opération jusqu'à sa réinsertion.
+   Informations légales
+     * Accessibilité : partiellement conforme
+     * Gestion des cookies
+     * Mentions légales
 
-   Abonnez-vous à notre lettre d’information
-   Toutes les semaines, apprenez-en un peu plus sur la vie de soldat et
-   découvrez les métiers de l’armée de Terre.
-   Entrez votre adresse de courriel
-   ____________________
-   (BUTTON) S'abonner
-   En renseignant votre adresse électronique, vous acceptez de recevoir
-   nos actualités par courriel. Vous pouvez vous désinscrire à tout moment
-   à l’aide des liens de désinscription ou en nous contactant.
-   Illustration de la campagne “Peux-tu le faire ?” – Rejoignez l’armée de
-   Terre
-
-   Suivez l'Armée de Terre
-   Facebook Twitter TikTok Instagram Youtube Welcome to the Jungle
-   Linkedin
-
-   ÉCHANGEZ AVEC NOS SOLDATS
-   PRENDRE CONTACT
-
-   INTÉGRER LA RÉSERVE OPÉRATIONNELLE
-   Devenir réserviste
-
-   NOS CENTRES DE RECRUTEMENT
-   Voir nos CIRFA
-
-   Mentions légalesConditions générales d'utilisation (CGU)Politique de
-   confidentialitéPolitique de cookiesAccéder à mes donnéesPlan du
-   siteAccessibilité : partiellement conformeParamétrer mes cookies
-
-   Logo officiel de l’armée de Terre Logo du ministère des armées
-
-   © Armée de terre 2024-2028
+   Télécharger l'application mobile
+     * L'application Radio France est disponible sur Google Play
+     * Télécharger l'application Radio France dans l'App Store

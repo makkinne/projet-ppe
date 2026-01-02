@@ -1,2245 +1,417 @@
-Fabula, la recherche en literature
-
-   (BUTTON)
-
-Navigation
-
-   (BUTTON)
-     * les actualités
-          + Web littéraire
-          + Parutions
-          + Questions de société
-          + Appels & Postes
-          + Agenda
-     * nos revues
-          + Acta fabula
-            Revue des parutions
-          + Fabula-LhT
-            Littérature, Histoire, Théorie
-          + Index des revues
-     * nos ressources
-          + Atelier de théorie littéraire
-          + Colloques en ligne
-          + ____________________ (BUTTON)
-     *
-          + Annuaire Fabula
-          + Tendances
-          + Projet
-          + Équipe & Partenaires
-          + Contacts
-          + Connexion
-          + Suggérer une annonce
-
-Fabula-LhT
-
-   ISSN 2100-0689
-    1. Accueil
-    2. Fabula-LhT
-    3. Le Partage des disciplines
-    4. Ce que les sciences humaines font aux études littéraires (et ce que
-       la littérature fait aux sciences humaines)
-
-   (BUTTON) Ouvrir la navigation de Fabula-LhT
-   Dossier
-   May 2011
-   Fabula-LhT n° 8
-   Le Partage des disciplines
-   Le Partage des disciplines
-   Guillaume Bridet
-
-Ce que les sciences humaines font aux études littéraires (et ce que la
-littérature fait aux sciences humaines)
-
-   DOI : https://doi.org/10.58282/lht.228
-
-   « N’oubliez pas que vous êtes un amalgame nocturne de cavernes, de
-   forêts, de marécages, de fleuves rouges, amalgame peuplé par des bêtes
-   gigantesques et fabuleuses qui s’entre-dévorent. »
-   Jean Cocteau
-
-   1Les différentes pratiques intellectuelles ont une histoire à la fois
-   distincte et commune : elles sont en rivalité les unes avec les autres
-   et ces rivalités entraînent redécoupages locaux, réorganisations plus
-   globales, naissances, relégations ou même disparitions. La religion, la
-   philosophie, la littérature, la science, le droit, le journalisme ne
-   cessent de se frotter les uns aux autres ; et chacune de ces pratiques
-   est elle-même divisée en institutions (écoles, groupes, revues, etc.)
-   qui entrent en concurrence pour tenter de s’imposer au sommet de la
-   légitimité intellectuelle. Paul Bénichou a ainsi décrit dans une suite
-   de trois ouvrages l’évolution qui, de 1750 à la seconde moitié du xix^e
-   siècle, enregistre « la promotion de la littérature au rang de pouvoir
-   spirituel des temps modernes » et l’« autoconsécration » de « la
-   corporation spirituelle »1 des écrivains en lieu et place d’une Église
-   catholique de plus en plus affaiblie et dont la sphère d’influence
-   propre tend à se réduire. On pourrait montrer de la même manière que
-   les décennies 1960 et 1970 constituent un âge d’or des sciences
-   humaines en France. Dans la foulée de la linguistique structurale,
-   anthropologues, psychanalystes, sociologues ou historiens entendent
-   alors prendre le pas sur la philosophie mais aussi se substituer à la
-   littérature et s’imposer comme le discours dominant : le plus apte à
-   dire le monde, le plus apte aussi à définir la place (nécessairement
-   secondaire) qu’il convient d’accorder aux autres discours. La
-   légitimation de cette ambition hégémonique est préparée par toute une
-   série d’évolutions d’ordres divers : la formation et l’autonomisation
-   croissante des sciences humaines à partir de la seconde moitié du xix^e
-   siècle ; le renforcement des sciences de la nature dans l’enseignement
-   puis l’institutionnalisation progressive de leur supériorité sur les
-   études littéraires tout au long du xx^e siècle ; l’usage de la science
-   par les romanciers naturalistes dans la seconde moitié du xix^e siècle
-   puis au sein du groupe surréaliste pendant l’Entre-deux-guerres ; à
-   partir des années 1960, l’expansion de l’Université et du cnrs et le
-   passage de l’autorité intellectuelle des grands écrivains (comme
-   Sartre) à des experts plus anonymes ou à des intellectuels spécifiques
-   (comme Foucault) ; etc. Tous ces phénomènes signalent et renforcent en
-   même temps le prestige croissant des sciences dans leur ensemble aux
-   dépens des autres discours, en particulier de la philosophie et de la
-   littérature considérées peu à peu de manière rétrospective – c’est par
-   exemple ce qu’on peut lire dans Les Conditions de l’esprit scientifique
-   de Jean Fourastié en 1966 – comme les démarches d’une humanité dans
-   l’enfance (de la subjectivité) enfin parvenue à l’âge adulte (de
-   l’objectivation scientifique).
-
-   2Dans les conflits que se livrent les discours pour la délimitation
-   d’un périmètre de compétence légitime le plus large possible, une
-   partie décisive du combat se joue aux frontières, ou plutôt, dans
-   l’établissement (plus ou moins forcé) des frontières : dans la capacité
-   qu’acquiert un discours donné à prendre en charge les discours
-   concurrents pour indiquer leurs limites et a contrario établir sa
-   différence et assurer sa suprématie. Concernant les relations que les
-   sciences humaines ont entretenues et entretiennent encore à la fois
-   avec la littérature et avec les études littéraires, les malentendus
-   sont nombreux, qui reposent essentiellement sur la manière dont les
-   sciences humaines entendent établir des lois à la fois générales,
-   cachées et déterministes valables pour la créativité (processus) et la
-   création (l’œuvre) littéraires2, alors que les études littéraires
-   exaltent au contraire traditionnellement leur singularité, leur
-   lucidité et leur liberté. Il est possible toutefois que la littérature
-   comme événement, nouveauté, surgissement, ne se laisse si facilement
-   saisir ni par les unes ni par les autres.
-
-1965-1966 : les enjeux de la controverse entre Picard et Barthes
-
-   3Au sortir de la Seconde Guerre mondiale et dans les trois décennies
-   qui suivent, la littérature française est encore dotée d’un immense
-   prestige, et elle constitue de fait un objet majeur pour des sciences
-   humaines bientôt en plein développement. Lucien Febvre et Henri-Jean
-   Martin l’abordent ainsi par le biais de l’histoire, Claude Lévi-Strauss
-   et Roman Jakobson par celui de la linguistique, Lucien Goldmann et
-   Pierre Barbéris mobilisent la sociologie, Charles Mauron et Julia
-   Kristeva font appel à la psychanalyse. Les travaux se multiplient, dont
-   nous n’avons donné qu’un petit aperçu avec ces quelques noms. D’autres
-   chercheurs continuent toutefois d’affirmer envers et contre tout la
-   double irréductibilité de la littérature et des modes d’approche
-   considérés comme spécifiques aux études littéraires.
-
-   4Ces prises de position très contrastées donnent lieu à des
-   controverses, dont la plus célèbre est celle que déclenche la parution
-   de Sur Racine (1963) puis des Essais critiques (1964) de Barthes.
-   L’approche nourrie de psychanalyse, mais aussi de sociologie et de
-   linguistique, mise en œuvre par ce dernier suscite la réaction
-   virulente de Raymond Picard qui, dans Nouvelle critique ou nouvelle
-   imposture (1965), entend dénoncer à travers lui les approximations et
-   les erreurs d’une nouvelle génération de critiques manquant aux
-   exigences de l’étude des textes littéraires. Par-delà le débat
-   orchestré dans la première partie de l’essai polémique entre le
-   subjectivisme critique prêté à Barthes et l’objectivation philologique
-   revendiquée par Picard, débat qui polarise alors l’attention, en
-   particulier après la réponse de Barthes dans Critique et vérité (1966),
-   la critique centrale adressée par le professeur de la Sorbonne vise
-   l’emploi des sciences humaines (et, secondairement, de la philosophie)
-   dans l’étude de la littérature. Ce que reproche en effet Picard au
-   nouveaux critiques – et qui vaut en fait moins pour Barthes que pour
-   Mauron, Weber ou Goldmann3 –, c’est, à partir de l’exemple emblématique
-   de la psychanalyse, de considérer le texte littéraire comme la simple
-   trace d’une autre réalité (psychologique, sociale, historique, on
-   pourrait ajouter, linguistique) que le critique se fait fort de
-   débusquer. Le résultat est dès lors « une dissolution de l’œuvre
-   littéraire comme telle » ou encore « une entreprise de destruction de
-   la littérature comme réalité originale »4. L’œuvre littéraire devient
-
-     une collection de signes dont la signification est ailleurs, dans un
-     ailleurs psychanalytique (fixé par avance dans l’enfance de
-     l’écrivain), ou dans l’ailleurs pseudo-marxiste d’une structure
-     économico-politique, […] etc. […] Ainsi, pénétrée, peuplée, hantée
-     par des mondes qu’elle semble ignorer, et d’autre part prolongée,
-     expliquée, justifiée au-delà d’elle-même, l’œuvre n’est plus dans
-     l’œuvre. Extérieure à soi, elle consiste dans des relations qui la
-     dépassent. Multiplicité de signes dont il faut chercher le sens dans
-     une vérité qui n’est pas d’ordre littéraire, elle est seconde par
-     rapport à la réalité psychique, sociologique ou philosophique qui la
-     conditionne et l’éclaire5.
-
-   5Cette manière de procéder s’oppose apparemment à celle des études
-   littéraires dont le but, selon Picard, est de saisir « la spécificité
-   de la littérature6 », spécificité que, comme le remarque justement
-   Barthes, son contradicteur est bien en mal de définir7, mais qui n’en
-   indique pas moins avec justesse la résistance de l’objet à la science
-   qui entend l’appréhender.
-
-   6La caractéristique majeure des sciences humaines est en effet de
-   conduire à une désingularisation de l’œuvre littéraire (ou de l’œuvre
-   d’art en général) qui n’est pas saisie comme événement (unique), mais
-   qui renvoie d’une manière ou d’une autre à un déjà-là (commun) qui a à
-   voir avec la société dans laquelle vit l’auteur, la classe sociale à
-   laquelle il appartient, les fantasmes qui sont les siens, mais aussi,
-   pourrait-on ajouter, avec une époque donnée, l’état de la langue dans
-   laquelle il écrit, le milieu littéraire ou intellectuel dans lequel il
-   développe ses ouvrages, etc. L’œuvre se trouve ainsi renvoyée – et
-   réduite – à ce qu’elle n’est pas en propre et qu’elle crée mais à ce
-   qui lui préexiste et qu’elle exprime plus ou moins consciemment. Car le
-   propre des sciences humaines, c’est de reconduire le phénomène qu’elles
-   observent à une loi de production qui est en fait une loi de
-   reproduction, et le propre de ce type de loi est de nier la nouveauté
-   et jusqu’à la singularité de son objet et de sa formation en inscrivant
-   l’œuvre dans un enchaînement de causes dont le domaine d’application et
-   la conséquence ne sont pas propres à la création littéraire mais
-   concernent de bien plus grands ensembles (la société, l’homme,
-   l’histoire, la langue). Dans un tel cadre d’analyse, qui réduit la
-   littérature au statut de document, l’écrivain est en outre perçu comme
-   un individu soumis à des lois qui le dépassent et le chercheur devient
-   le seul réellement à même d’accéder à une intelligibilité de sa
-   créativité et des créations qu’elle engendre.
-
-   7Opposition radicale des études littéraires et de l’approche de la
-   littérature par les sciences humaines, les premières conjuguant la
-   littérature au singulier, quand les secondes la conjugueraient au
-   pluriel ? C’est l’idée que tente d’imposer Picard quand il perçoit chez
-   tous ceux qui décident d’approcher la littérature au moyen des sciences
-   humaines une « commune aversion pour Lanson8 ». Les principes
-   méthodologiques avancés de part et d’autre comme les pratiques
-   effectives commandent toutefois d’être moins tranché. Si l’on remonte à
-   celui qui est le fondateur des études littéraires en France au début du
-   xx^e siècle, on se rend en effet compte que son œuvre est traversée par
-   une hésitation majeure et qu’elle conduit à la fois à l’exaltation de
-   l’œuvre singulière, lucide et libre et à une mise en contexte
-   potentiellement réductrice. Si la Nouvelle critique nourrie de sciences
-   humaines s’oppose à « un lansonisme appauvri9 », c’est-à-dire à une
-   caricature des propositions critiques de Lanson (ce que Picard dit
-   bien), il faut en effet préciser que Lanson se trouve surtout
-   « appauvri » de ses propres ambiguïtés (ce que Picard ne dit pas).
-   Certes, à ses yeux, l’histoire littéraire a pour objet « les
-   originalités individuelles », c’est-à-dire « des phénomènes singuliers,
-   sans équivalents, et incommensurables », mais il explique en même temps
-   que « l’homme de génie » est, au moins « aux trois quarts », « le
-   produit d’un milieu et le représentant d’un groupe » et il préconise
-   donc « l’emploi de toutes les […] sciences »10 pour tenter de le cerner
-   – ce qui ne va pas sans une certaine contradiction. Étude de la
-   bibliographie, étude des sources dans leur plus grande variété (de la
-   vie de l’auteur à l’histoire des genres littéraires), étude des
-   manuscrits,on est bien obligé de constater chez Lanson lui-même (et pas
-   seulement chez ses élèves) « un vertige de l’exhaustivité11 » qui tend
-   à faire de la recherche érudite une fin en soi venant recouvrir la
-   singularité des œuvres. Péguy l’avait bien noté qui, à l’occasion d’une
-   longue critique de Taine et Renan, reproche aux « savants modernes »,
-   nouveaux maîtres du positivisme littéraire français, de sacrifier à une
-   approche explicative absolument hétérogène à son objet, les conditions
-   géographiques, historiques, sociologiques, culturelles et biographiques
-   de l’auteur, formant ce qu’il désigne du terme
-   d’ « anthropogéographie12 » et conduisant à faire disparaître le texte
-   littéraire sous des références extérieures. Lanson affirme en principe
-   une singularité irréductible du texte littéraire que, sitôt quittées
-   les grandes déclarations de principe ou les proclamations de génie des
-   écrivains, sa méthode d’approche fait reculer toujours plus loin dans
-   l’insaisissable.
-
-   8De ce point de vue et à leur manière, en s’appuyant sur les
-   développements les plus récents des sciences humaines pour mettre le
-   texte littéraire en relation avec son contexte d’apparition, les
-   critiques mis en cause par Picard ne font rien d’autre que suivre ce
-   Lanson positiviste. Reste que, s’il convient de ne pas opposer
-   complètement approche littéraire de la littérature et approche de la
-   littérature par les sciences humaines, Picard n’en pose pas moins
-   clairement en 1965 – et son constat ne perd rien de sa validité pour
-   les années qui suivent – les deux caractéristiques principales de la
-   violence symbolique infligée par les sciences humaines à la littérature
-   telle qu’elle est perçue depuis les études littéraires : réduction et
-   traduction. Quelques exemples choisis (presque) au hasard dans des
-   travaux publiés depuis cinquante ans permettent de s’en convaincre.
-
-La réduction de la littérature au statut de document
-
-   9Du côté de la réduction désingularisante de la littérature,
-   qu’apprend-t-on du cinéroman et du film L’Année dernière à Marienbad,
-   lorsque, dans un travail élaboré de 1962 à 1971, Chasseguet-Smirgel
-   identifie dans les relations des personnages « la triade
-   « castration-viol-meurtre » qui serait le signe de la « présence d’un
-   complexe d’Œdipe vécu sur un monde régressif sadique » ou quand elle
-   explique que « tous les éléments de l’écriture (verbale, visuelle,
-   musicale) concourent à l’expression d’un achoppement dans la relation
-   objectale »13 ? L’auteur prend certes soin de différencier son étude
-   d’une approche biographique trop asservie aux faits de la vie réelle ;
-   elle s’efforce également de prendre en compte, non pas seulement les
-   contenus du texte (personnages ou cadre spatio-temporel) mais aussi
-   leur mise en forme. Le point d’interrogation majeur est toutefois de
-   déterminer comment un auteur du nom de Robbe-Grillet a pu passer d’une
-   certaine relation d’objet consciente ou inconsciente à une création
-   littéraire. Chasseguet-Smirgel le pressent d’ailleurs sans pousser tout
-   à fait l’interrogation jusqu’au bout, et de fait ces lignes sont les
-   dernières de son essai :
-
-     Nous touchons là, bien évidemment, un autre problème, celui de la
-     sublimation qui nous fait pressentir que, si la relation objectale
-     exprimée dans une œuvre d’art se reflète dans la forme, l’œuvre
-     entière, en tant qu’expression de la relation objectale de l’auteur,
-     ne se superpose pas entièrement à celle-ci puisqu’elle subit alors
-     une modification capitale due à l’intervention d’un élément
-     nouveau : la fonction, pour l’artiste, de l’acte créateur14.
-
-   10La psychanalyste le note à juste titre : l’œuvre d’art n’est pas
-   l’expression directe d’une relation objectale, elle suppose une
-   modification, un changement d’état dans le passage d’un type
-   d’investissement relationnel à la création d’un objet proprement
-   artistique. Comme Marthe Robert l’affirme elle aussi clairement, on ne
-   peut se contenter d’expliquer le style de Flaubert par sa maladie
-   nerveuse : « ni l’épilepsie de Flaubert, ni les troubles psychiques qui
-   y sont liés, ni le poids de la névrose dans sa vie intérieure ne sont
-   en aucune façon des facteurs d’explication en ce qui touche son
-   style15 ».
-
-   11Rien de l’homme ne passe tel quel dans l’œuvre. Le sadisme de
-   Robbe-Grillet ou l’hystérie de Flaubert nous en apprennent davantage
-   sur le sadisme ou sur l’hystérie en général que sur leurs œuvres
-   respectives en particulier. Quel autre intérêt y a-t-il en effet à
-   retrouver dans des œuvres littéraires les traces de telle ou telle
-   disposition psychique ou psychosomatique, si ce n’est d’indiquer que
-   ces dispositions sont susceptibles de passer en littérature dans un
-   certain contenu ou même dans une certaine forme ? Mais selon quelles
-   procédures et pour quels résultats ? Une littérature marquée par le
-   sadisme, cela donne-t-il nécessairement L’Année dernière à Marienbad ?
-   Et une littérature d’hystérique, l’ensemble de l’œuvre de Flaubert ?
-   S’il y a beaucoup de sadiques et d’hystériques sans œuvre – constat qui
-   renvoie au mystère de la capacité de sublimation identifié par
-   Chasseguet-Smirgel –, c’est que les termes de sadisme, d’hystérie ou de
-   sublimation, comme l’ensemble des notions psychanalytiques, même
-   associées les unes aux autres de manière fine, recouvrent d’infinies
-   variations individuelles qu’elles tendent à effacer sous la même
-   dénomination ou le même assemblage de dénominations. «Monde régressif
-   sadique» et « achoppement dans la relation objectale » ne
-   caractérisent-ils pas en effet, non seulement L’Année dernière à
-   Marienbad mais aussi les autres œuvres de Robbe-Grillet, dont on ne
-   comprend alors pas bien pourquoi il n’a pas répété l’écriture du même
-   texte toute sa vie durant ? Et ces mêmes caractérisations ne
-   pourraient-elles pas se retrouver dans les œuvres d’autres auteurs,
-   comme par exemple chez Sade, auquel Chasseguet-Smirgel a consacré des
-   pages placées elles aussi sous le signe de « la régression
-   sadique-anale16 » ? La sublimation engage en fait des mécanismes d’une
-   infinie complexité, et d’une complexité à chaque fois singulière, ce
-   qui laisse penser qu’il y a un tel saut qualitatif entre la vie réelle
-   ou fantasmatique d’un homme et l’élaboration d’un objet aussi riche
-   qu’une œuvre littéraire que toute description explicative du passage de
-   l’une à l’autre semble une approximation grossière, voire inessentielle
-   (en tous les cas en l’état actuel de la connaissance).
-
-   12Même si c’est souvent dans un registre théorique plus modeste, la
-   réduction du texte littéraire au statut de document témoignant pour une
-   certaine réalité psychologique, sociale ou historique innerve en
-   profondeur l’ensemble des travaux que les sciences humaines lui
-   consacrent dans les décennies ultérieures. En témoigne Les Aveux du
-   roman. Le xix^e siècle entre Ancien Régime et Révolution publié par
-   Mona Ozouf en 2001. Si l’auteur ne s’intéresse pas à la créativité
-   littéraire, elle met cependant au centre de son essai la relation que
-   le texte littéraire entretient avec la réalité historique. Dans son
-   introduction, elle se propose ainsi d’explorer dans un certain nombre
-   de romans français la lutte et la transaction qui marquent l’ensemble
-   du xix^e siècle entre les privilèges d’Ancien Régime et l’idéal
-   d’égalité hérité de la révolution française. Si elle ajoute dans sa
-   conclusion que « c’est de ce désordre que les romans instruisent leurs
-   lecteurs, et tout autrement que ne le fait l’histoire17 », elle ne
-   donne en réalité que très peu d’éléments permettant de saisir où se
-   situe cette différence entre le genre romanesque et celui de l’essai
-   historique. En fait, l’historienne n’apprend rien de particulier des
-   romans qu’elle lit, puisqu’elle retrouve à leur lecture ce que savait
-   déjà la communauté des historiens. Pour ne prendre qu’un seul exemple,
-   La Conquête de Plassans n’apporte que la confirmation ailleurs bien
-   identifiée, par exemple dans les travaux de Jean-Marie Mayeur, de
-   Pierre Pierrard ou dans la somme dirigée par Philippe Joutard18, de la
-   force conservatrice d’un catholicisme régénéré qui se veut compatissant
-   mais qui est en fait très souvent au service des notabilités politiques
-   et qui encourage donc la soumission populaire, en particulier par le
-   biais des femmes.
-
-   13Quand Mona Ozouf écrit que « le roman est […] l’observatoire
-   privilégié d’une humanité en transformation » ou encore « le metteur en
-   scène de l’instabilité foncière des choses »19, il faut donc comprendre
-   qu’il ne fait que mettre en scène ou qu’observer ce qui est déjà une
-   réalité historique ou, plus précisément encore, ce qui a déjà été
-   identifié comme tel par la science historique. Le roman ne crée rien,
-   et la lecture de l’historien(ne) pas davantage ; l’un et l’autre
-   retrouvent ce que l’on trouve déjà ailleurs : dans les journaux, les
-   textes de loi, les correspondances, les mémoires, etc., dans tous les
-   autres types de textes légués par le xix^e siècle et qui sont eux aussi
-   une matière de la science historique. Quelque chose de la théorie du
-   reflet passe même dans l’essai de Mona Ozouf lorsque, d’un côté, elle
-   affirme que « le roman enregistre avec une tranquillité équanime les
-   discordances de la vie moderne », et que, de l’autre, elle le définit
-   comme un « genre composite »20 : à société hétérogène et instable,
-   roman mobile et souple qui authentifie, signe, manifeste le passage
-   négocié d’une société à une autre. Que ce soit donc sous l’aspect de la
-   réalité à laquelle il se réfère ou par rapport à ses qualités
-   génériques, le roman ne construit pas réellement un monde propre ; il
-   reproduit les caractéristiques de la société réelle et d’une époque
-   donnée. On conçoit que cette approche du roman soit intéressante pour
-   la science historique, dans la mesure où elle inventorie un nouvel
-   objet confirmant ses hypothèses ; elle dit en revanche très peu de la
-   spécificité de la littérature, du genre romanesque ou même des
-   différents romans envisagés.
-
-La traduction de la littérature en langage scientifique
-
-   14L’opération à laquelle se livrent les sciences humaines peut
-   finalement être assimilée à une opération de traduction impliquant plus
-   ou moins nettement l’idée de leur supériorité sur la littérature. Un
-   texte écrit dans une langue donnée (littéraire) se trouve traduit dans
-   une autre langue (scientifique) qui se présente comme plus claire et
-   plus à même de désigner précisément le réel. Là encore, cette
-   traduction n’est pas nécessairement de peu d’intérêt. Elle peut même
-   constituer un apport décisif pour telle ou telle approche scientifique.
-   Si Freud n’a pas découvert le mythe d’Œdipe dans Œdipe-Roi, il a ainsi
-   trouvé dans la pièce de Sophocle une confirmation de son expérience
-   clinique qui n’a pu qu’encourager la poursuite de ses recherches et a
-   contribué à imposer à ses lecteurs l’idée de leur validité universelle.
-
-     D’après mes expériences déjà nombreuses, les parents jouent dans la
-     vie d’âme enfantine de tous ceux qui seront plus tard des
-     psychonévrosés le rôle principal, et l’état amoureux envers l’une
-     des parties du couple parental, la haine envers l’autre partie,
-     appartiennent au stock immuable du matériel de motions psychiques
-     formé en ce temps-là et tellement significatif pour la symptomatique
-     de la névrose ultérieure21.
-
-   15Et Freud de poursuivre un peu plus loin : « À l’appui de cette
-   connaissance, l’Antiquité nous a laissé un matériau légendaire […]. Je
-   veux parler de la légende du Roi Œdipe et du drame de Sophocle portant
-   le même nom22 ».
-
-   16Le problème, c’est quand cette connaissance se prétend supérieure à
-   l’œuvre qu’elle considère, quand elle entend traduire avec les mots de
-   la vérité scientifique ce qui resterait opaque à l’état littéraire.
-   Quand Freud explique que « l’action de la pièce » de Sophocle est
-   « comparable au travail d’une psychanalyse » mais, qu’intégrant à son
-   contenu « effroi et autopunition », elle est finalement le fruit d’un
-   « malentendu » parce qu’elle a cherché à se mettre « au service d’une
-   intention théologisante »23, il récuse au nom de son propre savoir
-   l’hypothèse du dramaturge – du reste et en réalité plus complexe que ce
-   qu’il prétend – sans même l’examiner ou en être ébranlé. Cette
-   opération revient finalement à simplifier la pièce de Sophocle et à
-   s’arroger une position de surplomb assurant la supériorité de sa propre
-   élaboration théorique. Traduire s’assimile ici à une opération de
-   redressement. Le psychanalyste ne fait pas que traduire dans sa langue
-   un texte écrit dans une autre langue, il le corrige. Il prétend qu’il
-   use d’une langue supérieure à celle de l’écrivain, parce que permettant
-   de révéler ce que l’autre ne pouvait réellement envisager en pleine
-   conscience, à savoir le complexe d’Œdipe et les désirs fondateurs qu’il
-   programme. La littérature détient bien un savoir sur l’inconscient,
-   mais c’est un savoir imparfait, et un savoir qui s’ignore, une sorte de
-   préfiguration maladroite de la psychanalyse (dont on voit bien
-   toutefois qu’il est perçu dans une perspective téléologique construite
-   par le psychanalyste lui-même).
-
-   17Si Freud reconnaît ailleurs – nous reviendrons sur ce point –
-   l’insuffisance de la psychanalyse dans l’approche de l’œuvre d’art et
-   reste donc mesuré dans ses formulations concernant la supériorité de la
-   psychanalyse sur la littérature, si Mona Ozouf se contente
-   ponctuellement d’affirmer que « le roman, s’il est loin de dire le
-   contraire de ce que l’auteur a eu l’intention de dire, en dit toujours
-   un peu plus long24 » et si elle se fait fort implicitement de révéler
-   ce supplément qui échapperait à la conscience du romancier – le titre
-   de son essai l’indique bien, qui est aussi son mot de la fin –,
-   Bourdieu n’hésite pas à tenir dans Les Règles de l’art un propos
-   général et récurrent présentant la sociologie comme une discipline
-   venant révéler un savoir que l’œuvre littéraire contiendrait sans être
-   en mesure de l’objectiver complètement. Certes, écrit-il,
-
-     L’Éducation sentimentale restitue d’une manière extraordinairement
-     exacte la structure du monde social dans laquelle elle a été
-     produite et mêmes les structures qui, façonnées par ces structures
-     sociales, sont le principe générateur de l’œuvre dans laquelle ces
-     structures se révèlent25.
-
-   18Mais c’est pour aussitôt ajouter que le roman le fait « avec les
-   moyens qui lui sont propres, c’est-à-dire en donnant à voir et à
-   sentir »26, en parlant donc à la sensibilité et à l’imagination, qui
-   constituent aux yeux du sociologue des modalités inférieures de saisie
-   de la réalité sociale et qui impliquent nécessairement une part de
-   dissimulation.
-
-     La traduction sensible, poursuit-il en effet, dissimule la
-     structure, dans la forme même dans laquelle elle la présente et
-     grâce à laquelle elle réussit à produire un effet de croyance
-     (plutôt que de réel). […] Le dévoilement trouve sa limite dans le
-     fait que l’écrivain garde en quelque sorte le contrôle du retour du
-     refoulé. La mise en forme qu’il opère fonctionne comme un euphémisme
-     généralisé et la réalité littéraire déréalisée et neutralisée qu’il
-     propose lui permet de satisfaire une volonté de savoir prête à se
-     contenter de la sublimation que lui offre l’alchimie littéraire27.
-
-   19À cette approche littéraire limitée parce que succombant aux charmes
-   du sensible et de l’imaginaire s’oppose « la lecture sociologique [qui]
-   rompt le charme », puisqu’
-
-     elle fait apparaître a contrario la vérité du texte lui-même qui,
-     précisément, se définit dans sa spécificité par le fait qu’il ne dit
-     pas ce qu’il dit comme elle le dit. La forme dans laquelle s’énonce
-     l’objectivation littéraire est sans doute ce qui permet l’émergence
-     du réel refoulé le plus profond, le mieux caché (ici la structure du
-     champ du pouvoir et le modèle du vieillissement social), parce
-     qu’elle est le voile qui permet à l’auteur et au lecteur de le
-     dissimuler et de se le dissimuler28.
-
-   20L’Éducation sentimentale marque ainsi une étape, importante mais
-   dépassée, dans l’acquisition d’un savoir que la sociologie a vocation
-   d’achever. Ce type de propos pose au moins deux problèmes : réduction
-   de l’écrivain au statut de précurseur malhabile de la sociologie et
-   privilège de l’intelligence du monde social accordé au seul sociologue
-   contemporain ; prétention à établir la vérité d’un texte littéraire,
-   alors que ce dernier est un objet qui n’est pas univoque et que toute
-   interprétation est une construction qui ne lui est pas immanente. Il
-   orchestre également, et c’est ce qui nous intéresse ici, un refus de
-   considérer le texte littéraire pour ce qu’il est : un événement en soi
-   qui n’est pas nécessairement et aveuglément déterminé par des
-   événements sociohistoriques (révolution de 1848 et Second Empire) et
-   qui n’a pas à être évalué par rapport à une théorie sociologique
-   ultérieure (celle de Bourdieu) qui viendrait en révéler les
-   potentialités heuristiques masquées.
-
-De la maîtrise à l’incertitude
-
-   21Le point de vue que Picard oppose à Barthes pourrait-il constituer
-   une alternative à l’entreprise de réduction et de traduction des
-   sciences humaines ? La chose n’est pas certaine, tant sa position se
-   caractérise par une forme de positivisme inspirée de ce que l’œuvre de
-   Lanson contient de plus daté et figure ce que Barthes identifie bien
-   comme un « vraisemblable critique » (relevant donc de l’opinion) sans
-   autre fondement que les « autorités »29 (entre autres
-   institutionnelles) qui s’en portent garantes.
-
-   22À part deux reproches implicites adressés au fondateur des études
-   littéraires concernant « la critique biographique […] à peu près
-   discréditée depuis vingt ou trente ans » et « la critique des sources
-   […] devenue plus prudente »30, Picard estime en effet comme Lanson
-   qu’il existe une « vérité » du texte littéraire qui serait accessible
-   au critique :
-
-     Il y a une vérité de Racine, sur laquelle tout le monde peut arriver
-     à se mettre d’accord. En s’appuyant en particulier sur les
-     certitudes du langage, sur les implications de la cohérence
-     psychologique, sur les impératifs de la structure du genre, le
-     chercheur patient et modeste parvient à dégager des évidences qui
-     déterminent en quelque sorte des zones d’objectivité : c’est à
-     partir de là qu’il peut – très prudemment – tenter des
-     interprétations31.
-
-   23Ainsi la connaissance du sens des mots (alors que les mots sont dotés
-   de plusieurs sens), des lois de la psychologie (mais il y a plusieurs
-   modèles psychologiques) et des genres littéraires (là aussi les modèles
-   descriptifs se font concurrence) suffirait à établir le sens vrai d’un
-   texte. Ce sens vrai serait en outre précisément celui que l’auteur y
-   aurait déposé. Loin de considérer que les œuvres littéraires soient
-   comparables aux « épanchements incontrôlés d’un malade étendu sur un
-   divan », Picard estime en effet que les tragédies de Racine – et
-   l’argument vaut clairement pour toutes les grandes œuvres et les grands
-   auteurs – sont « le triomphe de la création volontaire et
-   consciente »32. Mais mettre en avant – selon nous, à raison – « le
-   degré d’élaboration littéraire33 » pour récuser une mise en relation
-   trop simple entre une œuvre littéraire complexe et les conditions dans
-   lesquelles elle a vu le jour est une chose. Prétendre que « la
-   littérature » est « l’activité volontaire et lucide d’un homme qui se
-   livre, en fonction de normes et d’exigences qu’il a faites siennes, à
-   un travail d’expression34 » en est une autre. Comme Lanson, Picard pose
-   une transparence absolue entre l’écrivain et son texte puis entre le
-   texte et son lecteur. L’écrivain a un projet et sa réalisation est
-   nécessairement adéquate à son intention. L’auteur sait, veut et
-   parvient à dire quelque chose. On a là l’idée évidemment discutable
-   d’un savoir qui prendrait forme sous l’effet d’un sujet, non seulement
-   maître de sa volonté, mais aussi de sa langue. De la même manière que
-   l’auteur n’est peut-être pas totalement maître de son travail, de même
-   le critique. Chaque lecteur est en effet situé dans une époque, un
-   milieu social, il a une certaine psychologie et il est l’héritier de
-   toutes les lectures faites avant lui – tous éléments qui nourrissent
-   nécessairement sa propre lecture. On ne peut donc opposer aussi
-   simplement que l’imagine Picard une bonne lecture (fidèle aux
-   intentions de l’auteur) et une mauvaise lecture (qui serait subjective
-   et infidèle). Le lecteur ne peut accéder aux intentions de l’auteur,
-   d’une part, parce qu’elles ne sont peut-être pas si claires, d’autre
-   part, parce qu’il n’est lui-même pas si objectif que cela.
-
-   24Irréductibilité de la littérature aux sciences humaines ? C’est sans
-   doute ce qu’il faut retenir de sa construction comme objet singulier
-   par les études littéraires. Validité des modes d’approche considérés
-   comme spécifiques aux études littéraires ? La chose est moins sûre,
-   tant il semble difficile de faire comme si les sciences humaines
-   n’avaient pas apporté, en même temps qu’une aspiration à la maîtrise
-   interprétative dont il s’agirait de se passer, une propension inverse à
-   opacifier l’accès aux pensées et aux comportements humains.
-
-   25On voit bien en effet que ce qui est au cœur du débat est la question
-   de la maîtrise : maîtrise redoublée dans le cas des études littéraires
-   traditionnelles, maîtrise simple de la part des sciences humaines. Du
-   côté de Lanson et Picard, le lecteur maître de son interprétation
-   accède à la vérité d’un texte littéraire maîtrisé par son auteur ; du
-   côté de Barthes (tel que le perçoit Picard) et des chercheurs en
-   sciences humaines, il reste le seul maître dans l’interprétation d’une
-   œuvre que son auteur ne saurait tout à fait comprendre lui-même35.
-   L’exemple de Picard montre bien la présence de ce désir de maîtrise
-   qui, tout en faisant l’apologie du « chercheur patient et modeste »,
-   n’en remet pas moins en place avec une extraordinaire vigueur
-   l’imposteur Barthes ; et l’exemple de Bourdieu tout aussi bien, qui
-   assure la supériorité du sociologue des Règles de l’art, non seulement
-   sur le romancier de L’Éducation sentimentale, mais encore sur le
-   philosophe de L’Idiot de la famille, souvent mis en cause. L’humble
-   lecture du philologue comme la lecture plus brutale du sociologue
-   critique ont ceci de commun qu’elles imposent une parole prétendument
-   objectivante qui peut toujours êtres perçue comme celle d’un maître
-   dépossédant l’auteur de sa propre parole pour en imposer une autre qui
-   lui est étrangère.
-
-   26Convient-il pour autant, comme le propose Antoine Compagnon dans Le
-   Démon de la théorie (1998), de s’en tenir au « doute hyperbolique face
-   à tout discours sur la littérature » et de considérer « la perplexité »
-   comme « la seule morale littéraire »36 ? À côté de cette « morale
-   littéraire » qui serait la morale à laquelle inviterait la littérature
-   elle-même – une espèce de morale immanente au corpus général de
-   l’ensemble des textes littéraires – mais qui en fait néglige l’histoire
-   des textes et de leur réception et tend donc à se situer, ce qui est
-   impossible, dans un au-delà de l’histoire revenu de tous les conflits
-   pour l’établissement du sens, nous aimerions poser la possibilité
-   d’évoluer dans l’incertain et suivre trois pistes ouvertes dans cette
-   direction par les sciences humaines elles-mêmes.
-
-Un dogmatisme ouvert par l’interdisciplinarité
-
-   27La première piste serait celle d’un renouveau interdisciplinaire qui
-   pousserait à un dogmatisme ouvert : qui poursuivrait l’ambition des
-   sciences humaines d’une réduction et d’une traduction de la
-   littérature, mais dont la vertu essentielle serait moins
-   l’établissement de vérités qu’une mise à l’épreuve permanente et
-   réciproque des hypothèses. L’interdisciplinarité présente certes des
-   difficultés propres de mise en œuvre (articulation de théories parfois
-   difficilement compatibles, réception institutionnelle défavorable). Il
-   se peut aussi qu’ajoutant le savoir d’une science à celui d’une autre
-   elle ne fasse qu’ajouter de la détermination à la détermination et
-   qu’elle contribue ainsi in fine à une fermeture renforcée du savoir sur
-   ses certitudes. L’emploi sauvage de notions psychanalytiques par
-   Bourdieu dans Les Règles de l’art – on vient d’en lire un exemple avec
-   la présence de termes comme « retour du refoulé » ou comme
-   « sublimation » – constitue un bon exemple des limites d’un tel
-   enrichissement d’une discipline par une autre, quand il n’est pas pensé
-   sur le mode d’une ouverture à d’autres possibles théoriques mais
-   instrumentalisé dans des formulations ponctuelles qui restent
-   imprécises en même temps qu’elles tendent à imposer une maîtrise ne
-   souffrant pas discussion37.
-
-   28Mais il est aussi un autre moyen de procéder, qui conduit au
-   contraire à considérer la multiplicité des disciplines scientifiques
-   comme autant d’occasions de mettre en cause des vérités qui paraissent
-   acquises dans le cadre d’une seule d’entre elles. Caillois s’y essaie
-   dans un geste théorique extrêmement subversif qui, tissant des liens
-   entre l’homme, les animaux ou les pierres, s’autorise à rapprocher
-   sciences humaines et sciences de la nature et pousse ainsi son lecteur
-   à reconsidérer les partages qui organisent sa perception du monde.
-   Quand elles évoquent l’art et la littérature dans Méduse et Cie (1960),
-   Esthétique généralisée (1962) ou Le Champ des signes (1978), les
-   sciences diagonales inventées par l’auteur retirent à l’homme le
-   privilège de ses créations et le restituent dans un cadre naturel plus
-   vaste. « Réflexion extravagante » peut-être, celle qui pousse à
-   « présenter comme équivalents dans leur milieu respectif un phénomène
-   physique et une pente de l’imagination »38 ? L’auteur le suggère
-   lui-même. Il n’en reste pas moins qu’elle trouble la routine des modes
-   de pensée habituels et suscite une inquiétude propre à nous faire
-   reconsidérer l’attribution de la création littéraire (et artistique) au
-   seul sujet humain. Mais qu’est-ce qui crée en nous, lorsque nous
-   créons ? Et pourquoi la littérature devrait-elle obéir à des lois
-   particulières ou même relever de la seule liberté humaine ? L’être
-   humain, en tous les cas le sujet occidental, a tendance à revendiquer
-   le mérite de créations dont il s’attribue la paternité, mais Caillois
-   nous invite à songer que des lois supérieures sont peut-être en jeu,
-   qui gouvernent son imaginaire : lois de la nature, mais aussi bien lois
-   de l’esprit, de l’histoire ou de la littérature elle-même, flux sans
-   nom qui le traversent, faisceaux qui viennent se nouer en lui,
-   lentement, en un éclair, voix venues d’il-ne-sait-où et qui se font
-   entendre – et qui font de lui un medium davantage qu’un créateur à
-   proprement parler, recommandant dès lors cette « disposition fervente à
-   l’accueil » et obligeant à reconnaître cette « part de mystère »39
-   qu’évoquent les dernières pages du Fleuve Alphée.
-
-   29À sa manière qui n’a rien à voir avec celle de Caillois, plus
-   aventureuse et conduite jusqu’au vertige, Goldmann pourrait plus
-   raisonnablement nous guider sur ce chemin d’une interdisciplinarité
-   créatrice. Selon le matérialisme dialectique inspiré de Lukács dont se
-   réclame le sociologue, toute classe sociale partage des intérêts
-   économiques communs mais aussi une vision du monde, c’est-à-dire un
-   ensemble d’aspirations, de sentiments et d’idées qui s’imposent à
-   l’esprit de tous ses membres. Il s’ensuit que, contrairement à ce que
-   l’on pourrait penser, ce ne sont pas « les individus isolés » qui sont
-   « les véritables sujets de la création culturelle », mais « les groupes
-   sociaux »40. Plus précisément encore, le sociologue explique que « les
-   structures de l’univers de l’œuvre sont homologues aux structures
-   mentales de certains groupes sociaux ou en relation intelligible avec
-   elles41 ». Il décrit ainsi dans Le Dieu caché une homologie structurale
-   qui est aussi un lien de cause à effet entre les conditions
-   socio-économiques faites à la noblesse de robe et la vision du monde
-   qui est la sienne sous le nom de jansénisme et telle qu’elle apparaît
-   dans les œuvres emblématiques de Pascal et de Racine. De la même
-   manière que cette classe sociale se trouve éloignée d’un roi de France
-   qui tend à limiter son pouvoir et invalide donc le bénéfice qu’il était
-   possible de tirer de l’achat d’une charge, elle se représente un monde
-   de souffrance dans lequel Dieu, source de tout bien et de toute valeur,
-   s’est caché aux yeux des hommes. Que l’œuvre ne soit pas « un reflet de
-   la réalité sociale42 », qu’il ne s’agisse pas de mettre en rapport le
-   contenu de la conscience collective avec le contenu des œuvres
-   littéraires, mais d’envisager la relation entre l’une et les autres au
-   niveau des structures, ne change toutefois rien au fond du mécanisme de
-   reproduction : l’œuvre littéraire se trouve une nouvelle fois renvoyée
-   à ce qui lui préexiste et dont elle constitue l’expression.
-
-   30Restent toutefois au moins deux questions qui toutes deux ont à voir
-   avec la littérature comme événement singulier : question de la forme
-   différente que prennent les œuvres (de Racine et de Pascal) ; question
-   de la créativité singulière qui leur donne naissance. En ne
-   s’intéressant qu’à la seule vision du monde et en assimilant les pièces
-   de théâtre de Racine et le discours philosophique de Pascal, Goldmann
-   manque, comme le lui reproche Serge Doubrovsky, « la spécificité du
-   langage littéraire » et il postule « une esthétique
-   intellectualiste »43 par laquelle l’art se trouve doté de la même
-   démarche fondamentale que la philosophie ou la religion. Si les œuvres
-   de Racine ou Pascal ne sont toutes les deux que l’expression des
-   structures mentales d’un groupe social donné, pourquoi prennent-elles
-   toutefois une forme si différente ? Goldmann ne répond pas à cette
-   première question. Il essaie toutefois d’envisager la seconde. Et c’est
-   à cette fin qu’il recourt à la psychanalyse. Si on peut reprocher à
-   Goldmann, certes d’être soucieux de ne pas nier totalement l’apport de
-   la psychanalyse et de lui réserver une place dans l’étude de la
-   création culturelle, mais de restreindre cependant considérablement son
-   champ de compétence en mettant en avant la primauté de l’analyse
-   marxiste – manière d’assurer la primauté de la sociologie sur la
-   psychologie –, on peut aussi insister sur un autre point, au moins
-   aussi important : la façon dont, d’un ouvrage à l’autre, sans jamais
-   considérer la question comme réglée, il ne cesse de revenir sur la
-   relation entre sociologie et psychanalyse pour proposer à chaque fois
-   une solution différente à leur articulation.
-
-   31Dans Le Dieu caché (1959), « la psychologie individuelle » est
-   convoquée succinctement pour expliquer « les inconséquences, les
-   écarts, qui séparent encore l’œuvre étudiée d’une expression cohérente
-   de la vision du monde qui lui correspond »44. En ce qu’elle exprime la
-   vision du monde d’un groupe social, l’œuvre est le produit de
-   déterminations exclusivement sociales et relève donc de la sociologie.
-   Les éléments qui ne sont pas intégrables à cette vision du monde, qui
-   témoignent d’un écart subjectif avec elle, relèvent au contraire de la
-   psychologie.
-
-   32Si on retrouve le même type de scission de l’esprit dans Pour une
-   sociologie du roman (1964), Goldmann consent cependant une prérogative
-   supplémentaire à la psychanalyse à partir d’un constat de déficience de
-   sa propre discipline. La sociologie ne peut en effet expliquer
-   pourquoi, parmi tous les individus appartenant à un même groupe social
-   et connaissant donc les mêmes conditions d’existence, c’est tel
-   individu, et non tel autre, qui devient « le grand écrivain » capable
-   de créer « un univers imaginaire, cohérent ou presque rigoureusement
-   cohérent, dont la structuration correspond à celle vers laquelle tend
-   l’ensemble du groupe »45. C’est ici qu’intervient la psychanalyse.
-
-     Quant aux études psychologiques, elles peuvent […] nous aider à
-     comprendre pourquoi, parmi des centaines de jansénistes, ce furent
-     précisément Racine et Pascal qui purent exprimer la vision tragique
-     sur le plan littéraire et philosophique sans, cependant, apporter
-     aucun renseignement […] concernant la nature, le contenu et la
-     signification de cette expression46.
-
-   33L’argument repose sur une opposition tacite entre, d’une part, la
-   forme et le contenu de l’œuvre (qui relèveraient de la sociologie), et,
-   d’autre part, son engendrement (qui relèverait de la psychanalyse). La
-   psychanalyse n’est ainsi plus la science de l’écart individuel, comme
-   dans Le Dieu caché, mais celle du génial porte-parole de sa classe
-   sociale.
-
-   34Dans un article intitulé « Structuralisme génétique et critique
-   littéraire » (1966), Goldmann élabore une dernière théorie. S’il
-   maintient encore une hétérogénéité de l’esprit, puisqu’il distingue
-   « les comportements à sujet individuel (libido) » pris en charge par la
-   psychanalyse et les « comportements à sujet transindividuel (collectif
-   ou pluriel) » étudiés par la tradition marxiste, il se montre cette
-   fois soucieux d’établir un lien entre les deux en mentionnant la
-   possibilité de leur identification. Cette possibilité est même ce qui
-   définit en propre la création culturelle. « Ces comportements dans
-   lesquels la libido à sujet individuel s’insère presque sans distorsion
-   dans la cohérence du sujet transindividuel sont, entre autres, ceux qui
-   aboutissent aux créations culturelles (littéraires, philosophiques,
-   artistiques, mythes)47. » Du même coup, la psychanalyse est moins
-   chargée de rendre compte, assez vaguement, des écarts individuels ou du
-   génie de l’écrivain, que de participer elle-même et pour partie à la
-   compréhension de la concordance entre les structures mentales
-   individuelles et celles du groupe social transindividuel.
-
-   35On pourrait poser diverses questions théoriques aux propositions
-   avancées par Goldmann dans cet article. Elles concerneraient la
-   scission en deux de la vie de l’esprit ; le maintien d’une primauté du
-   sujet transindividuel, puisque le sujet individuel ne semble prendre
-   aucune part à la production de la vision du monde et semble être
-   uniquement soumis à son groupe social lui permettant d’actualiser telle
-   tendance et l’obligeant au contraire à réprimer telle autre ; le
-   privilège de la cohérence psychique mystérieusement réservé aux seuls
-   individus capables de produire une grande œuvre. Mais ce que nous
-   retenons surtout, c’est sa volonté d’ouvrir un dialogue dans lequel
-   sociologie et psychanalyse apportent leur contribution respective à la
-   compréhension des processus de l’intériorisation du social et de
-   l’extériorisation du psychique, la première par ce qu’elle comprend des
-   conditions sociales dans lesquelles ces mécanismes ont lieu et de
-   l’influence qu’elles exercent sur eux, la seconde par une connaissance
-   de ces mécanismes ancrés dans l’histoire d’un individu déterminé par
-   ses affects autant qu’il les détermine. Prises une à une, les
-   tentatives d’articulation entre sociologie et psychanalyse que propose
-   Goldmann peuvent apparaître comme autant de tentatives de raffinement
-   de l’approche sociologique par un apport psychanalytique lui-même
-   finalement peu à même, contrairement à ce qu’il prétend et comme on va
-   bientôt le voir avec Freud, d’expliquer l’origine et le fonctionnement
-   du génie créateur. Mais l’important réside surtout dans le parcours
-   lui-même, dans l’infléchissement que Goldmann imprime à ses hypothèses
-   entre 1959 et 1966.
-
-   36On trouve de fait dans l’œuvre de Goldmann, en même temps qu’une
-   propension positiviste et dogmatique héritée du marxisme, une réelle
-   curiosité des autres disciplines qui le pousse, non pas à les réduire
-   une bonne fois pour toutes en leur assignant une place définitive, mais
-   à les accueillir comme autant de réponses possibles mais aussi comme
-   autant de questions qui relancent sa propre discipline. D’un côté, la
-   psychanalyse vient en renfort de la sociologie et l’interdisciplinarité
-   ajoute donc de la détermination à la détermination, mais, d’un autre
-   côté, les déplacements de la pensée indiquent que l’étau de la
-   détermination peine à s’établir et ne saisit pas totalement son objet.
-   L’œuvre du chercheur en est vivifiée, qui n’applique pas un savoir
-   constitué par un autre ni même par lui, mais qui poursuit un processus
-   continu d’accommodement puis finalement d’invention théoriques avec les
-   notions de « sujet individuel » et « sujet transindividuel ». Parce
-   qu’il accorde un certain crédit à une autre discipline et se met donc
-   en demeure de répondre aux objections que plus ou moins explicitement
-   elle adresse à la sienne, la pensée de Goldmann, tout assertive et
-   ferme qu’elle soit, ne se fige pas et se trouve conduite à un
-   dépassement inédit qui signe l’inventivité intellectuelle en même temps
-   que la reconnaissance d’un processus en cours, inachevé et toujours
-   ouvert. Si l’interdisciplinarité semble aujourd’hui délaissée, on peut
-   imaginer que des travaux reprendront un jour ce flambeau de la
-   discussion créatrice d’une discipline à l’autre et retrouveront ainsi
-   l’esprit des débats qu’animèrent des chercheurs comme Barthes, Mauron,
-   Lefebvre ou Goldmann48.
-
-Des sciences humaines de l’embarras
-
-   37Inspirée des réflexions d’Adam Phillips concernant la valorisation
-   (apparemment) paradoxale des fragilités humaines49, la deuxième piste
-   serait celle d’une science de l’embarras. Il s’agirait de mettre en
-   place une recherche disciplinaire qui aurait renoncé à toute réduction
-   et à toute traduction de la littérature en langage scientifique et qui
-   s’interrogerait sur ses fondements et sur ses limites constitutives. La
-   prise de conscience d’une inadéquation du discours scientifique à son
-   objet naîtrait moins cette fois de la confrontation des différentes
-   disciplines que de l’objet lui-même et de sa force de résistance
-   propre. Le modèle de cette démarche pourrait être Freud. Si l’inventeur
-   de la psychanalyse est bien le fondateur d’un corps de doctrine, ce que
-   l’on peut aussi retenir, c’est que, non seulement la doctrine a connu
-   des inflexions différentes chez d’autres psychanalystes, mais encore
-   que Freud lui-même l’a notablement reformulée et transformée au cours
-   de sa vie. L’exemple le plus célèbre de ces reformulations et
-   transformations est sans aucun doute le passage d’une réflexion centrée
-   sur la localisation cérébrale des affectations psychiques associée à
-   l’idée d’un traumatisme réel à la première topique Conscient,
-   Préconscient et Inconscient (mise en place entre 1896 et 1900) puis à
-   la deuxième topique Ça, Moi et Surmoi (présentée à partir de 1920).
-   Cette inventivité théorique de Freud, présente tout au cours de sa vie
-   (en 1896 il a déjà quarante ans et en 1920 il a dépassé la soixantaine)
-   et que relancent ses successeurs, comme autorisés par sa démarche
-   initiale, est le fruit d’une attention extrême au matériel que lui
-   offre l’expérience clinique et de l’impossibilité dans laquelle il se
-   trouve de faire entrer certaines données dans le schéma qu’il a
-   préalablement établi.
-
-   38Quand on ne le simplifie pas outrageusement pour le plier à telle ou
-   telle vision du monde, le réel constitue un embarras et il contraint le
-   chercheur à reformuler ses hypothèses50. Et quelle réalité présente
-   plus de résistance que la créativité et l’œuvre littéraires ? Si Freud
-   n’évite pas toujours l’attitude condescendante faisant de l’écrivain un
-   individu qui n’est pas maître du discours qu’il délivre et qui ne peut
-   être, au mieux, que le précurseur inconscient d’un savoir révélé par la
-   psychanalyse, il ne cesse toutefois dans le même temps de souligner la
-   difficulté à laquelle il est confronté quand il se tourne vers la
-   littérature et, plus généralement, vers l’art51. Ses déclarations
-   d’embarras ne constituent pas toujours des remarques préalables
-   rapidement évoquées et reléguées pour l’établissement d’un savoir
-   positif, elles ponctuent ses essais et elles sont même parfois situées
-   en position conclusive. Dans les toutes dernières pages d’Un Souvenir
-   d’enfance de Léonard de Vinci, Freud écrit ainsi : « Ces deux
-   particularités de Léonard demeurent inexplicables par les efforts de la
-   psychanalyse : son penchant tout particulier aux refoulements
-   pulsionnels et son extraordinaire capacité à la sublimation des
-   pulsions primitives52 ». Et il conclut de manière plus
-   générale : « force nous est d’avouer que l’essence de la réalisation
-   artistique nous est […] psychanalytiquement inaccessible53 ». À ces
-   phrases de 1910 font écho d’autres phrases du même type dans la suite
-   de son œuvre, comme si, avançant en âge, Freud gardait une claire
-   conscience de ses limites plutôt que de s’illusionner sur
-   l’accumulation de son savoir : on les trouve encore en 1916-1917, en
-   1925 ou en 192854. Entre l’hypothèse scientifique et la créativité ou
-   la création littéraire (le processus ou le produit), il reste une marge
-   d’indétermination qui un jour peut-être trouvera à se réduire et se
-   réduira de plus en plus jusqu’à disparaître mais dont Freud, quant à
-   lui, est bien obligé de constater la persistance.
-
-   39Comme souvent lorsqu’il est confronté aux limites de la psychanalyse,
-   Freud redevient le médecin qu’il n’a jamais cessé d’être et il s’en
-   remet à la biologie. C’est « la recherche biologique55 » qui doit
-   prendre le relais pour rendre compte des capacités de refoulement et de
-   sublimation. Le propos est mystérieux, qui ne saurait renvoyer
-   seulement à une quantité différente d’énergie dont seraient dotés les
-   individus et qui empiète sur « les pulsions et leurs mutations » dont
-   Freud prétend pourtant qu’elles constituent « la chose ultime que la
-   psychanalyse puisse connaître »56. La nature des pulsions et celle de
-   leurs transformations relèvent-elles du sujet humain et de son histoire
-   ou sont-elles inscrites en lui comme des dispositions naturelles ? Mais
-   éclairer les mécanismes psychiques de la création n’implique pas
-   nécessairement de chercher à saisir pourquoi ils s’activent chez tel
-   individu plutôt que chez tel autre et de telle manière plutôt que de
-   telle autre. On peut s’en tenir à cette résistance de l’événement et en
-   mesurer la singularité par rapport au fond sur lequel il se détache,
-   i.e. au contexte psychologique, historique, social, linguistique,
-   littéraire, etc. dans lequel il a vu le jour. On peut aussi à la
-   manière d’un Freud attentif aux résistances du matériel étudié et à
-   condition de renoncer à l’idée d’une supériorité de la science sur la
-   littérature, considérer cette dernière comme un objet dont la
-   résistance même constitue un défi pour la théorie et qui peut donc être
-   mis à profit pour son affinement, voire son bouleversement ou sa mise à
-   l’écart. C’est ici l’idée de psychanalyse appliquée qui se trouve mise
-   à mal : la création et le texte littéraire sont moins considérés comme
-   des objets rassurants chargés de confirmer des hypothèses déjà établies
-   que comme des objets suscitant un certain embarras et obligeant à des
-   reconfigurations théoriques plus ou moins prononcées.
-
-   40Fidèle à sa manière à la leçon de Freud, au geste de l’investigation
-   scientifique plus encore qu’au savoir qu’il permet de constituer,
-   Pierre Bayard est engagé dans une telle démarche, pour laquelle le
-   rapport de réduction et de traduction que la psychanalyse entretient
-   avec la littérature est remplacé par un retour soupçonneux de la
-   seconde vers la première. La manière dont il aborde la littérature
-   consiste en effet d’abord en une mise en doute utilisant le texte
-   littéraire, non pas comme ce qui confirme le savoir analytique, mais au
-   contraire comme ce qui permet d’identifier « ce qui ne fonctionne pas »
-   et occasionne donc « un mouvement de déthéorisation »57 plus ou moins
-   prononcé, allant de l’aménagement ponctuel à la mise en cause globale.
-   La littérature devient ensuite elle-même un laboratoire de pensée. Il
-   s’agit de « restituer aux œuvres un peu de leur liberté de parole » ou
-   encore « leur force d’éveil »58, en montrant comment elles recèlent de
-   manière plus ou moins explicite une pensée différente, originale,
-   nouvelle, inconnue. Les deux mouvements n’en font qu’un seul : c’est
-   parce que la littérature propose elle-même une manière de savoir
-   singulier qu’elle interroge le savoir analytique ; et c’est parce
-   qu’elle interroge ce savoir qu’il lui est possible d’en élaborer un
-   autre.
-
-   41Dans Maupassant, juste avant Freud (1994), Pierre Bayard montre ainsi
-   que la voie empruntée par Freud dans l’identification de l’inconscient
-   et de ses mécanismes n’est pas la seule possible et qu’avant même
-   l’époque où le psychanalyste commençait de développer ses travaux les
-   plus novateurs, Maupassant avait mis en scène dans ses récits de
-   fiction une représentation du psychisme humain faisant elle aussi la
-   part d’une étrangeté à soi figurée exemplairement par le Horla et qui
-   n’est pas exactement assimilable à l’inconscient freudien. Qui a tué
-   Roger Ackroyd ? (1998) présente un rapprochement similaire entre
-   littérature et psychanalyse mais permet de pousser encore plus loin la
-   mise en cause du modèle analytique en revenant sur la nature
-   prétendument objective des interprétations qu’il produit. À travers
-   l’exemple du roman d’Agatha Christie intitulé Le Meurtre de Roger
-   Ackroyd, Pierre Bayard opère en effet un rapprochement de la démarche
-   psychanalytique et de l’enquête policière pour montrer que l’une comme
-   l’autre apparentent « la production du sens » à « la résolution d’une
-   énigme »59, ce qui implique une univocité bien peu fidèle, d’un côté, à
-   la polysémie essentielle de la littérature, de l’autre, à la complexité
-   même de la vie. Le coupable démasqué par Hercule Poirot est-il
-   réellement le meurtrier ? Pierre Bayard parvient à montrer que la chose
-   n’est pas certaine et il s’appuie sur la formulation de cette nouvelle
-   hypothèse pour montrer par analogie que, comme toute interprétation,
-   l’interprétation psychanalytique constitue une mise en ordre du réel
-   qui opère par l’identification d’indices et l’exclusion d’autres
-   données et qui obéit donc à une logique de surinterprétation qui n’est
-   pas sans lien avec le délire paranoïaque. Ainsi, la limite n’est pas
-   nette entre délire et théorie, ce qui pose la question de la place du
-   sujet dans la théorie et implique donc de remplacer l’idée d’une vérité
-   objective de l’interprétation psychanalytique par celle d’ « une vérité
-   subjective », c’est-à-dire moins « une vérité en soi » qu’ « une forme
-   de véracité dont le sujet devient la mesure principale »60. C’est ici
-   très clairement la possibilité d’une traduction exacte de l’œuvre
-   littéraire en langage psychanalytique qui se trouve récusée et donc la
-   maîtrise interprétative qui doit céder la place à la pose plus modeste
-   d’une inévitable approximation (qui n’est pas pour autant un pur
-   délire).
-
-   42Même si Pierre Bayard entend s’en tenir au retour qu’autorise la
-   littérature sur la psychanalyse et donc à l’élaboration d’un nouveau
-   savoir de nature uniquement psychologique, il explique aussi que « la
-   littérature appliquée à la psychanalyse […] est partie prenante d’une
-   démarche plus large, la littérature appliquée, dont elle ne fait que
-   réaliser partiellement les ambitions […], tout en postulant que la
-   littérature a la capacité de dialoguer avec d’autres systèmes de
-   lecture que la psychanalyse », n’hésitant pas à signaler lui-même
-   quelques-uns de ces « autres domaines du savoir comme l’économie, la
-   politique ou les sciences de la société »61.
-
-   43Il donne également deux exemples intéressants qui, à ses yeux,
-   illustrent la capacité qu’a la littérature de troubler l’évidence du
-   savoir analytique mais auxquels on pourrait tout aussi bien faire jouer
-   le même rôle avec la sociologie ou l’anthropologie. Lorsque Pierre
-   Bayard évoque les idées reçues telles que les conçoit Flaubert,
-   « discours déjà préparé, donc étranger au sujet et pourtant actif en
-   lui » et « qui cimente peu à peu les idées en circulation dans un
-   groupe »62, c’est pour indiquer que le romancier conçoit une autre
-   manière de penser l’inconscient que celle de Freud, mais l’on peut
-   aussi envisager des discussions avec les notions marxistes d’idéologie
-   ou d’aliénation ou avec les notions de stéréotype et de consentement
-   telles qu’elles sont élaborées par Walter Lippmann dans Public opinion
-   (1922). Quand il explique que l’« angoisse existentielle » mise en
-   avant par Pascal avec sa notion de divertissement n’a rien à voir avec
-   l’angoisse freudienne trouvant son origine dans l’enfance mais qu’elle
-   est liée à « l’absence de Dieu » et à « la peur de la mort »63, on
-   pense cette fois à la façon dont Bourdieu s’est lui aussi appuyé sur
-   l’écrivain du xvii^e siècle dans ses Méditations pascaliennes (1997)
-   pour élaborer une anthropologie très éloignée de la psychanalyse. Au
-   retour sur Freud à partir de Pascal pourrait ainsi s’ajouter un retour
-   sur Bourdieu lisant Pascal à sa manière (et usant de Freud et de la
-   psychanalyse à sa manière aussi).
-
-   44Si elle devait être menée à son terme, la démarche de Pierre Bayard
-   conduit toutefois à certaines contradictions qu’il souligne lui-même.
-   L’élaboration d’une théorie à partir de la littérature part d’abord du
-   principe d’une tabula rasa illusoire. Comment le lecteur pourrait-il
-   être à l’écoute de l’œuvre littéraire, d’abord sans être aussi à
-   l’écoute de lui-même mais aussi sans plaquer ses savoirs plus ou moins
-   consciemment sur l’œuvre ? Pierre Bayard se prononce pour une pratique
-   (immanente) du « prolongement » de l’œuvre qui se substituerait à celle
-   de son « interprétation »64 (transcendante), mais il se rend bien
-   compte que la frontière entre les deux démarches est des plus
-   incertaines. Le lecteur peut bien chercher à rester au plus près de
-   l’œuvre, sauf à la reproduire exactement, son commentaire indique qu’il
-   l’a lue d’une manière particulière, cette obligation étant encore plus
-   forte concernant des textes littéraires dont l’une des qualités
-   majeures est de n’être pas univoques, de receler donc « de nombreuses
-   potentialités théoriques », voire « des énoncés contradictoires »65,
-   parmi lesquels il vient choisir ou qu’il vient organiser, ce qui va,
-   non pas prolonger une labilité, mais arrêter un sens. L’homme et le
-   psychanalyste ont beau prétendre s’écarter eux-mêmes dans une tentative
-   de prolonger le texte, ils se retrouvent en bout de course dans une
-   interprétation qui le fige et qui est intimement liée, quoique de
-   manière complexe, à leur propre biographie.
-
-   45L’élaboration d’une théorie à partir de la littérature n’empêche
-   ensuite d’aucune manière qu’on bascule de nouveau dans la réduction et
-   la traduction. C’est en effet à partir d’un texte littéraire donné que
-   s’engage la nouvelle théorisation, et cette théorisation elle-même,
-   sauf à considérer qu’elle ne vaut que pour le seul texte qu’elle
-   prolonge, exerce elle aussi une forme de violence interprétative sitôt
-   qu’on envisage d’en étendre le champ d’application. Quand Pierre Bayard
-   se donne pour but de « mettre l’œuvre en situation, non de symboliser,
-   mais d’être symbolisée66 », on s’inquiète en effet aussitôt pour toutes
-   les autres œuvres mises en position de la symboliser et donc d’être
-   soumises à l’opération de réduction et de traduction à laquelle elle
-   sera finalement seule à échapper. Si « toute pensée innovante court le
-   risque de devenir, immédiatement ou à long terme, une théorie
-   figée67 », la seule solution est de pratiquer l’innovation en restant
-   sur le seuil de la théorie, de demeurer dans le moment de l’émergence
-   théorique sans jamais chercher à trop durcir le propos dans un corps de
-   doctrine constitué ni à l’exemplifier de manière trop abondante :
-   produire une théorie locale, presque informe, par soi-même déjà
-   relativisée et contredite – une théorie, vraiment ?
-
-   46Ces contradictions majeures posent le problème du volontarisme
-   théorique que met en avant Pierre Bayard. La littérature appliquée
-   considérée comme « un effort renouvelé pour produire de la pensée
-   nouvelle68 » laisse entendre qu’il suffirait de vouloir vraiment et de
-   se mettre dans les bonnes dispositions pour pouvoir théoriser de
-   manière inédite. La chose est toutefois peu probable, et Pierre Bayard
-   l’indique lui-même implicitement quand il évoque dans les dernières
-   pages de son ouvrage « la souffrance psychique dont peu de théoriciens
-   acceptent de parler et contre laquelle la théorie est construite et
-   sans cesse remaniée, comme un fragile filet de protection, toujours sur
-   le point de se déchirer69 ». Une théorie ne se décrète pas, et pas
-   davantage une pente à la théorisation, une méfiance face à la théorie
-   ou une propension à théoriser tout en mettant toujours en cause sa
-   propre capacité de théorisation ou sa propre théorie. Le pouvoir de
-   mise en branle de la littérature (qui est aussi un ébranlement) ne
-   touche que celui qui est susceptible d’être touché et de réagir
-   positivement à l’action par laquelle elle le saisit et s’empare de
-   lui : penser en émergence et dans l’inachèvement en prenant « le risque
-   du mouvement », c’est-à-dire en faisant l’expérience d’une
-   « défaillance de la pensée » qui ouvre « la possibilité d’un
-   surgissement »70, sans toutefois se laisser submerger par la négativité
-   destructrice dont parle magnifiquement Evelyne Grossman dans L’Angoisse
-   de penser (2008). Le mystère de la sublimation littéraire est aussi
-   bien celui de la sublimation théorique et de ses modalités infiniment
-   variées : créativité sur fond de tolérance à l’angoisse, recours
-   préventif à une théorie déjà constituée pour pallier ses
-   manifestations, grands épisodes anxieux qui rendent toute pensée
-   impossible. Il est sans doute toujours possible de dissiper une partie
-   de ce mystère dans une entreprise d’auto-analyse et même, comme semble
-   le suggérer Jean-Michel Rey, de la rendre publique, de manière à
-   fournir au lecteur les mobiles profonds et devenus conscients, au moins
-   dans une certaine mesure, de ce qu’il est en train de lire :
-
-     Reste une demande que certains jugeront utopique : que chaque
-     interprétation raconte, autant qu’il est possible, sa naissance, son
-     mode d’engendrement, son cheminement ; que chaque interprétation
-     cherche à retracer la figure particulière de la référence dont elle
-     se dote ; qu’elle souligne tout particulièrement les divers aspects
-     du geste même de déchiffrement71.
-
-   47C’est l’effort auquel s’est en partie livré Pierre Bayard avec la
-   publication de Comment parler des livres que l’on n’a pas lus ? (2007)
-   quand, déplaçant pour partie son investigation de la psychanalyse vers
-   la sociologie – manière pour lui de ne pas se livrer trop intimement ou
-   d’écarter son domaine de compétence privilégié pour un autre moins
-   susceptible de donner lieu, en ce qui le concerne, à une parole de
-   maîtrise –, il explique à la fois par sa naissance dans un milieu
-   social peu lettré et par l’exercice de son métier d’enseignant et de
-   chercheur la naissance de sa réflexion. C’est parce qu’il était
-   peut-être plus souvent que d’autres « dans l’embarras » et soumis à
-   « la culpabilité inconsciente que suscite l’aveu de n’avoir pas lu
-   certains livres »72 qu’il propose une réflexion sur les différents
-   degrés de non-lecture et les différentes manières d’affronter l’esprit
-   libéré et dans toutes les conditions d’une vie la situation d’avoir à
-   parler d’un livre peu ou pas lu.
-
-   48Pour pousser à l’extrême le renversement de l’usage habituel de la
-   littérature par les sciences humaines, la seule psychanalyse, la seule
-   histoire ou la seule sociologie qui vaille est ainsi celle du chercheur
-   lui-même. Ce qu’il faudrait lire au moyen des sciences humaines, ce
-   n’est pas l’œuvre littéraire, c’est l’acte de lecture lui-même, ce qui
-   aboutirait donc à l’idée d’une lecture lue. Menace ici toutefois, moins
-   la perspective d’un égotisme scientifique ou d’une mise à nu qui
-   pourrait être dérangeante, que la tentation d’un retour de la maîtrise
-   qui écarterait trop rapidement sous quelque raisonnement
-   intellectualiste la persistance d’une part d’ignorance devant ce qui
-   nous pousse et que le discours scientifique ne peut in fine
-   identifier73. Dans tous les cas, il est peut-être bon que, à défaut de
-   se décréter, notre embarras persiste, d’être un milieu entre rien et
-   tout, moins aveugles que borgnes devant nos propres dispositions à
-   penser – ce que la littérature vient opportunément rappeler au lecteur
-   s’il peut entendre sa parole vivante, native, en appel d’un avenir que
-   lui seul peut lui donner.
-
-Un statut doxologique partagé
-
-   49La troisième piste serait celle d’un rapprochement des sciences
-   humaines et de la littérature dans une démarche qui troquerait
-   l’ambition positive contre la reconnaissance d’un statut doxologique
-   partagé. On pourrait la présenter à partir des impasses mais aussi des
-   ouvertures dans lesquelles s’engage la sociologie de la littérature
-   mise en œuvre par Bernard Lahire.
-
-   50Développée dans une multitude de travaux depuis les années 1990,
-   cette sociologie part très généralement de la critique et du
-   réaménagement de deux notions clefs mises en place par Pierre
-   Bourdieu : les notions d’habitus et de champ. Contre Bourdieu, qui
-   emprunte à Piaget l’idée de la transférabilité d’un domaine à l’autre
-   des schèmes incorporés74 et qui conçoit donc l’habitus comme une
-   « disposition générale et transposable [qui] réalise une application
-   systématique et universelle, étendue au-delà des limites de ce qui a
-   été directement acquis de la nécessité inhérente aux conditions
-   d’apprentissage75 », Bernard Lahire met ainsi en avant
-
-     l’existence de schèmes d’application très locale (propres à des
-     situations sociales ou à des domaines d’action particuliers), de
-     modes de catégorisation, de perception, d’appréciation, d’évaluation
-     ou d’action sensori-motrice partiels attachés à des objets ou à des
-     domaines spécifiques76.
-
-   51On ne peut donc prétendre que l’incorporation des structures sociales
-   détermine l’ensemble des structures mentales sous la forme d’un
-   habitus. Il faut au contraire affirmer que chaque individu est doté de
-   schèmes cognitifs et comportementaux différents qu’il active en
-   fonction des contextes dans lesquels il se trouve plongé. Dans
-   l’avant-propos de La Condition littéraire. La double vie des écrivains
-   (2006), Bernard Lahire rappelle ainsi que la sociologie doit se montrer
-   « sensible aux variations intra-individuelles des comportements et
-   attentive à la pluralité des dispositions et des compétences mobilisées
-   par les individus dans des contextes d’action hétérogènes77 ».
-
-   52À cet affinement de la notion bourdieusienne d’habitus, il ajoute en
-   outre ce qu’il nomme une « spécification de la théorie des champs » :
-   comme « l’univers littéraire est un univers globalement très peu
-   professionnalisé et très faiblement rémunérateur », les écrivains
-   seraient « plus proches de joueurs […] que d’“agents” stables d’un
-   champ » et « la réduction des individus à leur statut d’“agent du champ
-   littéraire” » serait « encore bien plus problématique qu’ailleurs »78.
-   Considérant qu’ « une partie de ce qui est littérairement créé est le
-   produit d’une transposition-transfiguration littéraire d’expériences
-   extra-littéraires », Bernard Lahire entend ainsi formuler une série
-   d’hypothèses concernant « les liens multiples, subtils et jamais
-   totalement identiques d’un auteur à l’autre ou d’un type d’œuvre à
-   l’autre, qui se nouent entre les propriétés des créateurs, les
-   propriétés des contextes de création et les propriétés des œuvres »79.
-
-   53Indiquer, comme le fait Bernard Lahire dans La Condition littéraire,
-   que la très grande majorité des écrivains d’aujourd’hui comme du siècle
-   passé sont contraints d’avoir une double vie, d’une part, de gagner de
-   l’argent par le biais d’une activité rémunératrice, d’autre part, de
-   trouver du temps pour écrire une œuvre qu’ils considèrent comme
-   fondatrice de leur identité, ne permet toutefois de déboucher que sur
-   des formulations, soit très générales et imprécises, soit au contraire
-   très réductrices, concernant les œuvres elles-mêmes et leur
-   engendrement.
-
-   54Concernant le premier aspect, Bernard Lahire écrit ainsi que « le
-   second métier (et la nature de celui-ci) ou l’absence de second métier
-   […] semble jouer diversement un rôle […] dans la nature même des œuvres
-   (leur contenu et leur qualité)80 ». « Diversement », mais qu’est-ce à
-   dire ? L’auteur ajoute concernant l’écrivain que « le second métier lui
-   garantit […] la plus grande indépendance littéraire, et lui permet
-   parfois de construire dans le temps une œuvre littéraire originale81 ».
-   « Parfois », mais qui, quand, pourquoi ? « Une œuvre littéraire
-   originale », mais laquelle exactement ? Il poursuit, à propos en
-   particulier du journalisme, en expliquant que « les habitudes
-   scripturales contractées dans le cadre de ce second métier peuvent
-   aussi se transférer, plus ou moins directement, dans l’œuvre
-   littéraire82 ». « Peuvent » : est-ce à dire que le processus est
-   aléatoire ? « Plus ou moins directement » : cela signifie-t-il qu’il
-   obéit à des processus variés ? Et encore : « Le second métier peut
-   aussi […] jouer un rôle non négligeable en matière de “thèmes”
-   littérairement traités83 ». Bernard Lahire établit bien des relations
-   entre conditions sociales de création et œuvre littéraire, mais ces
-   relations sont si lâches et indéterminées – envisagées avec une telle
-   prudence modalisatrice – qu’elles ne permettent pas réellement de
-   comprendre les mécanismes par lesquels on passe des unes aux autres.
-   Formulées de cette manière, ces relations sont peu contestables. Dire
-   qu’il entre quelque chose de la vie de l’homme dans l’œuvre d’un
-   écrivain, qui ne l’accepterait ? Mais quoi exactement, et comment ?
-   Bernard Lahire n’en dit rien. On est ici à l’opposé, plus encore que de
-   la théorie des champs de Bourdieu, du marxisme mécaniste envisageant
-   l’œuvre littéraire comme le reflet d’une société ou comme la production
-   d’une classe sociale. Mais ce que l’on gagne en souplesse dans la
-   possibilité d’application du discours théorique à chaque objet, on le
-   perd en précision concernant les lois qui régissent précisément la
-   créativité littéraire.
-
-   55À ces formulations très générales s’ajoute – second aspect qui ne va
-   pas sans contradiction avec le premier – une tentation du biographisme,
-   qui tend à assimiler l’œuvre à un simple reflet de la vie. Telle
-   formule de La Condition littéraire le laisse déjà pressentir : « À un
-   degré ou à un autre, directement ou indirectement, les œuvres
-   littéraires sont toujours autobiographiques au sens large du terme,
-   c’est-à-dire au sens où elles puisent nécessairement dans les
-   expériences vécues par leurs auteurs, expériences vécues au premier
-   degré ou grâce à une connaissance indirecte du monde84 ». C’est ce que
-   confirme la lecture du dernier ouvrage de Bernard Lahire, Franz Kafka.
-   Éléments pour une théorie de la création littéraire (2010), qui, sous
-   couvert de montrer comment les différentes dispositions acquises par
-   Kafka au cours de son existence ont engendré les questions et les
-   obsessions qui nourrissent son œuvre littéraire, livre en fait une
-   transposition assez simple des premières dans la seconde.
-
-   56Inscription dans un certain moment historique et une certaine
-   culture, appartenance à un certain cercle familial, relation avec le
-   père, vie sentimentale, pratique d’une profession juridique,
-   fréquentation de certains écrivains et lecture de certains livres,
-   etc., Bernard Lahire passe en revue l’ensemble des expériences de Kafka
-   dans des cadres de socialisation différents et il indique à chaque
-   étape ce que son œuvre leur doit. Avec le Kafka de Bernard Lahire, on
-   n’a pas affaire à un écrivain qui fait surgir une œuvre réellement
-   inédite, mais seulement à une œuvre comme somme (singulière) de
-   caractères (communs) empruntés à divers cadres d’expérience. Ici, on
-   lit que « Kafka projette […] dans ses personnages des tendances
-   contradictoires qui le minent ou le tourmentent intérieurement en
-   s’affrontant » ; là que « Kafka procède en utilisant des images et
-   métaphorise des situations problématiques qu’il vit » ou que « chaque
-   récit est l’occasion d’une mise en intrigue imagée de ses
-   expériences »85. Même si, dans une formule pleine de promesses, Bernard
-   Lahire évoque « un travail spécifique, une traduction, une mise en
-   forme, une transposition86 », l’écrivain ne crée pas, il se cherche, il
-   s’exprime, et le transfert de son expérience à ses écrits implique une
-   transformation minimale qui semble ne connaître qu’un nombre de
-   procédés incroyablement restreint : projection à l’identique,
-   métaphorisation et mise en intrigue. Comment Kafka passe-t-il de ses
-   expériences aux récits et images qui le hantent, et comment encore de
-   ce qui pourrait n’être que de simples rêveries à la rédaction de textes
-   littéraires ? Bernard Lahire développe ici un objectivisme
-   psychosociologique qui ne fait pas la part du fantasme, de
-   l’inconscient ou même seulement des mécanismes multiples que peut
-   activer l’esprit et il en reste à l’expression transparente et univoque
-   du vécu. Étrange effet de la théorie qui, d’un côté, laisse ouvert un
-   si grand nombre de possibles qu’elle semble se dissoudre elle-même et,
-   d’un autre côté, les réduit au contraire à un simple mimétisme de la
-   vie par l’œuvre.
-
-   57Si elle succombe elle aussi à sa manière et en partie au travers le
-   plus généralement constaté de l’approche de l’œuvre littéraire par les
-   sciences humaines qui consiste à l’envisager comme une reproduction de
-   la réalité (en l’occurrence de l’expérience sociale d’un écrivain), la
-   sociologie de Bernard Lahire n’en ouvre pas moins d’autres voies
-   concernant la relation que pourraient entretenir la littérature et les
-   sciences humaines.
-
-   58D’un côté, Bernard Lahire ne cesse de réitérer sa revendication de
-   scientificité et, se réclamant ouvertement de l’héritage positiviste de
-   Lanson, il se livre même à la fin de son livre sur Kafka à une critique
-   très vive du « chercheur » qui cèderait au « plaisir de la lecture
-   purement créatrice ou recréatrice, créative ou récréative, qui est une
-   lecture du texte à partir de son propre monde et de son époque, de ses
-   propres intérêts, avec tous les malentendus, tous les détournements et
-   toutes les distorsions possibles »87. C’est une manière pour lui
-   d’accuser la différence entre l’approche strictement scientifique et
-   une approche qu’il ne qualifie pas, mais dont on peut penser qu’elle
-   doit rester celle de l’écrivain, dans la mesure où, au moins
-   apparemment et si on accepte le partage tel qu’il est posé ici, elle ne
-   s’astreint pas à l’obligation d’objectivité et de fidélité à la
-   référence.
-
-   59Mais, d’un autre côté et contradictoirement, Bernard Lahire orchestre
-   un rapprochement intéressant entre les démarches du sociologue et de
-   l’écrivain. On le perçoit à telle remarque isolée et sans suite de La
-   Condition littéraire, lorsqu’il écrit que « les sociologues […] sont
-   plus proches des écrivains qu’il n’y paraît88 ». On le perçoit surtout
-   dans sa lecture de Kafka. Au début de son ouvrage, Bernard Lahire
-   explique qu’il a choisi l’exemple de Kafka pour la raison principale
-   qu’il s’agit d’ « un écrivain […] littérairement inventif », auteur
-   d’ « une œuvre jugée le plus souvent énigmatique », ce qui obligerait
-   le sociologue à s’aventurer sur « un terrain qui ne lui est pas
-   favorable a priori »89. Ad augusta per angusta : comme le sociologue
-   aurait affaire à une œuvre exemplaire de ce que la littérature produit
-   de plus autonome, de plus singulier, de plus irréductible à tout autre
-   type de discours, sa possibilité de la prendre malgré tout en charge
-   signerait la validité ultime de ses propositions théoriques. Mais la
-   description que Bernard Lahire fait ensuite de l’œuvre de Kafka est en
-   grande partie infidèle à cette première caractérisation essentiellement
-   formaliste. À ses yeux, en effet, le moteur de l’œuvre serait une
-   perception de « la littérature comme une recherche de la vérité », ce
-   qui l’autorise même à écrire que « les points de similitude entre la
-   démarche de Kafka et celle du sociologue ou de l’ethnologue sont
-   nombreux »90.
-
-   60On peut bien sûr critiquer ce rapprochement : à supposer même que
-   « la question de la vérité : vérité sur soi, vérité sur son
-   expérience » soit effectivement au cœur de « l’écriture littéraire »91
-   de Kafka (ce qui est contestable), peut-on en déduire que toute
-   littérature obéisse à la même motivation et peut-on aussi facilement
-   que le fait Bernard Lahire assimiler vérité littéraire et connaissance
-   de type sociologique ? Si cette intellectualisation et cette
-   sociologisation de la littérature sont discutables, on peut toutefois
-   aussi être sensible au rapprochement qu’opère Bernard Lahire, qui lui
-   inspire des sentiments ambivalents, contre lesquels il lutte et qui
-   semble s’imposer pourtant à lui, comme en témoigne ce passage
-   particulièrement contourné :
-
-     Lorsqu’on prend conscience de cette omniprésence des rapports de
-     pouvoir chez Kafka et que l’on connaît, par ailleurs, sa propension
-     à l’observation, son relativisme anthropologique, sa conviction
-     concernant la nécessité d’enseigner aux enfants une attitude de
-     rupture avec les préjugés, son intérêt pour les rituels, sa
-     réflexion sur le caractère social des individus, les déterminismes
-     sociaux et l’importance de l’éduction et des habitudes culturelles
-     acquises très tôt, la question se pose inévitablement de l’existence
-     d’une sorte de sociologie implicite propre à cet auteur. Cependant,
-     l’idée de « sociologie implicite » des écrivains peut prêter à
-     confusion dans la mesure où elle donne l’impression qu’on leur
-     confère le statut de sociologue, alors que leur pratique ne
-     s’inscrit pas dans les mêmes cadres que celle du sociologue. Même
-     quand il s’appuie, ce qui est plus souvent le cas qu’on ne le croit,
-     sur une documentation fournie, des observations répétées ou de
-     véritables enquêtes, le travail littéraire n’a jamais le même souci
-     de systématicité et d’explication, et encore moins de
-     conceptualisation, que le travail sociologique. Mais on ne peut pas
-     faire non plus comme si l’écrivain ne faisait que retranscrire le
-     réel. Il le modélise, le met en forme, le typifie, l’analyse par
-     l’acte même de sélection des traits pertinents, des personnages, de
-     l’action, des enchaînements séquence, etc. Il y a donc bien un
-     savoir sur le monde social qui se manifeste dans le travail
-     littéraire, qui contribue à sa façon, qui n’est pas scientifique, à
-     l’objectivation de certains aspects ou de certaines dimensions du
-     monde social92.
-
-   61Du côté de la proximité, Bernard Lahire identifie des thématiques
-   communes (rapports de pouvoir, rituels), la description des mêmes
-   mécanismes (caractère social des individus, déterminismes sociaux,
-   importance de l’éducation et des habitudes culturelles acquises très
-   tôt), un même souci documentaire (observation, documentation,
-   enquêtes), une même attitude distancée par rapport au matériau
-   (relativisme anthropologique, rupture avec les préjugés) et une même
-   montée en généralité (modélisation, mise en forme, typification,
-   sélection des traits pertinents, construction d’analyses). Du côté de
-   la différence entre sociologie et littérature, la moisson est bien
-   moins riche. Cette différence est parfois affirmée de manière purement
-   assertive : l’une et l’autre n’évolueraient pas « dans les mêmes
-   cadres » ; la littérature contribuerait « à sa façon, qui n’est pas
-   scientifique » à la connaissance du monde social. Le seul point qui les
-   distingue est apparemment « le […] souci de systématicité et
-   d’explication, et […] de conceptualisation » qui serait propre au
-   travail sociologique – affirmation qui semble toutefois tomber
-   d’elle-même, avec ce que Bernard Lahire explique par ailleurs des
-   procédures communes de montée en généralité.
-
-   62Bernard Lahire opère comme malgré lui un rapprochement presque total
-   entre littérature et sociologie – rapprochement que, en changeant
-   seulement les thèmes et les mécanismes considérés, on pourrait aussi
-   bien établir entre la littérature et les autres sciences humaines et
-   qu’on se propose à présent de préciser. La sociologie (l’ethnologie,
-   histoire, la psychologie, l’anthropologie, etc.) est un discours savant
-   et à contraintes. Elle est un discours savant, parce qu’elle est
-   appuyée sur un recours massif à la référence (les faits, l’archive),
-   qu’elle se doit de considérer son objet avec une exigence
-   d’exhaustivité et de cohérence, qu’elle fait la part aux œuvres des
-   confrères et s’inscrit dans une filiation explicite qu’elle ne peut
-   contester que sous certaines conditions. Elle est également un discours
-   à contraintes, parce qu’elle s’oblige à une énonciation impersonnelle
-   proscrivant jugement de valeur et première personne du singulier,
-   qu’elle est soumise à des règles rédactionnelles impliquant de
-   mentionner ses sources ou encore qu’elle obéit au régime de la preuve
-   et de la démarche hypothético-déductive. Les caractéristiques de ce
-   discours savant et à contraintes peuvent très bien être présentes dans
-   le texte littéraire, mais la chose n’est nullement nécessaire. Un large
-   spectre de possibles s’ouvre pour lui, qui dépend des époques, des
-   écoles, des courants ou encore de la personnalité de l’écrivain : de la
-   fidélité à la référence à la présence de l’invention (de lieux, de
-   personnages, etc.), du souci de l’exhaustivité à la focalisation sur un
-   détail décontextualisé, de l’allusion métatextuelle au solipsisme
-   créatif, d’une énonciation impersonnelle à un engagement personnel de
-   l’écrivain dans son propos, de la mention des sources à leur
-   occultation, de l’organisation démonstrative à la démarche analogique
-   ou au coq-à-l’âne. Ce n’est pas que la création littéraire soit
-   nécessairement plus libre que la création scientifique : l’une comme
-   l’autre s’inscrivent dans des traditions et des institutions qui ont
-   une histoire et qui en un temps donné autorisent un certain nombre de
-   gestes créatifs, alors qu’elles en proscrivent d’autres ou les rendent
-   même inconcevables. Mais il n’est à peu près aucun type de texte qui ne
-   puisse un jour et d’une certaine manière être enrôlé sous la bannière
-   de la littérature : poèmes, romans et pièces de théâtre bien sûr, mais
-   aussi mémoires, biographies, reportages, listes, etc. Les
-   caractéristiques requises de l’essai en sciences humaines sont au
-   contraire précises, dénombrables et elles tendent à faire consensus, en
-   tous les cas dans un espace culturel donné.
-
-   63Si de la littérature aux sciences humaines les frontières sont
-   poreuses, ce n’est pas seulement toutefois parce que la littérature
-   peut adopter les démarches propres aux sciences et revendiquer en
-   particulier une part de leur réalisme et de leur aspect démonstratif.
-   C’est aussi que les sciences humaines ne peuvent pas ne pas être
-   littérature – au moins dans une certaine mesure : elles ne peuvent pas,
-   elles non plus, ne pas construire leur objet, raconter et décrire93
-   d’une certaine manière qui laisse finalement place à une subjectivité
-   nourrie d’idiosyncrasies et de lieux communs plus ou moins conscients.
-   Alors que certains ouvrages peuvent être caractérisés comme massivement
-   (mais pas absolument) littéraires ou sociologiques, certains autres
-   constituent certes des points de rencontre plus évidents entre la
-   littérature et les sciences humaines, qu’on trouve plus spécialement
-   dans certains genres : le roman policier, le roman historique, le roman
-   psychologique, les mémoires, l’autobiographie, l’auto-analyse, la
-   biographie, l’étude de cas, le récit de vie, etc. Mais des sciences
-   humaines à la littérature, il y a un continuum impur sans qu’on puisse
-   jamais établir de frontières strictes tenant aux caractéristiques des
-   ouvrages eux-mêmes94. La littérature et les sciences humaines ne sont
-   pas amalgamées, mais ni la première ni les secondes ne peuvent se
-   prévaloir d’un rapport d’extériorité absolue et elles se trouvent donc
-   dans un rapport permanent et universel (et non pas seulement localisé
-   et conjoncturel) de rencontre, d’interaction, de chevauchement
-   interdisant toute revendication essentielle de supériorité.
-
-   64Il n’y a en effet aucun sens, ni à affirmer la supériorité du
-   sociologue sur l’écrivain (comme l’affirme Bourdieu), ni à envisager
-   celle de l’écrivain sur le sociologue, comme Bernard Lahire le suggère
-   à un moment dans une note :
-
-     Par ailleurs, il est difficile de s’empêcher de penser que certains
-     sociologues professionnels peuvent proposer des interprétations du
-     monde social sociologiquement très en deçà, en pertinence et en
-     justesse comme en subtilité, de ce que sont ou ont été capables de
-     proposer des écrivains comme Kafka, qui ne faisaient pourtant que
-     s’appuyer sur des observations plus limitées de leur entourage le
-     plus immédiat ou, le plus souvent, sur leur propre expérience du
-     monde95.
-
-   65Notre propos n’est pas de renverser le rapport de force entre
-   sociologie (sciences humaines) et roman (littérature) pour prétendre
-   que le second serait nécessairement supérieur à la première – position
-   assumée exemplairement par Philippe Sollers et qui nous semble un
-   héritage du romantisme. L’œuvre de Freud n’est pas moins novatrice que
-   celle de Proust, et l’œuvre de Paul Bourget n’est pas plus novatrice
-   que celle de Freud. Les sciences humaines comme la littérature sont
-   toutes deux en mesure, dans des démarches tendanciellement éloignées ou
-   au contraire plus proches, d’apporter une contribution plus ou moins
-   importante à la connaissance (ou de ne rien apporter du tout qu’une
-   simple répétition).
-
-   66Dans un tel cadre qui ne prévoit pas d’extériorité stricte entre
-   sciences humaines et littérature et malgré la critique que Bernard
-   Lahire lui adresse, « la lecture purement créatrice ou recréatrice » se
-   trouve dotée d’une légitimité indéniable. Elle constitue même la
-   conséquence ultime d’une prise en compte, par les sciences humaines, de
-   la résistance que leur oppose la littérature comme objet singulier et
-   insaisissable. Ce qui caractérise une telle démarche, c’est l’abandon
-   de l’apparence savante et contraignante qu’elles se donnent à
-   elles-mêmes et qu’elles tentent d’imposer comme garantie d’un discours
-   de vérité et la reconnaissance assumée d’un dialogue entre le chercheur
-   et l’objet qu’il se donne, non pas en toute ignorance et dans un pur
-   délire subjectif, mais sans porter le masque d’un savoir achevé et
-   d’une neutralisation totale des affects. Tel est le projet de la
-   collection « L’un et l’autre » dirigée par J.-B. Pontais chez Gallimard
-   et dans laquelle des auteurs s’efforcent de peindre « des vies, mais
-   telles que la mémoire les invente, que notre imagination les recrée,
-   qu’une passion les anime », « des récits subjectifs » donc, « entre le
-   portrait d’un autre et l’autoportrait »96. Avec La Maison Maupassant
-   (2009), Patrick Wald Lasowski donne un bon exemple de ce type de
-   textes, indissociablement littéraires et scientifiques. Mêlant épisodes
-   de la vie de Maupassant, extraits de ses œuvres et de ses divers
-   écrits, il éclaire d’un jour nouveau les modalités de sa créativité et
-   la conception de ses œuvres : mise en relation analogique de la
-   fréquentation des maisons closes et des petites unités bien closes que
-   forment les nouvelles, jusqu’à l’hypothèse d’une « sexualité de la
-   nouvelle » ; notification d’une « écriture à deux côtés », avec un goût
-   de la fuite et des voyages et une certaine vivacité, mais aussi
-   l’exploration des mêmes lieux, le retour des mêmes protocoles, la
-   répétition des mêmes obsessions qui finissent par plonger le monde dans
-   une même mélancolie ; et des propos inouïs, où l’on s’interroge par
-   exemple « sur ce qu’est le ventre d’une mère pour un enfant »97. Mais
-   rien ne pèse ici. Le discours n’est ni général ni figé dans une série
-   de notions articulées. C’est un discours littéraire au sens où Pierre
-   Bayard parle de la littérature comme « préthéorie98 », théorie en
-   puissance mais dont le dessin resterait inachevé et qui serait
-   finalement plus suggestive que contraignante ; au sens aussi où c’est
-   un discours incarné, écrit, qui fait sentir autant qu’il cherche à
-   faire comprendre, qui transmet une expérience de Maupassant au moins
-   autant qu’un savoir le concernant. Aucune concession n’est faite à
-   l’ineffable, mais la singularité cherche moins à s’expliquer ou à se
-   nommer (elle ne pourrait le faire autrement que de manière
-   tautologique) qu’à s’éprouver. Elle constitue une expérience de lecture
-   recréée et rendue sensible dans une écriture. À un texte littéraire
-   comme objet étrange (celui de Maupassant) répond un autre texte
-   littéraire (celui de Patrick Wald Lasowski), tout aussi étrange et
-   nourri de désirs, de croyances, de savoirs aussi, qu’on peut identifier
-   mais sans qu’il soit possible de complètement les différencier. Loin
-   des alibis de la science et des institutions qui la soutiennent, cette
-   critique est un acte de pleine écriture, non qu’elle se déploie dans un
-   espace où les savoirs et les stéréotypes n’auraient pas accès (elle n’a
-   pas le pouvoir de les écarter), mais parce qu’elle connaît précisément
-   le régime linguistique et doxologique qui est le sien et sa position
-   comme assertion, engagement, acte d’institution du sens.
-
-   67Dogmatisme scientifique ouvert par l’interdisciplinarité, sciences
-   humaines de l’embarras, continuum entre les sciences humaines et la
-   littérature : autant de voies pour des sciences humaines qui ne
-   chercheraient plus le coup de force symbolique mais reconnaîtraient
-   leurs approximations constitutives devant ce qui apparaît, qui devient,
-   qui se transforme.On passerait ainsi d’une position du type je sais
-   bien mais quand même (je sais que mon savoir est limité mais j’ai tout
-   de même un savoir qui s’impose) à une position du type je sais et
-   cependant (j’ai un savoir mais je dois bien reconnaître qu’il est
-   limité) – manière d’ouvrir le débat, mieux encore : de le laisser
-   ouvert. On passerait d’une fragilisation liminaire bientôt écartée, non
-   pas à un doute de principe, mais à l’élaboration d’un savoir incertain.
-   Il est peu de risque, en la matière, que nuise un excès de scrupule.
-   Comme l’écrit justement Gayatri Chakravorty Spivak, « la mise en
-   question de la place de l’enquêteur reste un vœu pieux dépourvu de sens
-   dans nombre de critiques récentes du sujet souverain. Aussi, bien que,
-   tout au long de cet essai, je m’efforce de mettre en avant la précarité
-   de ma position, je sais qu’un tel geste est toujours insuffisant99 ».
-   Ce que les sciences humaines font aux études littéraires est
-   salutaire ; et salutaire aussi, ce que la littérature fait aux sciences
-   humaines : d’un côté, la mise à mal de l’écrivain en majesté ; de
-   l’autre, celle du théoricien souverain. Ce qu’impose ce double
-   mouvement, c’est finalement de revenir sur une certaine conception du
-   sujet et de l’institution de son savoir. Les sciences humaines gagnent
-   sans doute une certaine autorité à se prétendre radicalement différente
-   de la littérature. Mais la revendication de cette extériorité constitue
-   aussi un appauvrissement, parce qu’elle les entraîne dans une ignorance
-   d’elles-mêmes, des moyens dont elle dispose et de leurs limites. Pas de
-   découverte, pas d’invention, pas de création nouvelle (en littérature
-   comme en sciences humaines) sans confrontation avec l’inconnu et sans
-   prise de risque. À l’opposé de toute science appliquée ou de
-   l’application mécanique de recettes littéraires, une telle démarche ne
-   fige rien et prend le risque de l’errance, de l’impuissance, de la
-   perte, et se montre capable de résister aux périls de la naissance
-   (l’angoisse) comme à son évitement trop rapide (le savoir). La parole,
-   qui lui fut d’abord donnée, reste au poète : « Nos œuvres ne songent
-   qu’à tuer père et mère en notre personne et à prendre le large. Mais
-   les créatures de notre esprit restent curieuses de leurs origines… ».
-
-bibliographie
-
-   ASSOUN (Paul-Laurent), Freud et les sciences sociales. Psychanalyse et
-   théorie de la Culture, Paris, Armand Colin, coll.
-   « Cursus/Philosophie », 1993.
-
-   BARTHES (Roland), Sur Racine (1963), repris dans Œuvres complètes, t.
-   II, 1962-1967 (1993), Nouvelle édition revue, corrigée et présentée par
-   Éric Marty, Paris, Éditions du Seuil, 2002, p. 51-196.
-
-   BARTHES (Roland), Essais critiques (1964), repris dans Œuvres
-   complètes, t. II, 1962-1967 (1993), Nouvelle édition revue, corrigée et
-   présentée par Éric Marty, Paris, Éditions du Seuil, 2002, p. 269-528.
-
-   BARTHES (Roland), Critique et vérité (1966), repris dans Œuvres
-   complètes, t. II, 1962-1967 (1993), Nouvelle édition revue, corrigée et
-   présentée par Éric Marty, Paris, Éditions du Seuil, 2002, p. 757-801.
-
-   BAYARD (Pierre), Maupassant, juste avant Freud, Paris, Éditions de
-   Minuit, coll. « Paradoxe », 1994.
-
-   BAYARD (Pierre), Qui a tué Roger Ackroyd ?, Paris, Éditions de Minuit,
-   coll. « Paradoxe », 1998.
-
-   BAYARD (Pierre), Peut-on appliquer la littérature à la psychanalyse ?,
-   Paris, Éditions de Minuit, coll. « Paradoxe », 2004.
-
-   BAYARD (Pierre), Comment parler des livres que l’on n’a pas lus ?,
-   Paris, Éditions de Minuit, coll. « Paradoxe », 2007.
-
-   BÉNICHOU (Paul), Le Temps des prophètes. Doctrines de l’âge romantique,
-   Paris, Gallimard, coll. « Bibliothèque des idées », 1977.
-
-   BÉNICHOU (Paul),Le Sacre de l’écrivain (1750-1830). Essai sur
-   l’avènement d’un pouvoir spirituel laïque dans la France moderne,
-   Paris, José Corti, 1973 (rééd. Paris, Gallimard, coll. « Bibliothèque
-   des idées », 1996).
-
-   BÉNICHOU (Paul), Les Mages romantiques, Paris, Gallimard, coll.
-   « Bibliothèque des idées », 1988.
-
-   BOURDIEU (Pierre), La Distinction. Critique sociale du jugement, Paris,
-   Éditions de Minuit, coll. « Le Sens commun », 1979.
-
-   BOURDIEU (Pierre), Les Règles de l’art. Genèse et structure du champ
-   littéraire, Paris, Éditions du Seuil, coll. « Libre Examen », 1992.
-
-   BOURDIEU (Pierre), Méditations pascaliennes, Paris, Éditions du Seuil,
-   coll. « Liber », 1997.
-
-   BOURDIEU (Pierre), Esquisse d’une auto-analyse, Paris, Raisons d’agir,
-   coll. « Cours et travaux », 2004.
-
-   BRIDET (Guillaume), Littérature et sciences humaines : autour de Roger
-   Caillois, Paris, Honoré Champion, coll. « Bibliothèque de Littérature
-   générale et comparée », 2008.
-
-   CAILLOIS (Roger), Méduse et Cie, Paris, Gallimard, 1960.
-
-   CAILLOIS (Roger), Esthétique généralisée, Paris, Gallimard, 1962.
-
-   CAILLOIS (Roger), Le Champ des signes, Paris, Hermann, 1978.
-
-   CAILLOIS (Roger), Le Fleuve Alphée, Paris, Gallimard, 1978,
-
-   CHASSEGUET-SMIRGEL (Janine), Janine Chasseguet-Smirgel, Pour une
-   psychanalyse de l’art et de la créativité, Paris, Payot, 1971.
-
-   CHASSEGUET-SMIRGEL (Janine), Éthique et esthétique de la perversion,
-   Seyssel, Champ Vallon, coll. « L’Or d’Atalante », 1984.
-
-   CITTON (Yves), Lire, interpréter, actualiser. Pourquoi les études
-   littéraires ?, Paris, Éditions Amsterdam, 2007.
-
-   COMPAGNON (Antoine), La Troisième République des Lettres, de Flaubert à
-   Proust, Paris, Éditions du Seuil, coll. « Poétique », 1983.
-
-   COMPAGNON (Antoine), Le Démon de la théorie. Littérature et sens
-   commun, Paris, Éditions du Seuil, coll. « La Couleur des idées », 1998
-   (rééd. Paris, Éditions du Seuil, « Points », 2001).
-
-   DESROSIÈRES (Alain), « Quand une enquêtée se rebiffe : de la diversité
-   des effets libérateurs, ou les arguments des trois Chatons », Genèses
-   2008/2, n° 71, p. 148-159.
-
-   DOUBROVSKY (Serge), Pourquoi la Nouvelle critique. Critique et
-   objectivité, Paris, Mercure de France, 1966.
-
-   FOURASTIÉ (Jean), Les Conditions de l’esprit scientifique, Paris,
-   Gallimard, coll. « Idées », 1966.
-
-   FREUD (Sigmund), L’Interprétation du rêve (1900), repris dans Œuvres
-   complètes, vol. IV, 1899-1900, trad. Janine Altounian, Pierre Cotet,
-   René Lainé, Alain Rauzy, François Robert, Paris, Presses universitaires
-   de France, 2004.
-
-   FREUD (Sigmund), Un Souvenir d’enfance de Léonard de Vinci (1910),
-   repris dans Œuvres complètes, vol. X, 1909-1910, trad. Janine
-   Altounian, André Bourguignon, Pierre Cotet, Alain Rauzy, Paris, Presses
-   universitaires de France, 1993, p. 79-164.
-
-   FREUD (Sigmund), Leçons d’introduction à la psychanalyse (1916-1917),
-   repris dans Œuvres complètes, vol. XIV, 1915-1917, trad. Janine
-   Altounian, André Bourguignon, Pierre Cotet, Jean-Gilbert Delanbre,
-   Daniel Hartmann, François Robert, Paris, Presses universitaires de
-   France, 2000.
-
-   FREUD (Sigmund), Autoprésentation (1925), repris dans Œuvres complètes,
-   vol. XVII, 1923-1925, trad. Pierre Cotet, René Lainé, Paris, Presses
-   universitaires de France, 1992, p. 51-122.
-
-   FREUD (Sigmund), « Dostoïevski et la mise à mort du père » (1928),
-   Œuvres complètes, vol. XVIII, 1926-1930, trad. Janine Altounian, André
-   Bourguignon, Eva Carstanjen, Pierre Cotet, Paris, Presses
-   universitaires de France, 1994, p. 202-225.
-
-   GANTHERET (François), La Nostalgie du présent. Psychanalyse et
-   écriture, Paris, L’Olivier, coll. « penser/rêver », 2010.
-
-   GOLDMANN (Lucien), Le Dieu caché. Étude sur la vision tragique dans les
-   Pensées de Pascal et dans le théâtre de Racine, Paris, Gallimard, coll.
-   « Bibliothèque des idées », 1955 (rééd. coll. « Tel », 1976).
-
-   GOLDMANN (Lucien), Pour une sociologie du roman, Paris, Gallimard,
-   coll. « Bibliothèque des idées », 1964 (réed. coll. « Tel », 1986).
-
-   GOLDMANN (Lucien), « Structuralisme génétique et création littéraire »,
-   Sciences humaines et philosophie, suivi de Structuralisme génétique et
-   création littéraire, Paris, Gonthier, coll. « Bibliothèque
-   Médiations », 1978.
-
-   GROSSMAN (Evelyne), L’Angoisse de penser, Paris, Éditions de Minuit,
-   coll. « Paradoxe », 2008.
-
-   Histoire de la France religieuse, t. 3, Du Roi Très Chrétien à la
-   laïcité républicaine (xviii^e-xix^e siècles), sous la dir. de JOUTARD
-   (Philippe), Paris, Éditions du Seuil, 1991.
-
-   L’Histoire religieuse de la France, xix^e- xx^e siècles. Problèmes et
-   méthodes, sous la dir. de MAYEUR (Jean-Marie), Paris, Beauchesne, 1975.
-
-   JEANNERET (Yves), L’Affaire Sokal ou la querelle des impostures, Paris,
-   Presses universitaires de France, 1998.
-
-   JURDANT (Baudouin) et SAVARY (Nathalie), Impostures scientifiques, les
-   malentendus de l’affaire Sokal, Paris, La Découverte, 1998.
-
-   KOFMAN (Sarah), L’Enfance de l’art. Une interprétation de l’esthétique
-   freudienne, Paris, Payot, 1970 (rééd. Paris, Galilée, coll. « Débats »,
-   1985).
-
-   LAHIRE (Bernard), L’Homme pluriel. Les ressorts de l’action, Paris,
-   Nathan, coll. « Essais et Recherches », 1998.
-
-   LAHIRE (Bernard), La Condition littéraire. La double vie des écrivains,
-   Paris, La Découverte, coll. « Textes à l’appui », 2006.
-
-   LAHIRE (Bernard), Franz Kafka. Éléments pour une théorie de la création
-   littéraire, Paris, La Découverte, coll. « Textes à l’appui », 2010.
-
-   LANSON (Gustave), « La méthode de l’histoire littéraire » (1910), dans
-   Essais de méthode, de critique et d’histoire littéraires, éd. Henry
-   Peyre, Paris, Hachette, 1965, p. 31-56.
-
-   Littérature et société. Problèmes de la méthodologie en sociologie de
-   la littérature, colloque organisé conjointement par l’Institut de
-   Sociologie de l’Université Libre de Bruxelles et l’École Pratique des
-   Hautes Études (6^e section) de Paris du 21 au 23 mai 1964, Institut de
-   Sociologie, Université Libre de Bruxelles, 1967.
-
-   LIPPMANN (Walter), Public opinion, New York, Harcourt, Brace and
-   Company, 1922.
-
-   NAUDIER (Delphine), « Sociologie d’un miracle éditorial dans un
-   contexte féministe », Genèses 2006/3, n° 64, p. 67-87.
-
-   OZOUF (Mona), Les Aveux du roman. Le xix^e siècle entre Ancien Régime
-   et Révolution,Paris, Fayrd, coll. « L’esprit de la cité », 2001 (rééd.
-   Paris, Gallimard, coll. « Tel », 2004).
-
-   PÉGUY (Charles), « Zangwill » (1904), dans Œuvres en prose complètes,
-   Tome I, éd. Robert Burac, Paris, Gallimard, coll. « Bibliothèque de la
-   Pléiade », 1987, p. 1396-1451.
-
-   PHILLIPS (Adam), Trois capacités négatives, Paris, L’Olivier, coll.
-   « penser/rêver », 2009.
-
-   PIAGET (Jean), Biologie et connaissance. Essai sur les relations entre
-   les régulations organiques et les processus cognitifs, Paris,
-   Gallimard, coll. « L’Avenir de la science », 1967 (rééd. préface de
-   Marino Buscaglia, Paris, Delachaux & Niestlé, coll. « Actualités
-   pédagogiques et psychologiques », 1992).
-
-   PICARD (Raymond), Nouvelle critique ou nouvelle imposture, Paris,
-   Jean-Jacques Pauvert, coll. « Libertés », 1965.
-
-   PIERRARD (Pierre), L’Église et la Révolution (1789-1889), Paris,
-   Nouvelle Cité, 1988.
-
-   REY (Jean-Michel), « Retour amont », Revue des Sciences Humaines, « Le
-   conflit d’interprétations », Textes réunis par Pierre Bayard et Jean
-   Bellemin-Noël, n° 240, 1996, p. 25-35.
-
-   ROBERT (Marthe), En haine du roman, Paris, Balland, 1982 (rééd. Paris,
-   Le Livre de Poche, 1984).
-
-   SOKAL (Alan), « Transgressing the Boundaries: Towards a Transformative
-   Hermeneutics of Quantum Gravity », Social Text (Duke university),
-   n° 46/47, spring/summer 1996, p. 217-252.
-
-   SOKAL (Alan) et BRICMONT (Jean), Impostures Intellectuelles, Paris,
-   Odile Jacob, 1997.
-
-   SPIVAK (Gayatri Chakravorty), Les Subalternes peuvent-elles parler ?
-   (1998), trad. Jérôme Vidal, Paris, Éditions Amsterdam, 2009.
-
-   WALD LASOWSKI (Patrick), La Maison Maupassant, Paris, Gallimard, coll.
-   « L’un et l’autre », 2009.
-
-   WEBER (Florence), « Publier des cas ethnographiques : analyse
-   sociologique, réputation et image de soi des enquêtés », Genèses,
-   2008/1, n° 70, p. 140-150.
-
-notes
-
-   1  Paul Bénichou, Le Temps des prophètes. Doctrines de l’âge
-   romantique, Paris, Gallimard, coll. « Bibliothèque des idées », 1977,
-   respectivement p. 7 et p. 11. Voir aussi Paul Bénichou, Le Sacre de
-   l’écrivain (1750-1830). Essai sur l’avènement d’un pouvoir spirituel
-   laïque dans la France moderne (1973), Paris, Gallimard, coll.
-   « Bibliothèque des idées », 1996 ; Les Mages romantiques, Paris,
-   Gallimard, coll. « Bibliothèque des idées », 1988.
-
-   2  La façon dont les sciences humaines sont conduites à dévaloriser le
-   savoir que pourrait apporter la littérature tient sans aucun doute à
-   leur souci de se démarquer d’elle avec la plus grande clarté – manière
-   de masquer une proximité qui pourrait remettre en cause leur
-   scientificité, en tous les cas à l’aune des exigences toujours
-   prégnantes des sciences de la nature. Il arrive que cette tendance
-   aille jusqu’à l’imposture, au moins qu’elle touche le ridicule. C’est
-   ce qu’a montré en 1996 le physicien américain Alan Sokal en publiant
-   dans le numéro 46/47 de la revue d’étude culturelle Social Text (Duke
-   university) un article d’allure scientifique, mais truffé d’erreurs et
-   de non-sens que le comité de lecture n’identifia pas, pour dénoncer
-   l’usage abusif des discours physique et mathématique dans d’autres
-   domaines de recherche : « Transgressing the Boundaries: Towards a
-   Transformative Hermeneutics of Quantum Gravity ». Voir Alan Sokal et
-   Jean Bricmont, Impostures Intellectuelles, Paris, Odile Jacob, 1997 ;
-   Yves Jeanneret, L'Affaire Sokal ou la querelle des impostures, Paris,
-   Presses universitaires de France., 1998 ; Baudouin Jurdant et Nathalie
-   Savary, Impostures scientifiques, les malentendus de l'affaire Sokal,
-   Paris, La Découverte, 1998.
-
-   3  Hostile à toutes les critiques d’intention scientifique qui
-   entendent atteindre réellement leur objet par une réduction et une
-   traduction symbolique, Barthes écrit ainsi : « Le critique ne peut
-   prétendre “traduire” l’œuvre, notamment en plus clair, car il n’y a
-   rien de plus clair que l’œuvre. Ce qu’il peut, c’est “engendrer” un
-   certain sens en le dérivant d’une forme qui est l’œuvre » (Roland
-   Barthes, Critique et vérité, 1966, repris dans Œuvres complètes, t. II,
-   1962-1967 (1993-1994), éd. Éric Marty, Paris, Éditions du Seuil, 2002,
-   p. 792). Même s’il doit obéir à un certain nombre de contraintes qu’il
-   respecte plus ou moins et même si toutes les interprétations d’un texte
-   ne se valent donc pas, Barthes est très conscient de ce que le critique
-   construit, non pas le sens, mais un sens du texte.
-
-   4  Raymond Picard, Nouvelle critique ou nouvelle imposture, Paris,
-   Jean-Jacques Pauvert, coll. « Libertés », 1965, respectivement p. 105
-   et p. 122.
-
-   5  Ibid., p. 113-114.
-
-   6  Ibid., p. 117.
-
-   7  Voir Roland Barthes, Critique et vérité, op. cit., p. 774-777.
-
-   8  Raymond Picard, Nouvelle critique ou nouvelle imposture, op. cit.,
-   p. 10.
-
-   9  Ibid., p. 83.
-
-   10  Gustave Lanson, « La méthode de l’histoire littéraire » (Revue du
-   Mois, 10 octobre 1910), Essais de méthode, de critique et d’histoire
-   littéraires, éd. Henry Peyre, Paris, Hachette, 1965, respectivement
-   p. 35-36 et p. 43.
-
-   11  Antoine Compagnon, La Troisième République des Lettres, de Flaubert
-   à Proust, Paris, Éditions du Seuil, coll. « Poétique », 1983, p. 147.
-
-   12  Charles Péguy, « Zangwill » (Cahiers de la Quinzaine, 25 octobre
-   1904), Œuvres en prose complètes, Tome I, éd. Robert Burac, Paris,
-   Gallimard, coll. « Bibliothèque de la Pléiade », 1987, p. 1399.
-
-   13  Janine Chasseguet-Smirgel, « À propos de L’Année dernière à
-   Marienbad » (1967), Pour une psychanalyse de l’art et de la créativité,
-   Paris, Payot, 1971, respectivement p. 67 et p. 79.
-
-   14  Ibid., p. 80.
-
-   15  Marthe Robert, En haine du roman (1982), Paris, Le Livre de Poche,
-   1984, p. 69.
-
-   16  Janine Chasseguet-Smirgel, Éthique et esthétique de la perversion,
-   Seyssel, Champ Vallon, coll. « L’Or d’Atalante », 1984, p. 186.
-
-   17  Mona Ozouf, Les Aveux du roman. Le xix^e siècle entre Ancien Régime
-   et Révolution (2001), Paris, Gallimard, coll. « Tel », 2004, p. 347.
-
-   18  Voir Jean-Marie Mayeur (dir.), L’Histoire religieuse de la France,
-   xix^e- xx^e siècles. Problèmes et méthodes, Paris, Beauchesne, 1975 ;
-   Pierre Pierrard, L’Église et la Révolution (1789-1889), Paris, Nouvelle
-   Cité, 1988 ; Philippe Joutard (dir.), Histoire de la France religieuse,
-   t. 3, Du Roi Très Chrétien à la laïcité républicaine (xviii^e-xix^e
-   siècles), Paris, Éditions du Seuil, 1991.
-
-   19  Mona Ozouf, Les Aveux du roman. Le xix^e siècle entre Ancien Régime
-   et Révolution, op. cit., respectivement p. 330 et p. 331.
-
-   20  Ibid., p. 22.
-
-   21  Sigmund Freud, L’Interprétation du rêve (1900), repris dans Œuvres
-   complètes, vol. IV, 1899-1900, trad.Janine Altounian, Pierre Cotet,
-   René Lainé, Alain Rauzy, François Robert, Paris, Presses universitaires
-   de France, 2004, p. 301.
-
-   22  Ibid.
-
-   23  Ibid., respectivement p. 302 et p. 304-305.
-
-   24  Mona Ozouf, Les Aveux du roman. Le xix^e siècle entre Ancien Régime
-   et Révolution, op. cit., p. 23.
-
-   25  Pierre Bourdieu, Les Règles de l’art. Genèse et structure du champ
-   littéraire, Paris, Éditions du Seuil, coll. « Libre Examen », 1992,
-   p. 59.
-
-   26  Ibid., p. 60.
-
-   27  Ibid.
-
-   28  Ibid., p. 61.
-
-   29  Roland Barthes, Critique et vérité, op. cit., p. 762.
-
-   30  Raymond Picard, Nouvelle critique ou nouvelle imposture, op. cit.,
-   p. 79-80.
-
-   31  Ibid., p. 69.
-
-   32  Ibid., respectivement p. 89 et p. 91.
-
-   33  Ibid., p. 120.
-
-   34  Ibid., p. 138.
-
-   35  Il n’est ainsi rien d’étonnant à ce que cette violence symbolique
-   puisse être durement ressentie par les écrivains eux-mêmes lorsque le
-   chercheur prend pour objet des auteurs encore vivants. C’est ce que
-   montrent exemplairement l’article que la sociologue Delphine Naudier
-   consacra il y a quelques années à Victoria Thérame et la réaction qu’il
-   suscita de la part de l’écrivain. Voir Delphine Naudier, « Sociologie
-   d’un miracle éditorial dans un contexte féministe », Genèses 2006/3,
-   n° 64, p. 67-87 ; Florence Weber, « Publier des cas ethnographiques :
-   analyse sociologique, réputation et image de soi des enquêtés »,
-   Genèses, 2008/1, n° 70, p. 140-150 ; Alain Desrosières, « Quand une
-   enquêtée se rebiffe : de la diversité des effets libérateurs, ou les
-   arguments des trois Chatons », Genèses 2008/2, n° 71, p. 148-159.
-
-   36  Antoine Compagnon, Le Démon de la théorie. Littérature et sens
-   commun (1998), Paris, Éditions du Seuil, coll. « Points », 2001,
-   respectivement p. 22 et p. 312.
-
-   37  Voir Guillaume Bridet, Littérature et sciences humaines : autour de
-   Roger Caillois, Paris, Honoré Champion, coll. « Bibliothèque de
-   Littérature générale et comparée », 2008, p. 287-290.
-
-   38  Roger Caillois, Le Champ des signes, Paris, Hermann, 1978, p. 53.
-
-   39  Roger Caillois, Le Fleuve Alphée, Paris, Gallimard, 1978,
-   respectivement p. 217 et p. 216.
-
-   40  Lucien Goldmann, Pour une sociologie du roman (1964), Paris,
-   Gallimard, coll. « Tel », 1986, p. 15.
-
-   41  Ibid., p. 345.
-
-   42  Lucien Goldmann, « Structuralisme génétique et création
-   littéraire », Sciences humaines et philosophie, suivi de Structuralisme
-   génétique et création littéraire, Paris, Gonthier, coll. « Bibliothèque
-   Médiations », 1978, p. 161.
-
-   43  Serge Doubrovsky, Pourquoi la Nouvelle critique. Critique et
-   objectivité, Paris, Mercure de France, 1966, respectivement p. 139 et
-   p. 143.
-
-   44  Lucien Goldmann, Le Dieu caché. Étude sur la vision tragique dans
-   les Pensées de Pascal et dans le théâtre de Racine (1955), Paris,
-   Gallimard, coll. « Tel », 1976, p. 28-29.
-
-   45  Lucien Goldmann, Pour une sociologie du roman, op. cit., p.
-   346-347.
-
-   46  Ibid., p. 360.
-
-   47  Lucien Goldmann, « Structuralisme génétique et création
-   littéraire », op. cit., p. 154.
-
-   48  Voir par exemple la discussion par Barthes de l’intervention de
-   Koehler et les propositions de Lefebvre concernant celle de Goldmann
-   dans Littérature et société. Problèmes de la méthodologie en sociologie
-   de la littérature, colloque organisé conjointement par l’Institut de
-   Sociologie de l’Université Libre de Bruxelles et l’École Pratique des
-   Hautes Études (6^e section) de Paris du 21 au 23 mai 1964, Institut de
-   Sociologie, Université Libre de Bruxelles, 1967, p. 64-71 et
-   p. 211-222.
-
-   49  Voir Adam Phillips, Trois capacités négatives, Paris, L’Olivier,
-   coll. « penser/rêver », 2009.
-
-   50  Telle est la raison pour laquelle Freud récuse avec vigueur
-   l’assimilation de la psychanalyse aux sciences de l’esprit et insiste
-   au contraire pour la maintenir dans l’orbite des sciences de la nature.
-   Il entend rester un médecin, non pas créateur d’une vision du monde,
-   mais soucieux d’élaborer un savoir toujours sujet à révision. Voir sur
-   ce point Paul-Laurent Assoun, Freud et les sciences sociales.
-   Psychanalyse et théorie de la Culture, Paris, Armand Colin, coll.
-   « Cursus/Philosophie », 1993, p. 11-26.
-
-   51  Voir sur ce point Sarah Kofman, L’Enfance de l’art. Une
-   interprétation de l’esthétique freudienne (1970), 3^e éd., Paris,
-   Galilée, coll. « Débats », 1985.
-
-   52  Sigmund Freud, Un Souvenir d’enfance de Léonard de Vinci (1910),
-   repris dans Œuvres complètes, vol. X, 1909-1910, trad. Janine
-   Altounian, André Bourguignon, Pierre Cotet, Alain Rauzy, Paris, Presses
-   universitaires de France, 1993, p. 162.
-
-   53  Ibid., p. 163.
-
-   54  Voir respectivement Sigmund Freud, Leçons d’introduction à la
-   psychanalyse (1916-1917), repris dans Œuvres complètes, vol. XIV,
-   1915-1917, trad. Janine Altounian, André Bourguignon, Pierre Cotet,
-   Jean-Gilbert Delanbre, Daniel Hartmann, François Robert, Paris, Presses
-   universitaires de France, 2000, p. 389-390 ; Autoprésentation (1925),
-   repris dans Œuvres complètes, vol. XVII, 1923-1925, trad. Pierre Cotet,
-   René Lainé, Paris, Presses universitaires de France, 1992, p. 113 ;
-   « Dostoïevski et la mise à mort du père » (1928), Œuvres complètes,
-   vol. XVIII, 1926-1930, trad. Janine Altounian, André Bourguignon, Eva
-   Carstanjen, Pierre Cotet, Paris, Presses universitaires de France,
-   1994, p. 207.
-
-   55  Sigmund Freud, Un Souvenir d’enfance de Léonard de Vinci, op. cit.,
-   p. 163.
-
-   56  Ibid.
-
-   57  Pierre Bayard, Peut-on appliquer la littérature à la
-   psychanalyse ?, Paris, Éditions de Minuit, coll. « Paradoxe », 2004,
-   p. 146.
-
-   58  Ibid., respectivement p. 19 et p. 32.
-
-   59  Pierre Bayard, Qui a tué Roger Ackroyd ?, Paris, Éditions de
-   Minuit, coll. « Paradoxe », 1998, p. 14.
-
-   60  Ibid., p. 122.
-
-   61  Pierre Bayard, Peut-on appliquer la littérature à la
-   psychanalyse ?, op. cit., p. 48-49.
-
-   62  Ibid., respectivement p. 104 et p. 106.
-
-   63 Ibid., p. 107-108.
-
-   64 Ibid., p. 153.
-
-   65 Ibid., respectivement p. 139 et p. 140.
-
-   66  Ibid., p. 151.
-
-   67 Ibid., p. 51.
-
-   68 Ibid., p. 162.
-
-   69  Ibid., p. 165.
-
-   70  François Gantheret, La Nostalgie du présent. Psychanalyse et
-   écriture, Paris, L’Olivier, coll. « penser/rêver », 2010, p. 16.
-
-   71  Jean-Michel Rey, « Retour amont », Revue des Sciences Humaines,
-   « Le conflit d’interprétations », Textes réunis par Pierre Bayard et
-   Jean Bellemin-Noël, n° 240, 1996, p. 35.
-
-   72  Pierre Bayard, Comment parler des livres que l’on n’a pas lus ?,
-   Paris, Éditions de Minuit, coll. « Paradoxe », 2007, respectivement
-   p. 13 et p. 15.
-
-   73  L’affirmation d’un désir de maîtrise persistant jusque dans le
-   discours sur sa propre pratique intellectuelle est clairement lisible
-   dans Esquisse d’une auto-analyse que Bourdieu publie en langue
-   allemande en 2002 et qui est traduit en français peu de temps après sa
-   mort. Le sociologue fait en effet de son propre parcours l’illustration
-   parfaite des théories qu’il a développées dans le reste de son œuvre.
-   Voir Pierre Bourdieu, Esquisse d’une auto-analyse, Paris, Raisons
-   d’agir, coll. « Cours et travaux », 2004.
-
-   74  Voir Jean Piaget, Biologie et connaissance. Essai sur les relations
-   entre les régulations organiques et les processus cognitifs (1967),
-   préface de Marino Buscaglia, Paris, Delachaux & Niestlé, coll.
-   « Actualités pédagogiques et psychologiques », 1992, p. 24-25.
-
-   75  Pierre Bourdieu, La Distinction. Critique sociale du jugement,
-   Paris, Éditions de Minuit, coll. « Le Sens commun », 1979, p. 190.
-
-   76  Bernard Lahire, L’Homme pluriel. Les ressorts de l’action, Paris,
-   Nathan, coll. « Essais et Recherches », 1998, p. 95.
-
-   77  Bernard Lahire, La Condition littéraire. La double vie des
-   écrivains, Paris, La Découverte, coll. « Textes à l’appui », 2006,
-   p. 10. Il est toutefois à noter que, si Bernard Lahire reproche à
-   Bourdieu une conception trop monolithique de l’habitus, il succombe
-   pour partie à la même critique quand il entend mettre au jour la
-   « problématique existentielle » de Kafka qui serait « la matrice de
-   production de l’œuvre », c’est-à-dire de « son expression littéraire »
-   (ibid., p. 81), et qu’il croit la trouver dans « la relation
-   conflictuelle ambivalente qu’il a entretenue avec son père » (ibid.,
-   p. 86). Cela réduit tout de même considérablement ce que Bernard Lahire
-   nomme ailleurs en une belle formule la « polyphonie intérieure »
-   (ibid., p. 431) de l’écrivain.
-
-   78  Ibid., p. 12-13.
-
-   79  Ibid., respectivement note 2 p. 14 et p. 537.
-
-   80 Ibid., p. 531.
-
-   81 Ibid., p. 532.
-
-   82 Ibid., p. 533.
-
-   83 Ibid., p. 534.
-
-   84 Ibid., p. 534-535.
-
-   85  Bernard Lahire, Franz Kafka. Éléments pour une théorie de la
-   création littéraire, Paris, La Découverte, coll. « Textes à l’appui »,
-   2010, respectivement p. 309 et p. 312.
-
-   86  Ibid., p. 87.
-
-   87  Ibid., p. 592-593. Comme on le constate dans la page qui suit,
-   Bernard Lahire vise ici entre autres Yves Citton et l’idée d’une
-   lecture nécessairement projective qu’il développe dans Lire,
-   interpréter, actualiser. Pourquoi les études littéraires ?, Paris,
-   Éditions Amsterdam, 2007.
-
-   88  Bernard Lahire, La Condition littéraire. La double vie des
-   écrivains, op. cit., p. 15. Mais il est vrai que la phrase est ambiguë
-   et qu’elle peut aussi s’entendre, contre la tentation bourdieusienne
-   d’une supériorité absolue de la sociologie sur la littérature, comme la
-   revendication d’une plus grande fidélité de la sociologie aux pratiques
-   réelles des écrivains et aux discours dont ils les accompagnent.
-
-   89  Bernard Lahire, Franz Kafka. Éléments pour une théorie de la
-   création littéraire, op. cit., p. 10.
-
-   90  Ibid., respectivement p. 344 et p. 345.
-
-   91  Ibid., p. 318.
-
-   92  Ibid., p. 489-490.
-
-   93  De ce point de vue, l’opposition que propose Bernard Lahire entre
-   une littérature qui raconterait de manière sensible et une sociologie
-   qui donnerait à voir de manière abstraite (ibid., p. 305-306) n’est
-   guère convaincante. La littérature ne fait pas que raconter des
-   histoires, elle décrit aussi ; et inversement, la sociologie, même si
-   elle privilégie une présentation synoptique, n’en laisse pas moins
-   place à des récits. Aucune des deux pratiques ne peut prétendre que le
-   recours à l’abstraction ou à la réalité sensible lui soit par principe
-   étranger.
-
-   94  Les seules vraies frontières ne sauraient être dans ce cadre que
-   des frontières institutionnelles – qui n’en sont pas moins réelles pour
-   cela, puisqu’elles déterminent précisément le cadre de la légitimité et
-   réglementent donc plus ou moins le régime d’intention de l’auteur et
-   surtout celui de sa réception.
-
-   95  Bernard Lahire, Franz Kafka. Éléments pour une théorie de la
-   création littéraire, op. cit., n. 1, p. 490.
-
-   96  C’est avec ces mots que la collection « L’un et l’autre » est
-   présentée sur le rabat de la quatrième de couverture.
-
-   97  Patrick Wald Lasowski, La Maison Maupassant, Paris, Gallimard,
-   coll. « L’un et l’autre », 2009, respectivement p. 23, p. 46 et p. 55.
-
-   98  Pierre Bayard, Peut-on appliquer la littérature à la
-   psychanalyse ?, op. cit., p. 145.
-
-   99  Gayatri Chakravorty Spivak, Les Subalternes peuvent-elles parler ?
-   (1988), trad. Jérôme Vidal, Paris, Éditions Amsterdam, 2009, p. 13.
-
-résumés
-
-   Depuis le début des années 1960, l’histoire des relations entre la
-   littérature, les études littéraires et les sciences humaines se
-   caractérise par un malentendu. Ce que les sciences humaines infligent
-   aux études littéraires, c’est une rupture avec le mythe de l’œuvre
-   absolument singulière fruit d’un génie supérieur. Mais ce que la
-   littérature fait aux sciences humaines, c’est de les contraindre à la
-   considération de singularités qu’elles sont d’autant plus impropres à
-   saisir qu’elles entendent atteindre un haut degré systémique. Il s’agit
-   de revenir sur cette violence symbolique que la littérature, les études
-   littéraires et les sciences humaines (appliquées à la littérature)
-   s’infligent les unes aux autres et de tracer quelques pistes pour des
-   relations futures qu’on pourrait résumer ainsi : passer d’une position
-   du type je sais bien mais quand même (je sais que mon savoir est limité
-   mais j’ai tout de même un savoir qui s’impose) à une position du type
-   je sais et cependant (j’ai un savoir mais je dois bien reconnaître
-   qu’il est limité) – manière d’ouvrir le débat, mieux encore : de le
-   laisser ouvert.
-
-plan
-
-     * 1965-1966 : les enjeux de la controverse entre Picard et Barthes
-     * La réduction de la littérature au statut de document
-     * La traduction de la littérature en langage scientifique
-     * De la maîtrise à l’incertitude
-     * Un dogmatisme ouvert par l’interdisciplinarité
-     * Des sciences humaines de l’embarras
-     * Un statut doxologique partagé
-
-auteur
-
-   Guillaume Bridet
-
-   Voir ses autres contributions
-
-   Paris 13/CENEL
-
-   Courriel : g.bridet@free.fr
-
-pour citer cet article
-
-   Guillaume Bridet, « Ce que les sciences humaines font aux études
-   littéraires (et ce que la littérature fait aux sciences humaines) »,
-   dans Fabula-LhT, n° 8, « Le Partage des disciplines », dir. Nathalie
-   Kremer, May 2011,URL : http://www.fabula.org/lht/8/bridet.html, page
-   consultée le 01 January 2026. DOI : https://doi.org/10.58282/lht.228
-
-Navigation Fabula-LhT
-
-   (BUTTON)
-     * sommaire
-     * Appels à contributions
-     * Présentation de la revue
-     * Objectifs de la revue
-     * Comités
-     * Consignes de rédaction
-     * Proposer un dossier thématique
-     * Proposer un article en varia (hors dossier)
-     * Procédure de sélection des textes
-     * Ethique de la revue
-     * Contact
-     * index
-
-   Article publié
-   le 16 May 2011
-     * a
-     * a
-     * a
-
-     * Résumés
-     * Plan
-     * Notes
-     * Bibliographie
-     * Mots Clés
-     * Citation
-     * Auteur
-
-   © Tous les textes et documents disponibles sur ce site, sont, sauf
-   mention contraire, protégés par une licence Creative Common.
-
-   Mentions légales et conditions d'utilisation
-     * Flux RSS
-     * Facebook
-     * Twitter
+   IFRAME: //www.googletagmanager.com/ns.html?id=GTM-PHXHF4
+
+   Retour en haut
+     * Contenu
+     * Menu principal
+
+     * Cité des sciences et de l'industrie
+     * Palais de la découverte
+     * le blob
+
+
+   Accueil - Universcience
+   (BUTTON) Menu principal
+     * Nous connaître
+          + Universcience
+          + Cité des sciences et de l'industrie
+          + Palais de la découverte
+          + Partenariats & rayonnement
+     * Professionnels
+          + Presse & Médias
+          + Location d'espaces
+          + Exhibition Services
+          + Marchés publics
+          + Universcience Partenaires
+          + Label Cité des métiers
+          + L'École de la Médiation
+          + ReMédiS
+          + Appel à projets innovants
+          + MVE & RECA
+     * Développement durable
+          + Nos engagements
+          + Nos actualités
+     * Esprit critique
+     * Nous rejoindre
+          + L'établissement Universcience
+          + Recrutement
+          + Candidature spontanée
+     * Nous soutenir
+          + Particuliers
+          + Entreprises & Fondations
+          + Ils nous soutiennent
+          + Je fais un don
+          + Une place sous les étoiles
+
+   Découvrez aussi...
+     * Accueil Cité des sciences et de l'industrie
+     * Accueil Palais de la découverte
+     * Accueil leblob.fr l'extra média
+
+     * FR
+     * EN
+          + Accueil
+          + Esprit critique
+       Esprit critique
+
+Baromètre de l'esprit critique
+       Édition 2024
+       Chaque année, le Baromètre de l'esprit critique, enquête sur le
+       rapport de nos concitoyens à la science et aux médias et sur la
+       construction de leur opinion, interroge, outre ses thématiques
+       pérennes, un sujet d'actualité.
+       L'édition 2024 du Baromètre, réalisé par OpinionWay pour
+       Universcience, questionne le rapport de nos concitoyens à l'IA.
+       Quels usages les Françaises et les Français font-ils aujourd'hui de
+       l'intelligence artificielle et de ses applications ? Quelle
+       confiance leur accordent-ils et comment voient-ils son avenir ?
+       L'intelligence artificielle, plutôt une menace ou une opportunité ?
+       Découvrez l’édition 2024 du Baromètre de l’esprit critique :
+       résultats de l’enquête, synthèse, table ronde…
+
+       Table ronde - Présentation des résultats du Baromètre de l'esprit
+       critique / ÉDITION 2024
+
+       IFRAME:
+       https://www.youtube.com/embed/9kzL1kSMjpw?start=0&cc_load_policy=1
+
+Les Français et l'intelligence artificielle
+
+IA, IA génératives : des Français intéressés, mais qui ne sont pas prêts à
+leur laisser piloter un avion ou prescrire un médicament
+       Image d'illustration
+       Comment les Françaises et les Français perçoivent-ils le sujet de
+       l’IA - focus 2024 du Baromètre de l’esprit critique - et notamment
+       celui des applications des IA génératives, omniprésentes dans
+       l’actualité depuis l’émergence de ChatGPT ?
+       Si 61% des sondés y voient une révolution technologique majeure du
+       niveau de celle de l’imprimerie (plus de 70% pour les moins de 34
+       ans), ils sont plus nombreux, respectivement 85% et 77%, à penser
+       nécessaire sa réglementation et à affirmer qu’elle pose de
+       nouvelles questions éthiques et juridiques. Concernant les
+       possibilités de ces technologies, 68% répondent que les
+       applications de l’IA ne peuvent pas prendre de décisions autonomes,
+       59% qu’elles ne sont ni créatives ni innovantes (car assemblant des
+       contenus déjà existants) et seuls 19% les croient parfaitement
+       fiables (une large majorité - 69% - affirmant le contraire). Quant
+       à savoir si elles sont « plus neutres que les humains », le panel
+       est plus divisé : 42% répondent par l’affirmative, 38% le contraire
+       et une proportion importante (20%) ne se prononce pas.
+       Interrogés sur les effets du développement de l’IA sur différents
+       secteurs, les répondants font preuve d’une perception nuancée, la
+       réponse « autant de risques que d’avantages » arrivant presque
+       systématiquement en tête. C’est en revanche la perception du risque
+       qui domine pour le domaine des relations humaines (37%, contre 31%
+       « autant de risques que d’avantages » et 10% « essentiellement des
+       avantages »), et qui ressort également fortement pour l’information
+       (33%) et pour l’emploi (31%), même si 34% des répondants voient
+       également « autant de risques que d’avantages » pour ces deux
+       domaines. Inversement, c’est pour la santé (29%), la recherche et
+       les sciences (28%) et les transports (26%) que le taux de
+       répondants prévoyant essentiellement des avantages est le plus
+       élevé - même si sur tous ces sujets, c’est encore la vision nuancée
+       qui prédomine (« autant de risques que d’avantages » à
+       respectivement 35, 36 et 33%).
+       De manière générale, les CSP+ sont plus nombreuses que les CSP- à
+       voir essentiellement des avantages à ces applications de l’IA. Par
+       ailleurs l’enquête souligne la spécificité des 18-24 ans pour
+       lesquels, à la différence de la population générale, la perception
+       des avantages de l’IA l’emporte fréquemment plus nettement.
+       Concernant par exemple les transports et la mobilité, 40% des 18-24
+       ans considèrent que le développement de l’IA présentera
+       essentiellement des avantages, 20% autant de risques que
+       d’avantages, et 19% essentiellement des risques.
+       Questionnés sur les types de tâches que peut prendre en charge
+       l’IA, les répondants se fient majoritairement à elle pour détecter
+       des erreurs (75%), analyser de grandes quantités de données (73%),
+       trouver des informations (70%) ou même écrire un texte (64%) ; en
+       revanche, la défiance domine quand la question de responsabilité
+       entre en jeu, qu’il s’agisse de rendre des décisions de justice
+       (25% de confiance), de piloter un avion (28%) ou une voiture (34%),
+       ou encore de prescrire des médicaments (33%) ou de réaliser un
+       diagnostic médical (41% de confiance).
+       À qui faire confiance pour évaluer les risques et les bénéfices de
+       cette nouvelle technologie ?
+       Dans la continuité des questions similaires posées les années
+       précédentes (en 2023 sur le changement climatique, en 2022 sur le
+       Covid-19), le panel plébiscite d’abord les scientifiques (68%), les
+       musées et centres de culture scientifique (59%) et les journalistes
+       scientifiques (56%). En revanche, la méfiance prédomine envers les
+       entreprises et notamment les entreprises du numérique type GAFAM
+       (34 et 29% de confiance), de même qu’envers les élus et
+       représentants politiques (22%).
+
+Quel rapport les Français ont-ils aux IA génératives ?
+       Le Baromètre 2024 sonde également ses répondants sur les IA
+       génératives (type ChatPGT ou Midjourney) en particulier.
+       65% du panel en ont déjà entendu parler, mais seulement 23% en ont
+       déjà utilisé, 34% ne sachant pas de quoi il s’agit. On note
+       également un clivage de genre, de catégorie socio-professionnelle
+       et d’âge, le taux de connaissance étant inversement proportionnel à
+       l’âge (la proportion d’usage est quant à elle significativement
+       plus importante chez les moins de 24 ans – 46%), tandis que les
+       hommes (70%) et les CSP+ (77%) sont plus nombreux à avoir entendu
+       parler de ces technologies et à les utiliser. Parmi les
+       utilisateurs des applications de l’IA générative, c’est l'usage
+       informationnel (68%) qui prédomine, suivi de la traduction (61%) et
+       de la rédaction de texte (59%). Et si 87% des usagers sont
+       impressionnés par la vitesse (87%) et la qualité (74%) des
+       productions de ces IA, une proportion à peu près équivalente
+       d’enquêtés (8 sur 10) déclare s’interroger sur leur fiabilité (78%)
+       et comparer les résultats obtenus avec ceux d’autres sources (80%).
+       Cet usage de l’esprit critique à l’égard des productions de l’IA
+       connaît toutefois quelques variations : il s’exprime plus nettement
+       chez les hommes que chez les femmes. Par ailleurs la pratique du
+       croisement des résultats obtenus à partir de plusieurs sources
+       d’informations augmente régulièrement avec l’âge : 74% chez les
+       18-24, 94% chez les 65 et plus.
+       « L’ubérisation » du « génie » ne semble toutefois pas à l’ordre du
+       jour, 74% des sondés ne pensant pas qu’une IA puisse recevoir un
+       jour le Prix Nobel – proportion qui baisse néanmoins à 59% chez les
+       25-34 ans, autre signe de la plus grande appropriation de ces
+       technologies par les jeunes générations.
+
+Les Français et les sciences
+
+Un intérêt confirmé pour la science, mais des interrogations éthiques et des
+disparités de genre, économiques et territoriales
+       Image d'illustration
+       Le Baromètre 2024 confirme par ailleurs les grands enseignements
+       des deux éditions précédentes pour le rapport des Françaises et des
+       Français à la science.
+       Dans l’actualité, les sujets scientifiques, comme ceux relatifs aux
+       nouvelles technologies, intéressent 69% des sondés - c’est plus que
+       le sport (48%) ou même la politique (61%). 61% des répondants
+       déclarent avoir des activités à caractère scientifique au moins une
+       fois par mois (indicateur en hausse de 6 points par rapport à
+       2023), avec en tête la consultation de documentaires (42%), de
+       sites internet (37%) et de vidéos sur le web (32%). De même, 41%
+       des sondés ont des activités scientifiques dans le cadre de leurs
+       loisirs, visites d’exposition en tête (27%). Interrogés plus
+       précisément sur les domaines scientifiques et technologiques qui
+       les intéressent, ce sont la santé (41%) ainsi que le climat et
+       l’écologie (31%) qui ressortent en tête - l’écologie étant plus
+       citée par les répondants se classant à gauche. De fortes disparités
+       de genre apparaissent néanmoins, 16% des femmes seulement par
+       exemple déclarant s’informer régulièrement sur le numérique et
+       l’IA, contre 36% pour les hommes ; de même pour l’énergie et le
+       nucléaire, qui intéressent 36% des hommes, mais 15% des femmes
+       interrogées.
+       On retrouve quatre groupes qui se dégagent au sein de la population
+       interrogée, pour ce qui est du rapport aux pratiques scientifiques,
+       dans des proportions stables par rapport aux éditions passées : des
+       « distants » (8%) et des « irréguliers » (42%), au profil plus
+       féminin (et âge de 50 à 64 ans pour les distants), plus issus des
+       catégories populaires, peu ou pas diplômés, résidant plus dans des
+       petites communes, d’une part ; d’autre part, des « intéressés »
+       (36%, plus masculins, âgés, diplômés et CSP+, qui s’informent
+       régulièrement sur les sciences) et des « passionnés » (14%, plus
+       jeunes et diplômés, CSP+, résidant dans des grandes agglomérations,
+       plus souvent parents de jeunes enfants, s’informant sur la science
+       et visitant plus de lieux de science).
+
+Quelle image les sondés ont-ils des sciences ?
+       Dans leur grande majorité — 8 à 9 enquêtés sur 10 — les sondés
+       jugent très positivement la science et ses apports : elle permet à
+       leurs yeux non seulement de mieux comprendre qui nous sommes (85%)
+       tout comme le monde dans lequel nous vivons (88%), mais elle
+       améliore les conditions de vie (86%), notamment à travers de
+       nouvelles technologies utiles à tous (88%).  Ces attitudes
+       positives entrent toutefois en tension avec des jugements plus
+       réservés sur la capacité de la science « à rendre l’homme meilleur
+       » (65%) ou sur celle des scientifiques à être les mieux placés «
+       pour savoir ce qui est bon pour les citoyens ». Une proposition qui
+       ne convainc qu’un peu plus d’un enquêté sur deux (55%) avec une
+       variation notable en fonction de l’âge, les plus jeunes étant plus
+       enclins à s’en remettre aux scientifiques que leurs aînés.
+       De façon très majoritaire, les enquêtés s’accordent pour considérer
+       que les scientifiques, par leurs connaissances, ont un pouvoir qui
+       peut les rendre dangereux (72%). Un jugement qui ne connaît que
+       très peu de variations en fonction des variables
+       sociodémographiques. Sur un autre plan, si 80% des sondés pensent
+       qu’une affirmation validée scientifiquement a plus de valeur, seuls
+       48% pensent que la science est la seule source fiable de savoir sur
+       le monde, 42% répondant le contraire et 10% ne se prononçant pas.
+       Enfin, du point de vue de l’éthique professionnelle, 60% des sondés
+       pensent que les scientifiques suivent des règles éthiques strictes
+       (proportion qui monte à 69% chez les sondés se déclarant à gauche),
+       mais seuls 51% répondent que la communauté scientifique est
+       indépendante pour valider ses résultats.
+
+Quelles disciplines les Français considèrent-ils comme scientifiques ?
+       Nouvelle question de l’édition 2024 enfin, les sondés étaient
+       invités à évaluer la scientificité de plusieurs disciplines. Si,
+       sans surprise, la chimie, la médecine et la biologie se détachent
+       (77/76% répondent que « c’est une science »), les sciences humaines
+       (archéologie : 49%, sociologie : 32%) reçoivent des réponses moins
+       tranchées. L'économie se retrouve quant à elle en bas de
+       classement, 26% des répondants la considérant comme une science
+       (31% « cela dépend des cas » et 33% « non »), ce qui la situe
+       derrière l’homéopathie (27 / 30 / 32) et l’ostéopathie (33 /34
+       /23).
+       Cette édition 2024 met par ailleurs en évidence une spécificité des
+       18-24 ans qui accordent plus facilement que la population générale
+       le statut de science à l’ensemble des domaines représentés, y
+       compris des domaines non reconnus comme scientifiques comme
+       l’homéopathie (+9 pts) ou l’astrologie (+13 pts).
+
+Les Français et l'esprit critique
+
+Un rapport à l’esprit critique différencié
+       Image d'illustration
+       Les Françaises et les Français font-ils preuve d’esprit critique ?
+       Si la majorité des répondants se définissent comme ayant l’esprit
+       critique (75%), un quart répond par la négative ou ne se prononce
+       pas. Quand on leur demande de définir l’esprit critique, ce sont
+       d’abord le raisonnement logique et rationnel (44%), le fait de
+       s’informer avant de prendre position (42%) et la capacité
+       d’échanger avec des personnes aux opinions divergentes (41%) qui
+       ressortent.
+       Comme les années précédentes, la capacité à se méfier de ses
+       propres intuitions – indispensable pour essayer de s’émanciper des
+       biais cognitifs – ressort beaucoup moins (14%), tout comme la
+       remise en question de la parole des autorités (16%). Une nette
+       majorité considère pouvoir changer d’opinion sur la base de raisons
+       convaincantes (82%), dit comparer différents points de vue avant de
+       se faire son opinion (78%) et pense important de remettre en
+       question les croyances traditionnelles avec des preuves logiques et
+       rationnelles (77%).
+       En revanche, 46% préfèrent échanger avec des personnes partageant
+       leur opinion – contre 45% qui répondent le contraire. Débats qui
+       ont lieu principalement au cours d’échanges entre amis (63%) ou de
+       repas de famille (59%) et, dans une moindre mesure, lors de
+       discussions au travail (41%). Les réseaux sociaux apparaissent
+       comme étant beaucoup moins utilisés à cette fin par l’ensemble du
+       panel (22%), même si la proportion augmente significativement chez
+       les jeunes (34% chez les 18-24 ans et même 44% chez les 25-34 ans
+       font état d’un usage régulier ou épisodique des réseaux sociaux
+       pour débattre).
+       Interrogés sur les enseignements qui leur ont permis de développer
+       leur esprit critique durant leur scolarité, les sondés pointent
+       majoritairement le français et la littérature – les mathématiques
+       étant deux fois moins citées. Les parents (75%), les enseignants
+       (78%), les amis (73%) et, dans une moindre mesure, les auteurs lus
+       (68%) ressortent comme contribuant le plus à la formation de
+       l’esprit critique.
+       Le rapport à l’esprit critique permet de distinguer quatre autres
+       groupes chez les répondants. 43% d’« analystes », tout d’abord,
+       population plus âgée et qui se définit comme plus à gauche
+       politiquement consommatrice de médias traditionnels, attentive à la
+       qualité de l’information, convaincue de l’intérêt de la science et
+       valorisant l’esprit critique, notamment quant aux résultats de
+       celle-ci. 30% de « confiants », plus masculins, plus jeunes et se
+       définissant plus à droite politiquement que la moyenne, qui
+       déclarent faire preuve d’une forte curiosité, se considèrent plus
+       comme scientifiques, font plus confiance aux médias et à la science
+       que la moyenne et s’associent plus à l’esprit critique. 15%
+       d’« éloignés », plus issus des catégories populaires et moins
+       diplômés, s’informant avec moins de sources d’information, éloignés
+       de la science et moins concernés par l’esprit critique. Enfin, 12%
+       de « défiants », eux aussi moins diplômés, défiants par rapport à
+       la science et à ses résultats, montrant un autre rapport à l’esprit
+       critique (qu’ils pensent moins avoir que les autres, qu’ils
+       associent moins aux sciences et plus à la capacité à prendre la
+       bonne décision). « Éloignés » et « défiants » résident plus dans
+       les petites communes.
+
+Comment s'informent les Français ?
+
+Des pratiques informationnelles traversées par des différences
+générationnelles, politiques et de genre
+       Image d'illustration
+       Les pratiques des sondés en matière de suivi des actualités ont peu
+       évolué depuis l’an dernier : Internet (hors réseaux sociaux, 71%)
+       et la télévision (67%) sont toujours leurs deux principales sources
+       d’information, avec de fortes différences générationnelles (voir
+       plus loin le focus 18-24 ans). Même si l’écoute de la radio est en
+       léger recul, elle demeure le média qui suscite le plus la confiance
+       (55%).
+       Lorsqu’ils s’informent sur Internet, les répondants utilisent des
+       stratégies variées pour évaluer la fiabilité d’une information.
+       Leurs principaux critères sont les mêmes que dans la précédente
+       édition et sont liés au média dont elle est issue (39%), au contenu
+       et à l’argumentation (37%) et aux références à d’autres sources
+       (35%). Le caractère indépendant du média progresse fortement (29%,
+       +7 points). Le fait qu’un chercheur ou expert partage l’information
+       n’est un critère que pour 11% du panel.
+       Dans le détail, des disparités apparaissent cependant. Les sondés
+       qui se positionnent à gauche de l’échiquier politique donnent plus
+       de poids au média qui diffuse l’information (49% contre 39% de ceux
+       qui se situent à droite), au contenu et à l’argumentation (47%
+       contre 36%), aux références à d’autres sources (43% contre 34%) et
+       au caractère indépendant du média (38% contre 28%). L’indépendance
+       du média consulté est également plus souvent citée comme un critère
+       de fiabilité par les hommes (36% contre 24% des femmes) et les
+       répondants âgés de 65 ans et plus (41% contre 19% des moins de 25
+       ans).
+
+Focus : des 18-24 plus intéressés par les sciences, connectés et ouverts à
+l’IA que la moyenne du panel
+       Image d'illustration
+       Le Baromètre 2024 confirme plusieurs spécificités de la population
+       des 18-24 ans. À rebours de certains discours ambiants, ils
+       ressortent comment ayant des pratiques scientifiques plus élevées
+       que la moyenne, que ce soit concernant la prise d’information
+       régulière sur le sujet (79% contre 62% pour le panel – chiffre en
+       hausse par rapport à 2023), les sorties dans des lieux de science
+       (63% contre 40%) ou la pratique d’activités scientifiques (60%
+       contre 41%).
+       Sur le plan des pratiques informationnelles, le primat d’Internet
+       (72%, en hausse de 5 points par rapport à 2023) et des réseaux
+       sociaux (63%, en hausse de 9 points) comme principales sources
+       d’information, tous sujets confondus, s’affirme, alors que la
+       télévision (40%) et Internet (dans une proportion moindre que pour
+       les jeunes, 49%) prédominent pour l’ensemble du panel. La presse
+       papier recule aussi fortement dans leurs usages (22%, -8 points).
+       Néanmoins, ces pratiques ne s’accompagnent pas d’une confiance
+       équivalente, la confiance envers tant Internet (40%) que les
+       réseaux sociaux (30%) baissant fortement (-12 points) par rapport à
+       2023 (c’est la radio qui domine sur ce plan chez les jeunes, à 54%,
+       soit +5 points).
+       Pour ce qui est des débats sur des sujets de société ou
+       scientifiques avec leur entourage, la préférence de cette partie de
+       la population pour échanger avec des personnes qui partagent leur
+       opinion s’accentue (64% - en hausse de 7 points – contre 46% pour
+       l’ensemble du panel).
+       Enfin, les 18-24 ans ont davantage confiance en l’IA (pour tous ses
+       types d’applications) que la moyenne du panel, différentiel qui se
+       retrouve dans leur connaissance des IA génératives, et dans l’usage
+       qu’ils en font (46% des jeunes interrogés ont déjà utilisé une
+       application de l’IA générative, soit deux fois plus que la moyenne
+       du panel, qui se situe à 23%).
+
+Les résultats du baromètre en infographie
+       ► Consultez l'infographie en pdf (2 Mo)
+       Rendez-vous sur le site de la Cité : Accueil Cité des sciences et
+       de l'industrie
+       Rendez-vous sur le site du Palais : Accueil Palais de la découverte
+          + Partager sur Facebook (nouvelle fenêtre)
+          + Partager sur Twitter (nouvelle fenêtre)
+          + Partager sur Instagram (nouvelle fenêtre)
+          + Partager par mail (nouvelle fenêtre)
+       Dossier de presse Baromètre de l'esprit critique Mars 2024
+       Télécharger le dossier de presse
+       (PDF, 2,5 Mo)
+       Télécharger le dossier de presse (PDF, 2,5 Mo) (nouvelle fenêtre)
+       Baromètre de l'esprit critique Rapport de résultats Mars 2024
+       Télécharger le rapport
+       (PDF, 7,8 Mo)
+       (nouvelle fenêtre)
+       Retour en haut
+       Accueil Cité des sciences et de l'industrie Accueil Palais de la
+       découverte Accueil Le blob, l’extra-média
+          + Nous soutenir
+          + Nous rejoindre
+          + République Française. Liberté, égalité, fraternité.
+          + Accueil - Universcience
+       Soyez les premiers informés !
+       Inscrivez-vous à notre lettre d’information :
+       ____________________
+       S'inscrire
+          + Plan du site
+          + Accessibilité du site internet
+          + Accessibilité : partiellement conforme
+          + Mentions légales
+          + Utilisation des cookies
+          + Politique de confidentialité d'Universcience
+          + Services Publics +
+          + Crédits

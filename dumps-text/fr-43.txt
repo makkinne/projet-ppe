@@ -1,1 +1,309 @@
+   #Flux RSS ActuIA alternate
 
+   Logo ActuIA ActuIA
+
+   La source d'information de référence
+   sur l'intelligence artificielle
+   (BUTTON)
+   (BUTTON) FR
+   English Español Italiano Deutsch Nederlands Română Polski Português
+   العربية Türkçe Українська 中文 日本語 한국어
+   (BUTTON) PUBLIER
+
+   Accueil Dernières actualités
+   Explorer
+   Thèmes
+   Ethique de l'intelligence artificielle Evolution de la société
+   Formation en intelligence artificielle Marché de l'IA Outils et technos
+   Produit commercial Recherche en intelligence artificielle Sécurité
+   Transformation numérique
+   Secteurs
+   Agroalimentaire Assurance Culture Défense Education Emploi Energie
+   Entreprise Environnement Finances Industrie Justice Marketing Médias
+   Prévention de risques Recherche fondamentale Relation client Réseaux
+   sociaux Santé - médecine Télécommunications Tourisme Transport Vie
+   courante
+   Par thème
+   Ethique de l'intelligence artificielle Evolution de la société
+   Formation en intelligence artificielle Marché de l'IA Outils et technos
+   Produit commercial Recherche en intelligence artificielle Sécurité
+   Transformation numérique
+   Par secteur
+   Agroalimentaire Assurance Culture Défense Education Emploi Energie
+   Entreprise Environnement Finances Industrie Justice Marketing Médias
+   Prévention de risques Recherche fondamentale Relation client Réseaux
+   sociaux Santé - médecine Télécommunications Tourisme Transport Vie
+   courante
+   Dossiers
+
+Tendances
+
+   IA générative Agents autonomes
+
+Comprendre l'IA
+
+   Petite histoire de l'intelligence artificielle L'intelligence
+   artificielle, comment ça marche ?
+
+Applications de l'IA
+
+   Quel sera l'impact de l'IA sur l'agriculture Quand l'IA dessine le
+   futur de la santé
+   Podcasts Magazine
+   Langue
+
+   Universcience présente la 3ème édition de son « Baromètre de l'esprit
+   critique »
+
+Universcience présente la 3ème édition de son « Baromètre de l'esprit
+critique »
+
+
+    Thierry Maubant
+
+   26/03/2024
+
+    1. Intelligence artificielle
+    2. /
+    3. Vie courante
+    4. /
+    5. Universcience présente la 3ème édition de son « Baromètre de
+       l'esprit critique »
+
+Sommaire
+
+   Les principaux enseignements du baromètre Les Français et l'IA Une
+   vision des risques et avantages nuancée Le rapport des Français aux IA
+   génératives L'intérêt des Français pour la science Les Français
+   pensent-ils avoir un esprit critique ?
+
+   Universcience, l’établissement public national du Palais de la
+   découverte et de la Cité des sciences et de l’industrie, a pour
+   ambition de rendre les sciences accessibles à tous, petits et grands,
+   et de promouvoir la culture scientifique, technique et industrielle
+   contemporaine. Son "Baromètre de l'esprit critique" dresse un tableau
+   précis de la relation entre les citoyens français, la science, les
+   médias et leur capacité à penser de manière critique. L'édition 2024
+   s'adresse à l'IA et ses applications.
+
+   Depuis sa création en 2010, Universcience s’attache à promouvoir la
+   culture scientifique, technique et industrielle auprès de toutes et
+   tous en déployant une offre originale et accessible tant aux néophytes
+   qu’aux initiés. Il vise également à lutter contre la désinformation
+   scientifique et à aider chaque citoyen à construire son esprit
+   critique, en cultivant la littératie numérique et en devenant un lieu
+   de ressources identifié en matière d’information scientifique.
+
+   La 3ème édition du baromètre, réalisée en partenariat avec l'institut
+   de sondage OpinionWay, questionne le rapport de nos concitoyens à l'IA.
+   Quels usages les Françaises et les Français font-ils aujourd'hui de
+   l'intelligence artificielle et de ses applications ? Quelle confiance
+   leur accordent-ils et comment voient-ils son avenir ? L'intelligence
+   artificielle, plutôt une menace ou une opportunité ?
+
+Les principaux enseignements du baromètre
+
+   Les résultats de cette enquête offrent un aperçu riche et nuancé de la
+   perception des Français vis-à-vis de l'IA, des IA génératives et de
+   leur rapport à la science en général. Ils soulignent des différences
+   générationnelles dans cette perception, indiquant une plus grande
+   acceptation et appropriation de ces technologies par les jeunes
+   générations qui sont plus enclines à faire confiance à l'IA. Les 18-24
+   ans affichent également une connaissance plus approfondie des
+   applications d'IA génératives et sont plus susceptibles de percevoir
+   les avantages de l'IA dans divers domaines. Cette génération se
+   distingue par ailleurs par ses pratiques informationnelles,
+   privilégiant Internet et les réseaux sociaux comme principales sources
+   d'informations quand bien même ils sont 54% à faire davantage confiance
+   à la radio.
+
+Les Français et l'IA
+
+   Selon le rapport, une majorité des sondés (61%) voient l'IA et les
+   applications d'IA génératives comme une révolution technologique
+   majeure semblable à celle de l'imprimerie (plus de 70% pour les moins
+   de 34 ans). Cependant, ils sont une large majorité à penser qu'une
+   réglementation est nécessaire (85%) et à affirmer qu’elle pose de
+   nouvelles questions éthiques et juridiques(77%).
+
+   Concernant les possibilités de ces technologies:
+     * 68% répondent que les applications de l’IA ne peuvent pas prendre
+       de décisions autonomes ;
+     * 59% qu’elles ne sont ni créatives ni innovantes, car assemblant des
+       contenus déjà existants ;
+     * 19% seulement les croient parfaitement fiables, une large majorité
+       (69%) affirmant le contraire ;
+     * 42% pensent qu'elles sont "plus neutres que les humains" mais ils
+       sont 38% à estimer le contraire.
+
+Une vision des risques et avantages nuancée
+
+   Interrogés par OpinionWay sur les impacts du développement de l’IA dans
+   différents secteurs, leurs avis sont partagés puisqu'ils y voient de
+   manière générale autant de risques que d’avantages.
+
+   En revanche, les Français sont davantage enclins à percevoir des
+   risques dans le domaine des relations humaines (37%, comparé à 31% qui
+   estiment qu'il y a autant de risques que d'avantages et 10% qui voient
+   principalement des avantages). Cette tendance se retrouve également
+   dans les domaines de l'information (33%) et de l'emploi (31%), bien que
+   34% des répondants reconnaissent également un équilibre entre les
+   risques et les avantages dans ces deux secteurs.
+
+   C'est dans les domaines de la santé (29%), de la recherche et des
+   sciences (28%), ainsi que dans les transports (26%) que les Français
+   perçoivent principalement des avantages. Cependant, même dans ces
+   domaines, une perspective nuancée prévaut, avec une proportion
+   similaire de répondants considérant qu'il y a autant de risques que
+   d'avantages (respectivement 35%, 36%, et 33%).
+
+   En général, les personnes appartenant aux catégories
+   socio-professionnelles supérieures (CSP+) sont plus enclines que celles
+   des catégories inférieures (CSP-) à percevoir principalement des
+   avantages dans l'utilisation de l'IA. Par ailleurs, l'enquête met en
+   lumière une tendance spécifique chez les 18-24 ans, où la perception
+   des avantages de l'IA est nettement prédominante par rapport à la
+   population générale. Par exemple, en ce qui concerne les transports et
+   la mobilité, 40% des 18-24 ans estiment que le développement de l'IA
+   apportera principalement des avantages, 20% qu'il y aura autant de
+   risques que d'avantages, et 19% principalement des risques.
+
+   Les participants accordent majoritairement leur confiance à l'IA pour
+   des tâches telles que la détection d'erreurs (75%), l'analyse de
+   grandes quantités de données (73%), la recherche d'informations (70%)
+   et même la rédaction de textes (64%). Cependant, une certaine méfiance
+   se manifeste lorsque la question de la responsabilité est soulevée. Par
+   exemple, seulement 25% des répondants font confiance à l'IA pour rendre
+   des décisions de justice, 28% pour piloter un avion ou une voiture, 33%
+   pour prescrire des médicaments alors que 41% lui font confiance pour
+   réaliser un diagnostic médical.
+
+   En ce qui concerne l'évaluation des risques et des avantages de cette
+   nouvelle technologie, le panel exprime une préférence pour les experts
+   scientifiques (68%), les musées et centres de culture scientifique
+   (59%) et les journalistes spécialisés dans le domaine scientifique
+   (56%). En revanche, une méfiance significative est observée à l'égard
+   des entreprises, notamment les géants du numérique comme les GAFAM (34%
+   et 29% de confiance respectivement), ainsi qu'à l'égard des élus et des
+   représentants politiques (22% de confiance).
+
+Le rapport des Français aux IA génératives
+
+   Il a été demandé aux participants s'ils connaissaient des IA
+   génératives telles que ChatPGT, Dall-E ou Midjourney.
+
+   Parmi les répondants, 65% déclarent en avoir entendu parler, mais
+   seulement 23% ont déjà utilisé ces technologies, tandis que 34% avouent
+   ne pas savoir de quoi il s'agit. On observe également des différences
+   selon le genre, la catégorie socio-professionnelle et l'âge, avec une
+   connaissance généralement inversement proportionnelle à l'âge (46% des
+   moins de 24 ans déclarent en avoir utilisé). De plus, les hommes (70%)
+   et les individus des catégories socio-professionnelles supérieures
+   (77%) sont plus susceptibles d'avoir entendu parler et d'utiliser ces
+   technologies.
+
+   Parmi les utilisateurs, l'usage informationnel (68%) est le plus
+   répandu, suivi de la traduction (61%) et de la rédaction de texte
+   (59%). Bien que 87% des utilisateurs soient impressionnés par la
+   vitesse (87%) et la qualité (74%) des productions de ces IA, environ 8
+   sur 10 remettent en question leur fiabilité (78%) et comparent les
+   résultats avec ceux d'autres sources (80%). Cette analyse critique des
+   productions de l'IA présente quelques variations, avec une expression
+   plus nette chez les hommes que chez les femmes. De plus, la pratique de
+   croiser les résultats obtenus à partir de plusieurs sources
+   d'informations augmente régulièrement avec l'âge, passant de 74% chez
+   les 18-24 ans à 94% chez les 65 ans et plus.
+
+L'intérêt des Français pour la science
+
+   Le Baromètre s'intéresse comme les années précédentes au rapport des
+   Français à la science. Malgré un intérêt confirmé  pour ce domaine, il
+   souligne là encore des interrogations éthiques mais également des
+   disparités de genre, économiques et territoriales.
+
+   En effet, les sondés se disent plus intéressés par les sujets
+   scientifiques (69%), que par le sport (48%) ou la politique (61%).
+     * 61% des répondants ont des activités à caractère scientifique au
+       moins une fois par mois, une augmentation de 6 points par rapport à
+       2023.
+     * Les domaines scientifiques qui intéressent le plus sont la santé
+       (41%) et le climat et l’écologie (31%);
+     * Il existe cependant des disparités de genre, avec seulement 16% des
+       femmes qui s’informent régulièrement sur le numérique et l’IA,
+       contre 36% pour les hommes ;.
+     * La majorité des sondés jugent très positivement la science et ses
+       apports, mais ils sont plus réservés sur la capacité de la science
+       à “rendre l’homme meilleur” (65%) ou sur celle des scientifiques à
+       être les mieux placés pour savoir ce qui est bon pour les citoyens
+       (55%).
+     * 72%  considèrent que les scientifiques, par leurs connaissances,
+       ont un pouvoir qui peut les rendre dangereux.
+     * 60% pensent que les scientifiques suivent des règles éthiques
+       strictes, mais seuls 51% pensent que la communauté scientifique est
+       indépendante pour valider ses résultats.
+
+Les Français pensent-ils avoir un esprit critique ?
+
+   La majorité des répondants (75%) estiment avoir un esprit critique
+   Quand on leur demande de définir ce dernier, ils citent d’abord le
+   raisonnement logique et rationnel (44%), le fait de s’informer avant de
+   prendre position (42%) et la capacité d’échanger avec des personnes aux
+   opinions divergentes (41%) qui ressortent.
+
+   Interrogés sur les enseignements qui leur ont permis de développer leur
+   esprit critique durant leur scolarité, les sondés pointent
+   majoritairement le français et la littérature – les mathématiques étant
+   deux fois moins citées. Les parents (75%), les enseignants (78%), les
+   amis (73%) et, dans une moindre mesure, les auteurs lus (68%)
+   ressortent comme contribuant le plus à la formation de l’esprit
+   critique.
+
+   On peut retrouver le rapport dans son intégralité ici et la
+   présentation des résultats dans la vidéo ci-dessous.
+
+   IFRAME: https://www.youtube.com/embed/9kzL1kSMjpw
+
+   Signaler un contenu inapproprié ou inexact
+
+   Mots-clés
+   étude
+   acteurs
+   OpinionWay Universciense
+
+   partager
+
+   Soutenez-nous : partagez
+   sur le même thème
+
+Le CHU de Toulouse adopte le jumeau numérique cardiaque d'inHEART
+
+   15/12/2025
+
+Inria et Doctolib s'associent pour développer une IA médicale souveraine
+
+   15/12/2025
+
+L'OMS appelle à des garanties juridiques pour l'IA dans le secteur de la
+santé
+
+   15/12/2025
+   Magazine ActuIA
+
+Découvrez le nouveau numéro du magazine ActuIA
+
+   Abonnement 1 an pour 27.60€, frais de port offerts.
+   Je m'abonne !
+
+   Logo ActuIA Logo ActuIA
+
+   Votre source d'information sur l'intelligence artificielle et ses
+   avancées.
+
+NAVIGATION
+
+     * Mentions légales
+     * Contact
+
+SUIVEZ-NOUS
+
+   © 2019-2026 Net Square Digital. Tous droits réservés.

@@ -1,402 +1,296 @@
-   #alternate alternate alternate
+   #alternate
 
-   Aller au contenu principal
+   Passer au contenu principal
 
    Menu
-   Accueil
-     * DE
-     * FR
-     * EN
-
-     * Le Temple Ryumon Ji
-          + Présentation du Ryumonji
-          + Vie en communauté zen
-          + Les enseignants
-          + Calendrier & tarifs
-          + Infos pratiques
-          + Soutenir Ryumonji
-          + Visite Virtuelle
-     * NOS RETRAITES ZEN
-          + Retraites Vie quotidienne-GYOJI
-          + Activités
-          + Retraites d'été
-     * BOUDDHISME ZEN
-          + Qu'est-ce que le Zen ?
-          + Pratique au quotidien
-          + Le zen au quotidien
-          + Do you speak zen ? Lexique
-          + Sûtras : chants et traductions
-          + Vidéos: méditer avec Maître Wang-Genh
-          + Association Zen Internationale
-     * LE ZEN CONNECTÉ
-          + Zen online
-          + Newsletter
-          + TEISHO - Enseignements
-          + Podcasts: Question-Réponse
-          + Blog
-     * Pratiquer en ville
-          + Strasbourg
-          + Bruxelles
-          + Metz
-          + Luxembourg
-          + Saverne
-          + Trévy
-          + Moulins
-
-   Image
-   Le zen
-
-Fil d'Ariane
-
-    1. Accueil
-    2. Méditation ZEN - Zazen
-
-Main navigation FR side
-
-     * Qu'est-ce que le Zen ?
-          + La pratique du samou
-          + Histoire du bouddhisme zen
-               o Origines du Bouddhisme zen
-               o Le bouddhisme Chan en Chine
-               o Le zen au Japon
-               o L'implantation du zen en Europe
-     * Pratique au quotidien
-     * Le zen au quotidien
-     * Do you speak zen ? Lexique
-     * Sûtras : chants et traductions
-     * Vidéos: méditer avec Maître Wang-Genh
-     * Association Zen Internationale
-          + Activités actuelles
-          + Le temple de la Gendronnière
-
-Qu'est-ce que le Zen ?
-
-   Le zen est une voie spirituelle issue du bouddhisme, qui prend sa
-   source dans l’expérience de l’éveil du Bouddha Shakyamuni, survenue en
-   Inde au VIe siècle avant notre ère. Assis en méditation profonde —
-   dhyana en sanskrit, zazen en japonais — le Bouddha réalisa la nature
-   véritable de l’existence, au-delà des illusions et des attachements. Ce
-   moment d’éveil, fondé sur l'expérience directe et non sur des
-   spéculations théoriques, est à l’origine de la tradition zen.
-
-   Transmise de maître à disciple dans une lignée ininterrompue, cette
-   pratique méditative a voyagé de l’Inde vers la Chine au VIe siècle
-   après J.-C., portée par le moine Bodhidharma. Là, elle donna naissance
-   à l’école du Chan, qui mit l’accent sur une approche dépouillée, simple
-   et rigoureuse de la méditation. Le Chan se développa au contact du
-   taoïsme et d’une culture chinoise tournée vers la nature et l’harmonie.
-
-   Au XIIIe siècle, le moine japonais Dôgen se rendit en Chine pour
-   approfondir sa pratique. À son retour, il introduisit au Japon l’école
-   Sôtô du zen, mettant l’accent sur shikantaza, "rien que s’asseoir", une
-   méditation sans objet ni but, pleinement ancrée dans l’instant présent.
-   Dôgen est reconnu non seulement comme un grand maître zen, mais aussi
-   comme un philosophe majeur de la spiritualité japonaise.
-
-   À partir du XXe siècle, le zen suscite un intérêt croissant en
-   Occident, tant pour sa dimension spirituelle que pour sa richesse
-   philosophique. C’est dans ce contexte que le maître japonais Taisen
-   Deshimaru s’installe en Europe à la fin des années 1960. Il y fonde de
-   nombreux lieux de pratique et transmet l’essence du zen traditionnel à
-   une nouvelle génération de pratiquants.
-
-   Aujourd’hui, le zen continue de vivre et d’évoluer à travers le monde.
-   Il reste fidèle à son cœur : la pratique du zazen, une posture
-   silencieuse et immobile, où l’on apprend à revenir à soi, à habiter
-   pleinement l’instant, et à s’ouvrir à une sagesse incarnée dans les
-   gestes simples du quotidien. Le zen n’est pas une croyance, mais une
-   expérience vivante, accessible à toutes celles et ceux qui souhaitent
-   approfondir leur relation à la vie, à l’autre et à eux-mêmes.
-
-Pour aller plus loin :
-
-     * VIDÉO - La pratique du zen Sōtō - Dans la société européenne
-     * VIDÉO - Le zen Sōtō en Europe - Un demi-siècle d’histoire
-
-   Film réalisé par le moine Stanislas Komyo Wang-Genh pour l'école zen
-   soto japonaise en 2019.
-
-Zazen, la méditation assise
-
-   Zazen, la méditation assise est la pratique grâce à laquelle le Bouddha
-   s'est éveillé, il y a 2600 ans. Elle constitue le cœur du zen, avec une
-   attention précise portée à la posture, à la respiration et à
-   l'apparition-disparition des pensées. On l'appelle également Shikantaza
-   = simplement assis.
-
-   La pratique régulière du zazen permet en premier lieu d’apaiser, de
-   clarifier l’esprit et de créer une véritable stabilité de l’être au
-   milieu des tourments de l’existence. Le secret du zen consiste à
-   s’asseoir, simplement, sans but ni esprit de profit, dans une posture
-   de grande concentration.
-
-La posture de Zazen, méditation zen
-
-     Si quelqu'un demande ce qu'est le vrai zen, il n'est pas nécessaire
-     que vous ouvriez la bouche pour l'expliquer. Exposez tous les
-     aspects de votre posture de zazen. Alors le vent du printemps
-     soufflera et fera éclore la merveilleuse fleur du prunier.
-
-
-     Maître Daichi Sokei 1290-1366
-
-   Il est important de comprendre les différents aspects de la posture de
-   zazen pour ne pas contraindre le corps dans une attitude d'immobilité
-   rigide contraire à sa physiologie naturelle. Il y a dans la posture
-   équilibre et détente dans la verticalité.
-
-   La position du bassin est prépondérante. Il convient de s'asseoir au
-   milieu du zafu (coussin rond dont l'épaisseur est fonction de la
-   souplesse de chacun), sur les ischions, de telle sorte que le bassin se
-   stabilise par le contact des deux genoux avec le sol. La position des
-   jambes est celle du lotus ou du demi-lotus.
-
-   Un juste positionnement du bassin et le réglage de l'épaisseur du zafu
-   permettent à la colonne vertébrale de s'ériger vers le ciel sans que
-   soient créées des tensions dorsales ou intervertébrales préjudiciables
-   et à la tête d'être droite naturellement. Les épaules, la cage
-   thoracique et le ventre sont relâchés de façon à permettre une
-   respiration libre et facile. Les yeux sont mi-clos, posés devant soi
-   sur le sol avec un angle d'environ 45 degrés.
-
-   Les poignets sont posés sur le haut des cuisses. Les doigts de la main
-   gauche sont posés sur ceux de la main droite, paumes tournées vers le
-   haut, et les pouces se rejoignent au-dessus dans le prolongement l'un
-   de l'autre, dans un contact ferme et léger. Le tranchant des mains est
-   en contact avec l'abdomen.
-
-   Zazen posture
-
-
-   Pendant zazen, l'attention doit rester vigilante sur chaque détail,
-   ainsi que sur la respiration. L'esprit est ainsi ramené dans le corps
-   et l'unité se réalise. Les pensées cessent de s'enchaîner les unes aux
-   autres. Elles apparaissent, puisque telle est leur nature, mais si
-   l'attention est maintenue sur la posture, elles disparaissent sans
-   laisser de trace. Naturellement et inconsciemment la volonté
-   personnelle de l'ego cesse d'agir et de rechercher un but. Seul demeure
-   l'instant présent.
-
-   Il est impossible de voir sa propre posture et il est facile de
-   s'illusionner sur sa propre pratique. Il est recommandé de ne pas
-   pratiquer seul et de recevoir, dans un dojo ("le lieu de la Voie") les
-   conseils d'un pratiquant ancien.
-
-La respiration
-
-   Pendant zazen, la respiration est essentielle. Elle est tranquille et
-   établit un rythme lent, puissant et naturel. L'expiration est longue et
-   profonde. Les maîtres la comparent souvent au mugissement de la vache.
-   L'inspiration, plus courte, vient naturellement. Le corps devient fort,
-   le cerveau frais, la circulation du sang se renouvelle.
-
-   Cette expiration lente, calme et profonde balaie les complications du
-   mental. L'esprit devient clair comme un ciel sans nuage.
-
-     Notre inspiration est celle de l'univers entier. À chaque instant,
-     nous réalisons ainsi la grande œuvre illimitée. Avoir cet esprit-là,
-     c'est faire disparaître tout malheur et engendrer le bonheur absolu.
-
-
-     Maître Kodo Sawaki 1880-1965
-
-Vidéo : apprenez à mieux respirer avec maître Wang-Genh
-
-   De nombreuses autres vidéos ( tutoriels ) pour approfondir la
-   méditation zen sont disponibles sur cette page : Vidéos, méditation
-   zen. En français, avec sous-titres anglais ou allemands. Thèmes
-   proposés : la posture, les pensées, la régularité, le choix du coussin
-   de méditation etc.
-
-   IFRAME:
-   https://meditation-zen.org/fr/media/oembed?url=https%3A//www.youtube.co
-   m/watch%3Fv%3D_PX33xJZr9E%26list%3DPLytVOdKL3s5qL3v2TQWsDkaA3hWjH7LUG%2
-   6index%3D3&max_width=770&max_height=450&hash=K9toLdn5vW7_jjgwru1VrViTpD
-   -9EQpsHtHGkJoKF7c
-
-La conscience - les pensées - pendant la méditation zen, zazen
-
-     Lorsque l'esprit ne demeure sur rien, le véritable esprit apparaît.
-     Sutra du diamant
-
-   De même que la respiration juste ne peut surgir que d'une posture
-   correcte, l'attitude de l'esprit découle naturellement d'une profonde
-   concentration sur la posture et la respiration.
-   En zazen, les images, les pensées, les formations mentales surgies de
-   l'inconscient passent comme des nuages dans le ciel et s'évanouissent
-   naturellement. Sans entretenir de pensées personnelles, la conscience
-   au-delà de la pensée et de la non-pensée apparaît. C'est le retour à la
-   condition originelle de l'esprit.
-   Maître Wanshi dit : " Lorsque dans le silence tout mot est oublié, cela
-   apparaît devant vous avec clarté."
-   Cela, c'est la réalité de notre vie en unité avec tout l'univers. Sans
-   chercher à atteindre la vérité ni à couper les illusions, sans fuir ni
-   poursuivre quoi que ce soit, la conscience dualiste s'apaise. On
-   apprend à se connaître soi-même et à s'harmoniser avec la véritable
-   nature de notre existence. Une grande liberté intérieure se réalise.
-
-Kinhin, la méditation en marchant
-
-   Kinhin est pratiqué entre deux zazen. Pendant la marche au rythme de la
-   respiration, la concentration porte sur chaque aspect de la posture.
-
-   En kinhin le pouce gauche est enfermé dans le poing gauche, la racine
-   du pouce pressant le plexus solaire. La main droite enserre le poing
-   gauche. Les avant-bras sont horizontaux, les épaules détendues. Le haut
-   du corps est redressé comme pendant zazen, le ventre détendu, la nuque
-   tendue, le menton rentré, le regard baissé.
-
-   Pendant l’expiration calme et profonde la racine du gros orteil du pied
-   avant presse le sol, la jambe arrière reste tendue. A la fin de
-   l’expiration, l’inspiration se fait tout à fait naturellement, le corps
-   se détend et on fait un demi-pas en avant.
-
-   En photo ci-dessous : la pratique de kinhin l'été sur la terrasse en
-   bois devant la salle de méditation.
-
-Le Kyosaku, qu'est-ce que c'est ?
-
-   Consulter le document ci-dessous
-
-   IFRAME:
-   https://www.scribd.com/embeds/830476239/content?start_page=1&view_mode=
-   scroll&access_key=key-MOGkfTwJqwuspKtpJQgh
-
-   Affiche Kyosaku Verticaal by Temple Zen Ryumon Ji
-
-A découvrir
-
-   La brochure complète " Qu'est-ce que le Zen ? " à télécharger. Ce
-   livret - complet et en couleurs - a été édité par l'Association Zen
-   Internationale en 2016.
-
-     * Télécharger le brochure "Qu'est-ce que c'est le Zen ?"
-
-   brochure zen
-
-
-Inscription newsletter
-
-   Prénom * ____________________
-   Nom * ____________________
-   E-mail * ____________________
-
-   [X] Email
-
-
-
-   ____________________
-   Subscribe
-
-   Monastère Ryumon Ji
-   7, rue du château d'eau
-   67340 Weiterswiller
-   Alsace - FRANCE
-   info@meditation-zen.org
-   33 (0) 3 88 89 26 02
-   du mardi au dimanche: 9h30 - 12h
-
-
-   [azi.svg]
-
-   [sotoshu.png]
-
-
-Follow us
-
+   L'Express - Actualités à la une
+   ConnexionS'abonner
+
+     * Fil info
+     * politique
+     * monde
+     * économie
+     * Climat
+     * Tech
+     * Sciences
+     * Société
+     * Idées
+     * Newsletters
+     * Evénements
+
+   Par rubriqueRechercher
+     * Politique
+     * Idées et débats
+     * Sciences et santé
+     * Monde
+     * Société
+     * Éducation
+     * Économie
+     * Tech et transformations
+     * Styles
+     * Entrepreneurs
+     * Climats et transitions
+     * Culture
+     * Management
+     * Argent
+
+   Par format
+     * play_circleVidéos
+     * history_eduChroniques
+     * micPodcasts
+     * book_5Récits
+     * financeInfographies
+     * confirmation_numberEvénements
+     * tooltip_2Entretiens
+
+   À découvrir
+     * mailNewsletters
+     * auto_storiesLire le magazine
+     * play_circleÉcouter les articles
+     * mobile_arrow_downTélécharger l'application
+
+   Les suppléments
+     * L'Express Franchise
+     * L'Express XII
+     * Territoires et innovations
+     * Engagés auprès des Français
+     * Monde en recomposition, quels risques ?
+
+   L'Express Shopping
+     * High-tech
+     * Électroménager
+     * Beauté et soins
+     * Maison
+     * Bons plans
+     * Idées cadeaux
+
+   Voir le guide shopping
+   publicité
+
+     * Sciences et Santé
+     * Sciences
+
+L’esprit critique est-il vraiment en déclin ? Pourquoi il est permis d’en
+douter
+
+Sciences. Si certaines informations pourraient laisser penser que l’esprit
+critique de la population s'affaiblit, notre chroniqueur Franck Ramus se
+montre bien plus optimiste.
+
+   Par Franck Ramus
+   Publié le 16/01/2024 à 16:30
+   starSuivre sur Google Actualités
+   share
+   bookmark
+   Vous souhaitez conserver cet article ? Sauvegardez-le depuis
+   l'application !
+   Télécharger l'application
+   Pour étayer l’idée selon laquelle notre esprit critique serait en
+   déclin, encore faudrait-il se faire une idée de ce qu’il était dans le
+   passé, souligne Franck Ramus.
+
+   Pour étayer l’idée selon laquelle notre esprit critique serait en
+   déclin, encore faudrait-il se faire une idée de ce qu’il était dans le
+   passé, souligne Franck Ramus.
+
+   Getty Images
+
+   Un journaliste m’interrogeait récemment sur le déclin de l’intelligence
+   moyenne de la population. Il existe des données particulièrement
+   solides pour répondre à cette question puisque les tests qui visent à
+   l'évaluer ont été créés il y a plus d’un siècle et ont été administrés
+   régulièrement à de grandes populations représentatives dans de nombreux
+   pays. Elles montrent clairement que les scores dans les tests
+   d’intelligence n’ont cessé de progresser dans tous les pays au fil du
+   XXe siècle et commencent peut-être à plafonner sur les dernières
+   décennies, mais ne montrent aucun signe de déclin.
+
+   Déçu de cette réponse trop peu alarmiste à son goût, mon interlocuteur
+   me relança : certes, les gens ne sont pas moins intelligents
+   aujourd’hui, mais leur esprit critique, lui, doit être en chute libre.
+   La prolifération des fake news et la popularité des croyances
+   fantaisistes ne suggèrent-elles pas que les gens sont prêts à croire
+   n’importe quoi et qu’ils ont perdu tout esprit critique ? Il est en
+   fait bien difficile de répondre à cette question. En effet,
+   contrairement à la notion d’intelligence générale, la définition même
+   de l’esprit critique et la manière de le mesurer sont encore à ce jour
+   un véritable sujet de recherche en psychologie. On ne dispose d’aucun
+   outil de mesure qui fasse consensus, et a fortiori d’aucune série de
+   données sur de longues périodes. Pour en juger, on peut donc uniquement
+   se fier aux manifestations de l’esprit critique que nous pouvons
+   observer autour de nous.
+
+C’était mieux avant ? Au contraire
+
+   Il faut d’abord souligner que nous avons une perception exagérée de
+   l’impact des fausses nouvelles, auxquelles les réseaux sociaux et
+   certains médias donnent une visibilité accrue, bien au-delà de
+   l’adhésion qu’elles recueillent réellement. Très peu de gens croient
+   que l’effondrement des tours jumelles de Manhattan est un complot de la
+   CIA ou que la Terre est plate. Nos contemporains savent faire preuve de
+   "vigilance épistémique", c’est-à-dire qu’ils sont capables d’évaluer la
+   qualité de leurs différentes sources d’information et d’ajuster leurs
+   croyances en fonction.
+   LIRE AUSSI : La science sait se corriger, pourquoi pas les médias ? Par
+   Franck Ramus
+
+   Certes, notre esprit critique est loin d’être parfait et possède un
+   certain nombre de failles bien connues et couramment exploitées, par
+   exemple la préférence pour les croyances antérieures ancrées depuis
+   longtemps, ou encore la sensibilité aux arguments d’autorité. Mais pour
+   étayer l’idée selon laquelle il serait en déclin, encore faudrait-il se
+   faire une idée de ce qu’il était dans le passé. Or, dès que l’on
+   réfléchit un peu aux croyances de nos ancêtres, on a toutes les raisons
+   de croire que celles-ci étaient bien pires que les nôtres ! On peut
+   s’en convaincre en examinant les croyances dans deux domaines
+   particuliers : la santé et le surnaturel.
+
+Plus personne ne croit en la saignée…
+
+   En la matière, on peut se désoler que certains de nos concitoyens
+   adhèrent encore à des remèdes illusoires. Mais il faut se souvenir que
+   pendant plus de deux mille ans, le traitement auquel tout le monde
+   croyait était la saignée ! Aujourd’hui, plus personne n’y croit, pas
+   plus qu’à la théorie des humeurs qui en était un fondement. La
+   confiance des Français dans la médecine moderne fondée sur des preuves
+   est très élevée, et ceux qui adhèrent aux médecines non
+   conventionnelles les réservent généralement aux maux bénins qui
+   guérissent spontanément et aux traitements complémentaires, preuve
+   qu'ils n'y croient que modérément !
+   LIRE AUSSI : Dérives sectaires : le plan du gouvernement pour (enfin)
+   réguler les médecines alternatives
+
+   Si une proportion importante de nos concitoyens croit encore aux vertus
+   de l’homéopathie, de l’ostéopathie ou de la psychanalyse, ce n’est pas
+   tant par absence d’esprit critique, que du fait que leur vigilance
+   épistémique est trompée par des discours portés par des personnes en
+   apparence crédibles, comme des médecins et des pharmaciens. Or les
+   personnes qui portent ces discours trompeurs sont surreprésentées dans
+   les médias, qui accordent d'ailleurs trop souvent une place
+   disproportionnée aux points de vue marginaux allant à l’encontre du
+   consensus scientifique. Il y a là certainement une marge de progrès.
+
+Le déclin des croyances religieuses comme signe d’un progrès de l’esprit
+critique
+
+   Les superstitions et les croyances surnaturelles n’ont pas non plus
+   disparu, mais il suffit de se souvenir de nos grands-parents et aïeux
+   pour se convaincre qu’elles ont fortement décru. Qui, aujourd’hui, ne
+   supporte pas de voir un pain posé à l’envers ou se sent obligé de
+   tracer une croix dessus au couteau avant de le couper, comme le faisait
+   ma grand-mère ? Et si nous évoquons encore le fait de "toucher du bois"
+   ou de "croiser les doigts" pour invoquer la chance, qui s’imagine que
+   cela fonctionne réellement ?
+   LIRE AUSSI : Phil Zuckerman : "Les religions sont en déclin dans le
+   monde entier"
+
+   Rappelons-nous aussi qu’il y a seulement quelques siècles, la
+   quasi-totalité de la population française croyait littéralement qu’une
+   femme vierge avait eu un enfant et qu’un homme mort était redevenu
+   vivant. Peu de gens l’acceptent aujourd’hui, même parmi les
+   catholiques, dont beaucoup ont désormais une lecture plus métaphorique
+   de la Bible. On peut d’ailleurs voir le déclin inexorable des croyances
+   religieuses et des superstitions comme le signe d’un progrès de
+   l’esprit critique au sein de la population. Il résulte aussi du fait
+   que ces croyances sont de moins en moins promues par des figures
+   d’autorité et de plus en plus en concurrence avec des représentations
+   du monde plus crédibles issues de la philosophie des Lumières et de la
+   science.
+
+   Ainsi, si l’on veut juger de l’évolution de l’esprit critique, il est
+   sans doute plus pertinent d’examiner l’évolution de l’adhésion aux
+   croyances qui sont véritablement incroyables, qu’à celles nécessitant
+   des connaissances scientifiques ou une information de qualité,
+   nécessairement plus difficiles d’accès et inégalement réparties. Mais
+   quel que soit l’indicateur que l’on se fixe, si l’esprit critique de la
+   population évolue, c’est certainement plus dans le sens du progrès que
+   du déclin.
+
+   Franck Ramus est Directeur de recherches au CNRS au sein du Département
+   d’études cognitives de l’Ecole normale supérieure à Paris.
+
+   publicité
+   Les plus lus
+     * Si Le Nouvel Obs parle d'une "explosion" des cas de cancer chez les
+       moins de 40 ans, la réalité est plus complexe.
+       Cancer, Alzheimer, presbytie... Les dix bonnes nouvelles
+       scientifiques de 2025
+     * Des produits cosmétiques promettes de nous aider à rajeunir. Est-ce
+       vraiment fiable ?
+       Rajeunir notre peau grâce à des crèmes ? La vérité scientifique
+       derrière les promesses de l’épigénétique
+     * Bana Jabri dirige l'Institut Imagine.
+       "L’Europe brillait quand elle osait penser autrement" : l'appel au
+       courage de Bana Jabri
+
+   Un article de l'hebdo
+   du 18 janvier 2024Jordan Bardella : derrière la façadeFeuilleter
+   publicité
+
+   publicité
+   publicité
+     *
+     *
+     *
      *
      *
      *
      *
 
+   Téléchargez l'application
+     __________________________________________________________________
 
-Videos
-Photos
+   Toute l'actualité en direct
+     * Lecornu à Matignon
+     * Guerre Israël - Hamas
+     * Guerre en Ukraine
+     * Budget 2026
+     * L'Amérique de Donald Trump
 
-Utility FR
+   À découvrir
+     * Lire l'hebdo
+     * Le podcast du jour
+     * Tous les dossiers de L'Express
+     * Nos vidéos
+     * Nos infographies
+     * Nos grands récits
+     * Les événements de L'Express
 
-     * Infos pratiques
-     * Zen online
-     * Newsletter
-     * Contact
-     * Compte bancaire
+   Services de l'Express
+     * L'Express Audio
+     * L'application L'Express
+     * Entreprendre en franchise
+     * Réussir son orientation
+     * Toutes les archives
+     * Archives 2025
+     * Archives 2024
+     * Archives 2023
+     * Archives 2022
 
-     * Le Temple Ryumon Ji
-          + Présentation du Ryumonji
-          + Vie en communauté zen
-          + Les enseignants
-          + Calendrier & tarifs
-          + Infos pratiques
-               o Covoiturage
-          + Soutenir Ryumonji
-          + Visite Virtuelle
-     * NOS RETRAITES ZEN
-          + Retraites Vie quotidienne-GYOJI
-          + Activités
-               o Sesshin, retraites de méditation zen
-               o Première sesshin, retraite pour débutants
-               o Cérémonie de Jukai
-               o ZEN ET CREATIVITE : COUTURE KESA, QI GONG, SHIATSU,
-                 CALLIGRAPHIE, ART ZEN
-               o Retraite en famille
-          + Retraites d'été
-     * BOUDDHISME ZEN
-          + Qu'est-ce que le Zen ?
-               o La pratique du samou
-               o Histoire du bouddhisme zen
-                    # Origines du Bouddhisme zen
-                    # Le bouddhisme Chan en Chine
-                    # Le zen au Japon
-                    # L'implantation du zen en Europe
-          + Pratique au quotidien
-          + Le zen au quotidien
-          + Do you speak zen ? Lexique
-          + Sûtras : chants et traductions
-          + Vidéos: méditer avec Maître Wang-Genh
-          + Association Zen Internationale
-               o Activités actuelles
-               o Le temple de la Gendronnière
-     * LE ZEN CONNECTÉ
-          + Zen online
-          + Newsletter
-          + TEISHO - Enseignements
-          + Podcasts: Question-Réponse
-          + Blog
-     * Pratiquer en ville
-          + Strasbourg
-               o Présentation du Centre de Bouddhisme Zen Strasbourg
-               o Séances pour débutants
-               o La pratique du samu
-               o Enseignement zen
-               o Boutique
-               o Vidéos et Photos
-               o Bibliothèque
-                    # Présentation de livres
-               o Archives
-                    # Dans les médias... 2017
-                    # Photos des Journées Portes Ouvertes 2016
-                    # Photos des Journées Portes Ouvertes
-                    # Photos du stand zen - Japan Addict Juin 2016
-                    # Photos Fête du Bouddha 2015
-                    # Portes Ouvertes : les photos !
-          + Bruxelles
-          + Metz
-               o Les initiations du dojo
-               o Infos Pratiques
-               o Inauguration du dojo
-               o Revue de presse
-          + Luxembourg
-               o Apprendre à méditer
-               o Soirées d'enseignement avec la nonne Kankyo
-               o Agenda
-                    # Calendrier
-               o Qui sommes nous ?
-               o Ressources et documentation
-                    # Article complet Luxemburger Wort 2023
-                    # Evènement Novembre 2022 - maître Wang-Genh
-                    # Vidéos et MP3
-                    # Conférence du maître Olivier Wang-Genh
-                    # Inauguration du Centre Méditation Zen du Luxembourg
-          + Saverne
-          + Trévy
-          + Moulins
+   Services partenaires
+     * Guide Shopping avec L'Express
+     * Investir en SCPI avec Corum
+
+   Abonnement
+     * S'abonner
+     * Lire l'hebdo
+     * Le Cercle
+     * Contacter L'Express
+
+   Newsletters
+     * Découvrir les newsletters de L'Express
+
+   © L'Express
+     * Mentions légales
+     * Qui sommes-nous?
+     * Politique de confidentialité
+     * Politique cookies
+     * (BUTTON) Paramétrage cookies
+     * Conditions générales d'utilisation
+     * Service Client
+     * L'Express Studio
+     * Plan du site
+     * Gérer Utiq
+
+   Testez L'Express en illimité pour 1€ seulement, sans engagement.
+   Je m'abonne

@@ -1,41 +1,184 @@
-    2. Bible et Théologie
-    3. Comprendre la Bible
-    4. Le Saint-Esprit : Dieu agit en nous !
+          + Site
 
-   Comprendre la Bible
+                        Philosophie de l’esprit (A)
 
-Le Saint-Esprit : Dieu agit en nous !
+   Comment citer ?
 
-   La Bible parle abondamment du Saint-Esprit et ce qu’elle en dit affecte
-   de manière essentielle notre expérience de vie chrétienne.
-     * Robin Reeve
+   Esfeld, Michael (2017), «Philosophie de l’esprit (A)», dans Maxime
+   Kristanek (dir.), l'Encyclopédie philosophique, consulté le ...,
+   https://encyclo-philo.fr/philosophie-de-lesprit-a
 --
-     * Christ Seul
+Résumé
 
-   Le Saint-Esprit : Dieu agit en nous ! Le Saint-Esprit : Dieu agit en
-   nous !
-
-   En effet, là où Christ a accompli l’œuvre objective du salut, en
-   s’incarnant, en mourant et en ressuscitant pour nous, l’Esprit réalise
-   l’œuvre subjective du salut, agissant en nous pour nous transformer à
-   l’image de Jésus (2Co 3.18). Voyons ici quelques aspects essentiels de
-   la nature et de l’œuvre du Saint-Esprit, et leur impact sur notre
-   spiritualité et notre comportement.
-
-   L’Esprit du Dieu d’amour
-
-   La Trinité divine implique que Dieu est amour (1Jn 4.8, 16). Aimer
+   Le problème qui est au centre de la philosophie de l’esprit peut être
+   formulé en termes de quatre proposition dont chacune est plausible
+   prise individuellement, mais dont la conjonction est une
 --
-   lui-même, de toute éternité, les trois personnes de la divinité
-   s’aiment. Le grand théologien du 12e siècle, Bernard de Clairvaux, a
-   dit de la relation éternelle de l’Esprit au Père et au Fils : « L’amour
-   et la bonté de l’un et de l’autre est le Saint-Esprit même. » Et – ce
-   n’est pas une coïncidence ! – l’œuvre suprême de l’Esprit Saint est
-   précisément de nous communiquer l’amour divin (Ga 5.22 ; 1Co 13).
-   N’est-il pas extraordinaire de réaliser que c’est l’amour de Dieu que
-   déverse en nous l’Esprit (Rm 5.5) ? La Trinité nous fait participer à
-   son amour éternel (2Pi 2.4) !
+Table des matières
 
-   La marque essentielle d’une vie transformée par l’Esprit est l’amour,
-   qui […]
+   1. Qu’est-ce que l’esprit ?
 
+   2. Le problème de la philosophie de l’esprit
+
+   3. La solution de Descartes : le dualisme interactionniste
+--
+     __________________________________________________________________
+
+   1. Qu’est-ce que l’esprit ?
+
+   Nous sommes à la fois des êtres corporels et des êtres doués de
+   sensations, pensants et agissants. La question de savoir quel est le
+   rapport entre le corps et l’esprit est depuis toujours un des problèmes
+   centraux de la philosophie. En effet, c’est un problème qui tire son
+   origine de la vie quotidienne et qui est un sujet non seulement pour la
+--
+   propositions de solution.
+
+   Qu’est-ce que l’esprit ? Il semble que le trait distinctif commun aux
+   états mentaux soit le fait d’être conscients : tous les états mentaux,
+   et uniquement eux, sont des états conscients. La douleur, par exemple,
+--
+   expérience vécue particulière et ils sont intentionnels.
+
+   2. Le problème de la philosophie de l’esprit
+
+   On peut préciser le problème que pose le rapport entre esprit et corps
+   en formulant quatre propositions qui sont plausibles chacune pris à
+   elle seule, mais dont la conjonction est une contradiction. De prime
+   abord, il semble évident que l’esprit est distinct du corps –
+   c’est-à-dire que (1) les états mentaux ne sont pas des états physiques.
+   Les traits de l’expérience vécue et d’intentionnalité sont
+--
+
+   Ces trois propositions sont la base du problème de la philosophie de
+   l’esprit en philosophie moderne. On peut préciser ce problème de la
+   façon suivante : soit un état physique p[2], mon bras droit levé, par
+   exemple. Cet état physique a une cause physique complète p[1] (en vertu
+--
+   des causes mentales).
+
+   Le problème de la philosophie de l’esprit peut dès lors être formulé en
+   ces termes : en admettant la vérité de (4), les propositions (1) à (3)
+   forment une triade inconsistante. En effet, toutes ces propositions
+--
+   comme la troisième proposition se base sur les résultats des sciences
+   de la nature modernes, on peut être tenté de dire que le problème de la
+   philosophie de l’esprit est un conflit entre notre expérience
+   subjective et la science. Un tel diagnostic serait pourtant trop
+   facile : il existe déjà une tension entre la première et la deuxième
+--
+   n’existent pas. Par exemple, il est concevable que je rêve d’états
+   physiques inexistants ou qu’un malin génie me trompe en manipulant mon
+   esprit de telle sorte que je croie qu’il existe des états physiques en
+   dehors de mon esprit alors que ce n’est pas le cas. Ainsi, on peut en
+   arriver à douter de l’existence même du monde physique, y compris de
+   celle de son propre corps.
+--
+
+   Descartes propose non seulement un dualisme des substances, il soutient
+   encore qu’il existe une union causale entre l’esprit et le corps. Son
+   dualisme est interactionniste : des états physiques causent des états
+   mentaux et vice-versa. Le dualisme interactionniste résout le problème
+   de la philosophie de l’esprit en acceptant les propositions (1), (2) et
+   (4) et en rejetant la proposition (3). Pour répondre à la question de
+   la façon dont des états mentaux peuvent causer des états physiques,
+--
+
+   À part la thèse de l’identité psychophysique, il existe en philosophie
+   de l’esprit contemporaine, encore une autre manière de concevoir la
+   dépendance des états mentaux par rapport aux états physiques, à savoir
+   la thèse de survenance psychophysique. Appliqué au monde en entier,
+--
+   double n’était pas à Vienne. De toute façon, les différentes versions
+   de la thèse de la survenance psychophysique ne constituent qu’un point
+   de départ pour la philosophie de l’esprit (cf. Kim (2006), pp. 37–49).
+   En effet, si la thèse de la survenance propose une certaine manière de
+   concevoir la façon dont les états mentaux dépendent des états
+--
+
+   Le fonctionnalisme est la position la plus répandue en philosophie de
+   l’esprit depuis la moitié des années 1960. Ayant pris la place du
+   behaviourisme, le fonctionnalisme constitue aujourd’hui une sorte de
+   paradigme accepté par la plupart des philosophes de l’esprit et des
+   scientifiques en sciences cognitives. Le fonctionnalisme en philosophie
+   de l’esprit fut lancé notamment par Hilary Putnam (*1926), Jerry Fodor
+   (*1931) et David Lewis (1941–2001) (voir Putnam (2002), Fodor (1972),
+   en particulier chapitres 3 et 4, Lewis (1966) et Lewis (1972) ; pour
+--
+   fonctionnelle de l’objet étudié et, deuxièmement, la recherche de
+   mécanismes qui permettent à cet objet de réaliser sa fonction. En
+   philosophie de l’esprit, cette idée est d’une portée plus large que la
+   comparaison du cerveau à une machine. On peut caractériser cette idée
+   par les propositions suivantes :
+--
+   types d’états mentaux ? Une position importante qui cherche à répondre
+   à cette question est la théorie représentationnelle et computationnelle
+   de l’esprit de Jerry Fodor. Suivant ce philosophe, les états
+   intentionnels sont des représentations mentales computationnelles. Les
+   relations logiques et rationnelles entre les états intentionnels sont
+--
+   les types d’états mentaux sont réalisés par des états physiques,
+   réponse qui est à l’abri de l’objection de Searle car elle n’associe
+   pas l’esprit à une machine. Cette réponse cherche à lier une conception
+   fonctionnelle de l’esprit au sens large à la biologie de l’évolution.
+   Les concepts biologiques sont typiquement des concepts fonctionnels qui
+   couvrent des réalisations physiques multiples. Par exemple, le concept
+--
+   apprend pourquoi une théorie fonctionnelle des états phénoménaux semble
+   difficile à accepter (pour des introductions plus approfondies à la
+   philosophie de l’esprit en français, notez Engel (1994), Fisette et
+   Poirier (2000), Kim (2008) et Esfeld (2012) – cet article se base sur
+   le livre Esfeld (2012)).
+--
+   Pascal Engel. Paris : Odile Jacob.
+
+   ENGEL, Pascal (1994) : Introduction à la philosophie de l’esprit.
+   Paris : La Découverte.
+
+   ESFELD, Michael (2012) : La philosophie de l’esprit. Une introduction
+   aux débats contemporains, Paris : Armand Colin.
+
+--
+   Volume 2. Minneapolis : University of Minnesota Press. Pp. 370–497.
+
+   FISETTE, Denis et Poirier, Pierre (2000) : Philosophie de l’esprit.
+   Etat des lieux. Paris : Vrin.
+
+--
+
+   JACOB, Pierre (2004) : L’intentionnalité. Problèmes de philosophie de
+   l’esprit. Paris : Odile Jacob.
+
+   KIM, Jaegwon (2005) : Physicalism, or something near enough.
+   Princeton : Princeton University Press.
+
+   KIM, Jaegwon (2006) : L’esprit dans un monde physique. Essai sur le
+   problème corps-esprit et la causalité mentale. Traduction par François
+   Athané et Edouard Guinet. Paris : Syllepse.
+
+   KIM, Jaegwon (2008) : Philosophie de l’esprit. Préface de Pascal Engel.
+   Traduction par David Michel-Pajus, Mathieu Mulcey et Charles Théret
+   sous la direction de Mathieu Mulcey. Paris : Ithaque.
+
+   KISTLER, Max (2016), L’esprit matériel, réduction et émergence, Paris :
+   Ithaque,.
+
+--
+   LEVINE, Joseph (2003) : « Omettre l’effet que cela fait. Traduction par
+   Pierre Poirier ». In : D. Fisette et P. Poirier (dir.) : Philosophie de
+   l’esprit. Problèmes et perspectives. Paris : Vrin. Pp. 195–221.
+
+   LEWIS, David (1966) : « An argument for the identity theory ». Journal
+--
+   free will ». Philosophical Topics 24, pp. 92–113.
+
+   LOTH, François (2013) : Le corps et l’esprit, essai sur la causalité
+   mentale, Paris : Vrin.
+
+--
+   PUTNAM, Hilary (2002) : « La nature des états mentaux. Traduction par
+   Jean-Michel Roy et Dominique Boucher ». In : D. Fisette et P. Poirier
+   (dir.) : Philosophie de l’esprit. Psychologie du sens commun et
+   sciences de l’esprit. Paris : Vrin. Pp. 269–287.
+
+   REY, Georges (1997) : Contemporary philosophy of mind. A contentiously

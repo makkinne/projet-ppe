@@ -52,27 +52,44 @@ while read -r URL; do
         f_dump="$DOSSIER_TABLEAUX/../dumps-text/${LANGUE}-${lineno}.txt"
         f_contexte="$DOSSIER_TABLEAUX/../contextes/${LANGUE}-${lineno}.txt"
 
+        # Récupérer la page
         code=$(curl -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" -L -s -o "$f_aspirations" -w "%{http_code}" "$URL")
-		encoding="N/A"
+        encoding="N/A"
         nb_contexte=0
 
+        # Si pas d'erreur lors de la récupération
+        # Alors
         if [ "$code" == "200" ]; then
             encoding=$(file -b --mime-encoding "$f_aspirations")
-
-			if [ -z "$encoding" ] || [ "$encoding" == "binary" ]; then
-                encoding="utf-8"
+            
+            if [ "$encoding" == "utf-8" ]; then
+                # En extraire le texte
+                lynx -stdin -dump -nolist -display_charset=UTF-8 < "$f_aspirations" > "$f_dump"
+                # En extraire des contextes
+                grep -E -i -C 2 "$MOT_CLE" "$f_dump" > "$f_contexte" #egrep est obsolette usage de grep -E à la place
+            # Sinon
+            else
+                #  on essaie de détecter l'encodage
+                if [ -n "$encoding" ] && [ "$encoding" != "binary" ]; then
+                    # l’encodage est reconnu
+                    # Conversion en UTF-8 et extraction du texte
+                    iconv -f "$encoding" -t "UTF-8//IGNORE" -c "$f_aspirations" | lynx -stdin -dump -nolist -display_charset=UTF-8 > "$f_dump"
+                    # En extraire des contextes
+                    grep -E -i -C 2 "$MOT_CLE" "$f_dump" > "$f_contexte" #egrep est obsolette usage de grep -E à la place
+                else
+                    # Sinon on ne fait rien
+                    echo "" > "$f_dump"
+                    echo "" > "$f_contexte"
+                fi
             fi
 
-			cat "$f_aspirations" | lynx -stdin -dump -nolist -assume_charset="$encoding" -display_charset=UTF-8 | iconv -f "UTF-8" -t "UTF-8//IGNORE" -c > "$f_dump"
+            # Calcul du nombre de lignes de contexte si le fichier existe et n'est pas vide
+            if [ -s "$f_contexte" ]; then
+                nb_contexte=$(grep -c . "$f_contexte")
+            else
+                nb_contexte=0
+            fi
 
-            grep -E -i -C 2 "$MOT_CLE" "$f_dump" > "$f_contexte"
-
-			if [ -s "$f_contexte" ]; then
-            	nb_contexte=$(grep -c . "$f_contexte")
-			else
-				nb_contexte=0
-			fi
-        
         else
             echo "" > "$f_dump"
             echo "Erreur HTTP $code" > "$f_contexte"

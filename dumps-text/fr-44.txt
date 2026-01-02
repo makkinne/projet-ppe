@@ -1,1207 +1,764 @@
-   #RSS alternate alternate alternate Contents Abréviations Chapitre
-   premier. Des écrivains anti critiques L’Écrivain-critique au
-   xixe siècle Search on OpenEdition
-
-     * Contenu principal
-     * Menu
-     * (BUTTON) Rechercher
-
-   OpenEdition Books
+   (BUTTON) contenu principal
+   (BUTTON) Accueil France Info
+     * Rechercher une actualité Recherche
+     * Direct TV TV
+     * Direct radio Radio
+     * Le live Live
+     * (BUTTON) Services
+          + Newsletters (Nouvelle fenêtre)
+          + Météo (Nouvelle fenêtre)
+          + Jeux (Nouvelle fenêtre)
+          + Scolarité
+     * (BUTTON) Mon espace
+          + S'inscrire
+          + Se connecter
+          + À lire plus tard
+          + Mes commentaires
+          + Mes newsletters
+          + Mes informations
+          + Se déconnecter
 
      * Accueil
-     *
-     * Catalogue de 16012 livres
-     *
-     * Éditeurs
-     *
-     * Auteurs
+     * (BUTTON) Menu
+     * Grands formats
+     * Enquêtes
+     * Vrai ou faux
+     * Budget 2026
+     * Guerre en Ukraine
+     * Laïcité
 
-   (BUTTON) Français FR
-     * (BUTTON) English
+   France Info France Info (BUTTON)
+   Rechercher sur franceinfo
+   ____________________
+   (BUTTON) Annuler la saisie
+     * Accueil
 
-   (BUTTON) Partager
+   En ce moment
+     * Budget 2026
+     * Guerre en Ukraine
+     * Laïcité
+
+     * Grands formats
+     * Enquêtes
+     * Vrai ou faux
+
+   Rubriques
+     * L'actu pour les jeunes
+     * Une info transparente
+     * (BUTTON) Monde
+     * (BUTTON) Europe
+     * (BUTTON) Faits-divers
+     * (BUTTON) Politique
+     * (BUTTON) Société
+     * (BUTTON) Environnement
+     * (BUTTON) Sport
+     * (BUTTON) Culture
+     * (BUTTON) Éco / Conso
+     * (BUTTON) Santé
+     * (BUTTON) Sciences & technologies
+     * (BUTTON) Météo Météo
+     * (BUTTON) Jeux Jeux
+
+     * (BUTTON) Services
+
+   Recevez l'essentiel de l'actualité et restez à jour avec nos
+   newsletters
+   découvrir nos newsletters (Nouvelle fenêtre)
+   Continuez votre exploration
+     * France 3 régions (nouvelle fenêtre) France 3 régions
+     * Outremer la 1ère (nouvelle fenêtre) Outremer la 1ère
+     * (BUTTON) france TV france TV
+     * (BUTTON) radio france radio france
+
+   (BUTTON) Services Services
+     * Newsletters (nouvelle fenêtre) Newsletters
+     * Météo (nouvelle fenêtre) Météo
+     * Jeux (nouvelle fenêtre) Jeux
+     * Scolarité
+
+   (BUTTON) Monde Monde
+   voir toute l'actu Monde
+   En direct
+     * Guerre en Ukraine
+
+   En ce moment
+     * Guerre en Ukraine
+     * Un an de la chute de Bachar al-Assad
+     * Guerre dans la bande de Gaza
+     * Guerre au Proche-Orient
+     * Voir plus de sujets monde
+
+   Rubriques
+     * Afrique
+     * Amériques
+     * Asie-Pacifique
+     * Etats Unis d'Amérique
+     * Russie
+     * Chine
+     * Proche-orient
+     * Brésil
+     * ONU
+     * Otan
+     * Story Killers
+     * Conflit dans le Haut-Karabakh
+     * Guerre entre Israël et le Hamas
+     * Inondations meurtrières en Libye
+     * Séisme au Maroc
+
+   (BUTTON) Europe Europe
+   voir toute l'actu Europe
+   En direct
+     * Guerre en Ukraine
+
+   En ce moment
+     * Guerre en Ukraine
+     * Voir plus de sujets europe
+
+   Rubriques
+     * Guerre en Ukraine
+     * France
+     * Allemagne
+     * Sommet de l'UE
+     * Royaume-Uni
+     * Espagne
+     * Italie
+     * Belgique
+     * Brexit
+
+   (BUTTON) Faits-divers Faits-divers
+   voir toute l'actu Faits-divers
+   En ce moment
+     * Cambriolage au musée du Louvre
+     * Affaire Frédéric Péchier
+     * Affaire Grégory
+     * Voir plus de sujets faits-divers
+
+   Rubriques
+     * Meurtres
+     * Affaires
+     * Enlèvements
+     * Accidents
+     * Police
+     * Terrorisme
+     * Justice – Procès
+     * Evasions
+     * Incendies de forêt
+     * Mort de Nahel à Nanterre
+     * Disparition de Delphine Jubillar
+     * Attaque au couteau à Annecy
+     * Procès de l’attentat de Magnanville
+     * Disparition du petit Emile
+     * Incendie meurtrier à Wintzenheim
+
+   (BUTTON) Politique Politique
+   voir toute l'actu Politique
+   En ce moment
+     * Gouvernement de Sébastien Lecornu
+     * Financement de la campagne 2007 de Sarkozy
+     * Voir plus de sujets politique
+
+   Rubriques
+     * Élections municipales 2026
+     * Gouvernement de Gabriel Attal
+     * Assemblée nationale
+     * Sénat
+     * Emmanuel Macron
+     * Réforme des retraites 2023
+     * Les Républicains
+     * Renaissance
+     * Rassemblement national
+     * Parti socialiste
+     * La France insoumise
+     * Les Ecologistes - EELV
+     * Affaires
+     * Election présidentielle
+     * Toutes les élections
+
+   (BUTTON) Société Société
+   voir toute l'actu Société
+   En ce moment
+     * Laïcité
+     * Drogue et narcotrafic
+     * Armée, sécurité et défense
+     * Affaires Sarkozy
+     * Violences sexuelles
+     * Immigration
+     * Voir plus de sujets société
+
+   Rubriques
+     * Justice
+     * Drogue
+     * Education
+     * Egalité femmes-hommes
+     * Immigration
+     * Fin de vie
+     * IVG
+     * Maltraitance dans les Ehpad
+     * Droits des femmes
+     * Violences sexuelles
+     * Féminicides
+     * Laïcité
+     * Prisons
+     * Prostitution
+     * PMA
+     * Scolarité
+     * Calendrier des vacances scolaires
+     * Calendrier des jours fériés
+     * Résultats Bac
+     * Résultats Brevet
+     * Résultats Bts
+     * Résultats Cap
+     * Harcèlement scolaire
+     * Guide scolaire des parents
+
+   (BUTTON) Environnement Environnement
+   voir toute l'actu Environnement
+   En ce moment
+     * Qualité de l'eau
+     * Crise climatique
+     * Voir plus de sujets environnement
+
+   Rubriques
+     * Biodiversité
+     * Crise climatique
+     * Militants pour l'environnement
+     * Pollution
+     * Energie
+     * Actions écologiques
+     * Transition écologique de l'agriculture
+     * Évènements météorologiques extrêmes
+     * Catastrophes naturelles
+     * Outils de l'Ademe
+     * Outils environnement
+     * Problèmes de santé liés à l'environnement
+     * Le tableau de bord du réchauffement climatique
+     * Nos réponses à vos questions sur le climat
+     * Carte des restrictions d'eau
+     * Tableau de bord des nappes phréatiques
+     * Calculez votre empreinte carbone
+     * Calculez l'impact carbone de vos déplacements
+     * Trouvez des fruits et légumes de saison
+     * Triez mieux vos déchets
+
+   (BUTTON) Sport Sport
+   voir toute l'actu Sport
+   En ce moment
+     * Directs
+     * Voir plus de sujets sport
+
+   Rubriques
+     * Foot
+     * Cyclisme
+     * Tennis
+     * Rugby
+     * Formule 1
+     * Basket
+     * Handball
+     * Golf
+     * Paris 2024
+     * Jeux paralympiques
+     * Dakar
+     * 6 nations
+     * Roland-Garros
+     * Tour de France
+     * Coupe du monde de foot
+     * Mondiaux d'athlétisme
+     * Coupe du monde de rugby
+
+   (BUTTON) Culture Culture
+   voir toute l'actu Culture
+   En ce moment
+     * Boualem Sansal
+     * Prix littéraires
+     * Noël et fêtes de fin d'année
+     * Voir plus de sujets culture
+
+   Rubriques
+     * Musique
+     * Cinéma
+     * Séries
+     * Arts-Expos
+     * Spectacles
+     * Livres
+     * BD
+     * Mode
+     * Patrimoine
+     * Jeux Vidéo
+     * Festival de Cannes 2023
+     * Oscars 2024
+     * Victoires de la musique 2024
+     * Festival du livre de Paris 2024
+     * Les Molières
+     * Fête de la musique 2024
+     * Rock en Seine 2024
+     * Festivals d'été
+
+   (BUTTON) Éco / Conso Éco / Conso
+   voir toute l'actu Éco / Conso
+   En ce moment
+     * Budget 2026
+     * Shein
+     * Réforme des retraites
+     * Voir plus de sujets éco / conso
+
+   Rubriques
+     * Inflation
+     * Pouvoir d'achat
+     * Réforme des retraites 2023
+     * Chômage
+     * Crise
+     * Commerce
+     * Déficit
+     * Emploi
+     * Grève
+     * Impôts - Fiscalité
+     * Entreprises
+     * Industrie
+     * Médias
+     * Ménages
+     * Retraite
+     * Auto-entrepreneurs
+     * Aéronautique
+     * Automobile
+     * Transports
+     * Bourse
+     * Budget de la France
+     * Fraude
+     * Soldes d'hiver 2024
+
+   (BUTTON) Santé Santé
+   voir toute l'actu Santé
+   En ce moment
+     * Scandale des eaux en bouteille
+     * Voir plus de sujets santé
+
+   Rubriques
+     * Maladie
+     * Hôpital
+     * Covid-19
+     * Vaccin contre le Covid-19
+     * Cancer
+     * La crise de l’hôpital public
+     * Biologie - Génétique
+     * Médicament
+     * Alimentation
+     * Lutte contre le tabagisme
+     * Politique de santé
+     * Psycho - Bien-être
+     * Sport et santé
+     * Professions médicales
+     * Le tabou de la santé mentale
+
+   (BUTTON) Sciences & technologies Sciences & technologies
+   voir toute l'actu Sciences & technologies
+     * Mars
+     * OGM
+     * Météorites en Russie
+     * Astéroïde 2012 DA14
+     * High Tech
+     * Steak in-vitro
+     * Boson de Higgs
+     * Astronomie
+     * Espace
+     * Solar Impulse
+     * Homo naledi
+     * Dinosaures
+
+   (BUTTON) Météo Météo
+   Météo (Nouvelle fenêtre)
+     * Tsunami
+     * Séisme
+     * Avalanche
+     * Canicule
+     * Cyclone
+     * Intempéries
+     * Neige
+     * Orages
+     * Tempêtes
+     * Tornade
+     * Météo France (nouvelle fenêtre) Météo France
+     * Météo Paris (nouvelle fenêtre) Météo Paris
+     * Météo Lyon (nouvelle fenêtre) Météo Lyon
+     * Météo Marseille (nouvelle fenêtre) Météo Marseille
+     * Actualités météo
+
+   (BUTTON) Jeux Jeux
+   Jeux (Nouvelle fenêtre)
+     * Sudoku (nouvelle fenêtre) Sudoku
+     * Mots fléchés (nouvelle fenêtre) Mots fléchés
+     * Mots croisés (nouvelle fenêtre) Mots croisés
+     * Mots mystères (nouvelle fenêtre) Mots mystères
+     * Solitaire (nouvelle fenêtre) Solitaire
+     * Alphamo (nouvelle fenêtre) Alphamo
+     * 7 erreurs (nouvelle fenêtre) 7 erreurs
+     * FreeCell (nouvelle fenêtre) FreeCell
+
+   (BUTTON) france TV france TV
+   france TV (Nouvelle fenêtre)
+     * France 2 (nouvelle fenêtre) France 2
+     * France 3 (nouvelle fenêtre) France 3
+     * France 4 (nouvelle fenêtre) France 4
+     * France 5 (nouvelle fenêtre) France 5
+     * Lumni (nouvelle fenêtre) Lumni
+     * Okoo (nouvelle fenêtre) Okoo
+     * France tv & vous (nouvelle fenêtre) France tv & vous
+     * France tv le club (nouvelle fenêtre) France tv le club
+     * France tv lab (nouvelle fenêtre) France tv lab
+     * Les Médiateurs (nouvelle fenêtre) Les Médiateurs
+
+   (BUTTON) radio france radio france
+   radio france (Nouvelle fenêtre)
+     * France Inter (nouvelle fenêtre) France Inter
+     * ici (nouvelle fenêtre) ici
+     * France Culture (nouvelle fenêtre) France Culture
+     * France Musique (nouvelle fenêtre) France Musique
+     * Fip (nouvelle fenêtre) Fip
+     * Mouv' (nouvelle fenêtre) Mouv'
+     * Maison de la Radio et de la Musique (nouvelle fenêtre) Maison de la
+       Radio et de la Musique
+     * La Médiatrice (nouvelle fenêtre) La Médiatrice
+
+   Flash info
+   (BUTTON) Fermer la notification
+
+   lire l'article
+   Cet article date de plus de trois ans.
+
+Événement : Universcience présente le baromètre national de l'esprit critique
+
+   Le 22 mars, Universcience, l'établissement public qui regroupe la Cité
+   des sciences et de l'industrie et le Palais de la découverte, présente
+   la première édition du baromètre de l'esprit critique.
+   (BUTTON) lire plus tard
+
+   Pour sauvegarder cet article, connectez-vous ou créez un compte
+   franceinfo
+
+   Sans paiement. Sans abonnement.
+   (BUTTON) Fermer la fenêtre d’activation des notifications France Info
+   (BUTTON) créer votre compte
+   (BUTTON) se connecter
+   (BUTTON) Fermer la fenêtre de présentation
+
+   (BUTTON) précédent (BUTTON) suivant
+   (BUTTON) commenter
+   (BUTTON) partager
+     * Copier le lien
      * Facebook
+     * Whatsapp
      * X
+     * Email
 
-   (BUTTON) OpenEdition Search (BUTTON) Tout OpenEdition
+   Article rédigé par franceinfo
+   Radio France
+   Publié le 22/03/2022 09:51 Mis à jour le 23/03/2022 09:13
+   Temps de lecture : 2min
+   Le baromètre de l'esprit critique.&nbsp; (Etude sur le développement de
+   l'esprit critique des Français en 2021 / Gece pour Universcience et
+   franceinfo) Le baromètre de l'esprit critique.  (Etude sur le
+   développement de l'esprit critique des Français en 2021 / Gece pour
+   Universcience et franceinfo)
 
-     * Partager
-          + Facebook
-          + X
+Une étude sous trois prismes
 
-     * Accueil
-     * Catalogue de 16012 livres
-     * Éditeurs
-     * Auteurs
+   Comment les Français se situent-ils par rapport à l’esprit critique,
+   c’est-à-dire la capacité à trier et qualifier l’information disponible,
+   à élaborer leur propre jugement, à mettre en question leurs propres
+   convictions et, au bout du compte, à penser librement ? Pour le savoir,
+   Universcience a organisé une étude auprès de 3 218 Français (méthode
+   des quotas) en les interrogeant sous trois prismes : celui de leur
+   rapport à la science, le raisonnement scientifique et les méthodes
+   propres à la science étant consubstantiels de l’esprit critique ; celui
+   de leurs sources d’information, notamment sur les sujets scientifiques,
+   pour comprendre comment ils construisent leur compréhension de
+   l’actualité ; enfin, celui de leur rapport au débat d’idées et à
+   l’altérité dans le raisonnement. Ce triple questionnement permet de
+   dessiner un panorama inédit de la manière dont les Français puisent
+   l’information dans leur environnement et s’en servent pour construire
+   leurs opinions.
 
+Un intérêt marqué pour la science...
 
+   ...mais avec des disparités socio-économiques et de genre. L’étude
+   montre le dynamisme de la culture scientifique dans notre pays : 81%
+   des sondés regardent des documentaires scientifiques, 67% consultent
+   des sites traitant de sujets scientifiques sur Internet et 64% des
+   vidéos sur YouTube – primat, donc, de l’image. Les sciences sont pour
+   eux un moyen de développer des nouvelles technologies utiles à tous
+   (88%).
 
-Ressources numériques en sciences humaines et sociales
+La télévision et Internet plébiscités pour s’informer...
 
-     * OpenEdition
+   ...les médecins et les scientifiques jugés dignes de confiance. Comment
+   les sondés suivent-ils l’actualité ? Deux piliers se détachent, la
+   télévision pour 68% d’entre eux (c’est même le premier moyen pour 29%
+   des sondés), et Internet (hors réseaux sociaux : moteurs de recherche,
+   sites médias) pour 73%. Viennent ensuite les proches (50%), la radio
+   (46%), la presse papier et les réseaux sociaux (40%).
 
+Un appétit de débat et d’ouverture à autrui.
 
+   La France est-elle ouverte d’esprit ? Les sondés répondent
+   positivement, 86% d’entre eux se déclarant ouverts à toute nouvelle
+   idée, et 81% affirmant prendre en compte un maximum d’opinions sur
+   chaque sujet. 51% préfèrent discuter avec des personnes qui ne pensent
+   pas comme eux – 39% déclarent le contraire-, et, si 50% consultent
+   “beaucoup” d’opinions différentes avant de se faire une idée, 43%
+   déclarent l’inverse.
 
-Nos plateformes
+   Plus d'informations sur universcience.fr
+     * accueil
+     * (BUTTON) lire plus tard
+     * (BUTTON) commenter
+     * (BUTTON) partager
 
-     * OpenEdition Books
-     * OpenEdition Journals
-     * Hypothèses
-     * Calenda
-
-
-
-Bibliothèques
-
-     * OpenEdition Freemium
-
-
-
-Suivez-nous
+   (BUTTON) commenter
+   (BUTTON) partager
+     * Copier le lien
+     * Facebook
+     * Whatsapp
+     * X
+     * Email
 
      *
      *
      *
      *
+     *
 
-     Lettre d’information
+   À regarder
+   (BUTTON) passer cette liste
+   (BUTTON) Afficher les liens précédents (BUTTON) Afficher les liens
+   suivants
+     * Un chariot de courses dans un supermarché (GETTYIMAGES) Un chariot
+       de courses dans un supermarché (GETTYIMAGES)
+       Nos salaires face au coût de la vie
+       • 3 min
+     * - (franceinfo) - (franceinfo)
+       La présidente de France TV, Delphine Ernotte, face aux députés
+       • 3 min
+     * Atterrissage d'urgence : l'avion finit sur le toit d'une voiture
+       (France 2) Atterrissage d'urgence : l'avion finit sur le toit d'une
+       voiture (France 2)
+       Atterrissage d'urgence : l'avion finit sur le toit d'une voiture
+       • 2 min
+     * Immeubles effondrés : 22 morts au Maroc (France 2) Immeubles
+       effondrés : 22 morts au Maroc (France 2)
+       Immeubles effondrés : 22 morts au Maroc
+       • 3 min
+     * Lola, 22 ans, dit adieu à ses fausses lèvres (France 2) Lola, 22
+       ans, dit adieu à ses fausses lèvres (France 2)
+       Lola, 22 ans, dit adieu à ses fausses lèvres
+       • 3 min
+     * - (Franceinfo) - (Franceinfo)
+       Deux militantes féministes perturbent la séance de dédicaces de
+       Nicolas Sarkozy à Paris
+       • 1 min
+     * Soupçons d'antisémitisme : jugée pour avoir intoxiqué ses patrons
+       (France 2) Soupçons d'antisémitisme : jugée pour avoir intoxiqué
+       ses patrons (France 2)
+       Soupçons d'antisémitisme : jugée pour avoir intoxiqué ses patrons
+       • 2 min
+     * Max Laloum dans "Pour info". (FRANCEINFO / RADIO FRANCE) Max Laloum
+       dans "Pour info". (FRANCEINFO / RADIO FRANCE)
+       "Il y a dix ans, la jeunesse pensait que le futur allait être
+       incroyable"
+     * Le hors-jeu du talon pour quelques millimètres de l'Union
+       Saint-Gilloise, qui a offert la victoire à l'OM. (AFP / MAXPPP /
+       SIPA) Le hors-jeu du talon pour quelques millimètres de l'Union
+       Saint-Gilloise, qui a offert la victoire à l'OM. (AFP / MAXPPP /
+       SIPA)
+       VIDEO. Ligue des champions : Marseille, une victoire au millimètre
+       • 1 min
+     * - (C quoi l'info) - (C quoi l'info)
+       Courses de chameaux : le nouveau but de Pogba
+       • 1 min
+     * Voitures électriques : une bonne nouvelle pour les usines Renault
+       (France 2) Voitures électriques : une bonne nouvelle pour les
+       usines Renault (France 2)
+       Voitures électriques : une bonne nouvelle pour les usines Renault
+       • 2 min
+     * - (Louis Laforge) - (Louis Laforge)
+       "On a de l'espoir pour nous, mais aussi pour les autres" : la mère
+       de Félicie, l'ambassadrice du Téléthon 2024, veut se battre
+       • 2 min
+     * - (franceinfo) - (franceinfo)
+       "L'Ukraine utilise la guerre comme prétexte pour ne pas faire
+       d'élections" : Donald Trump critique Volodymyr Zelensky, qui lui
+       répond
+       • 2 min
+     * Yaël Braun-Pivet, le 10 décembre 2025 (FRANCEINFO / RADIO FRANCE)
+       Yaël Braun-Pivet, le 10 décembre 2025 (FRANCEINFO / RADIO FRANCE)
+       Le vocabulaire de Brigitte Macron est "assez indigne" !
+       • 2 min
+     * Narcotrafic à Marseille : 1500 policiers contre les points de deal
+       (France 2) Narcotrafic à Marseille : 1500 policiers contre les
+       points de deal (France 2)
+       Narcotrafic à Marseille : 1500 policiers contre les points de deal
+       • 2 min
+     * - (C quoi l'info ?) - (C quoi l'info ?)
+       Coupe du monde de football 2026 : pause fraîcheur ou pause pub ?
+       • 2 min
+     * - (C quoi l'info ?) - (C quoi l'info ?)
+       Pas de réseaux avant 16 ans, ça divise les ados à l'étranger
+       • 2 min
+     * Thaïlande - Cambodge : combats meurtriers à la frontière (France 2)
+       Thaïlande - Cambodge : combats meurtriers à la frontière (France 2)
+       Thaïlande - Cambodge : combats meurtriers à la frontière
+       • 2 min
+     * - (AFP) - (AFP)
+       1 500 policiers mobilisés à Marseille dans une vaste opération
+       contre le narcotrafic
+       • 2 min
+     * Inondations : déluge sur l'Arabie Saoudite (France 2) Inondations :
+       déluge sur l'Arabie Saoudite (France 2)
+       Inondations : déluge sur l'Arabie Saoudite
+       • 2 min
+     * - (franceinfo) - (franceinfo)
+       Des créateurs de contenus sur TikTok décrivent les relations avec
+       leurs communautés
+     * - (franceinfo) - (franceinfo)
+       Soupçonné d'espionnage, un cosmonaute russe écarté de l'ISS
+       • 2 min
+     * Tondu par ses éducateurs : un enfant de 8 ans victime de
+       maltraitance (France 2) Tondu par ses éducateurs : un enfant de 8
+       ans victime de maltraitance (France 2)
+       Tondu par ses éducateurs : un enfant de 8 ans victime de
+       maltraitance
+       • 3 min
+     * - (Franceinfo) - (Franceinfo)
+       120 ans de la laïcité : Fabrice Luchini lit le discours de Victor
+       Hugo
+       • 5 min
+     * Maison en flammes : le récit d'un sauvetage héroïque (France 2)
+       Maison en flammes : le récit d'un sauvetage héroïque (France 2)
+       Maison en flammes : le récit d'un sauvetage héroïque
+       • 3 min
+     * Gabriel Attal au JT de 20h (France 2) Gabriel Attal au JT de 20h
+       (France 2)
+       Budget adopté de justesse : pour Gabriel Attal, "il faut changer la
+       manière d'exercer le pouvoir"
+       • 2 min
+     * - (franceinfo) - (franceinfo)
+       Nicusor Dan, président roumain : "Je ne suis pas optimiste sur le
+       fait que la Russie veuille la paix"
+       • 2 min
+     * Le succès des "rage cages" en Grande-Bretagne (STÉPHANIE BERLU /
+       RADIO FRANCE) Le succès des "rage cages" en Grande-Bretagne
+       (STÉPHANIE BERLU / RADIO FRANCE)
+       Le succès des "rage cages" en Grande-Bretagne
+       • 3 min
+     * Narcotrafic : des frappes américaines controversées (France 2)
+       Narcotrafic : des frappes américaines controversées (France 2)
+       Narcotrafic : des frappes américaines controversées
+       • 2 min
+     * Syrie, le défi sécuritaire du nouveau pouvoir (France 2) Syrie, le
+       défi sécuritaire du nouveau pouvoir (France 2)
+       Syrie, le défi sécuritaire du nouveau pouvoir
+       • 3 min
 
-   OpenEdition Search (BUTTON)
+     *
+     *
+     *
+     *
+     *
 
-   Redirection vers OpenEdition Search.
-   Expression ou mot-clé (tag) ____________________
+   les mots-clés associés à cet article
+     * Partenariats
 
-   À quel endroit ?
+     *
+     *
+     *
+     *
+     *
 
-   (*) Dans Presses universitaires de Liège
-   ( ) Dans tout OpenEdition
+   contenus sponsorisés
 
-   (BUTTON) Rechercher
+Commentaires
 
-     Presses universitaires de Liège ›
+   (BUTTON) Fermer la fenêtre Commentaires
 
-     Situations ›
+Connectez-vous ou créez votre espace franceinfo pour commenter.
 
-     L’Écrivain-critique au xix^e siècle ›
+   (BUTTON) se connecter
 
-     Introduction
-
-     Presses universitaires de Liège
-
-   Presses universitaires de Liège
-   Presses universitaires de Liège
-
-   Informations sur la couverture
-   Rechercher dans le livre
-   ____________________ (BUTTON)
-   Table des matières (BUTTON) Citer (BUTTON) Partager
-   Liens vers le livre
-   Informations sur la couverture
-   Rechercher dans le livre
-   ____________________ (BUTTON)
-   Table des matières (BUTTON) Citer (BUTTON) Partager
-   Formats de lecture
-
-   Plan
-   Plan détaillé Texte intégral Notes de bas de page
-   (BUTTON) Aller en haut de page (BUTTON) Aller en bas de page
-
-L’Écrivain-critique au xix^e siècle
+   Pas encore de compte ? S'inscrire
 
    (BUTTON)
 
-   Ce livre est recensé par
+   Découvrez l’application France Info
 
-   Naviguer dans le livre
+   Toute l’actu en direct et en continu, où et quand vous voulez.
+     * Sauvegardez vos articles à lire plus tard
+     * Recevez les alertes uniquement sur ce qui vous intéresse
 
-   Précédent
-   [Introduction__________________________________________________________
-   __________________________________...] (BUTTON) Valider Suivant
+     * Télécharger dans l'App Store Télécharger dans l'App Store
+     * Disponible sur Google Play Disponible sur Google Play
 
-   Table des matières
+   Télécharger l'application (Nouvelle fenêtre)
 
-Introduction
+    1. Accueil
+    2. Partenariats
 
-   p. 9-18
-   (BUTTON) Plan détaillé
-   Texte intégral Notes de bas de page
-     __________________________________________________________________
+   Abonnement Newsletter
 
-Texte intégral
+   :toute l’actu dès 7h30
 
-   1Le xix^e siècle invente la critique. Non seulement elle connaît alors
-   un essor impressionnant, mais elle devient aussi, comme l’écrit Albert
-   Thibaudet, une puissance « qui a pris conscience d’elle-même1 ».
-   Différents facteurs y concourent, à commencer par des évolutions
-   d’ordre épistémologique. Dans le prolongement du xviii^e siècle, on
-   assiste à un développement de l’esprit historique et du relativisme qui
-   se sont affirmés après la Révolution, chez Madame de Staël2 et le
-   groupe de Coppet notamment ; l’esprit scientifique continue de
-   progresser, et la diffusion des sciences naturelles popularise les
-   idées de classification et d’évolution, en un siècle qui a le « goût de
-   l’inventaire3 ». Des transformations idéologiques sont concomitantes,
-   comme les progrès de l’esprit libéral, corollaire d’une pensée
-   pluraliste propice aux comparaisons, aux mises en perspective. Le refus
-   de l’autorité, des règles, des canons universels et éternels, est porté
-   dans le domaine artistique par le « libéralisme esthétique » des
-   romantiques, en rupture avec la poétique classique ; la promotion,
-   voire la sacralisation de l’écrivain4 rejaillit sur la fonction
-   critique, chargée « d’énoncer les valeurs dont se réclame l’écrivain et
-   d’aider à la constitution d’un terreau favorable à la création5 ». Des
-   facteurs qu’on pourrait, à la suite d’A. Thibaudet, qualifier de
-   « corporatistes » expliquent enfin la montée en puissance et
-   l’affirmation de la critique littéraire au xix^e siècle.
+   Votre adresse e-mail
+   ____________________
+   (BUTTON) s'inscrire
 
-   2C’est à cette époque qu’elle se professionnalise et
-   s’institutionnalise, s’érigeant en discipline savante et universitaire,
-   portée par des professeurs de renom. Un discours historique et
-   philologique sur la littérature prend forme, élaboré par des
-   personnalités qui bénéficient de chaires parfois prestigieuses, de
-   Désiré Nisard et Abel Villemain à Ferdinand Brunetière et Gustave
-   Lanson, en passant par Hippolyte Taine ou Ernest Renan. Cette critique
-   érudite et « didactique » se veut de plus en plus scientifique et
-   affirme une vocation plutôt descriptive qu’évaluative : privilégiant
-   l’histoire de la littérature, elle s’attache volontiers aux œuvres du
-   passé, sans se détourner des productions contemporaines. Néanmoins,
-   l’interaction entre explication et appréciation, analyse et jugement,
-   est fréquente, voire nécessaire, s’il est vrai que toute critique
-   comporte une part d’axiologie : à ces savants incombe au premier chef
-   la mission de délimiter la littérature par la valeur qu’ils lui
-   assignent, fût-ce indirectement, en prêtant attention à tel ouvrage
-   contemporain ou en remettant à l’honneur telle œuvre du passé. Cette
-   mission est d’autant plus importante qu’une part de plus en plus large
-   de la population accède progressivement à la lecture, grâce à la
-   politique d’instruction publique qui se poursuit tout au long du siècle
-   et sous l’influence d’autres facteurs comme la multiplication des
-   cabinets de lecture puis des bibliothèques publiques, l’essor du chemin
-   de fer et la densification du réseau des librairies, ainsi que le
-   développement de la presse, qui met peu à peu l’imprimé entre toutes
-   les mains.
+   Merci ! Votre inscription est bien prise en compte.
 
-   3Ce dernier élément entraîne aussi l’essor sans précédent et la
-   professionnalisation, au sein de la sphère médiatique, d’un autre type
-   de critique. La critique journalistique s’inscrit en effet dans les
-   revues, littéraires et généralistes, avant d’envahir les journaux
-   quotidiens qui prolifèrent à partir du milieu des années 1830 et du
-   véritable début de l’« ère médiatique6 ». La frontière n’est cependant
-   pas étanche avec la « critique littéraire de la chaire7 » évoquée à
-   l’instant, les professeurs étant présents dans les colonnes des
-   journaux, tandis que des feuilletonistes accèdent parfois aux hautes
-   sphères académiques comme c’est le cas de Sainte-Beuve. Journaliste au
-   Globe, à la Revue de Paris et à la Revue des Deux Mondes, puis
-   « lundiste » régulier, à partir de 1849, au Constitutionnel, au
-   Moniteur et au Temps, l’auteur de Port-Royal est aussi conférencier à
-   Lausanne, professeur à Liège et à l’École normale supérieure ; il est
-   en outre nommé conservateur de la bibliothèque Mazarine en 1840, entre
-   à l’Académie française en 1844 et devient sénateur en 1865. Ces
-   honneurs confèrent à Sainte-Beuve, d’abord poète et romancier, une
-   autorité institutionnelle dont bénéficient d’autres éminents
-   professeurs, certains eux aussi tentés par le journalisme8.
+   France Télévisions utilise votre adresse e-mail afin de vous adresser
+   des newsletters.
+   Pour exercer vos droits, contactez-nous.
+   Notre politique de confidentialité
 
-   4Quoique pratiquée par des personnalités de tous grades dans des revues
-   et journaux de visées, de publics et de prestiges variés9, la critique
-   journalistique souffre en général d’un discrédit majeur, qui s’exprime
-   abondamment et éloquemment tout au long du xix^e siècle, au premier
-   chef chez les écrivains. Ceux-ci sont en effet les premières cibles et
-   les premières victimes de cette critique qui est d’abord une critique
-   d’actualité, chargée de recenser, commenter et juger les œuvres
-   récemment parues en librairie ou — puisque nous associons ici la
-   critique dramatique à la critique littéraire, sans méconnaître leurs
-   différences — les pièces à l’affiche des théâtres. Selon des lieux
-   communs qui circulent durant tout le siècle, les écrivains reprochent
-   aux critiques leur partialité, voire leur vénalité, les soupçonnant de
-   subordonner leur jugement aux intérêts de leur journal ou aux
-   pots-de-vin de diverses natures versés par les libraires et les
-   directeurs de théâtre - soupçon renforcé par la cohabitation dans les
-   périodiques de la critique et de l’annonce, c’est-à-dire la publicité.
-   Ils les accusent aussi d’être inconséquents et de pratiquer une
-   critique « d’humeur » (souvent de mauvaise humeur) ; Jules Janin est
-   ainsi connu et souvent épinglé pour sa versatilité. Ils leur reprochent
-   encore d’être incompétents, malavisés ou franchement malveillants, les
-   critiques étant tentés de se venger de leur impuissance créatrice par
-   le fiel de leurs articles : orchestré par Gautier l’un des premiers10,
-   le motif du critique-eunuque sera abondamment repris par la suite, de
-   Balzac à Zola en passant par bien d’autres. Les écrivains rejettent en
-   outre la pente moralisatrice, dogmatique et répressive d’une certaine
-   critique soupçonnée d’accointances avec la censure — soupçon non sans
-   fondement, car les instances officielles de censure, plus ou moins en
-   vigueur pendant tout le xix^e siècle jusqu’à la loi de 1881, sont
-   majoritairement occupées par des hommes de lettres ; et n’est-ce pas un
-   article du Figaro qui a sans doute alerté les censeurs quant aux
-   outrageantes Fleurs du Mal, et conduit Baudelaire devant Ernest
-   Pinard ? Enfin, dès avant la seconde moitié du siècle, l’excès de
-   criticisme, associé aux dérives rationalistes, positivistes et
-   incrédules d’une société désenchantée, est volontiers dénoncé chez les
-   critiques, les protestations des écrivains contre ces derniers ayant
-   fréquemment, au moins implicitement, une portée sociale11.
+   Suivez-nous sur les réseaux sociaux :
+     * France Info sur Facebook (Nouvelle fenêtre)
+     * France Info sur X, anciennement Twitter (Nouvelle fenêtre)
+     * France Info sur Instagram (Nouvelle fenêtre)
+     * France Info sur Youtube (Nouvelle fenêtre)
+     * France Info sur Tiktok (Nouvelle fenêtre)
 
-   5Tout en vitupérant parfois violemment les critiques, les écrivains se
-   font souvent, bon gré mal gré, eux-mêmes critiques. Parfois pratiquée à
-   des fins alimentaires mais aussi pour bien d’autres raisons, cette
-   activité fait dès lors l’objet de justifications sans fin de la part
-   des écrivains-critiques, qu’ils affirment prendre à leur tour la plume
-   dans les colonnes des journaux pour riposter aux journalistes et se
-   défendre, eux et leurs pairs, ou qu’ils expriment le souhait de
-   refonder une critique digne de ses missions et rendue à la noblesse de
-   sa tâche, tâche d’autant plus importante qu’un public de plus en plus
-   vaste, on l’a rappelé, accède à la lecture et doit être éduqué. Quels
-   que soient ses enjeux et visées, avoués ou inavoués, l’activité
-   critique des écrivains est d’autant plus féconde qu’elle est, comme le
-   souligne José-Luis Diaz, stimulée par sa mauvaise conscience ; elle est
-   « d’autant plus intense, qu’elle n’en finit jamais vraiment avec les
-   dénonciations initiales, infiniment réitérées, à titre de culpabilité
-   native mais aussi d’aiguillon : contre la critique, contre les
-   poétiques, contre la « théorie12 ». Marquée par l’instabilité, voire la
-   réversibilité de leurs places respectives, l’identité hybride de
-   l’écrivain-critique soulève entre autres questions celle de la
-   spécificité même de la critique « d’artiste » en regard de la critique
-   « professionnelle ».
+   Accueil France Info
 
-   6Outre les divers travaux sur la critique du xix^e siècle — qui n’est
-   pas en elle-même le sujet de cet ouvrage, ciblant les interactions
-   entre littérature et critique — , le statut et la pratique de
-   l’écrivain-critique ont, à ce jour, fait l’objet de plusieurs études.
-   Outre la Physiologie de la critique d’Albert Thibaudet, qui, en 1930,
-   revenait déjà sur les frontières mouvantes de la critique, des travaux
-   plus récents se sont attelés à ce sujet, nourris par l’essor des
-   recherches, au début des années 2000, sur les liens entre presse et
-   littérature, notamment les travaux de Marie-Ève Thérenty et Alain
-   Vaillant13, ou de Marie-Françoise Melmoux-Montaubin14. Sur
-   l’écrivain-critique, et dans des perspectives mobilisant l’histoire
-   culturelle autant que les analyses des œuvres et des textes, on citera
-   un numéro de la Revue des Sciences Humaines dirigé en 2012 par
-   Marie-Paule Berranger, L’Écrivain-critique (RSH n° 306), un numéro de
-   la revue Elseneur que j’ai co-dirigé avec Brigitte Diaz,
-   L’Anti-critique des écrivains au xix^e siècle (Elseneur, n° 28, 2013),
-   et les actes, parus en 2019, d’un colloque intitulé « Figures du
-   critique-écrivain. Formes et pratiques du discours métalittéraire
-   (xix^e-xxi^e siècles) » organisé en Belgique par Valérie Stiénon et
-   Laurence van Nuijs15. Des travaux se sont en outre penchés sur des
-   figures singulières d’écrivains-critiques tels que George Sand16,
-   Stendhal17 ou Zola18.
+   Suivez l'actualité en direct :
+     * le live
+     * direct tv
+     * direct radio
 
-   7Aucune véritable synthèse n’a cependant été réalisée sur le sujet,
-   puisque les travaux mentionnés sont soit des monographies, soit des
-   recueils d’articles qui, en dépit de leur richesse et d’introductions
-   éclairantes, tendent à morceler leur objet en l’étudiant au prisme
-   d’une multitude d’auteurs appartenant à une période longue (tout le
-   xix^e siècle mais aussi le xx^e siècle dans le cas du numéro de la RSH
-   et jusqu’au xxi^e siècle pour les actes cités). L’ambition de cet
-   ouvrage est de synthétiser mais aussi d’approfondir la réflexion, en
-   posant frontalement la question du statut de l’écrivain-critique et de
-   son œuvre au xix^e siècle. Comment se présente la carrière d’un
-   écrivain-critique et comment s’y articulent précisément les deux pans
-   de son activité ? Pourquoi, quand et comment passe-t-il de l’une à
-   l’autre, sur quels supports pratique-t-il chacune, comment les
-   jauge-t-il l’une par rapport à l’autre et quels intérêts et enjeux
-   réciproques leur attribue-t-il ? Par ailleurs, quelles sont les
-   scénographies de l’écrivain-critique et comment construit-il, dans son
-   discours et par l’ensemble de ses stratégies auctoriales, son double
-   rôle et sa position duelle dans le monde des Lettres ? En quoi les
-   écrits critiques, le discours qui s’y déploie, les jugements qui s’y
-   formulent, les conceptions qui s’y forgent, cherchent-ils à fonder ou à
-   conforter (tout en risquant parfois de la fragiliser) la position de
-   l’écrivain sur la scène et dans le paysage littéraires de son temps ?
-   Réciproquement, en quoi le statut d’écrivain, plus ou moins célèbre,
-   détermine-t-il les postures, le ton, les idées affichées dans le
-   discours critique ? Enfin, quelle influence exercent l’une sur l’autre
-   les deux activités du point de vue esthétique ? En quoi la critique
-   d’un écrivain peut-elle être dite « créatrice », au sens fort, et
-   définir une critique « d’artiste » (qu’Albert Thibaudet nomme encore
-   une « critique des maîtres19 » mais qu’on nommera volontiers aussi
-   « critique des créateurs » à partir du début du xx^e siècle) ? Quel
-   degré et quelles marques de littérarité sont susceptibles de la
-   distinguer de la critique d’un « non-créateur » ? Quelles formes de
-   critique littéraire inventent les écrivains ? Quant à leurs œuvres
-   littéraires, qu’elles relèvent de la fiction narrative, du théâtre ou
-   de la poésie, en quoi sont-elles (ou non) infléchies, empreintes,
-   façonnées par leur activité, leurs habitudes, leurs codes critiques ?
-   Quelles trajectoires esthétiques peut-on dessiner d’une catégorie
-   d’écrits à l’autre — sans masquer par les phénomènes de continuité les
-   jeux de contraste ou de différenciation ?
+   Retrouvez aussi
+   La météo Les jeux
 
-   8Pour être menée avec suffisamment d’exactitude, et parce que le
-   général ne s’atteint qu’à travers le particulier20, cette enquête sur
-   le statut, les stratégies et l’œuvre des écrivains-critiques s’appuiera
-   sur un nombre restreint de cas précis. Visant une réflexion
-   synthétique, mais non l’exhaustivité, elle se concentrera sur trois
-   exemples de grands écrivains-critiques illustrant des parcours, des
-   postures et des choix variés, dans les conditions identiques d’un champ
-   littéraire et artistique refaçonné en profondeur par la révolution
-   médiatique, au sein duquel tous trois ont « tiré leur épingle du jeu »
-   et se sont, bon gré mal gré, imposés aux yeux de leurs contemporains
-   comme de la postérité. Ces trois figures apportent à elles seules une
-   matière abondante à la réflexion : Alexandre Dumas père (1802-1870) ;
-   Théophile Gautier (1811-1872) ; Jules Barbey d’Aurevilly (1808-1889).
-
-   9Tous trois mènent en parallèle, publiquement, tout au long de leur
-   carrière, écriture littéraire et écriture critique ; ils tirent de
-   chacune de ces activités des revenus substantiels (tous trois étant
-   dans la nécessité d’écrire pour gagner de l’argent), et sont reconnus
-   dans ces deux rôles par leurs contemporains. Ils se différencient ainsi
-   d’écrivains qui cantonnèrent leur réflexion critique dans leurs écrits
-   privés, comme Flaubert, ainsi que d’auteurs qui, même au terme de leur
-   carrière, eurent du mal à s’imposer dans l’un ou l’autre rôle21. Les
-   trois auteurs appartiennent par ailleurs au même « moment », même si
-   Barbey, de par sa longévité, excède celui-ci : celui de la naissance de
-   la presse à large diffusion, support essentiel de l’activité critique,
-   et de la révolution médiatique qu’elle engendre ; cette révolution, qui
-   sera encore accélérée par le développement d’une presse « populaire »
-   au début des années 1860, contribue fortement à mener les écrivains
-   romantiques vers de nouveaux horizons. Des années 1830 aux
-   années 1870 (au-delà pour Barbey), des changements culturels et
-   politiques majeurs déterminent ainsi la carrière et la production de
-   ces trois écrivains, qui réagissent chacun par des stratégies et des
-   choix différents. C’est aussi le moment22 où les relations entre les
-   écrivains et les critiques sont les plus conflictuelles en même temps
-   que les plus ambiguës. Les trois auteurs, enfin, ont en commun d’avoir
-   produit des écrits critiques sur des livres, des pièces de théâtre mais
-   aussi sur des œuvres variées ressortissant à d’autres arts ou
-   disciplines (peinture, sculpture, musique ou histoire), même si la
-   proportion de chacun de ces types de critique, obéissant chacun à des
-   codes et visées spécifiques, varie considérablement d’un auteur à
-   l’autre23. Cette multiplicité de leurs intérêts et cette pratique
-   polygraphique sont caractéristiques des écrivains-critiques de
-   l’époque.
-
-   10Au-delà de ce qui les rapproche, ces figures, par leurs différences,
-   incarnent la variété des situations et des choix adoptés par les
-   écrivains-critiques, de la fin de la Restauration à la fin du Second
-   Empire (et même un peu au-delà). Sur le plan littéraire comme sur le
-   plan idéologique et sociologique, encore qu’il s’agisse de trois
-   écrivains sans fort capital économique, pour qui l’écriture fut aussi
-   un gagne-pain, les trois auteurs ont en effet peu en commun. Dumas
-   père, issu d’une double origine, plébéienne et aristocratique24,
-   affirma précocement des opinions républicaines qu’il hérita de son
-   général de père et qu’il manifesta en diverses occasions telles que les
-   Trois Glorieuses, les élections de 1848 ou l’expédition des Mille aux
-   côtés de Garibaldi, en 1860, sans toutefois renoncer à des amitiés
-   princières ni se départir d’une certaine nostalgie vis-à-vis de
-   l’Ancien Régime. Gautier, lui, d’une famille bourgeoise et lettrée (il
-   a fait de solides études sous la férule de son père, alors que Dumas
-   est largement autodidacte), n’exprime jamais beaucoup de penchant pour
-   la politique et, en dépit de son libéralisme, s’accommode sans mal du
-   Second Empire, dont il devient même une sorte de notable, en étant
-   nommé bibliothécaire de la princesse Mathilde ou Président de la
-   Société nationale des Beaux-Arts. Quant à Barbey d’Aurevilly, ses
-   origines aristocratiques lui tiennent à cœur et, après les velléités
-   libérales et républicaines de sa jeunesse provocatrice et dandy, il
-   revient au milieu des années 1840 au monarchisme et au catholicisme
-   intransigeants de sa famille. Il ne cessera plus de combattre en faveur
-   du trône et de l’autel, tout en sachant qu’il est, pour l’un comme pour
-   l’autre, désormais Trop tard ! — selon la devise qu’il a adoptée.
-
-   11Ces auteurs sont aussi bien différents sur le plan littéraire et
-   esthétique, quoiqu’ils soient tous trois issus de la génération
-   romantique. Parti du théâtre et co-fondateur, aux côtés de Hugo, du
-   drame romantique, Dumas se tourne dès la fin des années 1830 vers la
-   prose narrative, pour faire du roman son genre privilégié à partir du
-   début des années 1840 ; il est l’un des « rois » du roman-feuilleton
-   sous la monarchie de Juillet puis sous le Second Empire, bien qu’il ait
-   alors un peu de mal à maintenir son règne et cherche à soutenir sa
-   célébrité par diverses expériences journalistiques. Gautier, lui,
-   fervent soutien de Hugo et de l’« école moderne », qu’il soumet
-   néanmoins assez tôt au crible de son ironie (dans Les Jeunes-France ou
-   La Comédie de la mort), reste toute sa vie fidèle aux enthousiasmes de
-   sa jeunesse — auxquels il consacre son Histoire du romantisme, écrite
-   au soir de sa vie —, tout en devenant au milieu du siècle un des
-   piliers de l’Art pour l’Art (surtout après la parution d’Émaux et
-   Camées), l’inspirateur de Baudelaire et des Parnassiens. Barbey
-   d’Aurevilly, enfin, nourri, abreuvé, pétri de lectures romantiques,
-   affirme bientôt des goûts singuliers (il ne goûte ni Sand, ni Hugo) ;
-   celui en qui Maurice Rollinat voit « le grand original de son
-   époque25 » reste sur le plan littéraire inclassable, affichant des
-   admirations classiques et un culte passionné pour Balzac, tout en
-   rejetant le naturalisme de Zola et de sa « clique ». Quant à son œuvre,
-   il est difficile de l’assigner à un courant précis26.
-
-   12De façon plus anecdotique, ajoutons que ces trois auteurs n’étaient
-   pas très proches les uns des autres sur le plan personnel. Gautier et
-   Dumas se fréquentent certes dans les cénacles romantiques : ils se
-   retrouvent, dans les années 1830, chez Hugo ou dans d’autres cercles,
-   et furent également rapprochés par Dumas fils, proche de Gautier, ainsi
-   que par la commune amitié de Maquet27 et d’autres connaissances telles
-   que Nerval, Mélanie Waldor ou Noël Parfait. Le Capitaine Fracasse doit
-   de plus beaucoup au roman de cape et d’épée28 dont Dumas, en France,
-   est l’un des inventeurs, et Gautier est un chaleureux soutien du
-   théâtre de Dumas29. Barbey, en revanche, s’il a d’abord des relations
-   amicales avec Gautier (l’un des rares à avoir salué la parution d’Une
-   vieille maîtresse30) et s’il admire Émaux et Camées31, se montre
-   ensuite sévère pour Le Capitaine Fracasse32, et traite son auteur de
-   façon peu élogieuse dans les Trente-Sept Médaillonnets du Parnasse
-   contemporain33. Quant à Dumas — malgré une certaine obligeance de
-   celui-ci à son égard34 —, il l’étrille vigoureusement dans ses écrits
-   critiques.
-
-   13Les divergences de différents ordres entre ces auteurs permettent
-   donc d’explorer à la fois dans sa variété et dans ses constantes la
-   figure de l’écrivain-critique, tout en embrassant des carrières et des
-   corpus dont la richesse exige de concilier vision d’ensemble et analyse
-   de détail. L’œuvre critique de Gautier et de Barbey d’Aurevilly, si
-   elle a déjà fait l’objet de travaux aussi précieux que stimulants35,
-   reste encore largement à explorer, surtout dans ses rapports avec leur
-   œuvre littéraire. L’ensemble de leur œuvre critique est désormais
-   disponible, ou en bonne voie de l’être, grâce à de colossales
-   entreprises d’édition. Dirigée par Pierre Glaudes et Catherine Mayaux,
-   l’Œuvre critique intégrale de Barbey d’Aurevilly paraît depuis 2004 aux
-   Belles Lettres, en sept volumes encore à compléter par trois autres. La
-   Critique théâtrale de Gautier fait également l’objet d’une édition
-   exhaustive (depuis 2007, quinze volumes en sont déjà parus), tandis que
-   d’autres textes phares comme Les Grotesques ou la Préface de
-   Mademoiselle de Maupin se sont vus consacrer des éditions critiques36.
-   Quant aux écrits critiques de Dumas, ils ont dernièrement été mis au
-   jour par un ouvrage collectif que j’ai dirigé (Dumas critique, Limoges,
-   PULIM, 2013), ouvrage invitant à de nombreux prolongements ou
-   compléments. Les causeries de l’auteur ont également été étudiées dans
-   une thèse soutenue par Sandrine Carvalhosa en 201737, et deux ouvrages
-   portent sur les journaux qu’il a dirigés38. Néanmoins, ces écrits n’ont
-   jamais fait l’objet d’une édition complète, ce qui oblige à se fonder
-   sur des éditions dispersées et parfois anciennes ; tandis que les
-   éditions Champion et Belles Lettres seront nos éditions de référence
-   pour Gautier et Barbey. L’ensemble de l’œuvre littéraire sera
-   conjointement convoqué, œuvre dont l’envergure et la
-   complexité — nourries par la pratique critique, nous le verrons — ont
-   également présidé au choix de nos auteurs.
-
-   14Cet ouvrage s’attachera d’abord à reconstituer la carrière des trois
-   écrivains en analysant les circonstances et les raisons de l’alternance
-   qu’ils pratiquent entre écriture littéraire et critique, mais aussi les
-   supports et les formes que prend chacune de ces activités, à la fois
-   concomitantes et rivales. Il examinera ensuite la construction, à la
-   fois fantasmatique et pragmatique, de leurs deux rôles, en étudiant par
-   quelles stratégies le critique échafaude ou consolide son statut
-   d’écrivain, et, réciproquement, comment son influence de critique peut
-   être confortée par sa notoriété d’artiste. Il analysera enfin, dans une
-   perspective esthétique, les jeux d’influences d’un pan de l’œuvre à
-   l’autre, la continuité mais aussi les contrastes qui lient les textes
-   critiques aux œuvres d’emblée considérées comme littéraires.
-
-   15À travers trois exemples privilégiés, il s’agit ainsi d’interroger la
-   transformation de la critique littéraire et de son statut au mitan du
-   xix^e siècle, et la façon dont les écrivains-critiques ont, chacun à
-   leur manière, contribué à faire évoluer la représentation de cette
-   activité, d’une pratique ancillaire à une écriture participant de plein
-   droit à la modernité littéraire. La question des frontières du
-   littéraire et du critique est donc cruciale. « La littérature, c’est ce
-   qu’on appelle littérature. […] C’est une société qui décide que
-   certains textes sont littéraires par l’usage qu’elle en fait39 », note
-   Antoine Compagnon. Quand et comment la critique s’intègre-t-elle à la
-   littérature, sous quelle forme, à quelles conditions et sous quel
-   statut ? Où le xix^e siècle place-t-il une frontière que le xx^e siècle
-   achèvera de brouiller, sinon d’annuler40, l’une des caractéristiques de
-   la modernité étant la convergence de la création littéraire et de
-   l’activité critique, le métadiscours s’intégrant — phénomène déjà
-   perceptible au xix^e siècle — au dispositif des œuvres ? Se pose enfin
-   et peut-être surtout la question de la définition de l’écrivain au
-   xix^e siècle, et, de façon plus (onto)logique, celle de l’unité d’une
-   œuvre, voire d’un artiste. L’écrivain-critique appelle à repenser
-   l’opposition entre critique et littérature et à appréhender sous un
-   jour nouveau l’activité de l’écrivain au xix^e siècle.
-
-Notes de bas de page
-
-   1Physiologie de la critique, Librairie Nizet, 1930, p. 16.
-
-   2Notamment dans Essai sur les fictions (1795), De la littérature dans
-   ses rapports avec les institutions sociales (1800) et De l’Allemagne
-   (1810).
-
-   3Albert Thibaudet, Physiologie de la critique, op. cit., p. 16.
-
-   4Voir à ce sujet les travaux désormais canoniques de Paul Bénichou.
-
-   5Jean-Thomas Nordmann, La Critique littéraire française au xix^e siècle
-   (1800-1914), LGF, « Le Livre de Poche. Références », 2001, p. 39.
-
-   6Ouverte par le lancement en 1836 de journaux qui divisent par deux le
-   prix de leur abonnement, La Presse d’Émile de Girardin et Le Siècle
-   d’Armand Dutacq. Sur Sainte-Beuve, nous renvoyons notamment à
-   Romantisme, n° 109 : Sainte-Beuve ou l’invention de la critique, J.-L.
-   Diaz (dir.), 2000.
-
-   7Albert Thibaudet, Physiologie de la critique, op. cit., p. 8.
-
-   8C’est le cas, plus tard dans le siècle, de Ferdinand Brunetière, Jules
-   Lemaître ou Émile Faguet.
-
-   9La presse amène une pluralisation du personnel critique ; Balzac en
-   établit une amusante taxinomie dans sa Monographie de la presse
-   parisienne (1842).
-
-   10Dans la préface de Mademoiselle de Maupin (mai 1834).
-
-   11Ce conflit entre écrivains et critiques, particulièrement violent au
-   xix^e siècle, n’attend cependant pas cette période pour se déclarer :
-   « […] l’institutionnalisation de la critique — fût-elle celle des
-   pairs — a toujours rendu celle-ci suspecte, surtout si ces pairs ont
-   été distingués par un pouvoir régalien. Les Observations et Remarques
-   de l’Académie française ne sont finalement pas mieux accueillies à sa
-   création que ne le seront au xix^e siècle les décrets d’un plumitif par
-   un rapin », note Marie-Paule Berranger (« Le poème, l’arbre et la
-   cigogne », Revue des Sciences Humaines, n° 306 : L’Écrivain-critique,
-   M.-P. Berranger [dir.], 2012/2, p. 8).
-
-   12Revue des Sciences Humaines, n° 295 : Préfaces et manifestes du
-   xix^e siècle, J.-L. Diaz (dir.), 2009/3, p. 10.
-
-   13Voir M.-È. Thérenty, Mosaïques. Être écrivain entre presse et roman,
-   1829-1836, Honoré Champion, 2003, et Presse et Plumes. Journalisme et
-   littérature au xix^e siècle, M.-È. Thérenty et A. Vaillant (dir.),
-   Nouveau Monde Éditions, 2004.
-
-   14L’Écrivain-journaliste au xix^e siècle, un mutant des lettres,
-   Saint-Étienne, Éditions des Cahiers intempestifs, 2003.
-
-   15Figures du critique-écrivain (xix^e-xxi^e siècles), E. Absalyamova,
-   L. Van Nuijs et V. Stiénon (dir.), Presses universitaires de Rennes,
-   coll. « Interférences », 2019.
-
-   16Voir Olivier Bara et Christine Planté (dir.), George Sand critique,
-   Presses universitaires de Saint-Étienne, 2011.
-
-   17Un colloque international « Stendhal et la critique » a été organisé
-   par Brigitte Diaz en novembre 2016 à l’Université de Caen.
-
-   18Voir François-Marie Mourad, Zola critique littéraire, Honoré
-   Champion, coll. « Romantisme et modernités », 2003.
-
-   19Physiologie de la critique, op. cit., p. 12.
-
-   20S’expliquant d’aborder les « discours du récit » à travers le cas
-   singulier d’À la recherche du temps perdu, Gérard Genette faisait la
-   remarque suivante : « […] en cherchant le spécifique je trouve de
-   l’universel […]. Ce paradoxe est celui de toute poétique, sans doute
-   aussi de toute activité de connaissance, toujours écartelée entre ces
-   deux lieux communs incontournables, qu’il n’est d’objets que
-   singuliers, et de science que du général ; toujours cependant
-   réconfortée, et comme aimantée, par cette autre vérité un peu moins
-   répandue, que le général est au cœur du singulier […] ».
-   « Avant-propos », dans Discours du récit. Figures III, Éditions du
-   Seuil, coll. « Poétique », 1972, p. 68-69.
-
-   21Baudelaire lui-même, à sa mort, n’avait encore vu publier qu’une
-   partie de son œuvre poétique.
-
-   22Balzac et Stendhal tendent à se rattacher à un moment antérieur,
-   tandis que Vallès (dont l’essentiel de l’activité critique date des
-   années 1860), Zola (qui « entre en critique » à la même époque) ou
-   Mirbeau, autres écrivains-critiques de premier plan, appartiennent à un
-   moment politique, culturel et esthétique ultérieur. Outre qu’elle
-   s’intéresse aux interférences entre journalisme (notamment polémiste)
-   et littérature (et non entre critique et littérature), c’est ainsi à
-   des auteurs appartenant plutôt à la seconde moitié du xix^e siècle que
-   Marie-Françoise Melmoux-Montaubin consacre son remarquable essai sur
-   l’Écrivain-journaliste au xix^e siècle, un mutant des lettres, auteurs
-   auxquels elle associe Barbey d’Aurevilly, en en faisant le premier
-   chaînon de sa série. Dans notre perspective, c’est plutôt le dernier
-   maillon.
-
-   23La critique dramatique l’emporte chez Gautier, par ailleurs grand
-   critique d’art, comme chez Dumas, tandis que la critique littéraire au
-   sens plus strict se taille la part du lion chez Barbey d’Aurevilly.
-   Nous reviendrons sur ces différences.
-
-   24Sa grand-mère est une esclave de Saint-Domingue, son grand-père un
-   marquis.
-
-   25Lettre à Eugène Grelé, 14 juillet 1900. Cité dans Jean-Marie Jeanton
-   Lamarche, Pour un portrait de Jules-Amédée Barbey d’Aurevilly : regards
-   sur l’ensemble de son œuvre, témoignages de la critique, études et
-   documents inédits, L’Harmattan, 2000, p. 47.
-
-   26Des séminaires organisés à Paris-Sorbonne par Pierre Glaudes,
-   Mathilde Bertrand et Élise Sorel ont visé ces dernières années à
-   réfléchir aux rapports de Barbey avec le classicisme, puis le
-   romantisme.
-
-   27Auguste Maquet, appelé à devenir le plus important collaborateur de
-   Dumas, était devenu l’ami intime de Gautier au collège Charlemagne.
-
-   28L’expression « de cape et d’épée » appliquée au roman se répand à
-   partir de 1857, année de parution du roman de Paul Féval Le Bossu.
-   Aventures de cape et d’épée. Sa lexicalisation se renforce après la
-   parution en 1875 du roman d’Amédée Achard La Cape et l’Épée.
-
-   29Gautier salue ainsi avec chaleur dans son feuilleton l’ouverture du
-   Théâtre-Historique boulevard du Temple en février 1847.
-
-   30Dans La Presse du 28 juillet 1851.
-
-   31Voir « Émaux et Camées, par Théophile Gautier », Le Pays,
-   26 janvier 1859.
-
-   32Voir « Le Capitaine Fracasse, par Th. Gautier », Le Pays,
-   17 janvier 1864.
-
-   33Voir Le Nain jaune, 7 novembre 1866.
-
-   34En 1844, Dumas intervient pour trouver un éditeur au roman Germaine
-   (voir la lettre de Barbey à Trebutien du 12 avril 1844, CG, t. I,
-   p. 163). Fin 1850, il propose également à Barbey de tirer un drame
-   d’Une vieille maîtresse, après que l’auteur en a donné lecture dans le
-   salon de la comtesse O’Huegerty (voir une lettre à Trebutien de
-   décembre 1850, CG, t. II, p. 204).
-
-   35Voir la bibliographie établie à la fin de ce volume.
-
-   36La Préface de Mademoiselle de Maupin [1834], éd. Georges Matoré,
-   Droz, 1946. Les Grotesques [1844], éd. Cecilia Rizza, Nizet, 1986.
-
-   37Sandrine Carvalhosa, La causerie au xix^e siècle : les voix d’une
-   écriture médiatique, sous la direction de Corinne Saminadayar-Perrin,
-   thèse soutenue en décembre 2017 à Montpellier 3.
-
-   38Entre presse et littérature. Le Mousquetaire, journal de M. Alexandre
-   Dumas (1853-1857), P. Durand et S. Mombert (dir.), Bibliothèque de la
-   Faculté de Philosophie et Lettres de l’Université de Liège, n° 297,
-   2009 ; Un mousquetaire du journalisme : Alexandre Dumas, S. Mombert et
-   C. Saminadayar-Perrin (dir.), Presses universitaires de Franche-Comté,
-   coll. « Les Cahiers de la MSHE Ledoux », n° 37, 2019.
-
-   39« Critique », dans Encyclopædia Universalis, t. VII, 2008, p. 93.
-
-   40« La distinction du critique et du créateur, à laquelle s’est plu le
-   romantisme, ne se défend pas. Elle est purement absurde. Quoi ! Il
-   suffirait de parler d’un arbre ou d’une cigogne pour être créateur,
-   d’un poème pour cesser de l’être ? », écrit ainsi Jean Paulhan en
-   septembre 1931 dans la NRF (en rendant compte de la publication
-   d’Aujourd’hui, recueil de critiques, témoignages et souvenirs de Blaise
-   Cendrars, chez Grasset).
-   Naviguer dans le livre
-
-   Précédent
-   roduction_________________________.....................................
-   .....................................] (BUTTON) Valider Suivant
-
-   Table des matières
-     __________________________________________________________________
-
-   Le texte seul est utilisable sous licence Licence OpenEdition Books.
-   Les autres éléments (illustrations, fichiers annexes importés) sont
-   « Tous droits réservés », sauf mention contraire.
-   (BUTTON)
-
-Dans la même collection
-
-   (BUTTON) (BUTTON) (BUTTON) (BUTTON) (BUTTON) (BUTTON) Voir plus de
-   livres
-   Mesures de l'écrivain
-
-Mesures de l'écrivain
-
-   Profil socio-littéraire et capital relationnel dans
-   l'entre-deux-guerres en Belgique francophone
-
-   Björn-Olav Dozo
-
-   2011
-   Romans à clés
-
-Romans à clés
-
-   Les ambivalences du réel
-
-   Anthony Glinoer et Michel Lacroix (dir.)
-
-   2014
-   Quatre poètes dans la Grande Guerre
-
-Quatre poètes dans la Grande Guerre
-
-   Guillaume Apollinaire, Jean Cocteau, Pierre Drieu la Rochelle, Paul
-   Éluard
-
-   Olivier Parenteau
-
-   2014
-   Deux siècles de malédiction littéraire
-
-Deux siècles de malédiction littéraire
-
-   Pascal Brissette et Marie-Pier Luneau (dir.)
-
-   2014
-   L’histoire des idées
-
-L’histoire des idées
-
-   Problématiques, objets, concepts, méthodes, enjeux, débats
-
-   Marc Angenot
-
-   2014
-   Sexe et pouvoir dans la prose française contemporaine
-
-Sexe et pouvoir dans la prose française contemporaine
-
-   Jacques Dubois (dir.)
-
-   2015
-   Le symbolique et le social
-
-Le symbolique et le social
-
-   La réception internationale de la pensée de Pierre Bourdieu
-
-   Jacques Dubois, Pascal Durand et Yves Winkin (dir.)
-
-   2015
-   La dynamique des groupes littéraires
-
-La dynamique des groupes littéraires
-
-   Denis Saint-Amand (dir.)
-
-   2016
-   Usages du peuple
-
-Usages du peuple
-
-   Savoirs, discours, politiques
-
-   Émilie Goin et François Provenzano (dir.)
-
-   2017
-   Les souvenirs littéraires
-
-Les souvenirs littéraires
-
-   Actes du colloque du 2-3-4 juin 2016 à l’université de Paris Nanterre
-
-   Vincent Laisney (dir.)
-
-   2017
-   Littérature monstre
-
-Littérature monstre
-
-   Une tératologie de l’art et du social
-
-   Yanna Kor, Didier Plassard et Corinne Saminadayar-Perrin (dir.)
-
-   2020
-   Réarmements critiques dans la littérature française contemporaine
-
-Réarmements critiques dans la littérature française contemporaine
-
-   Jean-Pierre Bertrand, Frédéric Claisse et Justine Huppe (dir.)
-
-   2022
-   Voir plus de livres
-
-   (BUTTON)
-   1 / 12
-   (BUTTON)
-   Mesures de l'écrivain
-
-Mesures de l'écrivain
-
-   Profil socio-littéraire et capital relationnel dans
-   l'entre-deux-guerres en Belgique francophone
-
-   Björn-Olav Dozo
-
-   2011
-   Romans à clés
-
-Romans à clés
-
-   Les ambivalences du réel
-
-   Anthony Glinoer et Michel Lacroix (dir.)
-
-   2014
-   Quatre poètes dans la Grande Guerre
-
-Quatre poètes dans la Grande Guerre
-
-   Guillaume Apollinaire, Jean Cocteau, Pierre Drieu la Rochelle, Paul
-   Éluard
-
-   Olivier Parenteau
-
-   2014
-   Deux siècles de malédiction littéraire
-
-Deux siècles de malédiction littéraire
-
-   Pascal Brissette et Marie-Pier Luneau (dir.)
-
-   2014
-   L’histoire des idées
-
-L’histoire des idées
-
-   Problématiques, objets, concepts, méthodes, enjeux, débats
-
-   Marc Angenot
-
-   2014
-   Sexe et pouvoir dans la prose française contemporaine
-
-Sexe et pouvoir dans la prose française contemporaine
-
-   Jacques Dubois (dir.)
-
-   2015
-   Le symbolique et le social
-
-Le symbolique et le social
-
-   La réception internationale de la pensée de Pierre Bourdieu
-
-   Jacques Dubois, Pascal Durand et Yves Winkin (dir.)
-
-   2015
-   La dynamique des groupes littéraires
-
-La dynamique des groupes littéraires
-
-   Denis Saint-Amand (dir.)
-
-   2016
-   Usages du peuple
-
-Usages du peuple
-
-   Savoirs, discours, politiques
-
-   Émilie Goin et François Provenzano (dir.)
-
-   2017
-   Les souvenirs littéraires
-
-Les souvenirs littéraires
-
-   Actes du colloque du 2-3-4 juin 2016 à l’université de Paris Nanterre
-
-   Vincent Laisney (dir.)
-
-   2017
-   Littérature monstre
-
-Littérature monstre
-
-   Une tératologie de l’art et du social
-
-   Yanna Kor, Didier Plassard et Corinne Saminadayar-Perrin (dir.)
-
-   2020
-   Réarmements critiques dans la littérature française contemporaine
-
-Réarmements critiques dans la littérature française contemporaine
-
-   Jean-Pierre Bertrand, Frédéric Claisse et Justine Huppe (dir.)
-
-   2022
-   Accès ouvert
-
-   Accès ouvert freemium
-
-   ePub
-
-   PDF
-
-   PDF du chapitre
-   Suggérer l’acquisition à votre bibliothèque
-
-   Acheter
-
-   Édition imprimée
-     * amazon.fr
-     * decitre.fr
-     * mollat.com
-     * leslibraires.fr
-     * placedeslibraires.fr
-     * lcdpu.fr
-
-   ePub / PDF
-
-   1Physiologie de la critique, Librairie Nizet, 1930, p. 16.
-
-   2Notamment dans Essai sur les fictions (1795), De la littérature dans
-   ses rapports avec les institutions sociales (1800) et De l’Allemagne
-   (1810).
-
-   3Albert Thibaudet, Physiologie de la critique, op. cit., p. 16.
-
-   4Voir à ce sujet les travaux désormais canoniques de Paul Bénichou.
-
-   5Jean-Thomas Nordmann, La Critique littéraire française au xix^e siècle
-   (1800-1914), LGF, « Le Livre de Poche. Références », 2001, p. 39.
-
-   6Ouverte par le lancement en 1836 de journaux qui divisent par deux le
-   prix de leur abonnement, La Presse d’Émile de Girardin et Le Siècle
-   d’Armand Dutacq. Sur Sainte-Beuve, nous renvoyons notamment à
-   Romantisme, n° 109 : Sainte-Beuve ou l’invention de la critique, J.-L.
-   Diaz (dir.), 2000.
-
-   7Albert Thibaudet, Physiologie de la critique, op. cit., p. 8.
-
-   8C’est le cas, plus tard dans le siècle, de Ferdinand Brunetière, Jules
-   Lemaître ou Émile Faguet.
-
-   9La presse amène une pluralisation du personnel critique ; Balzac en
-   établit une amusante taxinomie dans sa Monographie de la presse
-   parisienne (1842).
-
-   10Dans la préface de Mademoiselle de Maupin (mai 1834).
-
-   11Ce conflit entre écrivains et critiques, particulièrement violent au
-   xix^e siècle, n’attend cependant pas cette période pour se déclarer :
-   « […] l’institutionnalisation de la critique — fût-elle celle des
-   pairs — a toujours rendu celle-ci suspecte, surtout si ces pairs ont
-   été distingués par un pouvoir régalien. Les Observations et Remarques
-   de l’Académie française ne sont finalement pas mieux accueillies à sa
-   création que ne le seront au xix^e siècle les décrets d’un plumitif par
-   un rapin », note Marie-Paule Berranger (« Le poème, l’arbre et la
-   cigogne », Revue des Sciences Humaines, n° 306 : L’Écrivain-critique,
-   M.-P. Berranger [dir.], 2012/2, p. 8).
-
-   12Revue des Sciences Humaines, n° 295 : Préfaces et manifestes du
-   xix^e siècle, J.-L. Diaz (dir.), 2009/3, p. 10.
-
-   13Voir M.-È. Thérenty, Mosaïques. Être écrivain entre presse et roman,
-   1829-1836, Honoré Champion, 2003, et Presse et Plumes. Journalisme et
-   littérature au xix^e siècle, M.-È. Thérenty et A. Vaillant (dir.),
-   Nouveau Monde Éditions, 2004.
-
-   14L’Écrivain-journaliste au xix^e siècle, un mutant des lettres,
-   Saint-Étienne, Éditions des Cahiers intempestifs, 2003.
-
-   15Figures du critique-écrivain (xix^e-xxi^e siècles), E. Absalyamova,
-   L. Van Nuijs et V. Stiénon (dir.), Presses universitaires de Rennes,
-   coll. « Interférences », 2019.
-
-   16Voir Olivier Bara et Christine Planté (dir.), George Sand critique,
-   Presses universitaires de Saint-Étienne, 2011.
-
-   17Un colloque international « Stendhal et la critique » a été organisé
-   par Brigitte Diaz en novembre 2016 à l’Université de Caen.
-
-   18Voir François-Marie Mourad, Zola critique littéraire, Honoré
-   Champion, coll. « Romantisme et modernités », 2003.
-
-   19Physiologie de la critique, op. cit., p. 12.
-
-   20S’expliquant d’aborder les « discours du récit » à travers le cas
-   singulier d’À la recherche du temps perdu, Gérard Genette faisait la
-   remarque suivante : « […] en cherchant le spécifique je trouve de
-   l’universel […]. Ce paradoxe est celui de toute poétique, sans doute
-   aussi de toute activité de connaissance, toujours écartelée entre ces
-   deux lieux communs incontournables, qu’il n’est d’objets que
-   singuliers, et de science que du général ; toujours cependant
-   réconfortée, et comme aimantée, par cette autre vérité un peu moins
-   répandue, que le général est au cœur du singulier […] ».
-   « Avant-propos », dans Discours du récit. Figures III, Éditions du
-   Seuil, coll. « Poétique », 1972, p. 68-69.
-
-   21Baudelaire lui-même, à sa mort, n’avait encore vu publier qu’une
-   partie de son œuvre poétique.
-
-   22Balzac et Stendhal tendent à se rattacher à un moment antérieur,
-   tandis que Vallès (dont l’essentiel de l’activité critique date des
-   années 1860), Zola (qui « entre en critique » à la même époque) ou
-   Mirbeau, autres écrivains-critiques de premier plan, appartiennent à un
-   moment politique, culturel et esthétique ultérieur. Outre qu’elle
-   s’intéresse aux interférences entre journalisme (notamment polémiste)
-   et littérature (et non entre critique et littérature), c’est ainsi à
-   des auteurs appartenant plutôt à la seconde moitié du xix^e siècle que
-   Marie-Françoise Melmoux-Montaubin consacre son remarquable essai sur
-   l’Écrivain-journaliste au xix^e siècle, un mutant des lettres, auteurs
-   auxquels elle associe Barbey d’Aurevilly, en en faisant le premier
-   chaînon de sa série. Dans notre perspective, c’est plutôt le dernier
-   maillon.
-
-   23La critique dramatique l’emporte chez Gautier, par ailleurs grand
-   critique d’art, comme chez Dumas, tandis que la critique littéraire au
-   sens plus strict se taille la part du lion chez Barbey d’Aurevilly.
-   Nous reviendrons sur ces différences.
-
-   24Sa grand-mère est une esclave de Saint-Domingue, son grand-père un
-   marquis.
-
-   25Lettre à Eugène Grelé, 14 juillet 1900. Cité dans Jean-Marie Jeanton
-   Lamarche, Pour un portrait de Jules-Amédée Barbey d’Aurevilly : regards
-   sur l’ensemble de son œuvre, témoignages de la critique, études et
-   documents inédits, L’Harmattan, 2000, p. 47.
-
-   26Des séminaires organisés à Paris-Sorbonne par Pierre Glaudes,
-   Mathilde Bertrand et Élise Sorel ont visé ces dernières années à
-   réfléchir aux rapports de Barbey avec le classicisme, puis le
-   romantisme.
-
-   27Auguste Maquet, appelé à devenir le plus important collaborateur de
-   Dumas, était devenu l’ami intime de Gautier au collège Charlemagne.
-
-   28L’expression « de cape et d’épée » appliquée au roman se répand à
-   partir de 1857, année de parution du roman de Paul Féval Le Bossu.
-   Aventures de cape et d’épée. Sa lexicalisation se renforce après la
-   parution en 1875 du roman d’Amédée Achard La Cape et l’Épée.
-
-   29Gautier salue ainsi avec chaleur dans son feuilleton l’ouverture du
-   Théâtre-Historique boulevard du Temple en février 1847.
-
-   30Dans La Presse du 28 juillet 1851.
-
-   31Voir « Émaux et Camées, par Théophile Gautier », Le Pays,
-   26 janvier 1859.
-
-   32Voir « Le Capitaine Fracasse, par Th. Gautier », Le Pays,
-   17 janvier 1864.
-
-   33Voir Le Nain jaune, 7 novembre 1866.
-
-   34En 1844, Dumas intervient pour trouver un éditeur au roman Germaine
-   (voir la lettre de Barbey à Trebutien du 12 avril 1844, CG, t. I,
-   p. 163). Fin 1850, il propose également à Barbey de tirer un drame
-   d’Une vieille maîtresse, après que l’auteur en a donné lecture dans le
-   salon de la comtesse O’Huegerty (voir une lettre à Trebutien de
-   décembre 1850, CG, t. II, p. 204).
-
-   35Voir la bibliographie établie à la fin de ce volume.
-
-   36La Préface de Mademoiselle de Maupin [1834], éd. Georges Matoré,
-   Droz, 1946. Les Grotesques [1844], éd. Cecilia Rizza, Nizet, 1986.
-
-   37Sandrine Carvalhosa, La causerie au xix^e siècle : les voix d’une
-   écriture médiatique, sous la direction de Corinne Saminadayar-Perrin,
-   thèse soutenue en décembre 2017 à Montpellier 3.
-
-   38Entre presse et littérature. Le Mousquetaire, journal de M. Alexandre
-   Dumas (1853-1857), P. Durand et S. Mombert (dir.), Bibliothèque de la
-   Faculté de Philosophie et Lettres de l’Université de Liège, n° 297,
-   2009 ; Un mousquetaire du journalisme : Alexandre Dumas, S. Mombert et
-   C. Saminadayar-Perrin (dir.), Presses universitaires de Franche-Comté,
-   coll. « Les Cahiers de la MSHE Ledoux », n° 37, 2019.
-
-   39« Critique », dans Encyclopædia Universalis, t. VII, 2008, p. 93.
-
-   40« La distinction du critique et du créateur, à laquelle s’est plu le
-   romantisme, ne se défend pas. Elle est purement absurde. Quoi ! Il
-   suffirait de parler d’un arbre ou d’une cigogne pour être créateur,
-   d’un poème pour cesser de l’être ? », écrit ainsi Jean Paulhan en
-   septembre 1931 dans la NRF (en rendant compte de la publication
-   d’Aujourd’hui, recueil de critiques, témoignages et souvenirs de Blaise
-   Cendrars, chez Grasset).
-
-L’Écrivain-critique au xix^e siècle
-
-   (BUTTON)
-   (BUTTON) Partager l’URL (BUTTON) Intégrer
-   ____________________ (BUTTON) Copier
-   X Facebook Email
-   Choisir la taille de l’intégration [Petit (500x375 px).]
-   Collez le code HTML suivant pour intégrer ce contenu sur votre site.
-   ____________________________________________________________
-   ____________________________________________________________
-   ____________________________________________________________
-   ____________________________________________________________
-   (BUTTON) Copier
-
-   L’Écrivain-critique au xix^e siècle
-   (BUTTON)
-
-   Ce livre est diffusé en accès ouvert freemium. L’accès à la lecture en
-   ligne est disponible. L’accès aux versions PDF et ePub est réservé aux
-   bibliothèques l’ayant acquis. Vous pouvez vous connecter à votre
-   bibliothèque à l’adresse suivante :
-   https://freemium.openedition.org/oebooks
-   Suggérer l’acquisition à votre bibliothèque Acheter ce livre aux
-   formats PDF et ePub
-
-   Si vous avez des questions, vous pouvez nous écrire à
-   access[at]openedition.org
-
-L’Écrivain-critique au xix^e siècle
-
-   (BUTTON)
-
-   Vérifiez si votre bibliothèque a déjà acquis ce livre :
-   authentifiez-vous à OpenEdition Freemium for Books.
-   Vous pouvez suggérer à votre bibliothèque d’acquérir un ou plusieurs
-   livres publiés sur OpenEdition Books. N’hésitez pas à lui indiquer nos
-   coordonnées : access[at]openedition.org
-   Vous pouvez également nous indiquer, à l’aide du formulaire suivant,
-   les coordonnées de votre bibliothèque afin que nous la contactions pour
-   lui suggérer l’achat de ce livre. Les champs suivis de (*) sont
-   obligatoires.
-   Votre nom (*) ____________________
-   Votre affiliation ____________________
-   Votre email sous la forme nom@domaine.fr (*) ____________________
-   Nom de la bibliothèque ____________________
-   Email de la bibliothèque (*) ____________________
-   (BUTTON) Envoyer
-
-   Veuillez, s’il vous plaît, remplir tous les champs.
-
-   La syntaxe de l’email est incorrecte.
-
-Référence numérique du chapitre
-
-   (BUTTON)
-
-   Format
-   (BUTTON) APA (BUTTON) Chicago (BUTTON) MLA
-   Anselmini, J. (2021). Introduction. In L’Écrivain-critique au
-   xixe siècle. Liège: Presses universitaires de Liège.
-   https://doi.org/10.4000/14dcy
-   Anselmini, Julie. « Introduction ». In L’Écrivain-critique au
-   xixe siècle. Liège: Presses universitaires de Liège, 2021.
-   doi:10.4000/14dcy.
-   Anselmini, Julie. « Introduction ». L’Écrivain-critique au xixe siècle,
-   Presses universitaires de Liège, 2021, https://doi.org/10.4000/14dcy.
-
-Référence numérique du livre
-
-   Format
-   (BUTTON) APA (BUTTON) Chicago (BUTTON) MLA
-   Anselmini, J. (2021). L’Écrivain-critique au xixe siècle. Liège:
-   Presses universitaires de Liège. https://doi.org/10.4000/14dj0
-   Anselmini, Julie. L’Écrivain-critique au xixe siècle. Liège: Presses
-   universitaires de Liège, 2021. doi:10.4000/14dj0.
-   Anselmini, Julie. L’Écrivain-critique au xixe siècle. Presses
-   universitaires de Liège, 2021, https://doi.org/10.4000/14dj0.
-   Compatible avec Zotero Zotero
-
-   1 / 3
-   (BUTTON)
-
-   (BUTTON) (BUTTON)
-   (BUTTON) (BUTTON)
-
-   Presses universitaires de Liège
-
-Presses universitaires de Liège
-
+     * Politique de confidentialité (Nouvelle fenêtre)
+     * CGU et mentions légales
+     * Gérer mes traceurs
      * Plan du site
-     * Se connecter
+     * Qui sommes-nous ?
+     * Nous contacter
 
-Suivez-nous
+     * Accessibilité (partiellement conforme)
+     * Charte déontologique
+     * Charte du Live
+     * Assistant vocal
+     * Devenir annonceur (Nouvelle fenêtre)
+     * Recrutement (Nouvelle fenêtre)
 
-     * Flux RSS
+   L’application France Info
+   (BUTTON) Fermer la notification
 
-   URL : http://www.presses.uliege.be
+   Tout France Info, et bien plus. Sauvegardez vos articles à lire plus
+   tard et filtrer l’actualité qui vous intéresse
+   Télécharger l’application
 
-   Email : pulg@uliege.be
+   Activez les notifications franceinfo et ne manquez rien de l’actualité
 
-   Adresse :
+   Vous pouvez changer d’avis à tout moment dans les réglages de votre
+   navigateur.
+   (BUTTON) Fermer la fenêtre d’activation des notifications France Info
+   (BUTTON) plus tard
+   (BUTTON) activer
 
-   7, place du 20-Août, Bât. A4
-
-   4000
-
-   Liège
-
-   Belgique
-   OpenEdition
-     * Candidater à OpenEdition Books
-     * Connaître le programme OpenEdition Freemium
-     * Commander des livres
-     * S’abonner à la lettre d’OpenEdition
-     * CGU d’OpenEdition Books
-
-     * Accessibilité : partiellement conforme
-     * Données personnelles
-     * Gestion des cookies
-     * Système de signalement
+   [tr?id=882125681855230&ev=PageView&noscript=1]

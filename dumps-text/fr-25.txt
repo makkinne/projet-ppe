@@ -1,278 +1,189 @@
-   #Modifier Wikipédia (fr) Flux Atom de Wikipédia
+   #alternate
 
-   Aller au contenu
+   Aller au contenu principal
 
-   [ ] Menu principal
-   Menu principal
-   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
-   Navigation
-     * Page d’accueil
-     * Portails thématiques
-     * Article au hasard
-     * Contact
+   Les réseaux cérébraux à l’origine de la conscience de soi enfin…
+     * twitter
+     * Bluesky
 
-   Contribuer
-     * Débuter sur Wikipédia
-     * Aide
-     * Communauté
-     * Pages spéciales
-     * Modifications récentes
+   Menu
+   Accueil Accueil
 
-   Wikipédia l'encyclopédie libre
-   Rechercher
-   ____________________
-   (BUTTON) Rechercher
+Navigation principale
 
-   [ ] Apparence
+     * Accueil
+     * A proposOrganisation, missions, histoire
+     * RechercheStratégie, structures et laboratoires
+     * InnovationValorisation, partenariats, entreprises
+     * InternationalCoopération et rayonnement
+     * TalentsPrix et distinctions
 
-     * Faire un don
-     * Créer un compte
-     * Se connecter
+Navigation secondaire
 
-   [ ] Outils personnels
-     * Faire un don
-     * Créer un compte
-     * Se connecter
+     * Actualités
+     * Agenda
+     * Appels à candidature
+     * Librairie
+     * ATIP-Avenir
+     * Annuaires
+     * Intranet
+     * CNRS.FR
 
-Sommaire
+   Faire un don
+   CNRS Header Ontheweb
 
-   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
-     * Début
-     * 1 Origine
-       (BUTTON) Afficher / masquer la sous-section Origine
-          + 1.1 Confusion fréquente
-     * 2 Titres
-     * 3 Notes et références
-     * 4 Voir aussi
-       (BUTTON) Afficher / masquer la sous-section Voir aussi
-          + 4.1 Articles connexes
+   ©Descartes, 1692
+   ^-A ^+A
+   Partager ce contenu
+     * Share on Bluesky
+     * Partager sur Twitter
+     * Share on Linkedin
+     * Partager sur Facebook
+     * Send by mail
+     * https://www.insb.cnrs.fr/fr/cnrsinfo/les-reseaux-cerebraux-lorigine
+       -de-la-conscience-de-soi-enfin-identifies
 
-   [ ] Basculer la table des matières
+   Imprimer
+     * https://www.insb.cnrs.fr/fr/cnrsinfo/les-reseaux-cerebraux-lorigine
+       -de-la-conscience-de-soi-enfin-identifies
 
-Esprit de l'escalier
+Fil d'Ariane
 
-   [ ] 12 langues
-     * العربية
-     * Català
-     * Čeština
-     * Deutsch
-     * English
-     * Español
-     * Հայերեն
-     * Italiano
-     * Polski
-     * Português
-     * Русский
-     * Svenska
+    1. Accueil
+    2. Actualités
 
-   Modifier les liens
+Les réseaux cérébraux à l’origine de la conscience de soi enfin identifiés
 
-     * Article
-     * Discussion
+   19 septembre 2019
+   Résultats scientifiques Neuroscience, cognition
+   ^-A ^+A
+   Partager ce contenu
+     * Share on Bluesky
+     * Partager sur Twitter
+     * Share on Linkedin
+     * Partager sur Facebook
+     * Send by mail
+     * https://www.insb.cnrs.fr/fr/cnrsinfo/les-reseaux-cerebraux-lorigine
+       -de-la-conscience-de-soi-enfin-identifies
 
-   [ ] français
+   D’où vient la conscience de son propre corps ? C’est l’étude de
+   cerveaux lésés qui permet aujourd’hui de montrer qu’être conscient de
+   ses mouvements nécessite la contribution conjointe de 3 réseaux
+   cérébraux. L’un est responsable de la surveillance sensorimotrice, les
+   deux autres du maintien et de la mise à jour des croyances sur soi. Ce
+   nouveau mécanisme d’association entre le corps et l’esprit a été
+   découvert grâce à la mise en commun de bases de données cliniques à
+   l’échelle internationale. Ce travail est publié dans la revue Elife.
 
-     * Lire
-     * Modifier
-     * Modifier le code
-     * Voir l’historique
+   Les récentes études sur le cerveau humain ont montré que l’esprit est
+   inscrit dans la matière cérébrale et non pas séparé du corps comme le
+   postulaient les anciennes théories dualistes. L’association entre le
+   cerveau et l’esprit est particulièrement évidente chez les patients
+   atteints de lésions cérébrales du lobe frontal qui montrent des
+   changements de personnalité radicaux. De la même façon, les accidents
+   vasculaires cérébraux (AVC) provoquent fréquemment une paralysie du
+   corps qui s’accompagne parfois d’un déni complet de ce nouvel handicap
+   moteur. Comme si le cerveau refusait d’accepter la perte motrice du
+   bras ou de la jambe. On parle alors d’anosognosie (absence de
+   reconnaissance consciente par l’esprit) de l’hémiplégie (paralysie de
+   la moitié du corps). L’exemple d’un échange type entre un patient ayant
+   subi un AVC et son neuropsychologue parle de lui-même.
 
-   [ ] Outils
-   Outils
-   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
-   Actions
-     * Lire
-     * Modifier
-     * Modifier le code
-     * Voir l’historique
+   Le neuropsychologue « Bougez votre bras gauche »
 
-   Général
-     * Pages liées
-     * Suivi des pages liées
-     * Téléverser un fichier
-     * Lien permanent
-     * Informations sur la page
-     * Citer cette page
-     * Obtenir l'URL raccourcie
-     * Télécharger le code QR
+   Le patient ne bouge pas.
 
-   Imprimer / exporter
-     * Créer un livre
-     * Télécharger comme PDF
-     * Version imprimable
+   Le neuropsychologue « Avez-vous bougé votre bras gauche ?»
 
-   Dans d’autres projets
-     * Élément Wikidata
+   Le patient « oui »
 
-   Apparence
-   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
-   Un article de Wikipédia, l'encyclopédie libre.
-   Si ce bandeau n'est plus pertinent, retirez-le. Cliquez ici pour en
-   savoir plus. Si ce bandeau n'est plus pertinent, retirez-le. Cliquez
-   ici pour en savoir plus.
+   Encore récemment, les mécanismes biologiques responsables de ce
+   phénomène étaient inconnus. Dans le cadre d'une collaboration
+   internationale avec l'Italie et le Royaume Uni , les chercheurs ont
+   rassemblé et analysé 10 années de recherche sur l’anosognosie pour
+   l’hémiplégie, ce qui représente pas moins d’une centaine de patients
+   atteints d’AVC. Grâce au nouveau logiciel (BCBtoolkit
+   http://toolkit.bcblab.com), les chercheurs ont pu modéliser les
+   dommages engendrés par les lésions vasculaires sur la communication
+   entre toutes les régions du cerveau. L’étude fine de ces lésions a
+   montré que l’anosognosie pour l’hémiplégie se produit lors de la
+   déconnexion simultanée de 3 réseaux.
 
-   Cet article ne s'appuie pas, ou pas assez, sur des sources secondaires
-   ou tertiaires (avril 2024).
-   L'article peut contenir des analyses et interprétations inexactes ou
-   inédites de sources primaires. Pour améliorer la vérifiabilité de
-   l'article ainsi que son intérêt encyclopédique, il est nécessaire,
-   quand des sources primaires sont citées, de les associer à des analyses
-   faites par des sources secondaires.
+   Ces réseaux incluent (1) le système prémoteur, sans lequel
+   l’organisation du mouvement est perdue, (2) le système limbique, sans
+   lequel la mémoire ne fonctionne plus, et (3) le système attentionnel
+   ventral sans lequel la vigilance n’est plus possible.
 
-   L’esprit de l’escalier (ou esprit d’escalier) est une expression
-   française signifiant que l’on pense souvent à ce que l’on aurait pu et
-   dû dire de plus juste, après avoir quitté ses interlocuteurs (lorsqu'on
-   se retrouve au bas de l'escalier de leur demeure).
+   C’est 3 réseaux sont apparus fortement complémentaires et leur
+   interaction s’avère essentielle à la capacité de reconnaître
+   consciemment la paralysie de la moitié du corps. Ces résultats sont une
+   preuve supplémentaire que les fonctions cérébrales de haut-niveau
+   reposent sur une forte interaction entre les réseaux cérébraux plutôt
+   que sur une région isolée.
+   figure Figure : Réseaux de la conscience motrice. (a) vue médiane de
+   l'hémisphère droit (gauche) vue latérale de l'hémisphère droit
+   (droite). Le système prémoteur (bleu et vert), le système limbique
+   (rouge), le système attentionnel (jaune).
+   ©Michel Thiebaut de Schotten
 
-   Elle désigne une personne sans esprit de repartie, victime ou témoin
-   d'une pique en société, qui ne saurait réagir immédiatement et ne
-   trouverait les mots pour répliquer qu'une fois parvenue au bas des
-   escaliers de la demeure, alors même qu'elle s'apprête à quitter les
-   lieux.
 
-Origine
+   Pour en savoir plus
+   Anosognosia for hemiplegia as a tripartite disconnection syndrome
+   Pacella V, Foulon C, Jenkinson PM, Scandola M, Bertagnoli S, Avesani R,
+   Fotopoulou A, Moro V, Thiebaut de Schotten M
+   Elife. 2019 Aug 6;8. pii: e46075. doi: 10.7554/eLife.46075
 
-   [modifier | modifier le code]
+Contact
 
-   L'expression est attestée pour la première fois en 1773 dans le
-   Paradoxe sur le comédien de Diderot :
+   Michel Thiebaut de Schotten
+   Chercheur CNRS à l'Institut des maladies neurodégénératives (CNRS /
+   Université de Bordeaux / CEA / Inria)
+   4<<)@)A<)>9)A:)?9
+   vrlqnu7}qrnkj~}Ipvjru7lxv
+   Partager ce contenu
+     * Share on Bluesky
+     * Partager sur Twitter
+     * Share on Linkedin
+     * Partager sur Facebook
+     * Send by mail
+     * https://www.insb.cnrs.fr/fr/cnrsinfo/les-reseaux-cerebraux-lorigine
+       -de-la-conscience-de-soi-enfin-identifies
 
-     « Je l’aborde ; je jette mes bras autour de son cou ; la voix me
-     manque, et les larmes me coulent le long des joues. Voilà l’homme
-     sensible et médiocre. Sedaine, immobile et froid, me regarde et me
-     dit : « Ah ! Monsieur Diderot, que vous êtes beau ! » Voilà
-     l’observateur et l’homme de génie.
+   Restez informé avec l'INSB
 
-     Ce fait, je le racontais un jour à table, chez un homme que ses
-     talents supérieurs destinaient à occuper la place la plus importante
-     de l’État, chez M. Necker ; il y avait un assez grand nombre de gens
-     de lettres, entre lesquels Marmontel, que j’aime et à qui je suis
-     cher. Celui-ci me dit ironiquement : « Vous verrez que lorsque
-     Voltaire se désole au simple récit d’un trait pathétique et que
-     Sedaine garde son sang-froid à la vue d’un ami qui fond en larmes,
-     c’est Voltaire qui est l’homme ordinaire et Sedaine l’homme de
-     génie !^[1] » Cette apostrophe me déconcerte et me réduit au
-     silence, parce que l’homme sensible, comme moi, tout entier à ce
-     qu’on lui objecte, perd la tête et ne se retrouve qu’au bas de
-     l’escalier^[2]. »
+   Découvrez les actualités de l’Institut des sciences biologiques
+   Découvrez les actualités
 
-   Jean-Jacques Rousseau, qui se reconnaît comme affligé au plus haut
-   point de l’esprit de l’escalier (sans utiliser cette expression, qui
-   n'apparaît que plus tard), s’étend longuement, dans ses Confessions sur
-   toutes les bévues, les bafouillages qu’il a commis en société, et qui
-   ont grandement contribué à faire de lui le misanthrope qu’il devint. Il
-   a dit de lui-même qu’il ferait « une fort jolie conversation par la
-   poste^[3] ». Cependant, il ne s'agit pas d'un esprit de l'escalier au
-   même sens que Diderot, une paralysie temporaire de l'esprit qui ne
-   retrouverait ses aptitudes que juste après coup, une fois en bas de
-   l'escalier ; mais plutôt d'une inaptitude à penser et à énoncer vite,
-   c'est-à-dire dans la foulée, et donc, d'une nécessité de prendre des
-   heures ou des jours pour réfléchir à une question ou bien tourner une
-   phrase.
+   Accueil
 
-   Verlaine se dit également affligé par ce problème : « L'autre jour,
-   avec cet esprit de l'escalier qui me caractérise, j'ai réfléchi que
-   vous aviez été des moins explicites quant aux sommes dont Chanzy peut
-   se reconnaître redevable envers moi^[4]. »
+Nous suivre
 
-   Il va sans dire que l'esprit de repartie peut confiner au ridicule, à
-   la bévue, à l'idiotie, aux facéties : d'où la nécessité de prendre du
-   recul, position qui caractérise un intellectuel comme Diderot.
+     * twitter
+     * Bluesky
 
-Confusion fréquente
+   Tous nos réseaux sociaux
+   Nos Labels
+     * Accédez aux ERC du CNRS
 
-   [modifier | modifier le code]
+Pied de page secondaire
 
-   Cette expression est parfois employée (ou comprise) à tort dans le
-   sens : avoir un esprit qui fait des associations d'idées
-   rapidement^[5]^,^[6]
+     * Crédits
+     * Mentions légales
+     * Données personnelles
+     * Gestion des cookies
 
-Titres
+Naviguer
 
-   [modifier | modifier le code]
-
-   L'Esprit de l'escalier est le titre donné par l'artiste François
-   Morellet à ses vitraux conçus en 2010 de façon pérenne dans l'escalier
-   Lefuel du Musée du Louvre^[7]. L'Esprit de l'escalier fut aussi le
-   titre d'une émission radiophonique pendant plusieurs années sur RCJ,
-   animée par Élisabeth Lévy et Alain Finkielkraut.
-
-Notes et références
-
-   [modifier | modifier le code]
-    1. ↑ Marmontel part du principe que Voltaire est reconnu comme un bien
-       plus grand génie que Sedaine.
-    2. ↑ Denis Diderot, Paradoxe sur le comédien, p. 383.
-    3. ↑ Jean-Jacques Rousseau, Les Confessions, l. III, p. 110.
-    4. ↑ Verlaine, Corresp.,t. 2, 1886, p. 58. Cité dans le CNRTL.
-    5. ↑ tempesdutemps.over-blog.com, « 22 - L'esprit de l'escalier », sur
-       Le blog de tempesdutemps.over-blog.fr (consulté le 28 juillet 2024)
-    6. ↑ Théo dit, « esprit d’escalier, es-tu là ? », sur Langue sauce
-       piquante, 29 novembre 2010 (consulté le 28 juillet 2024)
-    7. ↑ « "L'esprit d'escalier", François Morellet | Cnap », sur
-       www.cnap.fr (consulté le 30 mars 2021)
-
-Voir aussi
-
-   [modifier | modifier le code]
-
-   Sur les autres projets Wikimedia :
-     * esprit de l'escalier, sur le Wiktionnaire
-
-Articles connexes
-
-   [modifier | modifier le code]
-     * Épiméthée
-
-     * icône décorative Portail des langues
-     * icône décorative Portail de la langue française et de la
-       francophonie
-
-   Ce document provient de
-   « https://fr.wikipedia.org/w/index.php?title=Esprit_de_l%27escalier&old
-   id=219697627 ».
-   Catégories :
-     * Expression française
-     * Denis Diderot
-
-   Catégories cachées :
-     * Article manquant de références depuis avril 2024
-     * Article manquant de références/Liste complète
-     * Portail:Langues/Articles liés
-     * Portail:Langues/Articles liés directement
-     * Portail:Société/Articles liés
-     * Portail:Langue française et francophonie/Articles liés
-
-     * La dernière modification de cette page a été faite le 23 octobre
-       2024 à 19:50.
-     * Droit d'auteur : les textes sont disponibles sous licence Creative
-       Commons attribution, partage dans les mêmes conditions ; d’autres
-       conditions peuvent s’appliquer. Voyez les conditions d’utilisation
-       pour plus de détails, ainsi que les crédits graphiques. En cas de
-       réutilisation des textes de cette page, voyez comment citer les
-       auteurs et mentionner la licence.
-       Wikipedia® est une marque déposée de la Wikimedia Foundation, Inc.,
-       organisation de bienfaisance régie par le paragraphe 501(c)(3) du
-       code fiscal des États-Unis.
-
-     * Politique de confidentialité
-     * À propos de Wikipédia
-     * Avertissements
-     * Contact
-     * Contacts juridiques & sécurité
-     * Code de conduite
-     * Développeurs
-     * Statistiques
-     * Déclaration sur les témoins (cookies)
-     * Version mobile
-
-     * Wikimedia Foundation
-     * Powered by MediaWiki
-
-   (BUTTON) Rechercher
-   ____________________
-   (BUTTON) Rechercher
-
-   [ ] Basculer la table des matières
-   Esprit de l'escalier
-   (BUTTON) 12 langues Ajouter un sujet
+     * CNRS Biologie
+     * Recherche
+     * Innovation
+     * International
+     * Talents
+     * Comité national
+     * Actualités
+     * Agenda
+     * Appels à candidature
+     * Librairie
+     * Annuaires
+     * Intranet
+     * Les sciences du vivant au XXIe siècle

@@ -1,125 +1,1106 @@
-   settings icon
+   #Portail Lexical - CNRTL alternate
 
-   share icon
+   [USEMAP:bandeau.jpg]
+     *
+     * Accueil
+     *
+     * Portail lexical
+     *
+     * Corpus
+     *
+     * Lexiques
+     *
+     * Dictionnaires
+     *
+     * Métalexicographie
+     *
+     * Outils
+     *
+     * Contact
+     *
 
-   Réponses à des questions bibliques
+     * Morphologie
+     * Lexicographie
+     * Etymologie
+     * Synonymie
+     * Antonymie
+     * Proxémie
+     * Concordance
+     * Aide
 
-     * Qui
-     * Recherche
-     * Foi
-     * Poser
-     * La Bonne Nouvelle
-     * Semaine
+TLFi
 
-     * Qui
-     * Recherche
-     * Foi
-     * Poser
-     * La Bonne Nouvelle
-     * Questions très importantes
-     * Questions les plus fréquemment posées
-     * La Bonne Nouvelle
-     * Question de la Semaine
+Académie
 
-     * Claire [X] Sombre
-     * Famille de polices[Défaut________.]
-     * Hauteur de la ligne[Défautt]
-     * Taille de police[Défautt]
+9^e édition
 
-     * Facebook icon Facebook
-     * Twitter icon Twitter
-     * Pinterest icon Pinterest
-     * Email icon Email
+Académie
 
-   Menu icon
+8^e édition
 
-Découvrez comment ...
+Académie
 
-recevoir la vie éternelle
+4^e édition
 
-recevoir le pardon de Dieu
+BDLP
 
-   [GQ-YT.png]
+Francophonie
 
-   GotQuestions.org > Français > Questions sur l’humanité > esprit humain
+BHVF
 
-   Question
+attestations
 
-Qu’est-ce que l’esprit humain ?
+DMF
 
-   [print.svg]
-   Réponse
-   L’esprit est la part incorporelle de l’homme. La Bible dit que l’esprit
-   humain est le souffle même du Dieu Tout-Puissant, insufflé en l’homme
-   au commencement de la création divine : « L’Éternel Dieu façonna
-   l’homme avec la poussière de la terre. Il insuffla un souffle de vie
-   dans ses narines et l’homme devint un être vivant » (Genèse 2.7). C’est
-   notre esprit qui nous donne une conscience et d’autres qualités «
-   divines » remarquables, bien que limitées. L’esprit inclut notre
-   intellect, nos émotions, nos craintes, nos passions et notre
-   créativité. C’est lui qui nous donne la capacité unique de comprendre
-   (Job 32.8, 18).
-   Les termes esprit et souffle sont des traductions de l’hébreu neshama
-   et du grec pneuma, qui signifie « vent fort, souffle ou inspiration ».
-   C’est la source de vie de l’humanité (Job 33.4), l’esprit intangible et
-   invisible qui régit nos pensées et nos émotions. L’Apôtre Paul a écrit
-   : « En effet, qui parmi les hommes connaît les pensées de l’homme, si
-   ce n’est l’esprit de l’homme qui est en lui ? » (1 Corinthiens 2.11). À
-   la mort, « l’esprit […] retourne à Dieu, celui qui l’a donné »
-   (Ecclésiaste 12.7, voir aussi Job 34.14-15, Psaume 104.29-30).
-   Tous les hommes ont un esprit, différent de l’« esprit » ou de la vie
-   des animaux. Dieu a créé l’homme différent des animaux, en ce qu’il
-   nous a créés « l’image de Dieu » (Genèse 1.26-27). C’est pourquoi,
-   l’homme est capable de penser, de ressentir, d’aimer, de concevoir, de
-   créer, d’apprécier la musique, l’humour et l’art, et c’est par notre
-   esprit que nous sommes la seule créature sur terre à disposer du «
-   libre arbitre ».
-   L’esprit humain a été affecté par la Chute. Quand Adam a péché, sa
-   communion avec Dieu a été brisée ; il est mort ce jour-là, non pas
-   physiquement, mais spirituellement. Depuis, l’esprit humain subit les
-   effets de la Chute. Avant notre salut, nous sommes « morts »
-   spirituellement (Éphésiens 2.1-5, Colossiens 2.13). Notre relation avec
-   Christ ravive notre esprit et nous renouvelle jour après jour (2
-   Corinthiens 4.16).
-   Il est intéressant de noter que, tout comme l’esprit humain a été
-   divinement insufflé au premier homme, le Saint-Esprit a été insufflé
-   aux premiers disciples en Jean 20.22 : « Après ces paroles, [Jésus]
-   souffla sur eux et leur dit : « Recevez le Saint-Esprit ! » » (Jean
-   20.22, voir aussi Actes 2.38) Adam a reçu la vie par le souffle de Dieu
-   ; de même, nous, en tant que « nouvelles créatures » en Christ,
-   recevons la vie spirituelle par le « souffle de Dieu », le Saint-Esprit
-   (2 Corinthiens 5.17, Jean 3.3, Romains 6.4). Quand nous acceptons
-   Jésus-Christ, le Saint-Esprit de Dieu se joint à notre esprit d’une
-   manière incompréhensible pour nous. L’Apôtre Jean a écrit : « Nous
-   reconnaissons que nous demeurons en lui et qu’il demeure en nous au
-   fait qu’il nous a donné de son Esprit » (1 Jean 4.13).
-   Quand nous laissons l’Esprit de Dieu diriger nos vies, « l’Esprit
-   lui-même rend témoignage à notre esprit que nous sommes enfants de Dieu
-   » (Romains 8.16). En tant qu’enfants de Dieu, nous ne sommes plus
-   dirigés par notre esprit, mais par celui de Dieu, qui nous mène vers la
-   vie éternelle.
-   English
+(1330 - 1500)
 
-Ressources d'Étude
+   Police de caractères: [Arial__________]
+   [ ] Surligner les objets textuels
+   Colorer les objets :
+     [Aucun____________]
+     [Aucun____________]
+     [Aucun____________]
+     [Aucun____________]
+     [Aucun____________]
+     [Aucun____________]
+   Fermer
 
-   Bible d'étude Vie nouvelle Segond 21 par Société biblique de Genève
-   Bible d'étude version du Semeur par Excelsis
-   Segond révisée "La Colombe", Bible d'étude de la foi réformée par R.C.
-   Sproul
-     __________________________________________________________________
+Entrez une forme
 
-                  Retour à la page d'accueil en français
-                     Qu’est-ce que l’esprit humain ?
+   esprit__________________________________________ Chercher
+   options d'affichage                              catégorie : [toutes______]
+     * ESPRIT, subst. masc.
 
-Abonnez-vous à la
+   ESPRIT, subst. masc.
+   1^reSection
+   I.− Souffle.
+   A.− [En partic. chez les Anciens] Vx. Souffle vital, principe de vie.
+   Esprit de vie, esprit vital :
+   1. L'esprit de vie souffle partout et dans les degrés où il veut; c'est
+   lui qui produit et entretient tous les mouvements de l'univers, qui
+   sent dans les animaux, agit et pense en nous; suivant que cet esprit de
+   vie souffle plus ou moins en nous, nous sommes des génies ou des
+   automates, forts ou faibles, courageux ou timides, etc... La volonté
+   n'y peut rien. Maine de Biran, Journal,1818, p. 154.
+   − Vieilli. Rendre l'esprit. Mourir. Synon. rendre l'âme*, rendre le
+   dernier soupir*.Aphrodisia ferma les yeux. (...) Un sourire
+   inexprimable allongea ses paupières bleues, et dans un soupir elle
+   rendit l'esprit (Louÿs, Aphrodite,1896, p. 160):
+   2. ... les maîtres de la scène actuelle estiment à livres, sous et
+   deniers, ce que tel de leurs contemporains pourra leur valoir le jour
+   où il aura rendu l'esprit. Jouy, Hermite,t. 5, 1814, p. 291.
+   − Spéc., GRAMM. GR. ,,Souffle caractéristique d'une certaine
+   prononciation de l'initiale vocalique (...)`` (Mar. Lex. 1933).
+   − Esprit dur, esprit rude. Attaque aspirée de l'initiale vocalique. Je
+   ne peux pas, par respect pour le lecteur français, écrire Hannibal et
+   Hamilcar sans h, puisqu'il y a un esprit rude sur l'alpha (Flaub.,
+   Corresp.,1862, p. 60).Esprit doux. Attaque non aspirée de l'initiale
+   vocalique.
+   P. méton. Signe [esprit doux ( ), esprit rude ( )] qui indique ce mode
+   de prononciation. En français, l'esprit rude grec est transcrit en
+   général par un h (Ling.1972).
+   B.− [Terme biblique]
+   1. ANCIEN TESTAMENT. Souffle provenant de Dieu, en particulier souffle
+   créateur, action créatrice et bienfaisante de Dieu. Ce saint Georges
+   plein de feu, de matérialité, est l'âme de tout, son souffle vivifie
+   tout. Le vent de l'esprit passe sur lui (Michelet, Chemins Europe,1874,
+   p. 237):
+   3. Veni Creator Spiritus! Cet esprit en qui Dieu a créé le monde en
+   soufflant dessus, (...) il n'a pas cessé de passer sur nous, et c'est
+   le grand Alizé qui, depuis le jour de la Pentecôte, gonfle les voiles
+   de l'Église. Claudel, Poète regarde Croix,1938, p. 253.
+   − P. ext. Les odes des grands lyriques furent écrites sans retour, à la
+   vitesse de la voix du délire et du vent de l'esprit soufflant en
+   tempête (Valéry, Variété V,1944, p. 159):
+   4. Barrès parlait des « lieux où souffle l'esprit ». Je ne crois pas
+   qu'il en eût imaginé aucun où l'esprit soufflât davantage qu'en
+   l'Université d'Oxford. De Gaulle, Mém. guerre,1954, p. 565.
+   Rem. De tels emplois dérivent d'un passage de l'Évangile selon saint
+   Jean (III, 8), littéralement : « l'Esprit souffle où il veut ». Il est
+   ordinairement fait allusion à ce passage pour signifier que
+   l'intelligence est une faculté inégalement répartie.
+   − Au fig. Inspiration d'origine divine. Je vous jure que l'esprit
+   m'inspire ceci! (...) Je vous vois! Je vois périr votre âme! (Bernanos,
+   Imposture,1927, p. 356):
+   5. ... poussé d'ailleurs par l'esprit prophétique qui lui montroit
+   d'avance la célébrité de la parole et la puissance évangélique, David
+   ne cesse de s'adresser au genre humain et de l'appeler tout entier à la
+   vérité. J. de Maistre, Soirées St-Pétersb.,t. 2, 1821, p. 71.
+   ♦ Chercher l'esprit. ,,(...) se disait, entre les puritains, d'un
+   recueillement mental de dévotion où l'on attendait quelque inspiration
+   du Seigneur`` (Littré).
+   ♦ P. anal. Choulette, (...) parut, joyeux et comme plein de l'esprit
+   d'un dieu (France, Lys rouge,1894, p. 201).
+   2. NOUVEAU TESTAMENT, THÉOL. CATH. et PROTESTANTE. Saint(-)Esprit ou
+   Esprit(-)Saint ou, absol., Esprit. Troisième personne de la Sainte
+   Trinité, procédant du Père et du Fils. Esprit vivifiant, consolateur.
+   L'Esprit Saint descendit sur les apôtres, pour leur infuser le don des
+   langues (Saint-Martin, Homme désir,1790, p. 407):
+   6. ... quand vient la saison favorable où souffle l'Esprit Saint, il
+   faut savoir tirer parti de ce vent céleste et lever l'ancre à temps...
+   Jankél., Je-ne-sais-quoi,1957, p. 124.
+   ♦ Jour du Saint-Esprit. Dimanche de la Pentecôte.
+   ♦ P. méton. Représentation du Saint-Esprit. Elles étaient vêtues de
+   bleu avec un bonnet blanc et un saint-esprit de vermeil ou de cuivre
+   fixé sur la poitrine (Hugo, Misér., t. 1, 1862, p. 584).Il l'obligeait
+   (...) à porter au col, le dimanche, le saint-esprit d'or rouge enrichi
+   de grenats (Pourrat, Gaspard,1922, p. 188).
+   Rem. 1. Pour Colin 1971, ,,(...) Esprit saint, variante de
+   Saint-Esprit, (...) ne prend pas de trait d'union``. 2. La religion
+   orthodoxe admet aussi l'existence du Saint-Esprit, mais refuse qu'il
+   procède du Père et du Fils (querelle du filioque).
+   II.− P. anal. Substance, émanation de certains corps comparables, par
+   leur subtilité, au vent, au souffle de la respiration, à une flamme.
+   A.− Au sing. ou au plur.
+   1. Essence, vapeur subtile; émanation odorante. Dans le temps des
+   amours, les mâles et les femelles (...) se reconnaissent de loin, par
+   l'intermède des esprits exhalés de leurs corps (Cabanis, Rapp. phys. et
+   mor.,t. 2, 1808, p. 339).Ce peu de miel où notre nez grossier ne
+   distingue rien, il en émane un esprit subtil qui remplit le ciel et la
+   mer (Claudel, Rempart Ath.,1927, p. 1128):
+   7. Dieu propice, ô Bacchus! toi, dont les flots divins Versent le doux
+   oubli de ces maux qu'on adore; Toi, devant qui l'amour s'enfuit et
+   s'évapore, Comme de ce cristal aux mobiles éclairs Tes esprits odorants
+   s'exhalent dans les airs. Chénier, Élégies,1794, p. 75.
+   2. CHIM., PHARM., vx. Substance liquide volatile obtenue par
+   distillation. Il (...) les [des bouteilles] divisa en deux séries :
+   celle des parfums simples, c'est-à-dire des extraits ou des esprits, et
+   celle des parfums composés (Huysmans, À rebours,1884, p. 149).
+   − Esprits parfumés. ,,(...) alcoolats employés en parfumerie, et
+   surtout pour la fabrication des liqueurs : esprit ou alcoolat de fleur
+   d'oranger, de lavande, etc.`` (Lar. mén. 1926).
+   − Esprit (-) de (-) bois. ,,Syn. d'alcool méthylique`` (Méd. Biol. t. 2
+   1971). Du ragoût de la veille qu'elle réchaufferait à l'atelier sur sa
+   lampe à esprit de bois (Huysmans, Sœurs Vatard,1879, p. 59).Esprit (-)
+   de (-) sel. Acide chlorhydrique. Esprit (-) de (-) soufre. ,,Syn.
+   désuet d'anhydride sulfureux`` (Méd. Biol. t. 2, 1971). Esprit (-) de
+   (-) vitriol. ,,Syn. d'acide sulfureux`` (Méd. Biol. t. 2, 1971). On
+   calmera les hémorragies par l'usage de quelque acide minéral, comme
+   l'esprit de vitriol dulcifié (Geoffroy, Méd. prat.,1800, p. 461).
+   − Esprit volatil (d'une substance animale). Sous-carbonate d'ammoniaque
+   obtenu par distillation de cette substance (cf. Nysten 1814 et 1824 et
+   Geoffroy, Méd. prat., 1800, p. 493).
+   − Esprit-de-vin. Alcool éthylique. Esprit ardent. Alcool très rectifié
+   (cf. Littré-Robin 1858 et 1865).
+   − Absol. et au plur. Les esprits. Les liqueurs alcooliques (Ac.
+   1878-1932).
+   − Esprits ou eaux spiritueuses. ,,(...) alcools chargés, par la
+   distillation de substances aromatiques, de principes médicamenteux, de
+   drogues simples, etc.`` (Bouillet 1859).
+   ♦ P. plaisant. :
+   8. ... l'ivresse du mouvement, la chaleur communicative de l'air, les
+   esprits cachés dans les boissons les plus innocentes ont amolli les
+   callosités des vieilles femmes qui, par complaisance, entrent dans les
+   quadrilles et se prêtent à la folie d'un moment... Balzac, C.
+   Birotteau,1837, p. 216.
+   B.− Au plur.
+   1. HIST. DE LA PSYCHO-PHYSIOL. Esprits. Éléments d'une matière très
+   subtile, légère, chaude, mobile et invisible, considérés comme les
+   agents de la vie et du sentiment qu'ils portent dans les différentes
+   parties du corps qu'ils animent. La perte, la dissipation des esprits
+   (Ac.1878-1932).
+   − En partic. Esprits vitaux, animaux. Me relevant de toute ma hauteur,
+   je me roidis pour rappeler dans mes membres engourdis les esprits
+   animaux (Dusaulx, Voy. Barège,t. 1, 1796, p. 133).Il est en nage et
+   hors de lui après chaque discours; (...) il est épuisé comme après une
+   dépense prodigieuse d'esprits électriques et vitaux (Sainte-Beuve,
+   Poisons,1869, p. 95):
+   9. Mais tous mes esprits animaux sont désordonnés. Une haine les
+   transporte d'un bout à l'autre de mon individu. Je voudrais tenir et
+   punir, − et il faut rester sur sa chaise... Valéry, Corresp.[avec
+   Gide], 1898, p. 316.
+   2. Emplois, expr. et loc. (issus de cette théorie et encore plus ou
+   moins usités) [Le plus souvent avec le poss.]
+   a) [Ces esprits en tant que principe de l'activité physique et
+   psychique]
+   ♦ La peur glace les esprits (Ac. 1878-1932). La peur paralyse, fige.
+   ♦ Perdre ses esprits. [Au plan physique] Perdre connaissance,
+   s'évanouir. [Au plan psychique] Être très troublé par quelque violente
+   émotion. Reprendre ses esprits. [Au plan physique] Reprendre
+   connaissance, revenir à soi. Recouvrer ses esprits. Il est évanoui;
+   jetez-lui de l'eau, afin de lui faire revenir les esprits
+   (Ac.1878).Regardons si cette bonne Isabelle est grièvement navrée; mais
+   non, la voici qui rouvre l'œil et reprend ses esprits (Gautier,
+   Fracasse,1863, p. 164).[Au plan psychique] . Se reprendre, se remettre,
+   se ressaisir après quelque violente émotion. Apaisez-vous, monsieur, et
+   reprenez vos esprits et veuillez me dire en ordre et posément ce que
+   vous avez à me marquer (Claudel, Soulier,1944, 4^ejournée, 4, p. 871):
+   10. ... je fus tellement ahuri de cette apparition quasi-fantastique,
+   que le prince Cernuwicz eut le temps de me saluer à son tour et de se
+   nommer avant que j'eusse bien recouvré mes esprits. Farrère, Homme qui
+   assass.,1907, p. 62.
+   b) [Ces esprits en tant que principe de la vie affective et de la vie
+   spirituelle] Esprits inquiets; esprits incertains qui s'adoucissent. La
+   flûte dont il avoit coutume de jouer pour ranimer ses esprits abattus
+   (Staël, Allemagne,t. 3, 1810, p. 135).Et je laissais flotter, au bord
+   des flots assis, Dans le doute et l'effroi mes esprits indécis (Leconte
+   de Lisle, Poèmes ant.,1852, p. 279).
+   c) [Ces esprits en tant que principe de la vie intellectuelle] Esprits
+   trop lents. Une grave occupation (...) (la licence ès lettres à
+   préparer en vue du doctorat) va donner une direction différente à mes
+   esprits (Mallarmé, Corresp.,1869, p. 314):
+   11. ... j'aurais pu augurer le mouvement et le fracas de l'ouvrage qui
+   devait me faire un nom, aux bouillonnements de mes esprits et aux
+   palpitations de la muse. Chateaubr., Mém.,t. 1, 1848, p. 494.
+   III.− P. ext., PHILOS., RELIG. Principe immatériel.
+   A.− [P. oppos. à la matière, à la substance corporelle; en partic. dans
+   la relig. chrét., en parlant de Dieu ou de l'âme de l'homme − faite à
+   l'image de Dieu − en tant que principe de vie qui anime le corps et en
+   tant que principe de la vie surnaturelle] Substance incorporelle. La
+   divinité fit couler un souffle de sa vie dans l'univers, et en composa
+   un troisième principe mixte, à la fois esprit et matière, appelé l'âme
+   du monde (Chateaubr., Essai Révol., t. 2, 1797, p. 222):
+   12. Ajoutons à cela que le dieu chrétien est esprit, que l'homme ne
+   peut donc s'unir à Dieu que par l'esprit et qu'en effet c'est bien en
+   esprit et en vérité que Dieu veut être adoré. Gilson, Espr. philos.
+   médiév.,1931, p. 173.
+   − En partic., dans un cont. relig. [P. oppos. à la chair (ou au corps),
+   symbole de l'homme déchu, principe de l'activité instinctive considérée
+   d'un ordre de perfection inférieur à celui de l'âme, ou esprit,
+   principe des aspirations élevées] L'esprit est plus noble que le corps.
+   Marchez selon l'esprit et non selon la chair. Les fruits de la chair
+   sont l'adultère, l'impureté, etc., et les fruits de l'esprit sont la
+   charité, la tempérance, la joie, la paix, etc. (Ac.).Le père du Verbe,
+   source de tout esprit et dont la chair est l'ennemie (Flaub.,
+   Tentation,1856, p. 515):
+   13. L'abbé Boutarel l'avait mise en garde (...) : à perdre ainsi la
+   messe et les sacrements, elle risquait de succomber un jour aux
+   tentations : on se croit tout esprit et soudain on se voit tout chair.
+   Pourrat, Gaspard,1925, p. 218.
+   − Expr., loc. dans le lang. théol. ou mystique. En esprit.
+   Spirituellement. Être ravi en esprit. ,,Avoir une vision qui transporte
+   l'âme dans les régions célestes`` (Littré). En esprit et en vérité. Le
+   temps est venu où l'on n'adorera le Père ni sur cette montagne ni à
+   Jérusalem, mais en esprit et en vérité (Renan, Avenir sc.,1890, p.
+   474).Cf. aussi supra ex. 12.
+   ♦ [Allus. biblique]
+   α) [Saint Matthieu, V, 3] Heureux/bienheureux les pauvres en esprit
+   (les pauvres/simples d'esprit). Ceux qui, acceptant ou choisissant de
+   vivre dans une pauvreté qu'ils assument pleinement dans l'esprit de
+   renonciation de l'Évangile, sont aimés de Dieu. Bienheureux les simples
+   d'esprit, dit l'Écriture. Ils ont l'illusion du bonheur. Ils ne sentent
+   pas, ceux-là, notre misère solitaire (Maupass., Contes et nouv.,t. 2,
+   Solitude, 1884, p. 924).
+   β) L'esprit est prompt mais la chair est faible*.
+   ♦ Spéc. Esprits bienheureux. Âmes des saints qui jouissent, au Paradis,
+   du bonheur éternel. Toute lumière ruisselle du sein de la divinité pour
+   éclairer les contemplations des esprits bienheureux (Ozanam, Philos.
+   Dante,1838, p. 224).
+   Rem. Se dit aussi des anges. Cf. infra B 2 a.
+   [Dans le même sens] Esprits immortels. Le ricanement de l'orgie a pris
+   la place des larmes saintes des esprits immortels (Quinet, All.
+   Ital.,1836, p. 115).
+   − P. méton. L'homme, étant esprit, doit se retirer des choses
+   mortelles. Toute action le dégrade. Je voudrais ne pas tenir à la
+   terre, − même par la plante de mes pieds! (Flaub., Tentation,1874, p.
+   42).
+   B.− Être incorporel conscient de lui-même, de son existence, et doué
+   d'une vie psychique, en particulier d'intelligence et de volonté. Pur
+   esprit. Un souffle vague émeut les sphères vagabondes, Mais nul esprit
+   n'existe en ces immensités (Nerval, Chimères,1854, p. 706):
+   14. Il [Dieu] connaissait toutes les choses à sa façon, c'est-à-dire
+   absolument : mais il me semblait que, d'une certaine manière, il avait
+   besoin de mes yeux pour que les arbres aient des couleurs. La brûlure
+   du soleil, la fraîcheur de la rosée, comment un pur esprit les eût-il
+   éprouvées, sinon à travers mon corps? Beauvoir, Mém. j. fille,1958, p.
+   127.
+   ♦ Pur esprit (au fig. et fam.). Être humain qui n'est pas soumis à
+   certaines contingences d'ordre physique ou matériel, ou qui affecte de
+   ne pas l'être. − Enfin (...) vous n'avez pas l'air d'un pur esprit. −
+   J'en suis pourtant un (...) Plusieurs Pères (...) ont pensé que les
+   anges ne sont pas purement spirituels (France, Révolte anges,1914, p.
+   103).Il est difficile d'être un pur esprit et de nourrir de pures
+   amitiés (Duhamel, Maîtres,1937, p. 151).
+   1. Divinité. Céluta pria donc. Tantôt elle demandoit des conseils au
+   grand esprit des Indiens, tantôt elle s'adressoit au grand esprit des
+   Blancs (Chateaubr., Natchez,1826, p. 462):
+   15. Qui suis-je? Réponds-moi, Raison des Origines! (...) Parle, fixe à
+   jamais mes vœux irrésolus, Afin que je m'oublie et que je ne sois plus,
+   Et que la vérité m'absorbe et me consume. − Il se tut, et l'Esprit
+   suprême, l'Être pur, Fixa sur lui ses yeux d'où naissent les Aurores...
+   Leconte de : Lisle, Poèmes ant.,1874, p. 61.
+   − [Dans le monothéisme judéo-chrétien; gén. avec une majuscule]
+   L'Esprit; Esprit incréé, créateur, éternel, divin. Dieu*. Tu vois les
+   diverses passions des hommes, (...) tu pénètres toutes ces misères, ô
+   Esprit créateur! (Chateaubr., Martyrs,t. 2, 1810, p. 142).Esprit divin
+   qui régnez dans les anges et dans les saints du ciel, je vous adore de
+   tout mon cœur (Bremond, Hist. sent. relig.,t. 3, 1921, p. 462).
+   ♦ Péché/pécher contre l'Esprit/le Saint-Esprit. Mopse prétend pécher
+   contre l'Esprit : c'est être Bien fat. Pour L'offenser, il faudrait Le
+   connaître (Toulet, Contrerimes,1920, p. 127).
+   Rem. P. allus. à Matth. 12, 31 : ,,Tout péché et tout blasphème sera
+   pardonné aux hommes, mais le blasphème contre l'Esprit ne sera point
+   pardonné. Quiconque parlera contre le Fils de l'homme, il lui sera
+   pardonné; mais quiconque parlera contre le Saint-Esprit, il ne lui sera
+   pardonné ni dans ce siècle ni dans le siècle à venir``; et à Marc 3, 29
+   : ,,(...) mais quiconque blasphémera contre le Saint-Esprit n'obtiendra
+   jamais de pardon : il est coupable d'un péché éternel``.
+   2. Être incorporel inférieur à la divinité, unique ou principale, mais
+   supérieur à l'homme.
+   a) [Dans le monothéisme judéo-chrétien] Synon. de ange*.
+   α) [Cet être incorporel est de nature bienfaisante, il est au service
+   de Dieu et il joue le rôle d'intermédiaire entre Dieu et les hommes]
+   Esprits célestes, angéliques, bienfaisants, bienheureux, etc. :
+   16. Marguerite retira l'anneau de son doigt, et le donna au pauvre.
+   L'étranger poussa un cri de rage, − et étendit la main vers la jeune
+   fille. Mais le pauvre, qui n'était autre que l'ange gardien de
+   Marguerite, métamorphosé, − la couvrit de ses ailes. Et Satan, venu
+   pour la tenter, recula devant l'esprit céleste... Murger, Nuits
+   hiver,1861, p. 245.
+   β) [Cet être incorporel est de nature malfaisante]
+   − L'esprit du Mal, l'esprit malin (ou malin esprit) l'esprit mauvais,
+   immonde; l'esprit tentateur, l'esprit des ténèbres... Le diable*, le
+   démon*, Satan*. Le saint évêque reconnut le malin esprit. Il fit le
+   signe de la croix et aussitôt le petit diable (...) éclata avec un
+   bruit horrible (France, Mir. Gd St Nic.,1909, p. 70):
+   17. Comme vous ne croyez pas en Dieu, vous ne croyez pas non plus à
+   Satan; vous n'avez fait aucun pacte avec l'esprit du mal, car rien
+   n'est mal, comme rien n'est bien à vos yeux. Sand, Lélia,1839, p. 524.
+   ♦ P. ext. Malin esprit, esprit du démon. Inspiration provenant de
+   Satan. Être possédé du malin esprit. ,,Ce n'est point l'esprit de Dieu
+   qui agit en lui, c'est l'esprit du démon`` (Ac.). Il est animé par
+   l'esprit du démon (Littré).N'avons-nous pas aussi nos exorcistes, qui
+   chassent le malin esprit du corps des possédés (Dupuis, Orig.
+   cultes,1796, p. 431).
+   − Esprit de l'abîme, des ténèbres; esprit infernal, immonde... Mauvais
+   ange*, ange déchu, démon. Calme, il [Jésus] forçait l'essaim invisible
+   et hideux Des noirs esprits du mal, rois des ténébreux mondes (Hugo,
+   Fin Satan,1885, p. 815).
+   b) [Dans les croyances ou relig. polythéistes] Être incorporel
+   inférieur aux dieux principaux, supérieur à l'homme, représentant selon
+   les cas la puissance immanente à certains phénomènes naturels, ou
+   certains objets, certains animaux, certains défunts, etc., et auquel on
+   attribue une influence sur la destinée des hommes; divinité*, dieu*
+   secondaire. De puissance malfaisante et redoutée, le mort devient un
+   esprit tutélaire prié avec respect et vénération (Philos., Relig.,
+   1957, p. 3207):
+   18. Il a sans doute fallu bien du temps, chez les Grecs, pour que
+   l'esprit de la source devînt une nymphe gracieuse et celui du bois une
+   hamadryade. Primitivement, l'esprit de la source n'a dû être que la
+   source même, en tant que bienfaitrice de l'homme. Plus précisément, il
+   était cette action bienfaisante, dans ce qu'elle a de permanent.
+   Bergson, Deux sources,1932, p. 189.
+   3. P. ext. Être imaginaire, légendaire, le plus souvent inspiré du
+   paganisme, des mythologies, des croyances magiques.
+   a) Esprit familier. Génie supposé attaché à une personne pour
+   l'inspirer et la guider. On a dit que Socrate avait un esprit familier
+   (Ac.) :
+   19. De Cellini moderne émule, Quand j'entre dans ton atelier, Je crois
+   visiter la cellule Où Faust, Flamel et Raimond Lulle Avaient leur
+   esprit familier. Pommier, Océanides,1839, p. 101.
+   b) Esprit follet. Lutin supposé attaché à une personne ou une maison et
+   que la croyance populaire considère plus rusé que malveillant. On
+   prétendait qu'il y avait dans cette maison un esprit follet
+   (Ac.).Esprit du feu. Esprit supposé habiter l'intérieur igné de la
+   terre par les adeptes moyenâgeux de la magie qui lui donnèrent le nom
+   de la salamandre à laquelle on attribuait alors la faculté de vivre
+   dans le feu.
+   4. Spéc., SPIRITISME. Âme des défunts désincarnée après la mort sans
+   être devenue tout à fait immatérielle et qui se manifeste auprès des
+   vivants, leur parle, leur apparaît. Croire aux esprits; craindre,
+   évoquer, interroger les esprits. Esprit es-tu là? On leur dit qu'il
+   revenait des esprits dans cette maison-là. Avoir peur des esprits
+   (Ac.). Une masure visitée par la mort et hantée des esprits (Gautier,
+   Fracasse,1863, p. 50):
+   20. Enfin, après plus de quarante minutes d'attente, M. Mouillard
+   demanda de la voix qui convenait : − Esprit de Lénine, es-tu là? Qui
+   sont ces deux nouveaux camarades? répondit une voix presque masculine,
+   imitant assez bien l'accent des chauffeurs de taxi sarmates. Queneau,
+   Odile,Paris, Gallimard, 1937, p. 94.
+   − Esprits frappeurs. Âmes des morts qui manifestent leur présence et
+   expriment leurs volontés en frappant un certain nombre de coups. À
+   première vue, les tables tournantes, les esprits frappeurs ne semblent
+   pas fournir un sujet bien intéressant d'étude (France, Vie littér.,t.
+   3, 1891, p. 144).
+   2^eSection
+   I.− Principe de la pensée et de l'activité réfléchie de l'homme.
+   A.− [Dans un sens impersonnel; p. oppos. à la réalité pensée, à l'objet
+   de la connaissance] La substance pensante, la réalité pensante, sujet
+   de la connaissance. Une idée n'existe pas en soi, elle existe en tant
+   qu'elle est pensée dans un esprit (Barrès, Cahiers,t. 13, 1920-22, p.
+   62).Comprendre c'est unifier, et notre esprit est tel qu'il ne peut
+   connaître sans systématiser (Lacroix, Marxisme, existent.,
+   personn.,1949, p. 52):
+   21. L'esprit et le corps forment les deux pôles opposés et absolument
+   contraires, l'esprit étant le divin impersonnel qui est en nous, le
+   corps tout ce qui, dans notre être, est perceptible aux sens. Béguin,
+   Âme romant.,1939, p. 92.
+   ♦ Loc. Vue de l'esprit. Conception abstraite et toute théorique ne
+   s'appuyant pas suffisamment sur le réel. C'est là l'origine commune des
+   systèmes ou des doctrines médicales qui donnent toujours une
+   prépondérance aux explications, aux vues de l'esprit, aux dépens de la
+   réalité des faits (Bernard, Princ. méd. exp.,1878, p. 57).
+   − [P. oppos. à la matière, objet de la pensée] L'esprit s'approprie la
+   matière, la monte à son niveau, l'annihile par abstraction (Flaub.,
+   Tentation,1849, p. 418):
+   22. ... en séparant l'homme de la nature et l'esprit de la matière, on
+   finit toujours par creuser à l'intérieur de l'homme et de l'esprit
+   eux-mêmes des failles et des abîmes nouveaux. Vuillemin, Essai signif.
+   mort,1949, p. 241.
+   − [P. oppos. à l'âme] :
+   23. ... la question se pose de savoir quelle est la relation de l'âme
+   aux idées (l'âme étant conventionnellement définie comme sujet de ce
+   devenir, de cette création de soi qui est l'esprit; l'âme serait en
+   quelque sorte la matière de l'esprit, ce que l'esprit trouve en soi).
+   L'âme apparaît ici comme la base du vouloir, l'esprit comme l'unité
+   transcendante et achevée du vouloir... Marcel, Journal,1914, p. 120.
+   SYNT. Éveil, développement, évolution, progrès de l'esprit (humain);
+   étude, connaissance de l'esprit; besoin, exigences, facultés, grandeur,
+   dignité de l'esprit; assujettissement, émancipation, liberté de
+   l'esprit; structure, organisation, constitution, complexité de l'esprit
+   humain; fonctionnement, activité, travail, gymnastique, démarche de
+   l'esprit; propriété, aptitude, capacité de l'esprit; domaine, champ,
+   limitation, limites, bornes de l'esprit; produit, production,
+   chef-d'œuvre, monument, création, conquête de l'esprit; les choses de
+   l'esprit; l'esprit procède par déduction, opère par abstraction; pure
+   conception, création, construction de l'esprit; pur jeu de l'esprit; ce
+   n'est qu'une abstraction de l'esprit.
+   B.−
+   1. Principe de la vie psychique; ensemble des facultés psychologiques
+   tant affectives qu'intellectuelles. J'ai l'esprit plein de tristesse
+   (Champfl., Souffr. profess. Delteil,1855, p. 104).Il lui suffisait
+   d'une bonne amitié; elle avait des sens tranquilles et un esprit
+   affectueux (Rolland, J.-Chr.,Matin, 1904, p. 183):
+   24. ... j'étais dans un état de stupeur en quelque sorte mécanique qui,
+   me laissant l'esprit libre de toute émotion, mettait entre ma
+   conscience et moi comme une barrière. Daniel-Rops, Mort,1934, p. 340.
+   SYNT. a) Liberté, calme, sérénité, tranquillité d'esprit; fraîcheur
+   d'esprit; inquiétude, tourments d'esprit; esprit aimable, agréable,
+   doux, paisible, tolérant, compréhensif; esprit primesautier, enjoué;
+   esprit incertain, timide, timoré, changeant; esprit audacieux,
+   aventurier; esprit désenchanté, aigri, ombrageux, soupçonneux,
+   belliqueux, impatient; esprit souple, facile; esprit tranchant, entier,
+   froid, inquiet; esprit sombre, tourmenté; esprit abattu; esprit porté à
+   s'assombrir, agité de mille craintes; alarmer, attrister, agiter,
+   calmer l'esprit; avoir l'esprit plein de tristesse; avoir l'esprit
+   calme, dispos; avoir l'esprit préoccupé; ne pas avoir l'esprit
+   tranquille; avoir, mettre l'esprit en repos, en fête; laisser l'esprit
+   libre de toute émotion; laisser dans l'esprit une impression triste; se
+   torturer l'esprit; garder l'esprit libre; mettre une crainte dans
+   l'esprit de qqn; remplir l'esprit de qqn d'étonnement, d'effroi;
+   frapper l'esprit de qqn de terreur; jeter le désarroi dans l'esprit de
+   qqn; lire, pénétrer dans l'esprit de qqn; esprit qui s'agite;
+   impression qui traverse l'esprit; soupçon, inquiétude qui s'empare de
+   l'esprit. b) Santé, pathologie, psychologie de l'esprit; désordre,
+   dérangement, égarement de l'esprit; esprit sain et reposé; esprit
+   fatigué et malade; esprit en délire; esprit aliéné; (être) sain de
+   corps et d'esprit; perdre l'esprit; avoir l'esprit dérangé, égaré,
+   troublé; esprit qui bat la campagne; esprit malade qui chavire.
+   − Locutions
+   ♦ Disposition, état d'esprit. Manière d'être, à un certain moment, qui
+   détermine une façon de voir les choses et de se comporter. Une manière
+   vive de sentir n'est pas compatible avec cette disposition d'esprit et
+   de l'ame qu'on appelle gaieté (Sénac de Meilhan, Émigré,1797, p.
+   1886).La variété « riche amateur » est plutôt un état d'esprit qu'un
+   fait social économique (Larbaud, Journal,1935, p. 350).Laulerque
+   rappela en deux mots par quels états d'esprit il était passé durant des
+   années qui avaient précédé la guerre (Romains, Hommes bonne vol.,1939,
+   p. 151).
+   ♦ Tour, tournure, forme d'esprit. Manière d'envisager les choses,
+   d'agir et d'être, caractéristique d'une personne. Il est une
+   satisfaction, une joie de tempérament qui s'allie quelquefois avec une
+   tournure d'esprit inquiet et des idées sombres (Maine de Biran,
+   Journal,1820, p. 289):
+   25. − Mais enfin, qu'y a-t-il de commun entre vous et un ouvrier? − Les
+   différences sont en effet sensibles, moins fortes toutefois qu'entre le
+   tour d'esprit d'un fonctionnaire, par exemple, et le mien. Barrès,
+   Jard. Bérén.,1891, p. 143.
+   ♦ Présence d'esprit. Promptitude à agir, à parler avec à-propos.
+   Tisselin eut seul la présence d'esprit de fermer la pièce qui précédait
+   le salon et d'en emporter la clef (Péladan, Vice supr.,1884, p.
+   302).Ah! son trouble, ce manque de présence d'esprit, ce désarroi! Il
+   me fit pitié (Daniel-Rops, Mort,1934, p. 337).
+   ♦ Vieilli. En esprit, d'esprit. Par la pensée, par l'imagination. Je
+   fus transporté en esprit dans les temps anciens (Lamennais, Paroles
+   croyant,1834, p. 84).Marché-je comme le bourgeois attardé qui d'esprit
+   goûte la soupe déjà et le cercle habituel de visages et se réjouit de
+   son feu? (Claudel, Tête d'Or,1890, 1^repart., p. 39).
+   ♦ Vx. État d'âme passager, humeur momentanée, disposition intérieure
+   particulière. Changer d'esprit. Ne te dirai-je pas : Prends un esprit
+   plus doux? Vois : cette paix. Respire. Une parfaite tranquillité est
+   commune, au grand ciel et à la terre (Claudel, Ville,1893, I, p. 309).
+   ♦ Avoir/ne pas avoir l'esprit à ... Être/ne pas être dans de bonnes
+   dispositions pour... Et je vous voyais peindre et le voyais Maman Vous
+   n'aviez pas l'esprit à ce bouquet de fleurs (Aragon, Rom. inach.,1956,
+   p. 27).
+   ♦ Se mettre dans l'esprit de + inf. Prendre la décision bien arrêtée de
+   + inf. (cf. se mettre en tête de...). Un vieil agoyate se mit dans
+   l'esprit de le rejoindre (About, Grèce,1854, p. 142).Se mettre bien
+   dans l'esprit de qqn. Lui donner une bonne opinion de soi. Être bien
+   dans l'esprit de qqn; rester au mieux dans l'esprit de qqn. Quoiqu'une
+   pareille demande fût contre les principes de la mère, j'étais encore si
+   bien dans son esprit, que j'osai la faire, et qu'elle me fut accordée
+   (Restif de La Bret., M. Nicolas,1796, p. 70).Perdre qqn dans l'esprit
+   de qqn. Faire perdre à quelqu'un la confiance, l'estime de quelqu'un.
+   Madame Aquet employait tous les moyens pour perdre le fils dans
+   l'esprit de son père (Champfl., Avent. M^lleMariette,1853, p.
+   114).Monter l'esprit de qqn contre qqn. Lui inspirer de l'animosité
+   contre quelqu'un :
+   26. De ce moment, le procès Dreyfus ne signifie plus rien, sinon qu'on
+   veut monter l'esprit des jurés contre Zola et le faire condamner à
+   toute peine qu'il plaira... Clemenceau, Vers réparation,1899, p. 20.
+   − [L'esprit considéré d'un point de vue moral] Les cravates vert-pomme
+   d'Arcangeli, son esprit bas, étroit, mesquin, et qui puait par trop,
+   (...) commençaient à fatiguer le duc (Bourges, Crépusc. dieux,1884, p.
+   153):
+   27. Procure-toi le numéro de la Revue des deux mondes du 1^erdécembre.
+   Tu y liras un article de Renan que je trouve incomparable comme
+   élévation d'esprit et hauteur morale. Flaub., Corresp.,1876, p. 372.
+   SYNT. Grandeur, noblesse d'esprit; force, faiblesse d'esprit; largeur,
+   étroitesse d'esprit; bassesse d'esprit; esprit élevé, noble, généreux;
+   esprit fort; esprit courageux, bien trempé, lâche; esprit large,
+   étroit; esprit frivole; esprit retors, méchant; esprit dégradé, avili;
+   avoir l'esprit large; être d'esprit large.
+   2. [Par restriction de sens] Intention, point de vue particulier
+   déterminant une attitude, une action ponctuelle. Tel est l'esprit que
+   j'ai porté dans cette discussion : j'ai mieux aimé la traiter sous ce
+   point de vue (Robesp., Discours,Sur la guerre, t. 8, 1792, p. 98).
+   ♦ Dans un esprit de + subst.Avec une idée de..., dans une intention
+   de..., dans un but de... Dans un esprit de + adj.Dans une intention...,
+   d'un point de vue... Il écrivit, dans un esprit satirique, cet opéra où
+   Walpole et ses ministres figurent, déguisés en bandits et en vagabonds
+   (Morand, Londres,1933, p. 95).− Tu vois dans quel esprit impersonnel je
+   tâche de t'expliquer ça (Romains, Hommes bonne vol.,1938, p. 212).
+   ♦ C'est dans cet esprit que... C'est sous cet angle, dans cette
+   perspective, de ce point de vue que... :
+   28. On sentira que ce n'est pas assez qu'une idée soit bonne, mais
+   qu'il faut encore qu'elle soit exprimée avec clarté pour être
+   facilement comprise et avec charme pour être généralement adoptée.
+   C'est dans cet esprit qu'il faut commencer la lecture des ouvrages de
+   belles-lettres. Laclos, Éduc. femmes,1803, p. 475.
+   3. [L'accent est mis sur une faculté en partic.]
+   a) Mémoire. Avoir l'esprit en proie à mille souvenirs; éveiller,
+   réveiller des souvenirs dans l'esprit; laisser une trace dans l'esprit;
+   souvenirs, pensées qui reviennent à l'esprit. La figure hagarde des
+   Verlaine, des Villiers, et autres épaves est toujours restée gravée
+   pour moi dans mon esprit en traits ineffaçables (Claudel, Corresp.[avec
+   Gide], 1910, p. 118).
+   b) Attention, application mentale. Avoir l'esprit distrait, absent; ne
+   plus avoir l'esprit présent; ne pas avoir l'esprit à ce que l'on fait.
+   Il travailla un peu, mais il avait l'esprit ailleurs (Dabit, Hôtel
+   Nord,1929, p. 201).
+   ♦ Vieilli ,,Fig., fam. Il a l'esprit aux talons, se dit d'un homme qui,
+   par étourderie ou par préoccupation, ne pense point à ce qu'il dit``
+   (Ac.).
+   ♦ [Formules utilisées pour s'excuser d'un manque d'attention] Où ai-je
+   l'esprit? Où avais-je l'esprit? [Pour s'excuser d'une conduite
+   inconsidérée] J'ai eu tort de m'emporter tout à l'heure, je ne sais où
+   j'avais l'esprit, j'ai été beaucoup trop loin, j'ai dit des
+   extravagances (Hugo, Misér.,t. 1, 1862, p. 951).
+   c) Imagination. Esprit porté au rêve, rempli de rêveries; avoir
+   l'esprit occupé de rêveries, perdu dans des rêveries, des visions. Mon
+   esprit voyageait partout, dans les forêts pleines de fougères de l'île
+   délicieuse, dans les sables du sombre Sénégal (Loti, Rom. enf.,1890, p.
+   307).
+   C.− [Par restriction des sens A et B : p. oppos. aux manifestations de
+   la sensibilité] Principe de l'activité intellectuelle. Les soins du
+   maître tendaient à développer l'esprit de l'enfant (Verne, 500
+   millions,1879, p. 172).Concevoir bien est la suprême fonction de
+   l'esprit (Bloch, Dest. du S.,1931, p. 20):
+   29. Quand l'intelligence n'a plus de poids intérieur, la réflexion au
+   lieu d'en concentrer le regard, l'épuise. Elle dissipe toute assurance
+   de l'esprit, le prive de son assiette. Mounier, Traité caract.,1946, p.
+   669.
+   SYNT. 1. a) Éducation, culture de l'esprit; étendue, ouverture,
+   qualités de l'esprit; travail, activité, concentration de l'esprit;
+   vivacité, clarté, finesse de l'esprit; joie, délices de l'esprit;
+   lenteur, lourdeur, épaisseur, défaillance de l'esprit. b) Précocité,
+   maturité d'esprit; discipline, solidité, puissance, sagacité,
+   profondeur d'esprit; hauteur, supériorité d'esprit; travers, fausseté
+   d'esprit. 2. a) Esprit bien/mal fait, actif, infatigable, lent, lourd,
+   sclérosé; esprit solide, puissant; esprit vif, prompt; esprit ouvert,
+   universel, curieux, éclectique, borné, obtus; esprit réfléchi, profond,
+   mûr, pondéré, logique, cartésien, clair, lucide, subtil, pénétrant;
+   esprit superficiel, creux, raisonneur, compliqué, tortueux, confus,
+   brouillon, fumeux; esprit médiocre, vulgaire, original; esprit orné,
+   cultivé, brillant, fin, raffiné; esprit inculte, illettré. b) Esprit
+   accoutumé à réfléchir, porté aux considérations générales; esprit plein
+   de pensées toutes faites. 3. a) Former, développer, entretenir,
+   nourrir, orner l'esprit; se reposer, s'occuper, se fatiguer l'esprit;
+   mettre de l'ordre dans son esprit; laisser parler son esprit; s'élever,
+   être grand par l'esprit; être jeune d'esprit; avoir qqc. présent à
+   l'esprit; fixer son esprit sur un sujet; arrêter son esprit à/ sur
+   qqc.; agiter une question dans son esprit, rouler dans son esprit mille
+   projets; ouvrir son esprit à une pensée, faire pénétrer qqc. dans son
+   esprit; chercher qqc. dans son esprit, trouver des idées dans son
+   esprit; écarter, repousser, chasser, effacer, ôter une idée de son
+   esprit; détourner son esprit d'une question; garder, graver qqc. dans
+   son esprit; épuiser son esprit à réfléchir continuellement, faire le
+   vide dans son esprit. b) Éveiller, former, façonner l'esprit de qqn;
+   mettre qqc. dans l'esprit de qqn, faire naître une idée dans l'esprit
+   de qqn; ôter une idée de l'esprit de qqn. c) Esprit qui pense, se
+   concentre, se disperse, se développe, mûrit; esprit qui s'échauffe,
+   conserve sa vigueur, retrouve toute sa lucidité; esprit qui nourrit de
+   vastes pensées, se remplit d'idées vagues; esprit qui excelle dans qqc.
+   d) Idée qui se présente, (re)vient à l'esprit; idée qui s'insinue,
+   entre, se forme, grandit, jaillit dans l'esprit; idée qui effleure
+   l'esprit; idée qui s'impose à, s'empare de l'esprit; idée qui envahit
+   l'esprit; idée qui se fixe, se grave dans l'esprit; idée qui traverse
+   l'esprit, sort de l'esprit; idée qui dérange, accable, agite l'esprit;
+   fatigue qui paralyse l'esprit.
+   − [P. oppos. au cœur ou à l'âme en tant que principes de la
+   sensibilité, de l'affectivité] J'éprouve que mon imagination a tout à
+   fait vieilli en ce qu'il n'y a plus aucune sympathie entre les idées de
+   l'esprit et les sentiments de l'âme (Maine de Biran, Journal,1818, p.
+   109):
+   30. On répétera qu'il est infiniment bon. Je le sais bien, mais je
+   voudrais qu'il fût permis de dire qu'il a aussi l'intelligence de sa
+   bonté, entendant par là qu'il n'a pas moins d'esprit que de cœur, ou,
+   si l'on veut, que le cœur, chez lui, élève l'esprit, comme aussi bien
+   l'esprit élève le cœur. Bremond, Hist. sent. relig.,t. 3, 1921, p. 241.
+   − P. méton. La personne même, du point de vue intellectuel. Un esprit
+   orné, éclairé, distingué, éminent, brillant, rare, supérieur, inférieur
+   :
+   31. C'était [le général Ruffey] un esprit brillant très imaginatif,
+   dont les qualités de technicien auraient à s'employer utilement dans
+   les opérations que son armée serait amenée probablement à exécuter dans
+   la région de Metz... Joffre, Mém.,t. 1, 1931, p. 205.
+   − Locutions
+   a) Grand esprit. Esprit supérieur, élevé et de large envergure. P.
+   méton. Personne douée d'un tel esprit :
+   32. À George Sand. Vous venez de m'écrire, dans l'Avenir national, une
+   admirable lettre. Cette page me paye mon livre. Vous êtes un des plus
+   grands esprits de la France et du monde... Hugo, Corresp.,1865, p. 506.
+   ♦ Proverbe. Les grands (ou les beaux) esprits se rencontrent.
+   ♦ Petit esprit. Esprit médiocre, mesquin. Madame Trevor était
+   extrêmement coquette et avait le petit esprit fin et maniéré que la
+   coquetterie donne aux femmes qui n'en ont pas d'autre (Constant,Cahier
+   rouge, 1830, p. 19).Ce gros homme de petit esprit [Louis XVIII]
+   (Balzac,Langeais,1834,p. 323)P. méton. Personne douée d'un tel esprit :
+   33. Depuis qu'on veut tout savoir, tout connaître, depuis que chaque
+   petit esprit tend à tout rabaisser à son niveau, à tout comprendre dans
+   sa petite capacité, la sphère des croyances ou du monde invisible s'est
+   rétrécie de plus en plus. Maine de Biran, Journal,1820, p. 280.
+   ♦ Simple d'esprit. Personne dont les facultés intellectuelles ne se
+   sont pas développées normalement et qui souffre d'arriération ou de
+   débilité mentale. Ce Sieurin, qui a subi trente-sept condamnations pour
+   vagabondage, est incapable de tuer une mouche. Il n'a jamais commis de
+   vol. C'est un simple d'esprit, un être inoffensif (France, Orme,1897,
+   p. 210).Faible* d'esprit.
+   b) Esprit droit. Esprit au raisonnement rigoureux, au jugement sain.
+   Cette enfant est absurde, on aura bien de la peine à lui rendre
+   l'esprit droit! (Duranty, Malh. H. Gérard,1860, p. 123).P. méton. Il
+   admirait qu'aucune difficulté ne résiste à un esprit droit et qui
+   raisonne juste (Mauriac, Th. Desqueyroux,1927, p. 250).
+   ♦ P. oppos. Esprit faux. C'est un esprit faux et malveillant (Proust,
+   Filles en fleurs,1918, p. 573).
+   c) Bon esprit
+   ♦ Vieilli. Capacité de l'esprit de porter des jugements sains, de bon
+   sens :
+   34. Ce dont on a le plus horreur en France, c'est d'être dupe. On aime
+   mieux passer pour leste et dégagé que pour un honnête nigaud, et, du
+   moment que l'on associe à la morale quelque idée de pesanteur d'esprit,
+   c'est assez pour qu'on la tienne en suspicion. De là l'extrême rabais
+   où est tombé le titre de bon esprit. Ce titre, qui devrait être le plus
+   beau des éloges est devenu presque synonyme d'esprit faible, et est
+   accordé avec une étrange libéralité; on accorde, en effet, volontiers
+   aux autres les qualités auxquelles on ne tient pas pour soi-même, et on
+   pense qu'en accordant aux autres le bon esprit, on fera entendre qu'on
+   est soi-même un grand ou brillant esprit. Renan, Avenir sc.,1890, p.
+   444.
+   ♦ De nos jours. Avoir le bon esprit de + inf. Avoir la perspicacité,
+   l'intelligence de + inf. Il [Pascal] eut à son lit de mort un curé très
+   prudent (de Saint-Sulpice?) qui eut le bon esprit d'oublier de lui
+   parler de signature (Barrès, Cahiers,t. 7, 1908, p. 36).
+   d) Bel esprit. [Souvent ironiquement] Finesse et distinction de
+   l'intelligence jointe à la culture des belles-lettres. L'esprit même
+   devenu plus général, tout le monde y prétend bientôt; de là le bon
+   esprit devient rare et la pointe, le faux bel esprit et la prétention
+   prennent sa place (Benda, Fr. byz.,1945, p. 225).
+   ♦ P. méton. Un bel esprit lui [le curé de Costerel-sur-Meuse] donna
+   même un nom : il l'appela le « confesseur de bonnes ». Le mot fit
+   fortune; il courut les salons bien pensants (Bernanos, Imposture,1927,
+   p. 339).
+   Emploi adj. Il avait vu récemment une jeune femme de Neuchâtel, savante
+   et bel esprit, et qui avait « la manie de s'afficher » (Guéhenno,
+   Jean-Jacques,1952, p. 145).
+   Péj. Faire le bel esprit. Chercher, avec affectation, à paraître
+   brillant, spirituel. J'ai eu tort, j'en conviens et je fais le bel
+   esprit mal à propos (Gobineau, Pléiades,1874, p. 5).
+   e) Esprit fort. Personne qui croit faire preuve de force d'esprit en se
+   situant au-dessus des croyances religieuses :
+   35. Par ailleurs, on avait beau s'afficher matérialiste, libertin ou
+   esprit fort, le monde, autour de vous, était tellement croyant, on
+   baignait dans une si générale promesse de justice distributive au-delà,
+   que tout conspirait à vous assurer un usage sans trouble des biens de
+   la terre. Bloch, Dest. du S.,1931, p. 105.
+   ♦ Emploi adj. Hippolyte étant déjà assez esprit fort, et moi ayant été
+   habituée par ma mère et ma grand'mère (...) à regarder l'existence du
+   diable comme une imposture (Sand, Hist. vie,t. 2, 1855, p. 375).
+   − P. ext. Personne qui se place au-dessus des idées communément reçues.
+   Faire l'esprit fort :
+   36. ... il est bien trop fin pour ne pas comprendre qu'avec certains il
+   en serait pour ses frais, aussi proportionne-t-il ses effets au crédit
+   dont il sent qu'il dispose. Avec Marchant, il ne se risque guère, mais
+   fait l'esprit fort et plaisante; il réserve le pathétique pour l'abbé
+   qui le trouve « édifiant », pour papa qui le trouve « antique »...
+   Gide, École femmes,1929, p. 1292.
+   f) Avoir l'esprit de + inf.Avoir l'intelligence de (+ inf.), être assez
+   intelligent pour (+ inf.). − Mais, mon pauvre Téran, reprit Madame
+   d'Hocquincourt (...) on ne menace pas de s'enivrer, on s'enivre. Il
+   faut avoir l'esprit de voir cette différence (Stendhal, L. Leuwen,t. 2,
+   1835, p. 111).
+   D.− [Par restriction du sens C]
+   1. [Avec un compl. de nom sans article ou avec un adj.] Esprit de +
+   subst. ou esprit + adj.Disposition intellectuelle dominante déterminant
+   l'orientation de l'intelligence lorsqu'elle s'applique à un objet.
+   L'esprit d'abstraction (Barrès avait admirablement attrapé l'apparence
+   de cet esprit; il a volé l'outil, a dit un philosophe) (Benda, Trahis.
+   clercs,1927, p. 85).L'esprit mystique qui déifie chaque chose a du bon,
+   et même, en un certain sens, du vrai (Ruyer, Esq. philos. struct.,1930,
+   p. 224):
+   37. Qui nous a appris à connaître les analogies véritables, profondes,
+   celles que les yeux ne voient pas et que la raison devine? C'est
+   l'esprit mathématique, qui dédaigne la matière pour ne s'attacher qu'à
+   la forme pure. C'est lui qui nous a enseigné à nommer du même nom des
+   êtres qui ne diffèrent que par la matière... H. Poincaré, Valeur
+   sc.,1905, p. 142.
+   SYNT. Esprit d'examen, de doute, de méthode, de comparaison,
+   d'analogie, de classification, de généralisation, de synthèse; esprit
+   critique, analytique, synthétique.
+   − Spéc. Esprit de géométrie. Aptitude au raisonnement logique,
+   déductif. Esprit de finesse. Intuition synthétique, inspiration. Un art
+   aussi catégorique que subtil, où l'esprit de finesse et l'esprit
+   géométrique se confondent (Faure, Espr. formes,1927, p. 230):
+   38. ... j'ai expliqué à mes élèves le début de la section I des Pensées
+   sur la différence entre l'esprit de géométrie et l'esprit de finesse.
+   Je me suis efforcé de leur faire sentir la prodigieuse probité de la
+   pensée de Pascal en général... Du Bos, Journal,1922, p. 105.
+   2. Absolument
+   a) Vieilli. Valeur intellectuelle. Oxford n'est qu'un collège, la cité
+   de l'esprit, d'un doux repos avant les agitations de la vie, ses
+   combats, ses orages (Michelet, Chemins Europe,1874, p. 57).Ernst
+   n'était point sot. Sans culture, il n'était pas sans esprit (Rolland,
+   J.-Chr.,Adolesc., 1905, p. 350).
+   ♦ Homme, femme d'esprit. Personne douée de qualités d'esprit et de cœur
+   particulières, cultivée, au goût excellent. Je vois des hommes d'esprit
+   qui ne croient qu'en eux-mêmes; ils sont bouffis d'orgueil (Maine de
+   Biran, Journal,1820, p. 276).À moins d'une grande passion, prise peu à
+   peu et dans la première jeunesse, une femme d'esprit n'aime pas
+   longtemps un homme commun (Stendhal, Amour,1822, p. 108).
+   ♦ Ouvrage d'esprit. Ouvrage littéraire. Œuvres de l'esprit; travaux
+   d'esprit. Au fond, il y a de la métaphysique dans tous les ouvrages
+   d'esprit, depuis les méditations de Descartes jusqu'aux poésies de
+   Dorat (Bonald, Essai analyt.,1800, p. 19).
+   b) Spéc. [De nos jours] Forme d'intelligence aiguë, vive et mordante,
+   qui excelle dans l'art d'opérer des rapprochements inattendus et
+   drôles, dans l'art d'exposer des idées, de converser avec une verve
+   piquante pleine d'ingénieuses saillies. On ne doit mettre dans un livre
+   que la dose d'esprit qu'il faut; mais on peut en avoir, dans la
+   conversation, plus qu'il ne faut (Joubert, Pensées,t. 1, 1824, p.
+   240).Prêter de l'esprit aux sots est le plus sûr moyen de les flatter
+   (Sandeau, Sacs,1851, p. 33):
+   39. On peut pourtant faire des calembourgs avec de l'esprit, ou
+   quoiqu'on ait de l'esprit : M. de Bièvre l'a prouvé; mais qu'en
+   conclure, lorsque tant de sots y réussissent? Que le calembourg prouve
+   quelque esprit dans une bête? Ne prouverait-il pas plutôt qu'il y a
+   toujours un petit coin de bêtise dans un homme d'esprit? Jouy,
+   Hermite,t. 5, 1814, p. 233.
+   SYNT. Homme (plein) d'esprit; réponse, répartie (pleine) d'esprit; tour
+   plein d'esprit, jeu d'esprit, plaisanteries sans esprit; esprit
+   scintillant, vif, mordant; esprit comique, gaulois; esprit de saillie;
+   esprit d'emprunt, de boulevard; avoir de l'esprit, beaucoup d'esprit;
+   être plein d'esprit, faire assaut d'esprit, pétiller d'esprit, (ne pas)
+   manquer d'esprit, déployer son esprit le plus scintillant, montrer de
+   l'esprit à peu de frais, conversation qui ne brille pas par l'esprit.
+   − Trait, mot d'esprit. Pensée fine et ingénieuse, pointe, saillie. Et
+   des mots d'esprit qui sont des mots des Goncourt au forceps (Goncourt,
+   Journal,1889, p. 913).Un trait d'esprit annonce toujours la mort d'une
+   idée (Alain, Propos,1923, p. 462).
+   − Bureau d'esprit (vieilli). Salon dans lequel évoluent des personnes
+   pleines d'esprit. Tenir bureau d'esprit. P. iron. Hier j'allai passer
+   un quart-d'heure au grand club où tant de sots tiennent bureau d'esprit
+   (Marat, Pamphlets, Charlatans mod., 1791, p. 279).
+   − Faux esprit. Pensée à la fois fausse et recherchée (cf. Littré).
+   − Avoir de l'esprit jusqu'au bout des doigts, des ongles. Avoir
+   beaucoup d'esprit en toutes circonstances, jusque dans les moindres
+   choses. Avoir de l'esprit à revendre. Un homme qui, comme un frère,
+   avait du cœur et de l'esprit à revendre, un jour sur trois, sur quatre,
+   ou sur cinq, selon « le vent », disaient-ils (Sand, Hist. vie,t. 4,
+   1855, p. 64).Je préfère mille fois la petite étude de M. Vibert que
+   nous avons vue à l'exposition des aquarellistes. Ce n'est rien si vous
+   voulez, cela tiendrait dans le creux de la main, mais il y a de
+   l'esprit jusqu'au bout des ongles (Proust, Guermantes,1921, p. 501).
+   − Faire de l'esprit (péj.). Vouloir absolument se montrer spirituel,
+   chercher avec affectation à faire preuve d'esprit :
+   40. madeleine. − Tu as bien changé depuis! richard. − Non!... C'est
+   l'honneur qui a changé de côté!... Faut croire que ça se déplace...
+   madeleine. − Ne fais pas d'esprit. richard. − Je n'en ai jamais moins
+   fait... H. Bataille, Maman Colibri,1904, IV, 6, p. 30.
+   − Proverbe. L'esprit court les rues. L'esprit est chose commune, chacun
+   se pique d'en avoir. À l'heure qu'il est, je suis écœuré par la
+   population qui se rue sous mes fenêtres à la suite du bœuf gras! Et on
+   dit que l'esprit court les rues! (Flaub., Corresp.,1868, p. 356).
+   − [Allus. littér.]
+   ♦ [Montesquieu, Variétés] Quand on court après l'esprit, on attrape la
+   sottise :
+   41. Ainsi, quand l'Europe est en feu, quand Paris est en rumeur, quand
+   la propriété chancelle, quand le droit divin trébuche, quand on perd
+   l'esprit en courant après le bon sens, quand il n'y a plus rien de
+   stable, plus rien de certain au monde, quand tout est remis en
+   question, les lois, les mœurs, les richesses et les gloires, tout un
+   quartier s'obstine à parfiler! Musset dsLe Temps,1831, p. 55.
+   ♦ [Delavigne, Enf. d'Édouard, I, 2] Quand ils ont tant d'esprit les
+   enfants vivent peu. ,,Se dit d'un enfant qui a beaucoup d'esprit, et,
+   plus souvent ironiquement, d'un enfant qui n'a guère de dispositions.
+   Cet enfant a trop d'esprit, il ne vivra pas`` (Littré).
+   ♦ [La Fontaine, Conte] Comment l'esprit vient aux filles. ,,(...)
+   l'amour fait venir l'esprit aux filles`` (Littré) :
+   42. Indépendamment des affections, ou des idées qui se rapportent aux
+   fonctions particulières de ces organes, l'époque qui nous occupe
+   produit souvent une révolution complète dans les habitudes de
+   l'intelligence. Ce n'est pas sans fondement, qu'on a dit que l'esprit
+   venait alors aux filles; et les plaisanteries relatives au moyen par
+   lequel ce prétendu miracle s'opère, porte sur un fond réel et physique.
+   Cabanis, Rapp. phys. et mor.,t. 1, 1808, p. 311.
+   P. anal. :
+   43. ... 89 montra comment l'esprit vient aux villes. Mais, au bon vieux
+   temps, la capitale avait peu de tête; elle ne savait faire ses affaires
+   ni moralement ni matériellement, et pas mieux balayer les ordures que
+   les abus. Tout était obstacle, tout faisait question. Hugo, Misér.,t.
+   2, 1862, p. 514.
+   II.− Principe de pensée et d'action.
+   A.− [Avec un compl. de nom sans article ou avec un adj.] Esprit de +
+   subst. ou esprit + adj.Disposition psychique dominante d'une personne
+   ou d'un groupe, déterminant le choix d'une attitude et l'orientation de
+   l'action. Esprit d'indépendance, de soumission; esprit conciliateur,
+   chicanier. Il réclama le travail comme d'autres enfants réclament des
+   jouets, non par esprit de devoir, mais par instinct, par besoin de
+   nature (Zola, Th. Raquin,1867, p. 11).Mais elle passa outre, comme elle
+   faisait parfois, poussée par un goût du risque et un esprit de décision
+   qu'elle confondait avec le courage (Martin du G., Thib.,Cah. gr., 1922,
+   p. 596):
+   44. Nos messieurs sont à Oron. J'en ai profité pour prier ma sœur de
+   m'accorder un bout de causerie après souper. Mais bah! l'esprit de
+   contradiction fait dans ces cas-là désirer exactement le contraire de
+   ce qui est demandé. Amiel, Journal,1866, p. 243.
+   − P. méton. C'était sans nul doute l'esprit le plus positif du groupe.
+   Il disposait, dans les milieux de la finance, de la politique, du
+   barreau et du livre, de relations sur lesquelles il ne comptait jamais
+   en vain (Arland, Ordre,1929, p. 158).
+   − Locutions
+   ♦ Esprit d'à-propos. Synon. de présence d'esprit (cf. supra).J'avais
+   été séduit par sa haute et brillante intelligence; sur la carte, il
+   avait été merveilleux de clarté, de lucidité, de jugement et d'esprit
+   d'à-propos (Joffre, Mém., t. 1, 1931, p. 370).Esprit de suite.
+   Continuité, suite dans une idée, une attitude, une action. En politique
+   extérieure, une vraie démocratie, bien républicaine, demeure dépourvue
+   de la continuité et de l'esprit de suite qui permet aux aristocrates et
+   aux monarchies de se marquer un but politique (Maurras, Kiel et
+   Tanger,1914, p. 12).Esprit de clocher. Attachement borné, excessif à
+   son village, à sa ville. L'esprit de clocher, mon ami, n'est pas autre
+   chose que le patriotisme naturel. J'aime ma maison, ma ville et ma
+   province par extension, parce que j'y trouve encore les habitudes de
+   mon village (Maupass., Contes et nouv.,t. 2, Rosier M^meHusson, 1887,
+   p. 684).Sans esprit de retour. Sans avoir l'intention de revenir. Les
+   deux tiers de ses enfants l'ayant abandonnée sans esprit de retour, la
+   malheureuse ville est comme un corps qui a perdu son sang (Maeterl.,
+   Vie abeilles,1901, p. 165).Esprit de sacrifice. Disposition intérieure
+   à l'abnégation qui porte à se dévouer, à se sacrifier pour autrui. Mais
+   ce départ que je voulais à tout instant effectuer, M. et M^mede
+   Guermantes poussaient l'esprit de sacrifice jusqu'à le reculer en me
+   retenant (Proust, Guermantes,1921, p. 543).
+   ♦ Avoir bon esprit. Être naturellement enclin à apprécier, juger les
+   intentions ou les actes d'autrui avec bienveillance; accepter de bonne
+   grâce une autorité, une discipline. La proclamation (...) produisit une
+   impression excellente. Elle se terminait par un appel au bon esprit des
+   citoyens (Zola, Fortune Rougon,1871, p. 244).Le commandant d'armes, le
+   préposé au maintien du bon ordre, du bon esprit et de la bonne tenue
+   des troupes (Courteline, Train 8 h 47,1888, 2^epartie, p. 206).Avoir
+   mauvais esprit. Être enclin à apprécier, juger les intentions ou les
+   actes d'autrui avec malveillance (fam.avoir l'esprit mal tourné). Se
+   rebeller plus ou moins sourdement contre une autorité, une discipline.
+   Faire du mauvais esprit. Il me met surtout en garde contre le mauvais
+   esprit de la population qui, gavée depuis la guerre, dit-il, a besoin
+   de cuire dans son jus (Bernanos,Journal curé camp.,1936,p. 1063) :
+   45. Elle regardait les autres garçons, aussi, quelquefois. Quand, à la
+   lecture du communiqué, elle en voyait « faire du mauvais esprit », elle
+   se disait (...) que leur moralité devait être sur tous les points
+   également basse... Montherl.,Songe,1922,p. 72.
+   ♦ [P. allus. à la formule utilisée par le ministre Spuller en 1894 pour
+   définir la politique du gouvernement à l'égard de l'Église] L'esprit
+   nouveau :
+   46. − Il y a une question de droit. Je l'eusse tranchée en faveur des
+   congrégations. Il y a aussi une question de fait. Les congrégations
+   faisaient beaucoup de bien. Le préfet concluait dans la fumée de son
+   cigare : − Il n'y a pas à revenir sur ce qui a été fait. Mais l'esprit
+   nouveau est un esprit de conciliation. France, Orme,1897, p. 36.
+   B.− Ensemble des dispositions psychiques dominantes qui déterminent et
+   caractérisent les sentiments et les actions d'une personne ou d'un
+   groupe social. Tu seras donc toujours le même fou que j'ai connu, (...)
+   il y a en toi l'esprit de ton père : c'était un vieux braque
+   (Erckm.-Chatr., Ami Fritz,1864, p. 5).Vieil esprit français de clarté
+   et de bon sens (Barrès, Cahiers,t. 13, 1920-22, p. 168):
+   47. Sa confiance était absolue dans un outil militaire supérieur à tout
+   ce qui avait été vu jusqu'alors par le nombre des unités mobilisées, le
+   degré de leur instruction, (...) l'esprit qui les animait, le savoir
+   qui les guidait. Foch, Mém.,t. 1, 1929, p. 10.
+   SYNT. Esprit du groupe, de la société, d'une nation; esprit de
+   Port-Royal; esprit de la république, de l'Église, de l'armée; esprit
+   civique; esprit moderne.
+   − Vieilli. Esprit du monde. ,,Humeur égale, manières affables,
+   habitudes de souplesse et de ménagement`` (Ac.). Esprit national,
+   social, général, public. Synon. mod. opinion publique :
+   48. Les historiens qui traitent du moyen âge ne parlent guère de cette
+   opinion qui se forme dans une nation sur les objets qui l'intéressent
+   et qu'on appelle l'esprit public. Faral, Vie temps st Louis,1942, p.
+   213.
+   ♦ Bureau d'esprit public. ,,(...) salon, réunion dont les habitués
+   paraissent avoir la prétention de diriger l'opinion en fait de
+   politique`` (Littré). Bureau de l'esprit public. ,,(...) s'est dit
+   d'une division du ministère de l'intérieur ou de la police où l'on
+   s'occupe de faire ou de diriger l'esprit public par des pièces de
+   théâtre, des fêtes, par la presse, etc.`` (Littré). Cf. supra I D 2 b.
+   − Esprit du temps/de son temps, de l'époque, du siècle. Ensemble des
+   tendances générales caractéristiques du temps, de l'époque, du siècle.
+   Je demande, une fois de plus, l'indépendance pour être en état de faire
+   mon œuvre qui est de combattre l'esprit du siècle (Bloy, Journal,1902,
+   p. 126).« Ne pas être poire ». Le mot courait autour de lui et
+   symbolisait l'esprit de l'époque (Van der Meersch, Invas. 14,1935, p.
+   467).
+   − Esprit de famille, d'équipe. [Souvent péj.] Esprit de parti, de corps
+   (cf. ce mot III B 2), de clan, de secte :
+   49. ... l'esprit de parti présente les opinions par ce qu'elles ont de
+   saillant pour les faire comprendre au vulgaire; et l'esprit de secte,
+   (...) tend toujours vers ce qu'il y a de plus abstrait (...) L'esprit
+   de parti excite dans les hommes de certaines passions communes qui les
+   réunissent en masse. (...) L'esprit de secte n'aspire qu'à convaincre;
+   l'esprit de parti veut rallier. L'esprit de secte se dispute sur les
+   idées; l'esprit de parti veut du pouvoir sur les hommes. Il y a de la
+   discipline dans l'esprit de parti, et de l'anarchie dans l'esprit de
+   secte. Staël, Allemagne,t. 5, 1810, pp. 139-140.
+   − Avoir l'esprit de..., prendre l'esprit de...; entrer, cadrer (bien)
+   dans l'esprit de... Banville se bouchant l'œil chez Buloz pour tâcher
+   de prendre l'esprit de la maison (Renard, Journal,1893, p. 147):
+   50. ... les vieux officiers passaient leurs soirées chez moi et
+   préféraient mon appartement au café. Je ne sais d'où cela venait,
+   n'était peut-être de ma facilité à entrer dans l'esprit et à prendre
+   les mœurs des autres. Chateaubr., Mém.,t. 1, 1848, p. 67.
+   ♦ Avoir l'esprit de son âge, avoir l'esprit de son état. Avoir la
+   connaissance, la conscience des idées, des sentiments, des façons
+   d'être et d'agir qui sont ordinairement considérés comme convenant à
+   son âge ou à sa situation, et s'y conformer. Qui n'a pas l'esprit de
+   son âge, de son âge a tout le malheur, dit Voltaire; et non-seulement
+   il faut avoir l'esprit de son âge, mais aussi l'esprit de sa fortune et
+   de sa santé (Joubert, Pensées,t. 1, 1824, p. 229):
+   51. Cet homme n'a jamais eu l'esprit de son état; dans le gouvernement
+   il ne fut pas magistrat, et dans l'ermitage il ne fut pas ermite...
+   Senancour, Obermann,t. 2, 1840, p. 51.
+   − Dans le domaine du théâtre.Esprit d'un personnage, esprit d'un rôle;
+   entrer dans l'esprit d'un rôle. Pour mieux faire comprendre à Fanny
+   l'esprit du personnage dont elle devait jouer le rôle (Murger, Scènes
+   vie jeun.,1851, p. 92).Du moment où l'esprit du rôle lui échappait, il
+   vaudrait mieux pour tout le monde qu'il ne le jouât pas (Zola,
+   Nana,1880, p. 1340).
+   − P. méton., au plur. [Pour désigner un ensemble de personnes
+   considérées par rapport à leurs dispositions, leurs idées, leurs
+   sentiments, leurs réactions communes] Les esprits. Échauffer, remuer,
+   égarer les esprits. Calmer les esprits. Il se fit une grande révolution
+   dans les esprits. Éclairer les esprits (Ac.). Les esprits
+   s'échauffaient chaque jour davantage parmi le peuple et la bourgeoisie
+   de Paris (Barante, Hist. ducs Bourg.,t. 3, 1821-24, p. 120).Cet
+   argument inattendu frappa les esprits (Romains, Copains,1913, p. 43).
+   C.− P. anal. Pensée dominante, idée centrale, principe qui anime une
+   œuvre et lui donne son sens profond; inspiration dominante et
+   caractéristique d'un auteur, essence de sa pensée. C'est l'esprit de
+   Locke qui anime et dirige toute l'école sensualiste de ce siècle
+   (Cousin, Hist. philos.,t. 1, 1829, p. 66).Jésuites et ultras
+   travaillaient efficacement à détruire l'esprit de la charte, à
+   falsifier la loi (Adam, Enf. Aust.,1902, p. 245).Il reste à pénétrer
+   l'esprit même de l'œuvre, c'est-à-dire sa qualité (Faure, Espr.
+   formes,1927, p. 210):
+   52. La pensée d'autrefois circulait à travers les consciences
+   d'aujourd'hui. L'esprit de Pascal était vivant, non seulement chez
+   l'élite raisonneuse et religieuse, mais chez d'obscurs bourgeois, ou
+   chez les syndicalistes révolutionnaires. Rolland, J.-Chr.,Maison, 1909,
+   p. 962.
+   SYNT. Esprit d'une institution, d'un traité, d'une loi; esprit d'un
+   livre, d'un texte; esprit d'un cours, d'une doctrine; saisir l'esprit
+   de...; entrer, pénétrer dans l'esprit de...; fausser, détruire l'esprit
+   de...
+   − [Le compl. de nom désigne une publication] Tendance dominante,
+   orientation générale, intention principale. − Pourquoi donc t'amuses-tu
+   à changer l'esprit de mes articles? dit Lucien, qui n'avait fait ce
+   brillant article que pour donner plus de force à ses griefs (Balzac,
+   Illus. perdues,1843, p. 432).
+   − [P. allus. à la 3^eépître de Saint Paul aux Corinthiens, III, 6] La
+   lettre tue, mais l'esprit vivifie. C'est au sens profond d'un texte
+   qu'il y a lieu de s'attacher, et non à son sens littéral, apparent, à
+   sa forme. C'était un homme de sens et d'esprit, un prêtre facile et qui
+   accommodait tout au précepte : « la lettre tue et l'esprit vivifie »
+   (Goncourt, R. Mauperin,1864, p. 68).Je cherchai (...) s'il était
+   possible, en dégageant l'esprit de la lettre du décret du 2 décembre
+   1915, de donner à mes attributions toute l'ampleur et toute l'autorité
+   qui me paraissaient indispensables (Joffre, Mém.,t. 2, 1931, p. 431).
+   − Spéc., vx. Recueil de textes et de pensées extraits de l'œuvre d'un
+   auteur pour faire connaître et comprendre l'essence de sa pensée.
+   L'Esprit de Montaigne, de J.-J. Rousseau (Ac.).
+   Prononc. et Orth. : [εspʀi]. Ds Ac. dep. 1694. Étymol. et Hist. A. 1.
+   [Fin du x^es. spiritus « principe de vie, âme » (Passion de Clermont,
+   éd. D'Arco Silvio Avalle, 320 [Mt. 27, 50])]; début xii^es. espirit
+   (Psautier d'Oxford, 30 [31], 6, éd. F. Michel); 2. a) début xii^es. «
+   vent, souffle, air » (ibid., 148, 8); b) début xii^es. « souffle
+   créateur envoyé par Dieu » (ibid., 103, 31 [104, 30]); 3. début xii^es.
+   « inspiration divine » (ibid., 50 [51], 13); 4. 1655 gramm. gr. (Cl.
+   Lancelot, Nouv. méthode pour apprendre facilement la lang. gr., Paris,
+   p. 21). B. Être immatériel 1. a) [fin x^es. spéc. Saint-Esprit (Passion
+   de Clermont, 515 : Sanz Spiritum)]; 1119 (Ph. de Thaon Comput, éd. E.
+   Mall, 516 : Sainz Espirs); b) ca 1170 en parlant de Dieu, des anges,
+   des démons, des bienheureux (Rois, éd. E. R. Curtius, p. 31 [1 Sam. 16,
+   14] : li mals esperiz); 2. [fin du x^es. spiritus « fantôme, revenant »
+   (Passion de Clermont, 440 [Lc 24, 37])]; ca 1458 (A. Gréban, Mystère de
+   la Passion, 31377 ds IGLF); 3. ca 1155 « être imaginaire (génie, elfe,
+   etc.) » (Wace, Brut, éd. I. Arnold, 7440 : une manere d'esperit). C. 1.
+   Début xii^es. « principe de la vie psychique, conscience » (Psautier
+   d'Oxford, 50, 18 [51, 19]); 2. ca 1155 « principe de la vie
+   intellectuelle, entendement, intelligence » (Wace, Brut, 8311 : sis
+   esperiz repaira); 3. 1478-80 p. méton., d'une pers. (G. Coquillart,
+   Enquête, 813 ds Œuvres, éd. M. J. Freeman, p. 103 : hanta tous legiers
+   esperiz); 4. 1511 « humeur, caractère » (P. Gringore, Jeu du Prince des
+   Sotz, Sottie, éd. Ch. d'Héricault et A. de Montaiglon, t. 1, p. 213 :
+   Je suis ... Liger d'esperit, fort variable). D. Émanation 1. 1370 «
+   corps légers et subtils qui étaient considérés comme les véhicules de
+   la vie et du sentiment » (N. Oresme, Ethiques, I, 20, éd. A. D. Menut,
+   p. 142 : esperilz [sic]); 2. 1575 anc. chim. « produit d'une
+   distillation » (A. Paré, Œuvres, 1. 26, chap. 8 ds Œuvres, éd. J.-F.
+   Malgaigne, t. 3, p. 623 : l'eau de vie, appelée l'ame ou l'esprit de
+   vin). E. 1. 1547 « vivacité de l'esprit, finesse » (N. Du Fail, Propos
+   rustiques, t. 1, p. 132 ds IGLF; une femme qui a quelque peu d'esprit);
+   2. 1690 « aptitude particulière, don, sens » (Fur. : l'esprit du jeu,
+   des affaires). F. 1. 1547 « sens profond d'un texte » (Marg. de
+   Navarre, Com. du Désert, 160 ds IGLF : L'esprit caché dedens la lettre
+   morte); 2. 1585 « principe d'action, intention » (N. Du Fail, Contes et
+   discours d'Eutrapel, t. 2, p. 45, ibid : esprit de contradiction); 3.
+   1656 « ensemble d'idées, de sentiments de valeurs propres à un groupe
+   humain » (Pascal, Provinciales, 9 ds Œuvres, éd. L. Lafuma, p. 409 :
+   l'esprit de la Société [Jésuites]); 4. 1684 « choix de textes d'un
+   auteur » (L'Esprit de M. Arnaud, Deventer ds FEW t. 12, p. 196b, note 9
+   s.v. spiritus). Empr. au lat. class. spiritus « souffle, air; vie;
+   aspiration (gramm.); émanation, odeur; inspiration divine; souffle
+   créateur, inspiration poétique; sentiment; âme, esprit; personne »,
+   lat. chrét. « esprit, mentalité; intention; principe de vie morale,
+   spirituelle; intelligence; être immatériel : Saint-Esprit, esprit,
+   ange, démon, bienheureux, fantôme; p. méton. : personne animée d'un bon
+   ou d'un mauvais esprit ». Mot introduit en fr. principalement par
+   l'intermédiaire de textes relig. chrétiens. Fréq. abs. littér. : 47
+   687. Fréq. rel. littér. : xix^es. : a) 80 600, b) 61 658; xx^es. : a)
+   58 551, b) 65 780. Bbg. Brooks (H.F.). Taste, perfection and delight in
+   Guez de Balzac's criticism. Studies in philology. 1971, t. 68, pp.
+   70-87. − Bruneau (Ch.). Esprit : essai d'un classement hist. des sens.
+   In : [Mél. Roques (M.)]. Paris, 1946, pp. 168-180. − Cabeen (D.C.). The
+   Esprit of the Esprit des lois. P.M.L.A. 1939, t. 54, pp. 439-453. −
+   Essai de sém. : esprit. R. de Philol. fr. et de Litt. 1914, t. 28, pp.
+   98-146. − Gohin 1903, p. 335, 362. − Hempel (W.). Zur Geschichte von
+   spiritus, mens und ingenium in den romanischen Sprachen. Rom. Jahrb.
+   1965, t. 16, pp. 21-33. − Matoré (G.). Proust linguiste. In : [Mél.
+   Wartburg (W. von)] Tübingen, 1968, t. 1, p. 284. − Mercier (R.).
+   L'Esprit et le cœur. In : [Mél. Pintard (R.)]. Trav. Ling. Litt.
+   Strasbourg. 1975, t. 13, pp. 339-351. − Tinsley (L.). The French
+   expressions for spirituality and devotion. Washington, 1953, pp. 15-21,
+   153-158. − Wandruszka (M.). Der Geist der frz. Sprache. Hamburg, 1958,
+   pp. 97-111. − Wechssler (E.). Esprit und Geist. Bielefeld, 1927, 604 p.
+   Valid XHTML 1.0 Strict Valid Cascading Style Sheet
 
-Question de la Semaine
-
-   IFRAME: qotw.htm
-
-   Partager cette page Facebook icon Twitter icon YouTube icon Pinterest
-   icon Email icon
-
-   [apple-appstore.svg] [google-play.svg]
-
-                    © Copyright Got Questions Ministries
+   © 2012 - CNRTL
+   44, avenue de la Libération BP 30687 54063 Nancy Cedex - France
+   Tél. : +33 3 83 96 21 76 - Fax : +33 3 83 97 24 56
