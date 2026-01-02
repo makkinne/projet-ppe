@@ -1,0 +1,776 @@
+<!DOCTYPE html>
+<html lang="it-IT" class="no-js">
+<head> <script type="text/javascript">if(!gform){document.addEventListener("gform_main_scripts_loaded",function(){gform.scriptsLoaded=!0}),window.addEventListener("DOMContentLoaded",function(){gform.domLoaded=!0});var gform={domLoaded:!1,scriptsLoaded:!1,initializeOnLoaded:function(o){gform.domLoaded&&gform.scriptsLoaded?o():!gform.domLoaded&&gform.scriptsLoaded?window.addEventListener("DOMContentLoaded",o):document.addEventListener("gform_main_scripts_loaded",o)},hooks:{action:{},filter:{}},addAction:function(o,n,r,t){gform.addHook("action",o,n,r,t)},addFilter:function(o,n,r,t){gform.addHook("filter",o,n,r,t)},doAction:function(o){gform.doHook("action",o,arguments)},applyFilters:function(o){return gform.doHook("filter",o,arguments)},removeAction:function(o,n){gform.removeHook("action",o,n)},removeFilter:function(o,n,r){gform.removeHook("filter",o,n,r)},addHook:function(o,n,r,t,i){null==gform.hooks[o][n]&&(gform.hooks[o][n]=[]);var e=gform.hooks[o][n];null==i&&(i=n+"_"+e.length),null==t&&(t=10),gform.hooks[o][n].push({tag:i,callable:r,priority:t})},doHook:function(o,n,r){if(r=Array.prototype.slice.call(r,1),null!=gform.hooks[o][n]){var t,i=gform.hooks[o][n];i.sort(function(o,n){return o.priority-n.priority});for(var e=0;e<i.length;e++)"function"!=typeof(t=i[e].callable)&&(t=window[t]),"action"==o?t.apply(null,r):r[0]=t.apply(null,r)}if("filter"==o)return r[0]},removeHook:function(o,n,r,t){if(null!=gform.hooks[o][n])for(var i=gform.hooks[o][n],e=i.length-1;0<=e;e--)null!=t&&t!=i[e].tag||null!=r&&r!=i[e].priority||i.splice(e,1)}}}</script>
+	
+	<!-- partial-head.twig -->
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, maximum-scale=5, initial-scale=1.0">
+<meta name="format-detection" content="telephone=no">
+<style>@font-face{font-family:'Nunito';src:local("Nunito-regular"),url(/app/themes/lifegate-2020/dist/fonts/Nunito-Regular.woff) format("woff");font-display:swap;font-weight:400;font-style:normal}@font-face{font-family:'Nunito';src:local("Nunito-semibold"),url(/app/themes/lifegate-2020/dist/fonts/Nunito-SemiBold.woff) format("woff");font-display:swap;font-weight:600;font-style:normal}@font-face{font-family:'Nunito';src:local("Nunito-bold"),local("Nunito Bold"),url(/app/themes/lifegate-2020/dist/fonts/Nunito-Bold.woff) format("woff");font-display:swap;font-weight:800;font-style:normal}@font-face{font-family:'CrimsonPro';src:url(/app/themes/lifegate-2020/dist/fonts/CrimsonPro-Regular.woff) format("woff");font-weight:400;font-display:swap;font-style:normal}@font-face{font-family:'CrimsonPro';src:url(/app/themes/lifegate-2020/dist/fonts/CrimsonPro-Italic.woff) format("woff");font-weight:400;font-display:swap;font-style:italic}@font-face{font-family:'CrimsonPro';src:url(/app/themes/lifegate-2020/dist/fonts/CrimsonPro-Medium.woff) format("woff");font-weight:700;font-display:swap;font-style:normal}.container-cycle-col-2::after,.container-cycle-col-2::before,.container::after,.container::before,section::after,section::before{content:'';display:table}.container-cycle-col-2::after,.container::after,section::after{clear:both}.btn,.cta--icon,.drawer-menu main .drawer-menu__block .drawer-menu__item,.header__block .header-btn,.radio-panel #radio-panel-btn{background-image:url(/app/themes/lifegate-2020/dist/images/icons.svg);background-size:34px 2700px;background-repeat:no-repeat no-repeat}*{box-sizing:border-box}a,div,footer,form,header,html,iframe,img,label,li,span,summary,ul{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}body,h1{margin:0}body,h1,p,section{padding:0;border:0;vertical-align:baseline}section{font-size:100%;margin:0}ul{list-style:none}.wrapper,img{max-width:100%}footer,header,img,section{display:block}img{height:auto}input{outline:0;border:0;border-top-left-radius:0;border-top-right-radius:0;border-bottom-right-radius:0;border-bottom-left-radius:0;border-radius:0}body,p{-webkit-font-smoothing:antialiased;font-weight:400}body{font-size:16px;-moz-osx-font-smoothing:grayscale;text-rendering:optimizeLegibility;font-family:"Nunito",Arial,sans-serif}h1{color:inherit;font-family:CrimsonPro,serif}p{font-size:18px;line-height:24px;margin:0 0 12px;color:#5f5e5e;font-family:"CrimsonPro",serif}a{text-decoration:none;outline:0!important;cursor:pointer;color:#000}.wrapper{position:relative;width:1012px;overflow:hidden;background-color:#fff;margin:0 auto}@media screen and (max-width:736px){.wrapper{width:100%;border-top-left-radius:0;border-top-right-radius:0;border-bottom-right-radius:0;border-bottom-left-radius:0;border-radius:0;padding:0;margin:0}}.wrapper>.container{position:relative;padding:0 16px;margin:0}@media screen and (max-width:736px){.wrapper{width:100%;border-radius:0;padding:0;margin:0}.wrapper>.container{padding:0 8px}}.container,footer,section{position:relative}.container-cycle-col-2>*{float:left;clear:none;text-align:inherit;width:48.02372%;margin-left:0;margin-right:3.95257%}.container-cycle-col-2>:nth-child(n){margin-right:3.95257%;float:left;clear:none}.container-cycle-col-2>:nth-child(2n){margin-right:0;float:right}.container-cycle-col-2>:nth-child(2n+1){clear:both}@media screen and (max-width:736px){.container-cycle-col-2>*{float:left;clear:none;text-align:inherit;width:100%;margin-left:0;margin-right:0}.container-cycle-col-2>:nth-child(n){clear:none;margin-right:0;float:right}.container-cycle-col-2>:nth-child(n+1){clear:both}}.col-6{float:left;clear:none;text-align:inherit;width:48.02372%;margin-left:0;margin-right:3.95257%}.col-6 .col-6::after,.col-6::after{content:'';display:table;clear:both}.col-6 .col-6:last-child,.col-6:last-child{margin-right:0}@media screen and (max-width:736px){.col-6{float:left;clear:none;text-align:inherit;width:100%;margin-left:0;margin-right:0}.col-6::after{content:'';display:table;clear:both}.col-6:last-child{margin-right:0}}.col-6 .col-6{float:left;clear:none;text-align:inherit;width:45.88477%;margin-left:0;margin-right:8.23045%}@media screen and (max-width:736px){.col-6 .col-6{float:left;clear:none;text-align:inherit;width:100%;margin-left:0;margin-right:0}.col-6 .col-6::after{content:'';display:table;clear:both}.col-6 .col-6:last-child{margin-right:0}}.flex{display:flex}@media screen and (max-width:736px){.flex{flex-direction:column}}.flex--column{flex-direction:column}.flex--center{align-items:center}.base{overflow:hidden}@media screen and (max-width:736px){h1{font-weight:500;font-family:"CrimsonPro",serif;font-size:36px;line-height:44px}}h1{font-size:42px;font-weight:500;line-height:48px}@media screen and (max-width:736px){h1{font-size:36px;font-weight:500;line-height:44px;font-family:"CrimsonPro",serif}}@media screen and (max-width:1400px){p{font-size:16px;line-height:20px}}section{margin-bottom:0}.btn--close{cursor:pointer;width:38px;height:38px;min-height:38px;background-position:12px -726px}.overlay{opacity:0;visibility:hidden;position:absolute;width:100%;height:100%;background-color:rgba(0,0,0,.498039);z-index:1;background-position:initial initial;background-repeat:initial initial;top:0;left:0;background:rgba(0,0,0,.5);will-change:opacity}.cta{background-color:transparent;display:inline-block;font-size:16px;min-height:38px;min-width:38px;padding:9px;text-transform:uppercase}.cta--icon-left{padding-left:40px;background-position-x:left!important}.cta--enter{background-position:0 calc(50% + 220px)}.partial-social{max-width:100%;width:calc(24px*var(--socialnumber) + (24px*(var(--socialnumber) - 1)))!important;margin:0 auto;padding:0}.partial-social ul{display:flex;justify-content:space-between}.partial-social .social:last-child{margin-right:0}.partial-social .social a{display:block;width:24px;height:24px;background-image:url(/app/themes/lifegate-2020/dist/images/icon-social.svg);background-repeat:no-repeat;margin-right:0}.partial-social .social--fb a{background-position:0 -45px}.partial-social .social--tw a{background-position:0 -134px}.partial-social .social--pn a{background-position:0 -224px}.partial-social .social--sp a{background-position:0 -315px}.partial-social .social--yt a{background-position:0 -403px}.partial-social .social--in a{background-position:0 -491px}.partial-social .social--ln a{background-position:0 -584px}.partial-social .social--tg a{background-position:0 -630px}.drawer-menu__footer .partial-social{width:calc(24px*8 + (24px*(8 - 1)))!important}@media screen and (min-width:737px){.partial-social:last-child{margin-right:0}}@media screen and (max-width:736px){.partial-social:last-child{margin:12px auto}}.partial-social:first-child{margin-right:auto}.page-404 .page-hero{margin-top:60px;background-color:transparent!important;height:calc(100vh - 60px)}@media screen and (max-width:812px) and (orientation:landscape){.page-404 .page-hero{height:auto}}.header__search,.page-404 .page-hero__container{height:100%;position:relative}@media screen and (max-width:812px) and (orientation:landscape){.page-404 .page-hero__container{height:auto}}.page-404 .page-hero__container__body{text-align:center;height:100%;padding:6%;position:relative;display:flex;flex-direction:column}@media screen and (max-width:812px) and (orientation:landscape){.page-404 .page-hero__container__body{height:auto}}@media screen and (max-width:800px){.page-404 .page-hero__container__body{top:0;height:calc(100vh - 60pxpx)}}.page-404 .page-hero__container__body .search__field{width:80%;display:flex;margin:24px auto 0}.header__search{height:60px;min-width:100px;align-items:center;display:flex}.header__search .search__field{position:absolute;-webkit-transition:all .2s ease-in-out;width:420px;overflow:hidden;height:100%;opacity:0;visibility:hidden;z-index:1;display:flex;top:0;align-items:center;transition:all ease-in-out .2s;padding:8px 0}.header__search .search__field>*,.page-404 .page-hero__container__body .search__field>*{margin:0 6px}.header__search .search__field .btn--close{background-position:4px -1513px}@media screen and (max-width:736px){.header__search{display:none}}.header__search--drawer{display:block;width:100%}@media screen and (min-width:737px){.header__search--drawer{display:none}}.header__search--drawer .search__field{width:100%;position:static;opacity:1;visibility:visible}.header__search--drawer .search__field input,footer .footer__newsletter input{border:1px solid transparent;color:#fff}.header{position:fixed;height:60px;width:100%;z-index:10;top:0}.header+div{max-width:100vw;overflow:hidden}.header__block{height:100%;position:absolute;width:100%;z-index:1;background-color:#fff;display:flex;align-items:center;justify-content:space-between;padding:0 16px}@media screen and (max-width:812px){.header__block{padding:0 8px}}@media screen and (max-width:736px){.header__block{padding:0}}.header__block__left{max-width:300px;width:23%;display:flex;align-items:center;justify-content:space-between}@media screen and (max-width:800px){.header__block__left{width:40%}}.header__block__middle{position:absolute;left:50%;max-width:130px;text-align:center;align-items:center;display:flex;justify-content:center;transform:translateX(-50%)}@media screen and (max-width:736px){.header__block__middle{transform:translate(-50%,-2px)}}.header__block__middle .logo--light{display:none}.header__block .header-btn{cursor:pointer;font-weight:700;height:60px;padding:6px;min-width:90px;overflow:hidden;color:#5f5e5e;margin:0}@media screen and (max-width:736px){.header__block .header-btn{text-indent:-100px;min-width:0;flex:1}}@media screen and (max-width:812px){.header__block .header-btn.header-btn--hamburger{min-width:50px}.header__block .header-btn.header-btn--newsletter,.header__block .header-btn.header-btn--shop{text-indent:-130px;min-width:0;flex:1}}@media screen and (max-width:812px) and (min-width:768px){.header__block .header-btn.header-btn--newsletter,.header__block .header-btn.header-btn--shop{max-width:50px}}.header__block .header-btn--hamburger{background-position:12px -142px}@media screen and (max-width:736px){.header__block .header-btn--hamburger{background-position:8px -142px;margin-right:0}}.header__block .header-btn--shop{padding-left:46px;line-height:46px;background-position:12px -82px}.header__block .header-btn--newsletter{padding-left:46px;line-height:46px;min-width:130px;background-position:12px -1463px}@media screen and (max-width:736px){.header__block .header-btn--newsletter{display:none}}.header__block .header-btn--search{padding-left:46px;line-height:54px;background-position:12px 5px}.header::after{content:'';height:0;border-top-width:15px;border-top-style:solid;border-top-color:rgba(0,0,0,.2);border-left-width:30vw;border-left-style:solid;border-left-color:transparent;border-right-width:30vw;border-right-style:solid;border-right-color:transparent;bottom:-7px;position:absolute;width:100%}.radio-panel .transparent{cursor:pointer;position:absolute;width:100%;height:100%;z-index:1;left:0;top:0}@media screen and (max-width:812px){.radio-panel{flex-direction:row-reverse}}.radio-panel .equalizer-container{position:relative;width:56px;height:44px;overflow:hidden;transform:rotate(90deg)}@media screen and (max-width:812px){.radio-panel .equalizer-container{margin-right:-15px;transform:rotate(-90deg)}}.radio-panel #radio-panel-btn{cursor:pointer;padding-right:40px;min-height:48px;background-position:right 0 top -346px;align-items:center;justify-content:center}.radio-panel #radio-panel-btn label{display:-webkit-box;height:24px;text-overflow:ellipsis;-webkit-box-orient:vertical;-webkit-line-clamp:1;overflow:hidden;position:relative;width:180px;display:block}.radio-panel #radio-panel-btn label.radio-panel__title{padding-left:8px;text-align:center}@media screen and (max-width:812px){.radio-panel #radio-panel-btn label.radio-panel__title{display:none!important}}.radio-panel #radio-panel-btn label.radio-panel__artist{font-size:11px;font-weight:700;text-align:center;color:#add6b7}@media screen and (max-width:812px){.radio-panel #radio-panel-btn label.radio-panel__artist{display:none!important}}footer .wrapper{background-color:transparent}footer .footer__newsletter{background-color:#5f5e5e}footer .footer__newsletter .container{padding:24px 16px}@media screen and (max-width:736px){footer .footer__newsletter .container{padding:16px 8px}}footer .footer__newsletter .footer_heading{font-size:34px;font-weight:700;display:block;text-align:center;color:#fff}@media screen and (max-width:736px){footer .footer__newsletter .footer_heading{line-height:40px;margin-bottom:20px}}footer .footer__newsletter .footer_heading+span{font-size:20px;line-height:26px;display:block;text-align:center;color:#fff}footer .footer__newsletter .newsletter__field{max-width:70%;margin:12px auto}@media screen and (max-width:736px){footer .footer__newsletter .newsletter__field{max-width:90%}}footer .footer__newsletter input{background-color:rgba(255,255,255,.2)}footer .footer__newsletter .cta{background-color:transparent;background-position:0 -1619px;color:#fff}footer .footer__newsletter .newsletter__response{color:#fff;text-align:center;max-width:320px;margin:12px auto}footer .footer__bottom{background-color:#006454;padding:30px 0}@media screen and (max-width:736px){footer .footer__bottom__menu{margin-bottom:40px}}footer .footer__bottom__menu *{font-size:14px;text-transform:uppercase;color:#add6b7}footer .footer__bottom__menu span{font-size:20px;font-weight:700;display:block;color:#fff}@media screen and (max-width:736px){footer .footer__bottom__menu span{text-align:center}}footer .footer__bottom__menu ul li{margin:12px 0}@media screen and (max-width:736px){footer .footer__bottom__menu ul li{text-align:center}}footer .footer__bottom .logo{margin-bottom:24px;display:block}@media screen and (max-width:736px){footer .footer__bottom .logo img{margin:0 auto}}footer .footer__bottom .textwidget.custom-html-widget{font-size:13px}footer .footer__bottom summary{margin-bottom:24px;color:#fff}.sk-chase{width:40px;height:40px;position:relative;animation:sk-chase 2.5s infinite linear both}.sk-chase-dot{width:100%;height:100%;position:absolute;left:0;top:0;animation:sk-chase-dot 2s infinite ease-in-out both}.sk-chase-dot::before{content:'';display:block;width:25%;height:25%;background-color:#fff;border-top-left-radius:100%;border-top-right-radius:100%;border-bottom-right-radius:100%;border-bottom-left-radius:100%}.sk-chase-dot:nth-child(1){animation-delay:-1.1s}.sk-chase-dot:nth-child(2){animation-delay:-1s}.sk-chase-dot:nth-child(3){animation-delay:-.9s}.sk-chase-dot:nth-child(4){animation-delay:-.8s}.sk-chase-dot:nth-child(5){animation-delay:-.7s}.sk-chase-dot:nth-child(6){animation-delay:-.6s}input[type=email],input[type=text]{background-color:transparent;display:block;width:100%;height:inherit;min-height:34px;color:#000;font-style:italic;font-size:15px;line-height:28px;text-align:left;vertical-align:middle;background-image:none;background-clip:padding-box;border:1px solid #ddd;padding:8px 10px;margin:0;outline:0;transition:border .3s ease-out;-webkit-transition:border .3s ease-out;font-family:Nunito,Arial,sans-serif!important}button{cursor:pointer}.newsletter__field{display:flex;align-items:center;margin:12px 0}.newsletter__field input{margin-right:12px}.newsletter__field__submit{background-color:transparent;border:0;font-size:16px;font-weight:700}@media screen and (max-width:736px){.newsletter__field__submit{overflow:hidden;text-indent:-218px;max-width:24px;padding:0}}.search__field input[type=text]{padding:12px}.search__field .search__field__submit{border:0;min-height:36px;width:40px;margin:0 24px 0 6px}@media screen and (max-width:414px){.search__field .search__field__submit{margin:0 6px}}@media screen and (device-aspect-ratio:2/3){input[type=email],input[type=text]{font-size:13px!important}}@media screen and (device-aspect-ratio:40/71){input[type=email],input[type=text]{font-size:13px!important}}@media screen and (device-aspect-ratio:375/667){input[type=email],input[type=text]{font-size:16px!important}}@media screen and (device-aspect-ratio:9/16){input[type=email],input[type=text]{font-size:16px!important}}.drawer-menu__menu{min-height:100vh;position:fixed;width:100%;max-width:430px;z-index:1010000000;left:-431px;-webkit-transition:left .2s ease-out;background-color:#fff;transition:left ease-out .2s;top:0;will-change:transform}@media screen and (max-width:812px){.drawer-menu__menu{min-height:-webkit-fill-available}}.drawer-menu .overlay{position:fixed;-webkit-transition:all .2s ease-out;z-index:100;transition:all ease-out .2s}.drawer-menu a{display:inline-block;font-size:18px;text-transform:none;color:#5f5e5e}.drawer-menu header{height:70px;display:flex;align-items:center;flex-direction:column;justify-content:center;background-color:#006454}@media screen and (max-width:736px){.drawer-menu header{height:124px}}.drawer-menu header .header__top{height:54px;width:100%;display:flex;align-items:center;justify-content:space-between;padding:0 8px}.drawer-menu main{position:absolute;height:calc(100% - 118px);overflow:auto;width:100%;-webkit-overflow-scrolling:touch}@media screen and (max-width:736px){.drawer-menu main{height:calc(100% - 196px)}}.drawer-menu main .drawer-menu__block{padding:5%;border-bottom:1px solid #454545}.drawer-menu main .drawer-menu__block .drawer-menu__item{font-size:18px;font-weight:700;margin-bottom:32px;padding-right:40px;text-transform:uppercase!important;background-position:right -8px top -598px;color:#5f5e5e}@media screen and (max-width:736px){.drawer-menu main .drawer-menu__block .drawer-menu__item+.flex{flex-direction:row}}.drawer-menu main .drawer-menu__block .drawer-menu__block__submenu{padding:6px;flex:1}.drawer-menu main .drawer-menu__block .drawer-menu__block__submenu ul li{margin-bottom:24px}.drawer-menu .drawer-menu__footer{background-color:#fff;position:absolute;width:100%;padding:12px 5%;background-position:initial initial;background-repeat:initial initial;background:#fff;bottom:0}</style>
+<link rel="stylesheet" href="https://www.lifegate.it/app/themes/lifegate-2020/dist/css/custom.min.css?ver=1.95.3" media="print" onload="this.media='all'">
+<link rel="apple-touch-icon" sizes="180x180" href="https://www.lifegate.it/app/themes/lifegate-2020/dist/images/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://www.lifegate.it/app/themes/lifegate-2020/dist/images/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://www.lifegate.it/app/themes/lifegate-2020/dist/images/favicon-16x16.png">
+<link rel="mask-icon" color="#5bbad5" href="https://www.lifegate.it/app/themes/lifegate-2020/dist/images/safari-pinned-tab.svg">
+<link rel="apple-touch-icon" sizes="180x180" href="https://www.lifegate.it/app/themes/lifegate-2020/dist/images/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://www.lifegate.it/app/themes/lifegate-2020/dist/images/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="194x194" href="https://www.lifegate.it/app/themes/lifegate-2020/dist/images/favicon-194x194.png">
+<link rel="icon" type="image/png" sizes="192x192" href="https://www.lifegate.it/app/themes/lifegate-2020/dist/images/android-chrome-192x192.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://www.lifegate.it/app/themes/lifegate-2020/dist/images/favicon-16x16.png">
+<link rel="mask-icon" href="https://www.lifegate.it/app/themes/lifegate-2020/dist/images/safari-pinned-tab.svg" color="#005039">
+<link rel="shortcut icon" href="https://www.lifegate.it/app/themes/lifegate-2020/dist/images/favicon.ico">
+<meta name="msapplication-TileColor" content="#ffc40d">
+<meta name="msapplication-config" content="https://www.lifegate.it/app/themes/lifegate-2020/dist/images/browserconfig.xml">
+<meta name="theme-color" content="#15907E">
+<link rel="preconnect" href="https://www.googletagmanager.com">
+
+<meta name="robots" content="noindex, follow">
+
+	<!-- This site is optimized with the Yoast SEO plugin v22.5 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Page not found - LifeGate</title>
+	<meta property="og:locale" content="it_IT">
+	<meta property="og:title" content="Page not found - LifeGate">
+	<meta property="og:site_name" content="LifeGate">
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel="dns-prefetch" href="//cdn.iubenda.com">
+<link rel="alternate" type="application/rss+xml" title="LifeGate &raquo; Feed" href="https://www.lifegate.it/feed">
+<link rel="alternate" type="application/rss+xml" title="LifeGate &raquo; Stories Feed" href="https://www.lifegate.it/web-stories/feed/">
+<style id="iubenda-inline-styles-from-embed-inline-css" type="text/css">
+
+#iubenda-cs-banner{font-size:15px!important;background:0 0!important;line-height:1.4!important;position:fixed!important;z-index:99999998!important;top:0!important;left:0!important;width:100%!important;height:100%!important;border:0!important;margin:0!important;padding:0!important;overflow:hidden!important;display:-webkit-box!important;display:-ms-flexbox!important;display:flex!important;will-change:opacity,visibility;opacity:0!important;visibility:hidden!important;pointer-events:none!important;-webkit-transition:opacity .4s ease,visibility .4s ease!important;-o-transition:opacity .4s ease,visibility .4s ease!important;transition:opacity .4s ease,visibility .4s ease!important}#iubenda-cs-banner .iubenda-banner-content:not(.iubenda-custom-content) *,#iubenda-cs-banner [class*=" iub"],#iubenda-cs-banner [class^=iub]{font-size:100%!important;width:auto!important;-webkit-appearance:none!important;-moz-appearance:none!important;appearance:none!important;background:0 0!important;-webkit-box-sizing:border-box!important;box-sizing:border-box!important;-webkit-tap-highlight-color:transparent!important;-webkit-backface-visibility:hidden!important;backface-visibility:hidden!important;font-family:-apple-system,sans-serif!important;text-decoration:none!important;color:currentColor!important;background-attachment:scroll!important;background-color:transparent!important;background-image:none!important;background-position:0 0!important;background-repeat:repeat!important;border:0!important;border-color:#000!important;border-color:currentColor!important;border-radius:0!important;border-style:none!important;border-width:medium!important;bottom:auto!important;clear:none!important;clip:auto!important;counter-increment:none!important;counter-reset:none!important;direction:inherit!important;float:none!important;font-style:inherit!important;font-variant:normal!important;font-weight:inherit!important;height:auto!important;left:auto!important;letter-spacing:normal!important;line-height:inherit!important;list-style-type:inherit!important;list-style-position:outside!important;list-style-image:none!important;margin:0!important;max-height:none!important;max-width:none!important;min-height:0!important;min-width:0!important;opacity:1;outline:0!important;overflow:visible!important;padding:0!important;position:static!important;quotes:"" ""!important;right:auto!important;table-layout:auto!important;text-align:left!important;text-indent:0!important;text-transform:none!important;top:auto!important;unicode-bidi:normal!important;vertical-align:baseline!important;visibility:inherit!important;white-space:normal!important;width:auto!important;word-spacing:normal!important;z-index:auto!important;background-origin:padding-box!important;background-origin:padding-box!important;background-clip:border-box!important;background-size:auto!important;-o-border-image:none!important;border-image:none!important;border-radius:0!important;border-radius:0!important;-webkit-box-shadow:none!important;box-shadow:none!important;-webkit-column-count:auto!important;-moz-column-count:auto!important;column-count:auto!important;-webkit-column-gap:normal!important;-moz-column-gap:normal!important;column-gap:normal!important;-webkit-column-rule:medium none #000!important;-moz-column-rule:medium none #000!important;column-rule:medium none #000!important;-webkit-column-span:none!important;-moz-column-span:none!important;column-span:none!important;-webkit-column-width:auto!important;-moz-column-width:auto!important;column-width:auto!important;-webkit-font-feature-settings:normal!important;font-feature-settings:normal!important;overflow-x:visible!important;overflow-y:visible!important;-webkit-hyphens:manual!important;-ms-hyphens:manual!important;hyphens:manual!important;-webkit-perspective:none!important;perspective:none!important;-webkit-perspective-origin:50% 50%!important;perspective-origin:50% 50%!important;text-shadow:none!important;-webkit-transition:all 0s ease 0s!important;-o-transition:all 0s ease 0s!important;transition:all 0s ease 0s!important;-webkit-transform:none!important;-ms-transform:none!important;transform:none!important;-webkit-transform-origin:50% 50%!important;-ms-transform-origin:50% 50%!important;transform-origin:50% 50%!important;-webkit-transform-style:flat!important;transform-style:flat!important;word-break:normal!important;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}#iubenda-cs-banner.iubenda-cs-overlay:before{content:""!important;position:fixed!important;top:0!important;left:0!important;width:100%!important;height:100%!important;background-color:rgba(0,0,0,.5)!important;z-index:1!important;pointer-events:auto!important}#iubenda-cs-banner.iubenda-cs-center{-webkit-box-align:center!important;-ms-flex-align:center!important;align-items:center!important;-webkit-box-pack:center!important;-ms-flex-pack:center!important;justify-content:center!important}#iubenda-cs-banner.iubenda-cs-top{-webkit-box-align:start!important;-ms-flex-align:start!important;align-items:flex-start!important}#iubenda-cs-banner.iubenda-cs-bottom{-webkit-box-align:end!important;-ms-flex-align:end!important;align-items:flex-end!important}#iubenda-cs-banner.iubenda-cs-left{-webkit-box-pack:start!important;-ms-flex-pack:start!important;justify-content:flex-start!important}#iubenda-cs-banner.iubenda-cs-right{-webkit-box-pack:end!important;-ms-flex-pack:end!important;justify-content:flex-end!important}#iubenda-cs-banner.iubenda-cs-visible{opacity:1!important;visibility:visible!important}#iubenda-cs-banner.iubenda-cs-visible>*{pointer-events:auto!important}#iubenda-cs-banner.iubenda-cs-slidein .iubenda-cs-container{-webkit-transition:-webkit-transform .4s ease!important;transition:-webkit-transform .4s ease!important;-o-transition:transform .4s ease!important;transition:transform .4s ease!important;transition:transform .4s ease,-webkit-transform .4s ease!important}#iubenda-cs-banner.iubenda-cs-slidein.iubenda-cs-top .iubenda-cs-container{-webkit-transform:translateY(-48px)!important;-ms-transform:translateY(-48px)!important;transform:translateY(-48px)!important}#iubenda-cs-banner.iubenda-cs-slidein.iubenda-cs-bottom .iubenda-cs-container{-webkit-transform:translateY(48px)!important;-ms-transform:translateY(48px)!important;transform:translateY(48px)!important}#iubenda-cs-banner.iubenda-cs-slidein.iubenda-cs-visible .iubenda-cs-container{-webkit-transform:translateY(0)!important;-ms-transform:translateY(0)!important;transform:translateY(0)!important}#iubenda-cs-banner .iubenda-cs-container{position:relative!important;z-index:2!important}#iubenda-cs-banner .iubenda-cs-brand{display:-webkit-box!important;display:-ms-flexbox!important;display:flex!important;padding:16px!important;-ms-flex-negative:0!important;flex-shrink:0!important}#iubenda-cs-banner .iubenda-cs-brand>div{display:-webkit-box!important;display:-ms-flexbox!important;display:flex!important;-webkit-box-pack:start!important;-ms-flex-pack:start!important;justify-content:flex-start!important}#iubenda-cs-banner .iubenda-cs-brand img{max-width:192px!important;max-height:56px!important}#iubenda-cs-banner .iubenda-cs-content{position:relative!important;z-index:1!important;overflow:hidden!important;-webkit-transition:-webkit-transform .4s ease!important;transition:-webkit-transform .4s ease!important;-o-transition:transform .4s ease!important;transition:transform .4s ease!important;transition:transform .4s ease,-webkit-transform .4s ease!important}#iubenda-cs-banner .iubenda-cs-rationale{position:relative!important;display:-webkit-box!important;display:-ms-flexbox!important;display:flex!important;-webkit-box-orient:vertical!important;-webkit-box-direction:normal!important;-ms-flex-direction:column!important;flex-direction:column!important}#iubenda-cs-banner .iubenda-cs-close-btn{position:absolute!important;top:-2px!important;padding:16px!important;right:0!important;min-width:48px!important;height:48px!important;font-size:24px!important;line-height:0!important;font-weight:lighter!important;cursor:pointer!important;text-align:center!important}#iubenda-cs-banner .iubenda-cs-close-btn:hover{opacity:.5!important}#iubenda-cs-banner .iubenda-banner-content{font-weight:300!important;margin:16px!important;margin-bottom:0!important;-webkit-box-flex:1!important;-ms-flex:1 1 auto!important;flex:1 1 auto!important;overflow-y:auto!important;mask-image:linear-gradient(to top,rgba(0,0,0,0) 0,#000 16px)!important;-webkit-mask-image:linear-gradient(to top,rgba(0,0,0,0) 0,#000 16px)!important;padding-bottom:32px!important}#iubenda-cs-banner .iubenda-banner-content-padded{padding-right:32px!important}#iubenda-cs-banner .iubenda-banner-content a{cursor:pointer!important;color:currentColor!important;opacity:.7!important;text-decoration:underline!important}#iubenda-cs-banner .iubenda-banner-content a:hover{opacity:1!important}#iubenda-cs-banner #iubenda-cs-title{font-weight:700!important;margin-bottom:16px!important}#iubenda-cs-banner .iubenda-cs-opt-group{margin:16px!important;z-index:1!important;display:-webkit-box!important;display:-ms-flexbox!important;display:flex!important;margin-top:0!important;-ms-flex-negative:0!important;flex-shrink:0!important}#iubenda-cs-banner .iubenda-cs-opt-group>div{display:-webkit-box!important;display:-ms-flexbox!important;display:flex!important}@media (min-width:640px){#iubenda-cs-banner .iubenda-cs-opt-group{-webkit-box-align:center!important;-ms-flex-align:center!important;align-items:center!important;-webkit-box-pack:justify!important;-ms-flex-pack:justify!important;justify-content:space-between!important}#iubenda-cs-banner .iubenda-cs-opt-group-custom{margin-right:auto!important;-ms-flex-item-align:start!important;align-self:start!important;-webkit-box-pack:start!important;-ms-flex-pack:start!important;justify-content:flex-start!important}#iubenda-cs-banner .iubenda-cs-opt-group-consent{margin-left:auto!important;-ms-flex-item-align:end!important;align-self:end!important;-webkit-box-pack:end!important;-ms-flex-pack:end!important;justify-content:flex-end!important}}@media (max-width:639px){#iubenda-cs-banner .iubenda-cs-opt-group{margin:12px!important;-webkit-box-orient:vertical!important;-webkit-box-direction:normal!important;-ms-flex-direction:column!important;flex-direction:column!important}#iubenda-cs-banner .iubenda-cs-opt-group-custom{-webkit-box-ordinal-group:3;-ms-flex-order:2;order:2}#iubenda-cs-banner .iubenda-cs-opt-group-consent{-webkit-box-ordinal-group:2;-ms-flex-order:1;order:1}}#iubenda-cs-banner .iubenda-cs-opt-group button{-webkit-appearance:none!important;-moz-appearance:none!important;appearance:none!important;padding:8px 32px!important;border-radius:64px!important;cursor:pointer!important;font-weight:700!important;font-size:100%!important;margin-top:4px!important;margin-bottom:4px!important;text-align:center!important}#iubenda-cs-banner .iubenda-cs-opt-group button:focus{opacity:.8!important}#iubenda-cs-banner .iubenda-cs-opt-group button:hover{opacity:.5!important}@media (min-width:640px){#iubenda-cs-banner .iubenda-cs-opt-group button:not(:last-of-type){margin-right:8px!important}}@media (max-width:639px){#iubenda-cs-banner .iubenda-cs-opt-group button{padding:8px 24px!important;width:100%!important;display:block;text-align:center!important;margin:6px 3px!important}}#iubenda-cs-banner.iubenda-cs-default .iubenda-cs-brand{margin:0 -8px 0!important}@media (max-width:991px){#iubenda-cs-banner.iubenda-cs-default .iubenda-cs-brand{margin:-8px -8px 0!important}}@media (min-width:992px){#iubenda-cs-banner.iubenda-cs-default .iubenda-cs-brand div{margin:0 auto!important;width:calc(992px - 32px)!important}}@media (max-width:991px){#iubenda-cs-banner.iubenda-cs-default .iubenda-cs-brand div{margin:0 8px!important}}#iubenda-cs-banner.iubenda-cs-default .iubenda-cs-container{width:100%!important}@media (min-width:992px){#iubenda-cs-banner.iubenda-cs-default .iubenda-cs-rationale{width:992px!important;margin:16px auto!important}}@media (max-width:991px){#iubenda-cs-banner.iubenda-cs-default .iubenda-cs-content{padding:8px!important}}#iubenda-cs-banner.iubenda-cs-default-floating .iubenda-cs-brand{margin:-8px -8px 0!important}#iubenda-cs-banner.iubenda-cs-default-floating .iubenda-cs-brand div{margin:8px!important}@media (min-width:992px){#iubenda-cs-banner.iubenda-cs-default-floating .iubenda-cs-container{width:992px!important}}@media (max-width:991px){#iubenda-cs-banner.iubenda-cs-default-floating.iubenda-cs-center.iubenda-cs-bottom .iubenda-cs-container,#iubenda-cs-banner.iubenda-cs-default-floating.iubenda-cs-center.iubenda-cs-top .iubenda-cs-container{width:100%!important}}@media (min-width:640px){#iubenda-cs-banner.iubenda-cs-default-floating.iubenda-cs-center:not(.iubenda-cs-top):not(.iubenda-cs-bottom) .iubenda-cs-container,#iubenda-cs-banner.iubenda-cs-default-floating:not(.iubenda-cs-bottom):not(.iubenda-cs-center) .iubenda-cs-container,#iubenda-cs-banner.iubenda-cs-default-floating:not(.iubenda-cs-top):not(.iubenda-cs-center) .iubenda-cs-container{width:480px!important}}#iubenda-cs-banner.iubenda-cs-default-floating.iubenda-cs-center:not(.iubenda-cs-top):not(.iubenda-cs-bottom) .iubenda-cs-opt-group,#iubenda-cs-banner.iubenda-cs-default-floating:not(.iubenda-cs-bottom):not(.iubenda-cs-center) .iubenda-cs-opt-group,#iubenda-cs-banner.iubenda-cs-default-floating:not(.iubenda-cs-top):not(.iubenda-cs-center) .iubenda-cs-opt-group{-webkit-box-orient:vertical!important;-webkit-box-direction:normal!important;-ms-flex-direction:column!important;flex-direction:column!important}#iubenda-cs-banner.iubenda-cs-default-floating.iubenda-cs-center:not(.iubenda-cs-top):not(.iubenda-cs-bottom) .iubenda-cs-opt-group>div,#iubenda-cs-banner.iubenda-cs-default-floating:not(.iubenda-cs-bottom):not(.iubenda-cs-center) .iubenda-cs-opt-group>div,#iubenda-cs-banner.iubenda-cs-default-floating:not(.iubenda-cs-top):not(.iubenda-cs-center) .iubenda-cs-opt-group>div{width:100%!important}#iubenda-cs-banner.iubenda-cs-default-floating.iubenda-cs-center:not(.iubenda-cs-top):not(.iubenda-cs-bottom) .iubenda-cs-opt-group button,#iubenda-cs-banner.iubenda-cs-default-floating:not(.iubenda-cs-bottom):not(.iubenda-cs-center) .iubenda-cs-opt-group button,#iubenda-cs-banner.iubenda-cs-default-floating:not(.iubenda-cs-top):not(.iubenda-cs-center) .iubenda-cs-opt-group button{display:block!important;width:100%!important;text-align:center!important}#iubenda-cs-banner.iubenda-cs-default-floating.iubenda-cs-center:not(.iubenda-cs-top):not(.iubenda-cs-bottom) .iubenda-cs-opt-group-custom,#iubenda-cs-banner.iubenda-cs-default-floating:not(.iubenda-cs-bottom):not(.iubenda-cs-center) .iubenda-cs-opt-group-custom,#iubenda-cs-banner.iubenda-cs-default-floating:not(.iubenda-cs-top):not(.iubenda-cs-center) .iubenda-cs-opt-group-custom{-webkit-box-ordinal-group:3;-ms-flex-order:2;order:2}#iubenda-cs-banner.iubenda-cs-default-floating.iubenda-cs-center:not(.iubenda-cs-top):not(.iubenda-cs-bottom) .iubenda-cs-opt-group-consent,#iubenda-cs-banner.iubenda-cs-default-floating:not(.iubenda-cs-bottom):not(.iubenda-cs-center) .iubenda-cs-opt-group-consent,#iubenda-cs-banner.iubenda-cs-default-floating:not(.iubenda-cs-top):not(.iubenda-cs-center) .iubenda-cs-opt-group-consent{-webkit-box-ordinal-group:2;-ms-flex-order:1;order:1}#iubenda-cs-banner.iubenda-cs-default-floating .iubenda-cs-content{-webkit-box-shadow:0 8px 48px rgba(0,0,0,.15)!important;box-shadow:0 8px 48px rgba(0,0,0,.15)!important;padding:8px!important}@media (min-width:992px){#iubenda-cs-banner.iubenda-cs-default-floating .iubenda-cs-content{border-radius:4px!important;margin:16px!important}}#iubenda-cs-banner.iubenda-cs-fix-height .iubenda-cs-container,#iubenda-cs-banner.iubenda-cs-fix-height .iubenda-cs-content,#iubenda-cs-banner.iubenda-cs-fix-height .iubenda-cs-rationale{height:100%!important}#iubenda-cs-banner.iubenda-cs-fix-height.iubenda-cs-default-floating .iubenda-cs-content{height:calc(100% - 32px)!important}#iubenda-cs-banner.iubenda-cs-fix-height .iubenda-cs-brand img{max-width:75%!important}#iubenda-cs-banner .iubenda-cs-content{background-color:#000!important;color:#fff!important}#iubenda-cs-banner .iubenda-cs-opt-group{color:#000!important}#iubenda-cs-banner .iubenda-cs-opt-group button{background-color:rgba(255,255,255,.1)!important;color:#fff!important}#iubenda-cs-banner .iubenda-cs-opt-group button.iubenda-cs-btn-primary{background-color:#0073ce!important;color:#fff!important}.iubenda-tp-btn:not([data-tp-nostyle]){font-size:100%!important;width:auto!important;-webkit-appearance:none!important;-moz-appearance:none!important;appearance:none!important;background:0 0!important;-webkit-box-sizing:border-box!important;box-sizing:border-box!important;-webkit-tap-highlight-color:transparent!important;-webkit-backface-visibility:hidden!important;backface-visibility:hidden!important;font-family:-apple-system,sans-serif!important;text-decoration:none!important;color:currentColor!important;background-attachment:scroll!important;background-color:transparent!important;background-image:none!important;background-position:0 0!important;background-repeat:repeat!important;border:0!important;border-color:#000!important;border-color:currentColor!important;border-radius:0!important;border-style:none!important;border-width:medium!important;bottom:auto!important;clear:none!important;clip:auto!important;counter-increment:none!important;counter-reset:none!important;cursor:auto!important;direction:inherit!important;float:none!important;font-style:inherit!important;font-variant:normal!important;font-weight:inherit!important;height:auto!important;left:auto!important;letter-spacing:normal!important;line-height:inherit!important;list-style-type:inherit!important;list-style-position:outside!important;list-style-image:none!important;margin:0!important;max-height:none!important;max-width:none!important;min-height:0!important;min-width:0!important;opacity:1;outline:0!important;overflow:visible!important;padding:0!important;position:static!important;quotes:"" ""!important;right:auto!important;table-layout:auto!important;text-align:left!important;text-indent:0!important;text-transform:none!important;top:auto!important;unicode-bidi:normal!important;vertical-align:baseline!important;visibility:inherit!important;white-space:normal!important;width:auto!important;word-spacing:normal!important;z-index:auto!important;background-origin:padding-box!important;background-origin:padding-box!important;background-clip:border-box!important;background-size:auto!important;-o-border-image:none!important;border-image:none!important;border-radius:0!important;border-radius:0!important;-webkit-box-shadow:none!important;box-shadow:none!important;-webkit-column-count:auto!important;-moz-column-count:auto!important;column-count:auto!important;-webkit-column-gap:normal!important;-moz-column-gap:normal!important;column-gap:normal!important;-webkit-column-rule:medium none #000!important;-moz-column-rule:medium none #000!important;column-rule:medium none #000!important;-webkit-column-span:none!important;-moz-column-span:none!important;column-span:none!important;-webkit-column-width:auto!important;-moz-column-width:auto!important;column-width:auto!important;-webkit-font-feature-settings:normal!important;font-feature-settings:normal!important;overflow-x:visible!important;overflow-y:visible!important;-webkit-hyphens:manual!important;-ms-hyphens:manual!important;hyphens:manual!important;-webkit-perspective:none!important;perspective:none!important;-webkit-perspective-origin:50% 50%!important;perspective-origin:50% 50%!important;text-shadow:none!important;-webkit-transition:all 0s ease 0s!important;-o-transition:all 0s ease 0s!important;transition:all 0s ease 0s!important;-webkit-transform:none!important;-ms-transform:none!important;transform:none!important;-webkit-transform-origin:50% 50%!important;-ms-transform-origin:50% 50%!important;transform-origin:50% 50%!important;-webkit-transform-style:flat!important;transform-style:flat!important;word-break:normal!important;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;appearance:none!important;line-height:34px!important;height:34px!important;min-width:34px!important;border-radius:4px!important;cursor:pointer!important;font-weight:700!important;font-size:14px!important;-webkit-box-shadow:0 0 0 1px rgba(0,0,0,.15)!important;box-shadow:0 0 0 1px rgba(0,0,0,.15)!important;color:rgba(0,0,0,.65)!important;background-color:#fff!important;display:inline-block!important;vertical-align:middle!important}.iubenda-tp-btn[data-tp-icon]{background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='32' height='32' viewBox='0 0 32 32'%3E%3Cpath fill='%231CC691' fill-rule='evenodd' d='M16 7a4 4 0 0 1 2.627 7.016L19.5 25h-7l.873-10.984A4 4 0 0 1 16 7z'/%3E%3C/svg%3E")!important;background-repeat:no-repeat!important;background-size:32px 32px!important;background-position:top .5px left 1px!important}.iubenda-tp-btn[data-tp-circle]{border-radius:32px!important}.iubenda-tp-btn[data-tp-label]:after{content:attr(data-tp-label)!important;padding:0 16px!important;white-space:nowrap!important}.iubenda-tp-btn[data-tp-label][data-tp-icon]:after{padding-left:calc(16px + 8px + 8px)!important}.iubenda-tp-btn[data-tp-float]{position:fixed!important;z-index:2147483647!important}.iubenda-tp-btn[data-tp-float]:not([data-tp-anchored]){margin:16px!important}.iubenda-tp-btn[data-tp-float][data-tp-anchored]{margin:0 16px!important;border-radius:6px!important}.iubenda-tp-btn[data-tp-float][data-tp-anchored]:not([data-tp-hover]):not([data-tp-label])[data-tp-float=center-left],.iubenda-tp-btn[data-tp-float][data-tp-anchored]:not([data-tp-hover]):not([data-tp-label])[data-tp-float=center-right],.iubenda-tp-btn[data-tp-float][data-tp-anchored][data-tp-hover][data-tp-float=center-left],.iubenda-tp-btn[data-tp-float][data-tp-anchored][data-tp-hover][data-tp-float=center-right]{margin:0!important;top:75%!important;-webkit-transform:translateY(-50%)!important;-ms-transform:translateY(-50%)!important;transform:translateY(-50%)!important}.iubenda-tp-btn[data-tp-float][data-tp-anchored]:not([data-tp-hover]):not([data-tp-label])[data-tp-float=center-left],.iubenda-tp-btn[data-tp-float][data-tp-anchored][data-tp-hover][data-tp-float=center-left]{left:0!important;border-top-left-radius:0!important;border-bottom-left-radius:0!important;border-left:0!important}.iubenda-tp-btn[data-tp-float][data-tp-anchored]:not([data-tp-hover]):not([data-tp-label])[data-tp-float=center-right],.iubenda-tp-btn[data-tp-float][data-tp-anchored][data-tp-hover][data-tp-float=center-right]{right:0!important;border-top-right-radius:0!important;border-bottom-right-radius:0!important;border-right:0!important}.iubenda-tp-btn[data-tp-float][data-tp-anchored]:not([data-tp-hover])[data-tp-label][data-tp-float=center-left],.iubenda-tp-btn[data-tp-float][data-tp-anchored]:not([data-tp-hover])[data-tp-label][data-tp-float=center-right]{margin:0!important;top:50%!important;border-bottom-left-radius:0!important;border-bottom-right-radius:0!important;border-bottom:0!important;-webkit-transform-origin:bottom!important;-ms-transform-origin:bottom!important;transform-origin:bottom!important}.iubenda-tp-btn[data-tp-float][data-tp-anchored]:not([data-tp-hover])[data-tp-label][data-tp-float=center-left]{left:0!important;-webkit-transform:translateY(-50%) rotate(90deg)!important;-ms-transform:translateY(-50%) rotate(90deg)!important;transform:translateY(-50%) rotate(90deg)!important;-webkit-transform-origin:left bottom!important;-ms-transform-origin:left bottom!important;transform-origin:left bottom!important}.iubenda-tp-btn[data-tp-float][data-tp-anchored]:not([data-tp-hover])[data-tp-label][data-tp-float=center-right]{right:0!important;-webkit-transform:translateY(-50%) rotate(-90deg)!important;-ms-transform:translateY(-50%) rotate(-90deg)!important;transform:translateY(-50%) rotate(-90deg)!important;-webkit-transform-origin:right bottom!important;-ms-transform-origin:right bottom!important;transform-origin:right bottom!important}.iubenda-tp-btn[data-tp-float][data-tp-float=bottom-left],.iubenda-tp-btn[data-tp-float][data-tp-float=bottom-right]{bottom:0!important}.iubenda-tp-btn[data-tp-float][data-tp-float=bottom-left][data-tp-anchored],.iubenda-tp-btn[data-tp-float][data-tp-float=bottom-right][data-tp-anchored]{border-bottom-left-radius:0!important;border-bottom-right-radius:0!important;border-bottom:0!important}.iubenda-tp-btn[data-tp-float][data-tp-float=top-left],.iubenda-tp-btn[data-tp-float][data-tp-float=top-right]{top:0!important}.iubenda-tp-btn[data-tp-float][data-tp-float=top-left][data-tp-anchored],.iubenda-tp-btn[data-tp-float][data-tp-float=top-right][data-tp-anchored]{border-top-left-radius:0!important;border-top-right-radius:0!important;border-top:0!important}.iubenda-tp-btn[data-tp-float][data-tp-float=bottom-left],.iubenda-tp-btn[data-tp-float][data-tp-float=top-left]{left:0!important}.iubenda-tp-btn[data-tp-float][data-tp-float=bottom-right],.iubenda-tp-btn[data-tp-float][data-tp-float=top-right]{right:0!important}.iubenda-tp-btn[data-tp-float][data-tp-hover][data-tp-label]:after{max-width:0!important;overflow:hidden!important;display:block!important;padding:0!important;opacity:0!important;-webkit-transition:max-width .6s ease,padding .6s ease,opacity .6s ease!important;-o-transition:max-width .6s ease,padding .6s ease,opacity .6s ease!important;transition:max-width .6s ease,padding .6s ease,opacity .6s ease!important}.iubenda-tp-btn[data-tp-float][data-tp-hover][data-tp-label]:hover:after{max-width:192px!important;padding-left:calc(16px + 8px + 8px)!important;padding-right:10px!important;opacity:1!important}
+
+</style>
+<link rel="stylesheet" href="https://www.lifegate.it/app/plugins/allow-webp-image/public/css/allow-webp-image-public.css?ver=1.0.1">
+<link rel="stylesheet" href="https://www.lifegate.it/app/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70">
+<link rel="stylesheet" href="https://www.lifegate.it/app/themes/lifegate-2020/dist/css/components/partials/forms.min.css?ver=1.95.3">
+
+<script type="text/javascript" class=" _iub_cs_skip" id="iubenda-head-inline-scripts-0">
+/* <![CDATA[ */
+
+ var lang_id = document.getElementsByTagName('html')[0].getAttribute('lang').split('-')[0],
+        site_id = 2077371; // site_id dal codice di integrazione di iubendaconsole.log("lang:" + lang_id);
+    switch (lang_id) {
+        case 'en':
+            var policy_id = 29441043; // policy_id dal codice di integrazione di iubenda (EN)
+            break;
+        case 'it':
+            var policy_id = 12095617; // policy_id dal codice di integrazione di iubenda (IT)
+            break;
+    }
+
+var _iub = _iub || [];
+_iub.csConfiguration = {"askConsentAtCookiePolicyUpdate":true,"consentOnContinuedBrowsing":false,"googleAdditionalConsentMode":true,"isTCFConsentGlobal":false,"newConsentAtVendorListUpdate":7,"whitelabel":false,"lang":lang_id,"siteId":site_id,"enableTcf":true,"cookiePolicyId":policy_id, "banner":{ "acceptButtonDisplay":true,"customizeButtonDisplay":true,"closeButtonDisplay":false,"position":"bottom","applyStyles":false }};
+/* ]]> */
+</script>
+<script type="text/javascript" class=" _iub_cs_skip" src="//cdn.iubenda.com/cs/tcf/stub-v2.js?ver=3.10.2" id="iubenda-head-scripts-0-js"></script>
+<script type="text/javascript" charset="UTF-8" async="" class=" _iub_cs_skip" src="//cdn.iubenda.com/cs/iubenda_cs.js?ver=3.10.2" id="iubenda-head-scripts-1-js"></script>
+	<style type="text/css"> .tippy-box[data-theme~="wprm"] { background-color: #333333; color: #FFFFFF; } .tippy-box[data-theme~="wprm"][data-placement^="top"] > .tippy-arrow::before { border-top-color: #333333; } .tippy-box[data-theme~="wprm"][data-placement^="bottom"] > .tippy-arrow::before { border-bottom-color: #333333; } .tippy-box[data-theme~="wprm"][data-placement^="left"] > .tippy-arrow::before { border-left-color: #333333; } .tippy-box[data-theme~="wprm"][data-placement^="right"] > .tippy-arrow::before { border-right-color: #333333; } .tippy-box[data-theme~="wprm"] a { color: #FFFFFF; } .wprm-comment-rating svg { width: 18px !important; height: 18px !important; } img.wprm-comment-rating { width: 90px !important; height: 18px !important; } body { --comment-rating-star-color: #343434; } body { --wprm-popup-font-size: 16px; } body { --wprm-popup-background: #ffffff; } body { --wprm-popup-title: #000000; } body { --wprm-popup-content: #444444; } body { --wprm-popup-button-background: #444444; } body { --wprm-popup-button-text: #ffffff; }.wprm-recipe-template-lifegate-no-head .wprm-recipe-name, .wprm-recipe-template-lifegate-no-head .wprm-recipe-header{
+color:#000 !important;
+}</style>
+<style type="text/css">.wprm-glossary-term {color: #5A822B;text-decoration: underline;cursor: help;}</style>	<script type="application/ld+json">{"@context": "https://schema.org", "@type": "NewsMediaOrganization", "url": "https://www.lifegate.it", "logo": "https://cdn.lifegate.it/0nPiIdREB8IP_raN9lnx0a5yRYI=/180x180/smart/https://www.lifegate.it/app/uploads/2020/09/logo-lg.png"}	</script>
+	
+<!-- Schema & Structured Data For WP v1.30 - -->
+<script type="application/ld+json" class="saswp-schema-markup-output">
+[{"@context":"https://schema.org/","@type":"ContactPage","mainEntityOfPage":{"@type":"WebPage","@id":""},"url":"","headline":"","description":"","image":{"@type":"ImageObject","@id":"#primaryimage","url":"https://www.lifegate.it/app/uploads/logolifegate.png","width":"325","height":"90"},"publisher":{"@type":"Organization","name":"LifeGate","url":"https://www.lifegate.it"}},
+
+{"@context":"https://schema.org/","@type":"AboutPage","mainEntityOfPage":{"@type":"WebPage","@id":""},"url":"","headline":"","description":"","image":{"@type":"ImageObject","@id":"#primaryimage","url":"https://www.lifegate.it/app/uploads/logolifegate.png","width":"325","height":"90"},"publisher":{"@type":"Organization","name":"LifeGate","url":"https://www.lifegate.it"}},
+
+{"@context":"https://schema.org/","@graph":[{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.lifegate.it#Menu Hamburger","name":"News","url":"https://www.lifegate.it/news"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.lifegate.it#Menu Hamburger","name":"Radio","url":"https://www.lifegate.it/radio"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.lifegate.it#Menu Hamburger","name":"On Air","url":"https://www.lifegate.it/lifegate-radio"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.lifegate.it#Menu Hamburger","name":"Come ascoltare","url":"https://www.lifegate.it/ascolta"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.lifegate.it#Menu Hamburger","name":"Richiesta titoli","url":"https://www.lifegate.it/richiesta-titoli"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.lifegate.it#Menu Hamburger","name":"Frequenze","url":"https://www.lifegate.it/radio/frequenze"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.lifegate.it#Menu Hamburger","name":"Podcast","url":"https://www.lifegate.it/podcast"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.lifegate.it#Menu Hamburger","name":"News dal pianeta Terra","url":"https://www.lifegate.it/podcast/news-dal-pianeta-terra"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.lifegate.it#Menu Hamburger","name":"Borena","url":"https://www.lifegate.it/podcast/borena"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.lifegate.it#Menu Hamburger","name":"Re:tour","url":"https://www.lifegate.it/podcast/retour"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.lifegate.it#Menu Hamburger","name":"Venticinque. 1997-2022","url":"https://www.lifegate.it/podcast/venticinque-1997-2022-gli-anni-che-hanno-rivoluzionato-la-musica-italiana"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.lifegate.it#Menu Hamburger","name":"Bis!","url":"https://www.lifegate.it/podcast/bis-e-il-podcast-che-racconta-il-ritorno-di-colapesce-e-dimartino-al-festival-di-sanremo"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.lifegate.it#Menu Hamburger","name":"Esseri Finiti","url":"https://www.lifegate.it/podcast/esseri-finiti"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.lifegate.it#Menu Hamburger","name":"Vado a trovare mio padre","url":"https://www.lifegate.it/podcast/vado-a-trovare-mio-padre-vita-sogno-viaggio"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.lifegate.it#Menu Hamburger","name":"Big! Colapesce e Dimartino","url":"https://www.lifegate.it/podcast/big-colapesce-e-dimartino-a-sanremo-storia-leggerissima-di-qualcosa-che-non-rifaremo"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.lifegate.it#Menu Hamburger","name":"Newsletter","url":"https://www.lifegate.it/newsletters-lifegate"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.lifegate.it#Menu Hamburger","name":"Approfondimenti","url":"https://www.lifegate.it/longform"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.lifegate.it#Menu Hamburger","name":"Ambiente","url":"https://www.lifegate.it/ambiente"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.lifegate.it#Menu Hamburger","name":"Qualit&#224; dell'aria","url":"https://www.lifegate.it/qualita-aria"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.lifegate.it#Menu Hamburger","name":"Cambiamenti climatici","url":"https://www.lifegate.it/ambiente/cambiamenti-climatici"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.lifegate.it#Menu Hamburger","name":"Biodiversit&#224;","url":"https://www.lifegate.it/ambiente/biodiversita"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.lifegate.it#Menu Hamburger","name":"Animali","url":"https://www.lifegate.it/animali-domestici"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.lifegate.it#Menu Hamburger","name":"Energia","url":"https://www.lifegate.it/energia"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.lifegate.it#Menu Hamburger","name":"Alimentazione naturale","url":"https://www.lifegate.it/alimentazione"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.lifegate.it#Menu Hamburger","name":"Le nostre ricette","url":"https://www.lifegate.it/alimentazione/ricette"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.lifegate.it#Menu Hamburger","name":"Mobilit&#224;","url":"https://www.lifegate.it/mobilita"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.lifegate.it#Menu Hamburger","name":"Auto","url":"https://www.lifegate.it/mobilita/auto"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.lifegate.it#Menu Hamburger","name":"Bici","url":"https://www.lifegate.it/mobilita/bici"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.lifegate.it#Menu Hamburger","name":"Turismo","url":"https://www.lifegate.it/turismo"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.lifegate.it#Menu Hamburger","name":"Economia","url":"https://www.lifegate.it/economia"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.lifegate.it#Menu Hamburger","name":"Arte e cultura","url":"https://www.lifegate.it/arte-e-cultura"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.lifegate.it#Menu Hamburger","name":"Musica","url":"https://www.lifegate.it/arte-e-cultura/musica"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.lifegate.it#Menu Hamburger","name":"Libri","url":"https://www.lifegate.it/arte-e-cultura/libri"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.lifegate.it#Menu Hamburger","name":"Cinema","url":"https://www.lifegate.it/arte-e-cultura/cinema"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.lifegate.it#Menu Hamburger","name":"Mostre","url":"https://www.lifegate.it/arte-e-cultura/mostre"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.lifegate.it#Menu Hamburger","name":"Salute","url":"https://www.lifegate.it/salute"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.lifegate.it#Menu Hamburger","name":"Bambini","url":"https://www.lifegate.it/salute/bambini"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.lifegate.it#Menu Hamburger","name":"Benessere","url":"https://www.lifegate.it/salute/benessere"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.lifegate.it#Menu Hamburger","name":"Tecnologia e scienza","url":"https://www.lifegate.it/tecnologia-e-scienza"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.lifegate.it#Menu Hamburger","name":"Societ&#224;","url":"https://www.lifegate.it/societa"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.lifegate.it#Menu Hamburger","name":"Italia","url":"https://www.lifegate.it/societa/italia"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.lifegate.it#Menu Hamburger","name":"Esteri","url":"https://www.lifegate.it/societa/esteri"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.lifegate.it#Menu Hamburger","name":"Lifestyle","url":"https://www.lifegate.it/lifestyle"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.lifegate.it#Menu Hamburger","name":"Architettura e design","url":"https://www.lifegate.it/lifestyle/architettura-e-design"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.lifegate.it#Menu Hamburger","name":"Moda","url":"https://www.lifegate.it/lifestyle/moda"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.lifegate.it#Menu Hamburger","name":"Eventi","url":"https://www.lifegate.it/evento"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.lifegate.it#Menu Hamburger","name":"Video","url":"https://www.lifegate.it/video"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.lifegate.it#Menu Hamburger","name":"Iniziative","url":"https://www.lifegate.it/iniziativa"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.lifegate.it#Menu Hamburger","name":"Water Defenders Alliance","url":"https://www.lifegate.it/iniziativa/plasticless"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.lifegate.it#Menu Hamburger","name":"Climate Action","url":"https://www.lifegate.it/iniziativa/climate-action"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.lifegate.it#Menu Hamburger","name":"Bee my Future","url":"https://www.lifegate.it/iniziativa/bee-future"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.lifegate.it#Menu Hamburger","name":"LifeGate Way","url":"https://www.lifegate.it/iniziativa/lifegate-way"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.lifegate.it#Menu Hamburger","name":"Stay for the Planet","url":"https://www.lifegate.it/iniziativa/stay-for-the-planet"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.lifegate.it#Menu Hamburger","name":"Trees","url":"https://www.lifegate.it/iniziativa/lifegate-trees"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.lifegate.it#Menu Hamburger","name":"Impact","url":"https://impact.lifegate.it/"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.lifegate.it#Menu Hamburger","name":"Consulenza","url":"https://impact.lifegate.it/consulenza/"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.lifegate.it#Menu Hamburger","name":"Comunicazione","url":"https://impact.lifegate.it/comunicazione/"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.lifegate.it#Menu Hamburger","name":"Content","url":"https://impact.lifegate.it/content/"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.lifegate.it#Menu Hamburger","name":"Media","url":"https://impact.lifegate.it/media/"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.lifegate.it#Menu Hamburger","name":"Progetti Ambientali","url":"https://impact.lifegate.it/progetti/"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.lifegate.it#Menu Hamburger","name":"Education","url":"https://impact.lifegate.it/edu/"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.lifegate.it#Menu Hamburger","name":"Chi siamo","url":"https://www.lifegate.it/chi-siamo"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.lifegate.it#Menu Hamburger","name":"Company","url":"https://company.lifegate.it/"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.lifegate.it#Menu Hamburger","name":"La storia","url":"https://www.lifegate.it/la-storia"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.lifegate.it#Menu Hamburger","name":"Mail","url":"https://mail.lifegate.it"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.lifegate.it#Menu Hamburger","name":"Informazioni societarie","url":"https://company.lifegate.it/stakeholder/"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.lifegate.it#Menu Hamburger","name":"Privacy","url":"https://www.lifegate.it/privacy"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.lifegate.it#Menu Hamburger","name":"Cookie Policy","url":"https://www.lifegate.it/cookie-policy"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.lifegate.it#Menu Hamburger","name":"Termini e condizioni","url":"https://www.lifegate.it/termini-e-condizioni"}]}]
+</script>
+
+<style>div#wpadminbar{top:auto;bottom:0;position:fixed}.ab-sub-wrapper{bottom:32px}html[lang]{margin-top:0!important;margin-bottom:32px!important}@media screen and (max-width:782px){.ab-sub-wrapper{bottom:46px}html[lang]{margin-bottom:46px!important}}</style>
+<style>
+	.editorial blockquote cite {
+		font-size: 80%;
+	}
+
+	
+	.lg-mycap-text {
+		color: #5f5e5e;
+		display: block;
+		font-family: CrimsonPro, serif;
+		font-size: 14px !important;
+		line-height: 18px !important;
+		padding: 6px;
+		text-align: right;
+	}
+
+	.editorial p:last-of-type {
+		margin-bottom: 12px;
+	}
+
+	
+	.editorial .embed-responsive {
+		margin-bottom: 12px;
+	}
+
+	.fullwidth-gallery .featured-image--fullwidth-image .swiper-container .swiper-wrapper .swiper-slide img {
+		border-radius: 0 !important;
+	}
+
+	@media  all and (max-width: 736px) {
+		
+		.hero-speciale__partner-container .cardpartner {
+			margin-bottom: 0;
+		}
+
+		
+		article.card-evento-big .card__main-container .card__footer {
+			padding: 4px 0 20px 24px !important;
+		}
+	}
+</style>
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js" type="text/plain" class=" _iub_cs_activate" data-iub-purposes="5"></script>
+<script>
+window.googletag = window.googletag || {cmd: []};
+googletag.cmd.push(function() {
+googletag.defineSlot('/228439431/skin', [1, 1],'div-gpt-ad-1643303840623-0').addService(googletag.pubads());
+googletag.defineSlot('/228439431/Medium_1', [300, 250],'div-gpt-ad-1643476494092-0').addService(googletag.pubads());
+googletag.defineSlot('/228439431/Medium_2', [300, 250],'div-gpt-ad-1643476541204-0').addService(googletag.pubads());
+googletag.defineSlot('/228439431/lifegate.it/masthead-display', [[728, 90], [320,100]], 'div-gpt-ad-1643122318119-0').addService(googletag.pubads());
+googletag.defineSlot('/228439431/Staging_Article_Top', [300, 250],'div-gpt-ad-1644590156846-0').addService(googletag.pubads());
+googletag.defineSlot('/228439431/Staging_Article_Middle', [300, 250],'div-gpt-ad-1644222756844-0').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.enableServices();
+});
+</script>
+
+<style>@media screen and (min-width: 800px){.only-mobile{display:none;}}</style>
+<script>dataLayer = [{"siteName":"LifeGate","visitorLoginState":"logged-out","refreshRate":86400000,"themeVer":"1.95.3","wpVer":"6.4.4","atatusId":""}];</script><!-- @formatter:off --><!-- Google Tag Manager main --><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-PGFDJPZ');</script><!-- End Google Tag Manager --><!-- @formatter:on -->
+<!-- Facebook Pixel Code -->
+<script type="text/plain" class="_iub_cs_activate _iub_cs_activate-inline" data-iub-purposes="3">
+	!function(f,b,e,v,n,t,s)
+	{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+			n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+		if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+		n.queue=[];t=b.createElement(e);t.async=!0;
+		t.src=v;s=b.getElementsByTagName(e)[0];
+		s.parentNode.insertBefore(t,s)}(window, document,'script',
+			'https://connect.facebook.net/en_US/fbevents.js');
+	fbq('init', '1871994926361253');
+	fbq('track', 'PageView');
+</script>
+<!-- End Facebook Pixel Code -->
+
+<!-- linkedin -->
+<script type="text/javascript"> _linkedin_partner_id = "3694308"; window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || []; window._linkedin_data_partner_ids.push(_linkedin_partner_id); </script><script type="text/javascript"> (function(l) { if (!l){window.lintrk = function(a,b){window.lintrk.q.push([a,b])}; window.lintrk.q=[]} var s = document.getElementsByTagName("script")[0]; var b = document.createElement("script"); b.type = "text/javascript";b.async = true; b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js"; s.parentNode.insertBefore(b, s);})(window.lintrk); </script> <noscript> <img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=3694308&amp;fmt=gif"> </noscript>
+<!-- End linkedin -->
+	</head>
+<body class="sticky-parent">
+
+
+<!-- Facebook Pixel Code -->
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1871994926361253&amp;ev=PageView&amp;noscript=1"></noscript>
+<!-- End Facebook Pixel Code -->
+
+<!-- base.twig -->
+<div class="base sticky-kit chosen-js main-lifegate-js">
+	<!-- drawer-menu.twig partial -->
+<div class="drawer-menu">
+	<link rel="stylesheet" href="https://www.lifegate.it/app/themes/lifegate-2020/dist/css/components/partials/drawer-menu.min.css" media="print" onload="this.media='all'">	<div class="drawer-menu__menu">
+		<header>
+			<div class="header__top">
+								<div class="btn btn--close" role="button" aria-label="Chiudi"></div>
+			</div>
+
+			<div class="header__search header__search--drawer">
+				<form method="get" action="https://www.lifegate.it/">
+					<input id="search-checkbox-drawer-search" type="checkbox" hidden>
+					<label for="search-checkbox-drawer-search" role="button" class="header-btn header-btn--search" aria-label="cerca"></label>
+					<div class="search__field">
+						<input type="text" name="s" value="" autocomplete="off" placeholder="Cerca">
+						<button type="submit" class="search__field__submit cta cta--icon cta--enter" aria-label="cerca"></button>
+					</div>
+				</form>
+			</div>
+		</header>
+		<main>
+							<!-- start_el 0 --><div class="drawer-menu__block">
+<a href="https://www.lifegate.it/news" class="drawer-menu__item ">News</a>
+<!-- end_el 0 -->
+</div>
+<!-- start_el 0 --><div class="drawer-menu__block">
+<a href="https://www.lifegate.it/radio" class="drawer-menu__item ">Radio</a>
+<!-- start_lvl 0 --><div class="flex"><div class="drawer-menu__block__submenu"><ul class="container-cycle-col-2">
+<!-- start_el 1 --><li>
+<a href="https://www.lifegate.it/lifegate-radio" class=" ">On Air</a>
+<!-- end_el 1 -->
+</li>
+<!-- start_el 1 --><li>
+<a href="https://www.lifegate.it/ascolta" class=" ">Come ascoltare</a>
+<!-- end_el 1 -->
+</li>
+<!-- start_el 1 --><li>
+<a href="https://www.lifegate.it/richiesta-titoli" class=" ">Richiesta titoli</a>
+<!-- end_el 1 -->
+</li>
+<!-- start_el 1 --><li>
+<a href="https://www.lifegate.it/radio/frequenze" class=" ">Frequenze</a>
+<!-- end_el 1 -->
+</li>
+<!-- end_lvl 0 -->
+</ul></div></div>
+<!-- end_el 0 -->
+</div>
+<!-- start_el 0 --><div class="drawer-menu__block">
+<a href="https://www.lifegate.it/podcast" class="drawer-menu__item ">Podcast</a>
+<!-- start_lvl 0 --><div class="flex"><div class="drawer-menu__block__submenu"><ul class="container-cycle-col-2">
+<!-- start_el 1 --><li>
+<a href="https://www.lifegate.it/podcast/news-dal-pianeta-terra" class=" ">News dal pianeta Terra</a>
+<!-- end_el 1 -->
+</li>
+<!-- start_el 1 --><li>
+<a href="https://www.lifegate.it/podcast/borena" class=" ">Borena</a>
+<!-- end_el 1 -->
+</li>
+<!-- start_el 1 --><li>
+<a href="https://www.lifegate.it/podcast/retour" class=" ">Re:tour</a>
+<!-- end_el 1 -->
+</li>
+<!-- start_el 1 --><li>
+<a href="https://www.lifegate.it/podcast/venticinque-1997-2022-gli-anni-che-hanno-rivoluzionato-la-musica-italiana" class=" ">Venticinque. 1997-2022</a>
+<!-- end_el 1 -->
+</li>
+<!-- start_el 1 --><li>
+<a href="https://www.lifegate.it/podcast/bis-e-il-podcast-che-racconta-il-ritorno-di-colapesce-e-dimartino-al-festival-di-sanremo" class=" ">Bis!</a>
+<!-- end_el 1 -->
+</li>
+<!-- start_el 1 --><li>
+<a href="https://www.lifegate.it/podcast/esseri-finiti" class=" ">Esseri Finiti</a>
+<!-- end_el 1 -->
+</li>
+<!-- start_el 1 --><li>
+<a href="https://www.lifegate.it/podcast/vado-a-trovare-mio-padre-vita-sogno-viaggio" class=" ">Vado a trovare mio padre</a>
+<!-- end_el 1 -->
+</li>
+<!-- start_el 1 --><li>
+<a href="https://www.lifegate.it/podcast/big-colapesce-e-dimartino-a-sanremo-storia-leggerissima-di-qualcosa-che-non-rifaremo" class=" ">Big! Colapesce e Dimartino</a>
+<!-- end_el 1 -->
+</li>
+<!-- end_lvl 0 -->
+</ul></div></div>
+<!-- end_el 0 -->
+</div>
+<!-- start_el 0 --><div class="drawer-menu__block">
+<a href="https://www.lifegate.it/newsletters-lifegate" class="drawer-menu__item ">Newsletter</a>
+<!-- end_el 0 -->
+</div>
+<!-- start_el 0 --><div class="drawer-menu__block">
+<a title="Approfondimenti" href="https://www.lifegate.it/longform" class="drawer-menu__item ">Approfondimenti</a>
+<!-- end_el 0 -->
+</div>
+<!-- start_el 0 --><div class="drawer-menu__block">
+<a href="https://www.lifegate.it/ambiente" class="drawer-menu__item ">Ambiente</a>
+<!-- start_lvl 0 --><div class="flex"><div class="drawer-menu__block__submenu"><ul class="container-cycle-col-2">
+<!-- start_el 1 --><li>
+<a href="https://www.lifegate.it/qualita-aria" class=" ">Qualit&agrave; dell&rsquo;aria</a>
+<!-- end_el 1 -->
+</li>
+<!-- start_el 1 --><li>
+<a href="https://www.lifegate.it/ambiente/cambiamenti-climatici" class=" ">Cambiamenti climatici</a>
+<!-- end_el 1 -->
+</li>
+<!-- start_el 1 --><li>
+<a href="https://www.lifegate.it/ambiente/biodiversita" class=" ">Biodiversit&agrave;</a>
+<!-- end_el 1 -->
+</li>
+<!-- end_lvl 0 -->
+</ul></div></div>
+<!-- end_el 0 -->
+</div>
+<!-- start_el 0 --><div class="drawer-menu__block">
+<a href="https://www.lifegate.it/animali-domestici" class="drawer-menu__item ">Animali</a>
+<!-- end_el 0 -->
+</div>
+<!-- start_el 0 --><div class="drawer-menu__block">
+<a href="https://www.lifegate.it/energia" class="drawer-menu__item ">Energia</a>
+<!-- end_el 0 -->
+</div>
+<!-- start_el 0 --><div class="drawer-menu__block">
+<a href="https://www.lifegate.it/alimentazione" class="drawer-menu__item ">Alimentazione naturale</a>
+<!-- start_lvl 0 --><div class="flex"><div class="drawer-menu__block__submenu"><ul class="container-cycle-col-2">
+<!-- start_el 1 --><li>
+<a href="https://www.lifegate.it/alimentazione/ricette" class=" ">Le nostre ricette</a>
+<!-- end_el 1 -->
+</li>
+<!-- end_lvl 0 -->
+</ul></div></div>
+<!-- end_el 0 -->
+</div>
+<!-- start_el 0 --><div class="drawer-menu__block">
+<a href="https://www.lifegate.it/mobilita" class="drawer-menu__item ">Mobilit&agrave;</a>
+<!-- start_lvl 0 --><div class="flex"><div class="drawer-menu__block__submenu"><ul class="container-cycle-col-2">
+<!-- start_el 1 --><li>
+<a href="https://www.lifegate.it/mobilita/auto" class=" ">Auto</a>
+<!-- end_el 1 -->
+</li>
+<!-- start_el 1 --><li>
+<a href="https://www.lifegate.it/mobilita/bici" class=" ">Bici</a>
+<!-- end_el 1 -->
+</li>
+<!-- end_lvl 0 -->
+</ul></div></div>
+<!-- end_el 0 -->
+</div>
+<!-- start_el 0 --><div class="drawer-menu__block">
+<a href="https://www.lifegate.it/turismo" class="drawer-menu__item ">Turismo</a>
+<!-- end_el 0 -->
+</div>
+<!-- start_el 0 --><div class="drawer-menu__block">
+<a href="https://www.lifegate.it/economia" class="drawer-menu__item ">Economia</a>
+<!-- end_el 0 -->
+</div>
+<!-- start_el 0 --><div class="drawer-menu__block">
+<a href="https://www.lifegate.it/arte-e-cultura" class="drawer-menu__item ">Arte e cultura</a>
+<!-- start_lvl 0 --><div class="flex"><div class="drawer-menu__block__submenu"><ul class="container-cycle-col-2">
+<!-- start_el 1 --><li>
+<a href="https://www.lifegate.it/arte-e-cultura/musica" class=" ">Musica</a>
+<!-- end_el 1 -->
+</li>
+<!-- start_el 1 --><li>
+<a href="https://www.lifegate.it/arte-e-cultura/libri" class=" ">Libri</a>
+<!-- end_el 1 -->
+</li>
+<!-- start_el 1 --><li>
+<a href="https://www.lifegate.it/arte-e-cultura/cinema" class=" ">Cinema</a>
+<!-- end_el 1 -->
+</li>
+<!-- start_el 1 --><li>
+<a href="https://www.lifegate.it/arte-e-cultura/mostre" class=" ">Mostre</a>
+<!-- end_el 1 -->
+</li>
+<!-- end_lvl 0 -->
+</ul></div></div>
+<!-- end_el 0 -->
+</div>
+<!-- start_el 0 --><div class="drawer-menu__block">
+<a href="https://www.lifegate.it/salute" class="drawer-menu__item ">Salute</a>
+<!-- start_lvl 0 --><div class="flex"><div class="drawer-menu__block__submenu"><ul class="container-cycle-col-2">
+<!-- start_el 1 --><li>
+<a href="https://www.lifegate.it/salute/bambini" class=" ">Bambini</a>
+<!-- end_el 1 -->
+</li>
+<!-- start_el 1 --><li>
+<a href="https://www.lifegate.it/salute/benessere" class=" ">Benessere</a>
+<!-- end_el 1 -->
+</li>
+<!-- end_lvl 0 -->
+</ul></div></div>
+<!-- end_el 0 -->
+</div>
+<!-- start_el 0 --><div class="drawer-menu__block">
+<a href="https://www.lifegate.it/tecnologia-e-scienza" class="drawer-menu__item ">Tecnologia e scienza</a>
+<!-- end_el 0 -->
+</div>
+<!-- start_el 0 --><div class="drawer-menu__block">
+<a href="https://www.lifegate.it/societa" class="drawer-menu__item ">Societ&agrave;</a>
+<!-- start_lvl 0 --><div class="flex"><div class="drawer-menu__block__submenu"><ul class="container-cycle-col-2">
+<!-- start_el 1 --><li>
+<a href="https://www.lifegate.it/societa/italia" class=" ">Italia</a>
+<!-- end_el 1 -->
+</li>
+<!-- start_el 1 --><li>
+<a href="https://www.lifegate.it/societa/esteri" class=" ">Esteri</a>
+<!-- end_el 1 -->
+</li>
+<!-- end_lvl 0 -->
+</ul></div></div>
+<!-- end_el 0 -->
+</div>
+<!-- start_el 0 --><div class="drawer-menu__block">
+<a href="https://www.lifegate.it/lifestyle" class="drawer-menu__item ">Lifestyle</a>
+<!-- start_lvl 0 --><div class="flex"><div class="drawer-menu__block__submenu"><ul class="container-cycle-col-2">
+<!-- start_el 1 --><li>
+<a href="https://www.lifegate.it/lifestyle/architettura-e-design" class=" ">Architettura e design</a>
+<!-- end_el 1 -->
+</li>
+<!-- start_el 1 --><li>
+<a href="https://www.lifegate.it/lifestyle/moda" class=" ">Moda</a>
+<!-- end_el 1 -->
+</li>
+<!-- end_lvl 0 -->
+</ul></div></div>
+<!-- end_el 0 -->
+</div>
+<!-- start_el 0 --><div class="drawer-menu__block">
+<a href="https://www.lifegate.it/evento" class="drawer-menu__item ">Eventi</a>
+<!-- end_el 0 -->
+</div>
+<!-- start_el 0 --><div class="drawer-menu__block">
+<a href="https://www.lifegate.it/video" class="drawer-menu__item ">Video</a>
+<!-- end_el 0 -->
+</div>
+<!-- start_el 0 --><div class="drawer-menu__block">
+<a href="https://www.lifegate.it/iniziativa" class="drawer-menu__item ">Iniziative</a>
+<!-- start_lvl 0 --><div class="flex"><div class="drawer-menu__block__submenu"><ul class="container-cycle-col-2">
+<!-- start_el 1 --><li>
+<a href="https://www.lifegate.it/iniziativa/plasticless" class=" ">Water Defenders Alliance</a>
+<!-- end_el 1 -->
+</li>
+<!-- start_el 1 --><li>
+<a href="https://www.lifegate.it/iniziativa/climate-action" class=" ">Climate Action</a>
+<!-- end_el 1 -->
+</li>
+<!-- start_el 1 --><li>
+<a href="https://www.lifegate.it/iniziativa/bee-future" class=" ">Bee my Future</a>
+<!-- end_el 1 -->
+</li>
+<!-- start_el 1 --><li>
+<a href="https://www.lifegate.it/iniziativa/lifegate-way" class=" ">LifeGate Way</a>
+<!-- end_el 1 -->
+</li>
+<!-- start_el 1 --><li>
+<a href="https://www.lifegate.it/iniziativa/stay-for-the-planet" class=" ">Stay for the Planet</a>
+<!-- end_el 1 -->
+</li>
+<!-- start_el 1 --><li>
+<a href="https://www.lifegate.it/iniziativa/lifegate-trees" class=" ">Trees</a>
+<!-- end_el 1 -->
+</li>
+<!-- end_lvl 0 -->
+</ul></div></div>
+<!-- end_el 0 -->
+</div>
+<!-- start_el 0 --><div class="drawer-menu__block">
+<a target="_blank" href="https://impact.lifegate.it/" class="drawer-menu__item drawer-menu__item--external ">Impact</a>
+<!-- start_lvl 0 --><div class="flex"><div class="drawer-menu__block__submenu"><ul class="container-cycle-col-2">
+<!-- start_el 1 --><li>
+<a target="_blank" href="https://impact.lifegate.it/consulenza/" class="drawer-menu__item--external ">Consulenza</a>
+<!-- end_el 1 -->
+</li>
+<!-- start_el 1 --><li>
+<a target="_blank" href="https://impact.lifegate.it/comunicazione/" class="drawer-menu__item--external ">Comunicazione</a>
+<!-- end_el 1 -->
+</li>
+<!-- start_el 1 --><li>
+<a href="https://impact.lifegate.it/content/" class=" ">Content</a>
+<!-- end_el 1 -->
+</li>
+<!-- start_el 1 --><li>
+<a target="_blank" href="https://impact.lifegate.it/media/" class="drawer-menu__item--external ">Media</a>
+<!-- end_el 1 -->
+</li>
+<!-- start_el 1 --><li>
+<a href="https://impact.lifegate.it/progetti/" class=" ">Progetti Ambientali</a>
+<!-- end_el 1 -->
+</li>
+<!-- start_el 1 --><li>
+<a target="_blank" href="https://impact.lifegate.it/edu/" class="drawer-menu__item--external ">Education</a>
+<!-- end_el 1 -->
+</li>
+<!-- end_lvl 0 -->
+</ul></div></div>
+<!-- end_el 0 -->
+</div>
+<!-- start_el 0 --><div class="drawer-menu__block">
+<a href="https://www.lifegate.it/chi-siamo" class="drawer-menu__item ">Chi siamo</a>
+<!-- start_lvl 0 --><div class="flex"><div class="drawer-menu__block__submenu"><ul class="container-cycle-col-2">
+<!-- start_el 1 --><li>
+<a href="https://company.lifegate.it/" class=" ">Company</a>
+<!-- end_el 1 -->
+</li>
+<!-- start_el 1 --><li>
+<a href="https://www.lifegate.it/la-storia" class=" ">La storia</a>
+<!-- end_el 1 -->
+</li>
+<!-- start_el 1 --><li>
+<a href="https://mail.lifegate.it" class=" ">Mail</a>
+<!-- end_el 1 -->
+</li>
+<!-- start_el 1 --><li>
+<a href="https://company.lifegate.it/stakeholder/" class=" ">Informazioni societarie</a>
+<!-- end_el 1 -->
+</li>
+<!-- start_el 1 --><li>
+<a href="https://www.lifegate.it/privacy" class=" ">Privacy</a>
+<!-- end_el 1 -->
+</li>
+<!-- start_el 1 --><li>
+<a href="https://www.lifegate.it/cookie-policy" class=" ">Cookie Policy</a>
+<!-- end_el 1 -->
+</li>
+<!-- start_el 1 --><li>
+<a href="https://www.lifegate.it/termini-e-condizioni" class=" ">Termini e condizioni</a>
+<!-- end_el 1 -->
+</li>
+<!-- end_lvl 0 -->
+</ul></div></div>
+<!-- end_el 0 -->
+</div>
+
+						<div class="drawer-menu__block">
+			</div>
+		</main>
+		<div class="drawer-menu__footer">
+			<div class="partial-social">
+				<ul>
+					<li class="social social--fb">
+						<a href="https://www.facebook.com/lifegate/" aria-label="facebook" target="_blank" rel="nofollow"></a>
+</li>
+					<li class="social social--tw">
+						<a href="https://twitter.com/lifegate" aria-label="twitter" target="_blank" rel="nofollow"></a>
+</li>
+					<li class="social social--pn">
+						<a href="https://www.pinterest.it/lifegate/" aria-label="pinterest" target="_blank" rel="nofollow"></a>
+</li>
+					<li class="social social--sp">
+						<a href="https://open.spotify.com/user/lifegate" aria-label="spotify" target="_blank" rel="nofollow"></a>
+</li>
+					<li class="social social--yt">
+						<a href="https://www.youtube.com/channel/UCw6LzVxICKPuUeDrF8JDn0Q" target="_blank" aria-label="youtube" rel="nofollow"></a>
+</li>
+					<li class="social social--in">
+						<a href="https://www.instagram.com/lifegate/" aria-label="instagram" target="_blank" rel="nofollow"></a>
+</li>
+					<li class="social social--ln">
+						<a href="https://www.linkedin.com/company/lifegate/" aria-label="linkedin" target="_blank" rel="nofollow"></a>
+</li>
+					<li class="social social--tg">
+						<a href="https://t.me/lifegate" aria-label="telegram" target="_blank" rel="nofollow"></a>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+	<div class="overlay overlay--drawer-menu"></div>
+</div>
+	<!--header.twig section -->
+
+<header class="header"><!-- header--dark -->
+	<div class="header__block">
+		<div class="header__block__left">
+			<a title="Apri il men&ugrave; principale" class="header-btn header-btn--hamburger"></a>
+						<a href="https://store.lifegate.com/" class="header-btn header-btn--shop" target="_blank">Store</a>
+			<a href="https://www.lifegate.it/newsletters-lifegate" class="header-btn header-btn--newsletter" target="_blank">Newsletter</a>
+						<div class="header__search">
+				<form id="mainsearchform" method="get" action="https://www.lifegate.it/">
+					<input id="search-checkbox-main-search" aria-haspopup="true" aria-controls="search__field" type="checkbox" hidden>
+					<label for="search-checkbox-main-search" aria-label="Cerca" role="button" class="header-btn header-btn--search">Cerca </label>
+
+					<div class="search__field">
+						<label for="search-checkbox-main-search" role="button" class="btn btn--close"></label>
+						<input type="text" name="s" value="" autocomplete="off" placeholder="Cerca">
+						<button type="submit" class="search__field__submit cta cta--icon cta--icon-left cta--enter"></button>
+
+					</div>
+				</form>
+			</div>
+		</div>
+		<div class="header__block__middle">
+			<a href="/" class="logo logo--green" title="LifeGate">
+				<img src="https://www.lifegate.it/app/themes/lifegate-2020/dist/images/logo-lifegate.svg" width="130" height="27" alt="LifeGate" title="LifeGate"></a>
+			<a href="/" class="logo logo--light" title="LifeGate">
+				<img src="https://www.lifegate.it/app/themes/lifegate-2020/dist/images/logo-lifegate-light.svg" width="130" height="27" alt="LifeGate" title="LifeGate">
+			</a>
+					</div>
+		<div class="header__block__right">
+			<a href="https://www.lifegate.it/lifegate-radio">
+			<div class="radio-panel flex flex--center" style="position:relative; z-index:1">
+				<div class="transparent"></div>
+				<div class="equalizer-container">
+					<iframe title="radio" class="equalizer" src="https://www.lifegate.it/app/themes/lifegate-2020/dist/images/equalizer.html" alt="equalizer" width="56" height="56"></iframe>
+				</div>
+				<div id="radio-panel-btn" aria-label="Ascolta la radio di LifeGate" aria-haspopup="true" role="button" tabindex="0" class="flex flex--column">
+					<label class="radio-panel__title">LifeGate Radio</label>
+					<label class="radio-panel__artist">LifeGate Radio</label>
+				</div>
+			</div>
+			</a>
+		</div>
+	</div>
+</header>
+<!-- end header -->
+	
+	
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Special+Elite&amp;display=swap" rel="stylesheet">
+	<div class="wrapper page page-404">
+		<link rel="stylesheet" href="https://www.lifegate.it/app/themes/lifegate-2020/dist/css/page-404.min.css" media="print" onload="this.media='all'">		<link rel="stylesheet" href="https://www.lifegate.it/app/themes/lifegate-2020/dist/css/page-newsletter.min.css" media="print" onload="this.media='all'">
+<style>
+	.wrapper .page-hero{
+		height:auto !important;
+
+	}
+</style>
+		<section class="page-hero">
+			<div class="page-hero__container">
+				<div class="page-hero__container__body">
+					<h1>404</h1>
+					<h2>Gli errori non ci abbattono, ci rendono migliori.</h2>
+					<p class="sottotitolo">Anche per questo siamo tra i 10 siti pi&ugrave; affidabili in Italia secondo <span class="newsguard">
+							<svg width="185px" height="28px" viewbox="0 0 185 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>logo</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="nav/main" transform="translate(-35.000000, -31.000000)" fill="#000000">
+            <g id="logo/original" transform="translate(35.000000, 31.000000)">
+                <path d="M21.0517241,8.52651283e-14 L21.0510963,11.3989458 C21.0360275,18.2645416 20.6593072,22.9298957 11.2413019,27.6412627 L10.5258621,28 L9.80856877,27.6412627 C0.392342751,22.9245701 0.01569371,18.2641156 0.000627748402,11.3989203 L1.13686838e-13,8.52651283e-14 L21.0517241,8.52651283e-14 Z M17.8563401,3.18795404 L3.19538408,3.18795404 L3.19560779,11.1590679 C3.20254275,17.5433867 3.42446152,20.6833311 10.5258621,24.4237221 C17.5197903,20.74366 17.8459469,17.6448314 17.856342,11.4734763 L17.8563401,3.18795404 Z M111.7215,2.74657895 C116.5315,2.74657895 119.0364,4.78394737 120.32955,7.86947368 L115.07,9.29894737 C114.6704,7.53236842 113.5271,6.63157895 111.6327,6.63157895 C108.92245,6.63157895 106.8486,8.69842105 106.8486,12.9831579 L106.8486,13.2631579 C106.8486,17.5773684 108.5617,19.6478947 111.69375,19.6478947 C114.36885,19.6478947 115.8766,17.8757895 116.1171,15.8678947 L111.96385,15.8678947 L111.96385,11.9073684 L120.6903,11.9073684 L120.6903,23.0539474 L116.86635,23.0539474 L116.477,17.685 L116.431636,17.9426525 C115.78934,21.2727735 113.531586,23.4389527 110.09905,23.4389527 C104.65265,23.4444737 101.5243,19.1578947 101.5243,13.2631579 C101.5243,6.91157895 105.2539,2.74657895 111.7215,2.74657895 Z M53.5834,7.59131579 C58.4267,7.59131579 60.65225,10.6473684 60.65225,14.9302632 L60.6521422,15.0723023 C60.6515494,15.4496932 60.6476962,16.3846761 60.62265,16.4610526 L50.81765,16.4610526 C51.0267,18.9184211 52.29765,19.9978947 54.1569,19.9978947 C55.5407,19.9978947 56.80425,19.3955263 57.46655,18.2865789 L60.1768,20.3847368 C58.8522,22.2139474 56.7765,23.4131579 53.6463,23.4131579 C49.04165,23.4131579 45.97065,20.7752632 45.97065,15.5897368 C45.97065,10.4318421 49.0398,7.59131579 53.5834,7.59131579 Z M93.41575,7.68342105 C96.60515,7.68342105 98.2609,8.76105263 99.40235,10.1702632 L96.81235,12.6257895 C96.3924,11.9073684 95.42855,10.8278947 93.8653,10.8278947 C92.722,10.8278947 92.0597,11.3381579 92.0597,12.0271053 C92.0597,13.1655263 93.5656,13.5855263 95.60985,14.2744737 C97.62635,14.9615789 99.58365,15.9507895 99.58365,18.7415789 C99.58365,21.2873684 97.236,23.3836842 93.08275,23.3836842 C90.3503,23.3836842 87.875,22.3631579 86.58,20.5063158 L89.1367,18.0784211 C89.91925,19.1560526 91.03295,20.1452632 92.77935,20.1452632 C93.80055,20.1452632 94.5239,19.6681579 94.5239,18.9165789 C94.5239,17.8113158 92.77935,17.2973684 90.61115,16.5218421 C88.77595,15.8918421 87.09615,14.6336842 87.09615,12.2389474 C87.09615,9.93078947 89.31615,7.68342105 93.41575,7.68342105 Z M147.9223,7.63184211 C152.49735,7.63184211 154.48425,9.72815789 154.48425,13.3847368 L154.48425,18.1981579 C154.48425,21.315 154.87645,22.6947368 155.3556,23.0539474 L150.5604,23.0539474 C150.22,22.7536842 149.8981,22.0039474 149.8093,20.0789474 C149.08595,22.4478947 147.06945,23.3763158 145.08255,23.3763158 C142.13365,23.3763158 140.45755,21.6981579 140.45755,19.2721053 C140.45755,16.3947368 142.894,15.2544737 146.17405,14.595 C148.3404,14.1473684 149.5725,13.9078947 149.78525,13.6371053 L149.78525,13.2631579 C149.78525,12.005 149.184,11.1060526 147.4376,11.1060526 C145.975513,11.0718362 144.644915,11.9426447 144.0965,13.2926316 L140.5815,11.3455263 C141.6915,9.135 144.4332,7.63184211 147.9223,7.63184211 Z M128.6083,8.01131579 L128.6083,16.6397368 C128.6083,18.8889474 129.06155,19.5171053 130.3251,19.5171053 C131.74035,19.5171053 132.76155,17.8592105 132.76155,15.7721053 L132.76155,8.01131579 L137.7288,8.01131579 L137.7288,23.0539474 L133.15745,23.0539474 L133.15745,21.1971053 L133.27955,18.9497368 L133.015,18.9497368 C132.77265,20.7163158 131.47765,23.3542105 128.41035,23.3542105 C125.34305,23.3542105 123.7983,21.6742105 123.7983,17.4207895 L123.7983,8.01131579 L128.6083,8.01131579 Z M185,1.21026316 L185,23.0539474 L180.4564,23.0539474 L180.5785,19.3697368 L180.63955,18.7673684 L180.51745,18.9515789 C180.09565,21.4384211 178.29745,23.3247368 175.49285,23.3247368 C172.18135,23.3228947 169.74675,20.6592105 169.74675,15.4736842 C169.74675,9.98973684 172.52175,7.53236842 175.88505,7.53236842 C178.56015,7.53236842 179.88475,9.24 180.3084,10.7984211 L180.51745,10.7984211 L180.2159,7.59315789 L180.2159,1.21026316 L185,1.21026316 Z M168.11135,7.73684211 L168.11135,13.2631579 L167.00135,13.2631579 C163.78235,13.2631579 162.87955,14.5526316 162.87955,17.9071053 L162.87955,23.065 L157.88455,23.065 L157.88085,8.01131579 L162.245,8.01131579 L162.245,10.5 L161.9749,14.9044737 L162.245,14.9044737 C162.615,10.9181579 164.01915,7.73684211 167.72285,7.73684211 L168.11135,7.73684211 Z M30.94125,3.18684211 L36.56895,12.5355263 L38.91475,17.2089474 L38.4652,11.9736842 L38.4652,3.18684211 L43.1901,3.18684211 L43.1901,23.0539474 L38.6761,23.0539474 L31.96615,12.4747368 L29.74615,8.19 L30.34,12.8947368 L30.34,23.0521053 L25.67615,23.0521053 L25.67615,3.18684211 L30.94125,3.18684211 Z M67.0144,8.01131579 L68.21875,15.5639474 L68.7312,19.6736842 L68.94025,19.6736842 L69.6636,15.5639474 L71.4396,8.01131579 L76.7639,8.01131579 L78.2994,15.5639474 L78.9617,19.7307895 L79.2022,19.7307895 L79.71465,15.5639474 L81.03925,8.01131579 L85.73455,8.01131579 L81.70155,23.0539474 L75.92215,23.0539474 L74.41625,15.89 L73.815,11.3971053 L73.6041,11.3971053 L72.9714,15.89 L71.25645,23.0539474 L65.8415,23.0539474 L61.89915,8.01131579 L67.0144,8.01131579 Z M149.7797,15.19 C149.4097,15.5473684 148.8177,15.82 147.9112,16.1110526 C146.25915,16.6194737 145.20465,17.3084211 145.20465,18.5684211 C145.20465,19.705 145.98535,20.2778947 146.92145,20.2778947 C148.15355,20.2981579 149.59655,19.5778947 149.7797,17.7763158 L149.7797,15.19 Z M177.66475,10.7376316 C176.07005,10.7376316 174.88975,12.1155263 174.88975,15.1734211 C174.88975,18.1981579 175.70005,20.0255263 177.53525,20.0255263 C179.4056,20.0255263 180.375,17.9292105 180.375,15.6818421 L180.375,14.5139474 C180.375,12.5355263 179.7127,10.7376316 177.66475,10.7376316 Z M53.52235,10.6989474 C51.9591,10.7081579 50.96565,11.6052632 50.875,14 L55.8996,14 L55.8996,13.8157895 C55.8996,11.8981579 55.29835,10.6989474 53.52235,10.6989474 Z" id="original-logo"></path>
+            </g>
+        </g>
+    </g>
+</svg>
+
+						</span></p>
+					<div class="search__field">
+						<p>Usa la ricerca qui sotto per trovare il contenuto oppure torna alla homepage:</p>
+						<form method="get" action="https://www.lifegate.it/" role="search" style="display: flex;margin: 24px auto 0;">
+							<input id="mainsearch" type="text" name="s" value="" autocomplete="off" placeholder="Cerca" required>
+							<button type="submit" class="search__field__submit cta cta--icon cta--icon-left cta--enter"></button>
+						</form>
+					</div>
+				</div>
+			</div>
+		</section>
+	</div>
+
+	<!--footer.twig section -->
+<footer class="footer">
+			<div class="footer__newsletter">
+	<div class="wrapper">
+		<div class="container">
+			<span class="footer_heading">Iscriviti alla newsletter settimanale</span>
+			<span>Per rimanere aggiornato sulle notizie dal mondo della sostenibilit&agrave;</span>
+
+			<div class="input-field" style="margin-bottom:0px;">
+				<a class="cta cta--solid cta--icon cta--icon-right cta--go" href="https://www.lifegate.it/newsletters-lifegate?checked=1" style="font-size: 14px; font-weight: 700;">
+					Iscriviti </a>
+			</div>
+
+		</div>
+	</div>
+</div>
+		<div class="footer__bottom">
+		<div class="wrapper">
+			<div class="container">
+				<div class="col-6">
+					<div class="footer__bottom__menu col-6">
+						<ul id="menu-footer-sx-footer-sx-ita" class="menu">
+<li class="menu-item menu-news"><a href="https://www.lifegate.it/news">News</a></li>
+<li class="menu-item menu-newsletter"><a href="https://www.lifegate.it/newsletters-lifegate">Newsletter</a></li>
+<li class="menu-item menu-radio"><a href="https://www.lifegate.it/radio">Radio</a></li>
+<li class="menu-item menu-richiesta-titoli"><a href="https://www.lifegate.it/richiesta-titoli">Richiesta titoli</a></li>
+<li class="menu-item menu-podcast"><a href="https://www.lifegate.it/podcast">Podcast</a></li>
+<li class="menu-item menu-store"><a href="https://store.lifegate.com/">Store</a></li>
+<li class="menu-item menu-corporate"><a href="https://imprese.lifegate.it/">Corporate</a></li>
+<li class="menu-item menu-calcolatore"><a href="https://www.lifegate.it/calcolatore-co2">Calcolatore</a></li>
+<li class="menu-item menu-agisci-ora"><a href="https://www.lifegate.it/iniziativa">Agisci Ora</a></li>
+</ul>					</div>
+					<div class="footer__bottom__menu col-6">
+						<ul id="menu-footer-center-menu-footer-center-ita" class="menu">
+<li class="menu-item menu-company"><a href="https://company.lifegate.it/">Company</a></li>
+<li class="menu-item menu-contatti"><a href="https://www.lifegate.it/contatti">Contatti</a></li>
+<li class="menu-item menu-chi-siamo"><a href="https://www.lifegate.it/chi-siamo">Chi siamo</a></li>
+<li class="menu-item menu-la-storia"><a href="https://www.lifegate.it/la-storia">La storia</a></li>
+<li class="menu-item menu-mail"><a target="_blank" rel="noopener" href="https://webmail.lifegate.it/rmail/">Mail</a></li>
+<li class="menu-item menu-privacy"><a href="https://www.iubenda.com/privacy-policy/12095617">Privacy</a></li>
+<li class="menu-item menu-informazioni-societarie"><a href="https://company.lifegate.it/stakeholder/">Informazioni Societarie</a></li>
+<li class="menu-item menu-termini-e-condizioni"><a href="https://www.lifegate.it/termini-e-condizioni">Termini e condizioni</a></li>
+</ul>					</div>
+				</div>
+				<div class="col-6">
+					<a href="/" class="logo" title="LifeGate">
+						<img src="https://www.lifegate.it/app/themes/lifegate-2020/dist/images/logo-lifegate-light.svg" width="151" height="35" alt="LifeGate" title="LifeGate | Versione 1.95.3">
+					</a>
+					<summary><p>LifeGate &egrave; una testata giornalistica registrata presso il Tribunale di Como, 27/2001</p>
+</summary><summary><p>Siamo il luogo dove l'educazione diventa determinazione, il sentimento diventa azione, lo scopo diventa soluzione e risultato. Siamo per chi sceglie di lasciarsi guidare da valori etici, nel pieno rispetto dell'ecosistema e di tutte le forme viventi in esso presenti. Siamo per coloro che decidono di vivere con sentimento e di dare uno scopo alla propria vita, agendo per rendere il mondo un posto migliore.</p>
+</summary>
+
+					<div class="footer__bottom__social">
+						<div class="partial-social" style="--socialnumber: 7">
+							<ul>
+								<li class="social social--fb social--fb--light">
+									<a href="https://www.facebook.com/lifegate/" aria-label="facebook" target="_blank" rel="nofollow"></a>
+								</li>
+								<li class="social social--tw social--tw--light">
+									<a href="https://twitter.com/lifegate" aria-label="twitter" target="_blank" rel="nofollow"></a>
+</li>
+								<li class="social social--pn social--pn--light">
+									<a href="https://www.pinterest.it/lifegate/" aria-label="pinterest" target="_blank" rel="nofollow"></a>
+								</li>
+								<li class="social social--sp social--sp--light">
+									<a href="https://open.spotify.com/user/lifegate" aria-label="spotify" target="_blank" rel="nofollow"></a>
+								</li>
+								<li class="social social--yt social--yt--light">
+									<a href="https://www.youtube.com/channel/UCw6LzVxICKPuUeDrF8JDn0Q" aria-label="youtube" target="_blank" rel="nofollow"></a>
+</li>
+								<li class="social social--in social--in--light">
+									<a href="https://www.instagram.com/lifegate/" aria-label="instagram" target="_blank" rel="nofollow"></a>
+								</li>
+								<li class="social social--ln social--ln--light">
+									<a href="https://www.linkedin.com/company/lifegate/" aria-label="linkedin" target="_blank" rel="nofollow"></a>
+</li>
+								<li class="social social--tg social--tg--light">
+									<a href="https://t.me/lifegate" target="_blank" aria-label="telegram" rel="nofollow"></a>
+</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</footer>
+</div>
+	
+
+        <!-- WPSpeedFix.com core web vitals tracker script START -->
+        <script type="module">
+            import { getCLS, getFID, getLCP, getTTFB, getFCP } from 'https://unpkg.com/web-vitals?module';
+            function sendToGoogleAnalytics( {name, delta, id} ) {
+                gtag('event', name, {
+                    event_category: 'Web Vitals',
+                    event_label: id,
+                    value: Math.round( 'CLS' === name ? delta * 1000 : delta),
+                    non_interaction: true,
+                });
+            }
+            getCLS( sendToGoogleAnalytics );
+            getFID( sendToGoogleAnalytics );
+            getLCP( sendToGoogleAnalytics );
+            getTTFB( sendToGoogleAnalytics );
+            getFCP( sendToGoogleAnalytics );
+            getCLS( console.log );
+            getFID( console.log );
+            getLCP( console.log );
+            getTTFB( console.log );
+            getFCP( console.log );
+        </script>
+        <!-- WPSpeedFix.com core web vitals tracker script END -->
+<script type="text/javascript" id="flying-pages-js-before">
+/* <![CDATA[ */
+window.FPConfig= {
+	delay: 5,
+	ignoreKeywords: ["\/wp-admin","\/wp-login.php","\/cart","\/checkout","add-to-cart","logout","#","?",".png",".jpeg",".jpg",".gif",".svg",".webp"],
+	maxRPS: 1,
+    hoverDelay: 50
+};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.lifegate.it/app/plugins/flying-pages/flying-pages.min.js?ver=2.4.6" id="flying-pages-js" defer></script>
+<script type="text/javascript" id="scriptloader-js-extra">
+/* <![CDATA[ */
+var tbm = {"ajaxurl":"https:\/\/www.lifegate.it\/wp\/wp-admin\/admin-ajax.php","songurl":"https:\/\/servizi.lifegate.it\/titoli\/titoli.json"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.lifegate.it/app/themes/lifegate-2020/dist/js/tbm.min.js?ver=1.95.3" id="scriptloader-js"></script>
+<script>
+	tbm.respoinsesongtitle = "Ci dispiace, ma non abbiamo trovato nessun risultato utile. Prova ad impostare un altro orario.";
+	tbm.photolabels = ['Foto ', ' di '];
+</script>
+
+<link rel="stylesheet" href="https://www.lifegate.it/app/themes/lifegate-2020/dist/css/afterall.min.css?ver=1.95.3" media="print" onload="this.media='all'">
+</body>
+</html>
+<!-- Parsed with iubenda experimental class in 0.0093 sec. -->
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Object Caching 0/4212 objects using memcached
+
+Served from: www.lifegate.it @ 2026-01-02 17:06:38 by W3 Total Cache
+-->

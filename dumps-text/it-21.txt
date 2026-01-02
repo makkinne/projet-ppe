@@ -1,0 +1,1145 @@
+   #Modifica Wikipedia (it) Feed Atom di Wikipedia
+
+   Vai al contenuto
+
+   [ ] Menu principale
+   Menu principale
+   (BUTTON) sposta nella barra laterale (BUTTON) nascondi
+   Navigazione
+     * Pagina principale
+     * Ultime modifiche
+     * Una voce a caso
+     * Nelle vicinanze
+     * Vetrina
+     * Aiuto
+     * Sportello informazioni
+     * Pagine speciali
+
+   Comunità
+     * Portale Comunità
+     * Bar
+     * Il Wikipediano
+     * Contatti
+
+   Wikipedia L'enciclopedia libera
+   Ricerca
+   ____________________
+   (BUTTON) Ricerca
+
+   [ ] Aspetto
+
+     * Fai una donazione
+     * registrati
+     * entra
+
+   [ ] Strumenti personali
+     * Fai una donazione
+     * registrati
+     * entra
+
+Indice
+
+   (BUTTON) sposta nella barra laterale (BUTTON) nascondi
+     * Inizio
+     * 1 Storia e genesi dell'opera
+       (BUTTON) Attiva/disattiva la sottosezione Storia e genesi
+       dell'opera
+          + 1.1 Premessa
+          + 1.2 Il periodo storico dell'opera
+     * 2 Analisi dell'opera
+       (BUTTON) Attiva/disattiva la sottosezione Analisi dell'opera
+          + 2.1 La struttura generale
+          + 2.2 La Coscienza
+          + 2.3 L'Autocoscienza
+               o 2.3.1 Il rapporto "signoria e servitù"
+               o 2.3.2 Stoicismo e scetticismo
+               o 2.3.3 La coscienza infelice
+          + 2.4 La Ragione
+               o 2.4.1 Ragione osservativa
+               o 2.4.2 Ragione attiva
+               o 2.4.3 Individualità in sé e per sé
+          + 2.5 Lo Spirito
+          + 2.6 La Religione
+          + 2.7 Il Sapere assoluto
+     * 3 Prefazione della Fenomenologia dello spirito
+       (BUTTON) Attiva/disattiva la sottosezione Prefazione della
+       Fenomenologia dello spirito
+          + 3.1 Critica al formalismo matematico
+               o 3.1.1 "La Matematica"
+               o 3.1.2 La negazione delle differenze
+               o 3.1.3 La soluzione del sapere scientifico
+               o 3.1.4 L'autocausazione
+          + 3.2 Critica al fondazionalismo filosofico
+     * 4 Note
+     * 5 Bibliografia
+       (BUTTON) Attiva/disattiva la sottosezione Bibliografia
+          + 5.1 Traduzioni italiane della Fenomenologia dello spirito
+          + 5.2 Introduzioni e Approfondimenti
+               o 5.2.1 Introduzioni
+               o 5.2.2 Approfondimenti
+     * 6 Voci correlate
+     * 7 Altri progetti
+     * 8 Collegamenti esterni
+
+   [ ] Mostra/Nascondi l'indice
+
+Fenomenologia dello spirito
+
+   [ ] 32 lingue
+     * العربية
+     * Azərbaycanca
+     * Bosanski
+     * Català
+     * Deutsch
+     * English
+     * Esperanto
+     * Español
+     * Eesti
+     * Euskara
+     * فارسی
+     * Français
+     * Galego
+     * Hausa
+     * עברית
+     * Հայերեն
+     * Íslenska
+     * 日本語
+     * 한국어
+     * Latina
+     * Nederlands
+     * Norsk bokmål
+     * Polski
+     * Português
+     * Română
+     * Русский
+     * Srpskohrvatski / српскохрватски
+     * Српски / srpski
+     * Svenska
+     * Türkçe
+     * Українська
+     * 中文
+
+   Modifica collegamenti
+
+     * Voce
+     * Discussione
+
+   [ ] italiano
+
+     * Leggi
+     * Modifica
+     * Modifica wikitesto
+     * Cronologia
+
+   [ ] Strumenti
+   Strumenti
+   (BUTTON) sposta nella barra laterale (BUTTON) nascondi
+   Azioni
+     * Leggi
+     * Modifica
+     * Modifica wikitesto
+     * Cronologia
+
+   Generale
+     * Puntano qui
+     * Modifiche correlate
+     * Link permanente
+     * Informazioni pagina
+     * Cita questa voce
+     * Ottieni URL breve
+     * Scarica codice QR
+     * Passa al parser legacy
+
+   Stampa/esporta
+     * Crea un libro
+     * Scarica come PDF
+     * Versione stampabile
+
+   In altri progetti
+     * Elemento Wikidata
+
+   Aspetto
+   (BUTTON) sposta nella barra laterale (BUTTON) nascondi
+   Da Wikipedia, l'enciclopedia libera.
+
+                        Fenomenologia dello spirito
+   Titolo originale Phänomenologie des Geistes
+   [250px-Ph%C3%A4nomenologie_des_Geistes.jpg] la prima edizione del 1807
+        Autore      Georg Wilhelm Friedrich Hegel
+   1ª ed. originale 1807
+   Genere saggio
+   Sottogenere filosofico
+   Lingua originale tedesco
+
+   Seguito da Scienza della logica
+   Modifica dati su Wikidata · Manuale
+
+   (tedesco)
+   «Die Phänomenologie des Geistes ist die romantisierte Geschichte des
+   Bewußtseins, das sich mit der Zeit als Geist erkennt.»
+   (italiano)
+   «La fenomenologia dello spirito è la storia romanzata della coscienza
+   che via via si riconosce come spirito.»
+
+   (G.W.F. Hegel, Fenomenologia dello spirito, Prefazione)
+
+   La Fenomenologia dello spirito (in tedesco Phänomenologie des Geistes)
+   è un'opera filosofica di Hegel, pubblicata per la prima volta nel 1807,
+   dove si descrive il percorso ("scienza dell'esperienza della
+   coscienza") che ogni individuo deve compiere, partendo dalla propria
+   coscienza, per identificare le manifestazioni (la "scienza di ciò che
+   appare", la "fenomenologia") attraverso le quali lo spirito si innalza
+   dalle forme più semplici di conoscenza a quelle più generali fino al
+   sapere assoluto. Lo scopo di quest'opera è quello di superare la logica
+   di Aristotele (il principio di non contraddizione) estremizzandolo
+   nella teoria logica della dialettica hegeliana. È considerata tutt'oggi
+   come una delle opere più complesse di tutta la storia della filosofia.
+   [500px-Stuttgart-hegel-hegelhaus.jpg] Georg Wilhelm Friedrich Hegel
+
+Storia e genesi dell'opera
+
+   [modifica | modifica wikitesto]
+
+Premessa
+
+   [modifica | modifica wikitesto]
+
+   Prima di procedere è necessario chiarire preliminarmente il significato
+   della parola spirito nel pensiero di Hegel, altrimenti si potrebbe
+   compiere un grave errore interpretativo. Come spiegato sotto, "spirito"
+   non ha alcuna valenza religiosa che i vari culti attribuiscono a questo
+   termine. Qui spirito ha un significato antropologico e sociologico, di
+   portata valoriale pratica e certamente non soprannaturale: lo spirito è
+   la cultura^[1] propria di un popolo (o gruppo etnico) espressa in una
+   determinata epoca. Ad esempio: lo spirito dei greci in età ellenistica
+   o quello dei francesi durante l'illuminismo o quello dei cinesi al
+   giorno d'oggi.
+
+Il periodo storico dell'opera
+
+   [modifica | modifica wikitesto]
+
+   Nel momento in cui Hegel a Jena stava concludendo la stesura della
+   Fenomenologia dello Spirito infuriavano gli scontri fra le truppe
+   napoleoniche e i prussiani. Come lui stesso scrive a Niethammer il 13
+   ottobre 1806:^[2] «Ho visto l'Imperatore, quest'anima del mondo, uscire
+   dalla città per andare in ricognizione. È una sensazione meravigliosa
+   vedere un tale individuo che qui, concentrato in un punto, seduto su un
+   cavallo, si irradia sul mondo e lo domina».^[3] Poco prima della
+   conquista di Jena nell'ottobre 1806, Hegel riesce a inviare col
+   corriere il manoscritto a un tipografo di Bamberga.^[4] In quel momento
+   Napoleone Bonaparte concentra in sé la storia del mondo e in lui batte
+   il cuore pulsante dello Spirito. Ma proprio per i risvolti turbolenti
+   del suo momento storico Hegel è inquieto e si affretta a concludere il
+   suo libro. Sarà solo nell'anno successivo che scriverà la prefazione
+   all'opera, che sorprendentemente si rivela quasi più densa di contenuto
+   rispetto al corpo principale della Fenomenologia.
+
+Analisi dell'opera
+
+   [modifica | modifica wikitesto]
+
+   Hegel sviluppa il tema della risoluzione del finito nell'infinito nella
+   Fenomenologia dello Spirito, intesa come approccio alla filosofia che
+   inizia con l'esplorazione dei "fenomeni" (che si presentano a noi
+   nell'esperienza conscia) quale mezzo per cogliere lo Spirito Assoluto
+   che è dietro il fenomeno. Nel caso della fenomenologia hegeliana si
+   parla dunque di "fenomenologia dialettica". La fenomenologia, come
+   scienza dell'esperienza della coscienza, è la storia romanzata dello
+   Spirito (Geist) che «attraverso erramenti, contrasti e quindi
+   infelicità e dolore, esce dalla sua individualità e si riconosce come
+   ragione che è realtà e realtà che è ragione; a partire cioè dalle forme
+   più semplici della coscienza individuale, perviene gradualmente e
+   progressivamente al sapere assoluto.
+
+   Il compito e la funzione della Fenomenologia consistono nel condurre la
+   coscienza naturale e finita al punto di vista della scienza filosofica,
+   ovvero al sapere assoluto (absolutes Wissen), ovvero dal conoscere
+   finito al conoscere infinito; detto altrimenti, la Fenomenologia mostra
+   il passaggio dall'opposizione ed estraneità del soggetto rispetto
+   all'oggettività della coscienza finita, al riconoscimento da parte
+   della coscienza di essere in identità e unità con la realtà.
+
+   Il percorso della coscienza esposto nella Fenomenologia intende
+   presentarsi come un movimento dialettico immanente alla coscienza, e
+   non come qualcosa di imposto arbitrariamente dall'esterno; in virtù di
+   questa necessità interna la coscienza stessa riconosce, volta per
+   volta, l'inadeguatezza del proprio punto di vista. La Fenomenologia,
+   dunque, rappresenta l'esperienza che la coscienza fa di sé e del
+   proprio oggetto^[5].
+
+La struttura generale
+
+   [modifica | modifica wikitesto]
+
+   L'articolazione interna della Fenomenologia è molto complessa, dal
+   momento che Hegel stesso ha fornito due diversi modi per dividere
+   l'opera, che si presentano assieme nella versione definitiva. Nello
+   specifico, è possibile articolare l'opera come un susseguirsi di figure
+   (contrassegnate dal numero romano), che però a gruppi o singolarmente
+   fanno riferimento a momenti, ovvero a dei particolari modi in cui si
+   configura il rapporto della coscienza con il suo oggetto^[6].
+
+ I. La certezza sensibile o il questo e l'opinione       A. Coscienza
+ II. La percezione o la cosa e l'illusione
+ III. Forza e intelletto, fenomeno e mondo ultrasensibile
+ IV. La verità della certezza di sé stesso               B. Autocoscienza
+ V. Certezza e verità della ragione                      C. (AA) Ragione
+ VI. Lo spirito                                             (BB) Spirito
+ VII. La religione                                          (CC) Religione^[7]
+ VIII. Il sapere assoluto                                   (DD) Sapere assoluto
+
+   I principali momenti dello sviluppo fenomenologico sono, dunque, tre
+   (ovvero quelli contrassegnati dalle lettere A, B e C): il primo è
+   quello della coscienza, contraddistinto da una opposizione fra soggetto
+   e oggetto, e dalla convinzione del soggetto che la verità sia fuori del
+   soggetto, nella oggettività; il secondo è quello dell'autocoscienza,
+   caratterizzato da una forte fiducia nella soggettività a discapito
+   dell'oggettività, dalla convinzione che il criterio della verità si
+   trova nell'io e non nelle cose; per il terzo, invece, Hegel non ha un
+   nome vero e proprio e si limita a indicare soltanto una somiglianza fra
+   le diverse figure comprese in esso (ragione, spirito, religione e
+   sapere assoluto), che consiste nel superamento dell'opposizione fra
+   soggetto e oggetto, e dal riconoscimento dell'io di essere ogni realtà,
+   posizione che si articola in gradi diversi dalla ragione fino al sapere
+   assoluto^[8].
+
+La Coscienza
+
+   [modifica | modifica wikitesto]
+
+   Il momento da cui inizia la consapevolezza di sé (coscienza) è
+   rappresentato dall'incontro dell'individuo con l'oggetto. È attraverso
+   il confronto sensibile con gli oggetti che ci rendiamo conto della
+   nostra esistenza. L'incontro con l'oggetto si sviluppa attraverso tre
+   fasi:
+     * certezza sensibile: si è certi che esista l'oggetto rivelato dai
+       sensi, in un dato luogo e in un certo momento. Cambiando il momento
+       percettivo, dell'oggetto permangono invariati il questo (ovvero
+       l'oggetto stesso), il qui (il luogo in cui esso si trova) e l'ora
+       (il momento in cui i sensi lo rivelano). Nasce però la difficoltà
+       di capire come riportare la certezza sensibile di tale oggetto a
+       tutti gli altri oggetti che si presentano nella loro diversità
+       sensibile.
+     * percezione sensibile: in questa fase l'attenzione si volge a fare
+       in modo che le diverse proprietà degli oggetti possano essere
+       riportate ad un unico punto di riferimento che permetta di avere
+       una visione unitaria della realtà. La soluzione sembra essere
+       quella di riportare tutta la varietà delle qualità sensibili a un
+       punto fisso di riferimento: il sostrato, la sostanza presente in
+       tutte le cose allo stesso modo. Ma la ricerca travagliata della
+       sostanza ha dimostrato che l'uomo non riesce a coglierla.
+     * intelletto: visto che non siamo in grado di conoscere questo
+       sostrato sul quale ineriscono le qualità dobbiamo pensare che
+       l'unità non stia nell'oggetto, ma nel soggetto che unifica le
+       sensazioni tramite l'intelletto. La consistenza fenomenica della
+       realtà viene superata non ricercandola nella sostanza ma
+       riportandola alla funzione dell'intelletto. (Ogni fatto, secondo
+       l'idealismo, rimanda all'atto che lo pone.)
+
+   A questo punto la coscienza ha interiorizzato l'oggetto in se stessa ed
+   è diventata coscienza di sé, ovvero autocoscienza che non ha più
+   bisogno di riferirsi agli oggetti per avere coscienza di sé, ha capito
+   che la certezza della propria esistenza è data dalla sua attività
+   intellettuale.
+
+L'Autocoscienza
+
+   [modifica | modifica wikitesto]
+
+   L'autocoscienza non ha più in Hegel il significato di essere coscienti
+   di sé, che aveva avuto sinora, ma acquista un valore sociale e
+   politico. L'autocoscienza si raggiunge solo se riusciamo a confrontare
+   la nostra particolare esistenza con quella degli altri. Il
+   riconoscimento delle altre autocoscienze non avviene, come si potrebbe
+   pensare e come in effetti Hegel aveva inizialmente sostenuto nella fase
+   giovanile (vedi: Pensiero di Hegel), attraverso l'amore, bensì
+   attraverso la lotta, lo scontro per cui, addirittura, alcuni individui
+   arrivano a sfidare la morte per potersi affermare su quelli che hanno
+   paura e finiscono per subordinarsi ai primi. È questo il rapporto
+   fenomenologico di "servo-padrone" che si esplica nella dialettica della
+   figura signoria-servitù.^[9]
+
+Il rapporto "signoria e servitù"
+
+   [modifica | modifica wikitesto]
+
+   Il signore, nel rischiare la propria vita pur di affermare la propria
+   indipendenza, ha raggiunto il suo scopo, e si eleva su quello che è
+   divenuto il suo servo (poiché ha preferito la perdita della propria
+   indipendenza pur di avere salva la vita). Anche il servo però diventa
+   importante per il signore poiché dal lavoro di quello dipende il suo
+   stesso mantenimento in vita. Il servo, lavorando, dà al padrone ciò di
+   cui ha bisogno. Il padrone non riesce più a fare a meno del servo.
+   Dunque la subordinazione si rovescia. Il padrone diviene servo poiché è
+   strettamente legato al lavoro del servo, e il servo diviene padrone
+   (con la sua attività produttiva) del padrone.^[10]
+
+   Da notare che non vanno perduti i ruoli originari, ma se ne aggiunge ad
+   entrambi uno nuovo, l'opposto. Il passato di servo e padrone non viene
+   eliminato del tutto ma in ognuno è in parte tolto e nello stesso tempo
+   conservato il ruolo originario. È il classico rapporto di Aufheben (o
+   Aufhebung)^[11] («togliere e conservare»)^[12] che si stabilisce tra i
+   vari momenti dello sviluppo dialettico che nella dialettica del servo
+   sono
+     * paura della morte,
+     * servizio,
+     * lavoro (indipendenza).
+
+   Inoltre, il lavoro forma, poiché il servo, in ciò che produce, mette
+   tutto se stesso e non solo la sua forza materiale, mentre il padrone si
+   limita ad utilizzare gli oggetti prodotti.^[13] Poiché le cose non sono
+   di sua proprietà, il servo riesce a dominare i propri desideri: dunque,
+   attraverso il lavoro, l'autocoscienza acquisisce anche la dignità.
+
+   «Il lavoro, invece, è appetito tenuto a freno, è un dileguare
+   trattenuto; ovvero: il lavoro forma. Il rapporto negativo verso
+   l'oggetto diventa forma dell'oggetto stesso, diventa qualcosa che
+   permane; e ciò perché proprio a chi lavora l'oggetto ha indipendenza.
+   Tale medio negativo o l'operare formativo costituiscono in pari tempo
+   la singolarità o il puro essere-per-sé della coscienza che ora, nel
+   lavoro, esce fuori di sé nell’elemento del permanere: così, quindi, la
+   coscienza che lavora giunge all’intuizione dell’essere indipendente
+   come di se stessa. […]. Così, proprio nel lavoro, dove sembrava ch'essa
+   fosse un senso estraneo, la coscienza, mediante questo ritrovamento di
+   se stessa attraverso se stessa, diviene senso proprio.^[14]»
+
+Stoicismo e scetticismo
+
+   [modifica | modifica wikitesto]
+
+   Il raggiungimento dell'indipendenza, ultimo dei tre momenti della
+   dialettica servo-padrone, coincide con lo stoicismo, ossia quella
+   visione del saggio che ritiene di poter fare a meno delle cose e quindi
+   si sente al di sopra della natura raggiungendo così l'autosufficienza.
+   Tuttavia, in questo modo lo stoico s'illude di eliminare la realtà che
+   continua invece a sussistere e ad influenzare la sua vita.
+
+   Chi invece riesce ad ignorare totalmente la realtà è lo scettico.
+   Tuttavia lo scetticismo si contraddice, poiché da un lato lo scettico
+   dubita della realtà e dichiara che tutto è vano e incerto, mentre
+   dall'altro vorrebbe poter sostenere qualcosa di reale e vero. Questa
+   scissione tra l'uno e il Tutto, tra l'individuo e la totalità del
+   mondo, si ripropone nella figura della coscienza infelice religiosa tra
+   il soggetto e la totalità di Dio.^[15]
+
+La coscienza infelice
+
+   [modifica | modifica wikitesto]
+
+   La scissione tra la coscienza mutevole dell'individuo e quella
+   immutabile di Dio diventa esplicita in quella spaccatura che l'uomo
+   avverte fra se stesso e Dio. Questa scissione appare evidente
+   nell'ebraismo, dove il Dio è visto come un essere totalmente
+   trascendente, padrone della vita e della morte: vi sarebbe dunque un
+   rapporto di signoria-servitù fra Dio e l'uomo (cfr. Pensiero di Hegel:
+   il periodo di Jena).
+
+   In un secondo momento, con il Cristianesimo medioevale, questa
+   scissione sembra sanarsi quando Dio si assimila all'uomo incarnandosi.
+
+   Tuttavia, nulla viene veramente risolto: Cristo, da un lato, con la
+   propria resurrezione, ritorna ad allontanarsi dall'uomo, superando la
+   sua stessa incarnazione e, per altro verso, essendo Cristo vissuto
+   storicamente in tempi anteriori, i molti che gli sono succeduti non
+   hanno potuto assistere al miracolo dell'incarnazione di un Dio che
+   ormai è separato dalla storia e lontano dai credenti.
+
+   Pertanto la scissione è tutt'altro che risolta, e la coscienza,
+   sentendosi ancora separata dall'Assoluto, permane nell'infelicità.
+
+   Le manifestazioni dell'infelicità della coscienza dell'uomo
+   cristiano-medievale sono tre:
+     * la devozione, con cui l'uomo si mortifica ed umilia riconoscendo
+       Tutto in Dio e Niente in sé. Inoltre, la devozione è solo
+       sentimentalismo, sentimento, che per Hegel non porta all'infinito;
+     * Le opere di bene, attraverso cui l'uomo spera di congiungersi con
+       Dio. Tuttavia, egli ritiene che le sue forze e le sue opere siano
+       dono di Dio. È un'ulteriore mortificante riconoscimento della sua
+       dipendenza e separazione da Dio.
+     * La mortificazione di sé e del proprio corpo con le pratiche
+       ascetiche. È il punto più basso, il fondo dell'infelicità.
+
+   La presa di coscienza del proprio valore, dopo aver toccato il punto
+   più basso con la mortificazione di sé nei confronti della divinità,
+   avviene nel Rinascimento, quando l'uomo riprende coscienza della
+   propria forza ed inizia il cammino per raggiungere l'Assoluto.
+
+La Ragione
+
+   [modifica | modifica wikitesto]
+
+Ragione osservativa
+
+   [modifica | modifica wikitesto]
+
+   Nel Rinascimento l'uomo riacquista la ragione, che gli indica come sia
+   inutile la ricerca di un Dio trascendente mentre questo è vivo e
+   presente nella natura stessa. Nasce così la pretesa della scienza di
+   conquistare l'Assoluto tramite l'osservazione scientifica della realtà.
+   Ma la descrizione che la scienza fa del mondo non implica
+   l'impossessarsi del mondo tramite la legge e l'esperimento. Ancora una
+   volta la totalità sfugge al potere dell'uomo.
+
+Ragione attiva
+
+   [modifica | modifica wikitesto]
+
+   Allora dalla ragione osservativa si passa a quella pratica, alla
+   descrizione del mondo si sostituisce l'azione sul mondo, la volontà di
+   usarlo e goderne. Ma tale intento fallisce come testimoniano le tre
+   figure della ragione attiva:
+     * "il piacere e la necessità": l'individuo deluso dalla scienza e
+       dalla ricerca naturalistica si getta nella vita alla ricerca del
+       proprio godimento. Ma ogni piacere, sebbene soddisfatto, continua a
+       lasciare un retrogusto amaro in bocca accompagnato da un senso di
+       insoddisfazione (esempio di questa fase è il "Faust" di Goethe).
+     * "legge del cuore e il delirio della presunzione": l'individuo non
+       essendo riuscito a realizzare se stesso attraverso il piacere,
+       tenta presuntuosamente di migliorare il mondo attraverso la volontà
+       generale e cercherà allora di opporsi al corso ostile del mondo
+       appellandosi al sentimento e cercando la felicità degli altri
+       (emblema di questa fase è Rousseau); ma la Ragione, in disaccordo
+       con la sfera individuale, fallirà nella sua pretesa di incarnare la
+       Virtù.
+     * "cavaliere della virtù" (simboleggiato da Robespierre): l'individuo
+       prenderà come sua guida "la virtù", ossia un agire in grado di
+       procedere oltre l'immediatezza del sentimento e delle inclinazioni
+       soggettive. Ma il contrasto tra la virtù, il bene concepito
+       astrattamente, e la realtà del mondo, si concluderà con la
+       sconfitta del "cavaliere della virtù".
+
+Individualità in sé e per sé
+
+   [modifica | modifica wikitesto]
+
+   In questa fase sintetica dello sviluppo dialettico della ragione Hegel
+   mostra come l'individualità, pur mirando a raggiungere la propria
+   realizzazione, rimanga tuttavia astratta e inadeguata. Per mostrarlo
+   egli si serve ancora delle "figure":
+     * La prima figura è quella che Hegel denomina "il regno animale dello
+       spirito": agli sforzi e alle ambizioni di una virtù che dovrebbe
+       realizzare il bene di tutti ma che fallisce, succede
+       l'atteggiamento dell'onesta dedizione ai propri compiti
+       particolari. Ma c'è un inganno. L'individuo tende a spacciare la
+       sua opera come il dovere morale stesso, mentre essa esprime
+       soltanto il proprio interesse personale. Non esiste vera morale se
+       non è universale.
+     * La figura della "ragione legislatrice": l'autocoscienza avvertendo
+       l'inganno, cerca in se stessa delle leggi che valgano per tutti.
+       Tuttavia tali leggi che pretendono d'essere universali in effetti
+       nascono dalla propria volontà individuale.
+     * Infine la figura della "ragione esaminatrice delle leggi":
+       l'autocoscienza cerca delle leggi assolutamente valide che
+       s'impongano a tutti nessuno escluso. Ma così facendo l'individuo si
+       deve porre al di sopra delle leggi stesse, riducendone quindi la
+       validità e l'incondizionatezza.
+
+   Con tutte queste figure Hegel vuole dirci che se ci si pone dal punto
+   di vista dell'individuo si è inevitabilmente costretti a non
+   raggiungere mai l'universalità. Quest'ultima si trova soltanto nella
+   fase dello "Spirito".^[16]
+
+Lo Spirito
+
+   [modifica | modifica wikitesto]
+
+   La ragione, finora presentata da Hegel come facoltà della mente umana,
+   si estende ora nella vita dei popoli, e dunque diventa Spirito. Si
+   passa dal soggetto all'universale. Lo Spirito per Hegel non è l'entità
+   trascendente coincidente con il divino né l'aspetto psicologico o
+   mentale dell'uomo, ma rappresenta, molto più concretamente, i valori
+   della cultura e delle istituzioni, cioè di tutto ciò che nasce dalle
+   relazioni tra gli uomini nella società e nella storia.^[17] Lo spirito
+   è l'idea in sé e per sé (sintesi), che, dopo essersi fatta natura,
+   ritorna presso di sé nell'uomo inteso collettivamente e
+   socio-politicalmente ovvero come civiltà o gruppo umano,
+   materializzatisi in una determinata area del mondo in un certo periodo
+   storico. In pratica, lo spirito non è altro che l'essenza (la storia, i
+   valori, i comportamenti, il pensiero, i costumi, l'etica, insomma la
+   realtà culturale) propria di un popolo.
+
+   Nella storia dello spirito questo assume nel mondo greco antico la
+   forma dell'eticità, dove la vita dell'individuo coincide con quella
+   della sua comunità, con quella della polis. Successivamente lo spirito
+   si manifesta nella cultura, la cui massima realizzazione è stata quella
+   dell'Illuminismo, età nella quale il pensiero va oltre quanto gli
+   presenta la realtà naturale e agendo come intelletto adotta il metodo
+   analitico. Occorre tuttavia stare attenti a non estremizzare l'uso
+   della ragione, che può divenire strumento di violenza e distruzione
+   (com'è accaduto con il Terrore nella Rivoluzione francese).
+
+   Si arriva infine alla terza forma dello spirito, rappresentata
+   dall'anima bella, che realizza una vera e propria rivoluzione morale
+   poiché è capace di armonizzare il suo comportamento istintivo con i
+   dettami della legge, inserendo il suo agire particolare nell'ambito
+   dell'universale. Tuttavia nel mantenere la sua purezza originaria
+   l'anima bella vive distaccata dal mondo reale.^[18]
+
+La Religione
+
+   [modifica | modifica wikitesto]
+
+   Nello stadio della Religione lo spirito ritrova se stesso recuperando
+   quell'oggettività persa nella trascendenza. Lo spirito recupera la sua
+   unità con l'Assoluto, con Dio, manifestandosi in tre figure:
+     * la religione naturale, dove il divino compare negli elementi
+       naturali come la luce, le piante o gli animali;
+     * la religione artistica, quella praticata dall'antico popolo greco e
+       romano che rappresentano Dio nelle opere d'arte;
+     * la religione rivelata, il cristianesimo che è stato capace di
+       superare il suo simbolismo esteriore nei principi teologici della
+       Trinità, della lotta tra il bene e il male, nell'incarnazione.^[18]
+
+Il Sapere assoluto
+
+   [modifica | modifica wikitesto]
+
+   Il Sapere assoluto come "concetto concreto" è l'approdo della
+   Fenomenologia dello spirito. Il sapere assoluto è ormai libero (ab
+   solutus) da ogni legame con le rappresentazioni sensibili, che ormai
+   non lo appesantiscono più inficiando la sua purezza: egli ha tolto
+   tutte le figure precedenti, tolte perché finite, ma le ha conservate
+   (Aufhebung)^[19] perché sono tappe verso il sapere assoluto. Io = Io
+   ora vuol dire che il soggetto non è altro che «identità dell’identità e
+   della non-identità»; il soggetto cioè ingloba in sé l’oggetto e lo
+   conosce completamente senza separarlo da sé. Le esperienze passate non
+   sono state inutili, ma anzi, essenziali, e in ognuna di esse c’era già
+   il Sapere Assoluto, ma la coscienza finita, nella sua presunzione e
+   nella sua immediatezza, non se n’era accorta. Il percorso della
+   fenomenologia è quindi giunto alla vera scienza^[18], da Hegel qui
+   intesa come sinonimo di filosofia speculativa^[20], sostanzialmente
+   assimilabile alla filosofia teoretica, non la scienza nel senso
+   fisico-naturalistico-matematico del termine. Lo spirito diviene
+   pertanto sapere libero da qualsivoglia limitazione in quanto si sa
+   spirito (è proprio tramite la coscienza che esso finalmente perviene,
+   al termine del viaggio, a sapersi).
+
+Prefazione della Fenomenologia dello spirito
+
+   [modifica | modifica wikitesto]
+
+   L'opera è preceduta da una lunga Prefazione e da una più breve
+   Introduzione. Nella Prefazione, che in realtà era pensata come
+   prefazione all'intero sistema (e non esclusivamente alla
+   Fenomenologia)^[21], Hegel presenta alcune delle più note formulazioni
+   delle sue posizioni filosofiche: la concezione della verità come intero
+   (che comprende fine e attuazione del fine); la nozione di
+   auto-movimento del concetto (o dialettica); la critica al metodo (in
+   filosofia) e al formalismo matematico; la critica alla forma logica del
+   giudizio e la nozione di "proposizione speculativa"; e infine la
+   celebre concezione dell'assoluto come soggetto (e non semplicemente
+   sostanza) e le relative critiche a Spinoza, Fichte, Schelling e i
+   romantici.
+
+Critica al formalismo matematico
+
+   [modifica | modifica wikitesto]
+
+   Un aspetto particolare del pensiero hegeliano trattato nella prima
+   parte della Fenomenologia è la critica al formalismo matematico.
+
+   «Se lo sviluppo non consiste in altro che la ripetizione della medesima
+   formula, l'idea, per sé indubbiamente vera, nel fatto non va al di là
+   del proprio cominciamento; [...] tutto ciò, non diversamente da
+   arbitrarie fantasie sul contenuto, è ben diverso da ciò che si
+   richiede; è ben diverso, cioè, dalla ricchezza che scaturisce da sé
+   stessa e dall'autodeterminantesi differenza delle forme.»^[22]
+
+   Il sapere matematico pone due problemi:
+     * perde la ricchezza della dialettica, che deriva da una
+       dimostrazione i cui passaggi sono inevitabili, e per esserlo, non
+       possono che seguire l'evoluzione dell'oggetto;
+     * la conoscenza esteriore (estrinseca, imposta dall'esterno) non è
+       inerte, ma modifica la struttura dell'oggetto.«Nel conoscere
+       matematico la considerazione è un operare che, per la cosa, vien da
+       fuori; ne segue quindi che la cosa vera viene alterata».^[23]
+       L'idea che la conoscenza e la misura condizionino l'oggetto
+       anticipa teorie scientifiche come quelle scaturenti dal principio
+       di indeterminazione di Heisenberg, e riprende temi della filosofia
+       ad esempio di Tommaso d'Aquino: non esistono azioni neutre, senza
+       conseguenze, nemmeno nel pensare: perciò anche nel pensiero c'è
+       qualcosa che muta, e si verifica o una "adaequatio intellectus ad
+       rem" oppure una "adaequatio rei ad intellectus": o l'intelletto
+       espone l'evoluzione dell'oggetto, o, se ignora la dialettica,
+       l'oggetto è deformato dal pensiero.
+     * «L'evidenza di questo manchevole conoscere, della quale la
+       matematica va superba, facendosene un'arma contro la filosofia, si
+       basa sulla povertà del fine e sulla deficienza del contenuto della
+       matematica, ed è tale da suscitare il disprezzo da parte della
+       filosofia. Fine o concetto della matematica è la grandezza. Ma
+       questa è appunto la relazione inessenziale e aconcettuale. Il
+       movimento del sapere procede in superficie, non tocca la cosa
+       stessa. La materia intorno alla quale la matematica costruisce il
+       suo consolante tesoro di verità è lo spazio e l'Uno. [...] il
+       sapere procede sulla linea dell'eguaglianza.[...]. La matematica
+       immanente, detta anche matematica pura, neppure contrappone allo
+       spazio il tempo, come secondo oggetto da considerare per
+       priorità.[...]. Il principio della grandezza-differenza senza
+       concetto, e il principio dell'eguaglianza - astratta unità non
+       vitale -, non riescono ad occuparsi di quella pura inquietudine
+       della vita e distinzione assoluta, che è il tempo»^[24]
+
+   Diversamente dal ragionamento filosofico, i passaggi di un'induzione
+   scientifica non sono necessari, in quanto per un medesimo teorema
+   (ipotesi e tesi) spesso sono note molteplici dimostrazioni, ugualmente
+   vere e indipendenti tra loro. Non essendo necessari e univoci (una sola
+   dimostrazione, di cui si riesca anche a dimostrare a parte che è anche
+   l'unica possibile per il sistema dato di ipotesi e tesi), i passaggi di
+   una dimostrazione matematica non sono prevedibili e intuibili a priori.
+   Se le dimostrazioni sono molteplici e diverse, soltanto una di esse al
+   massimo segue la dialettica dell'oggetto che comunque si realizza in un
+   unico modo. La matematica e il sapere scientifico non appagano, hanno
+   un poco consolante tesoro di verità che ignora il tempo, vera
+   inquietudine della vita. La matematica consiste di proposizioni, vere,
+   ma che sono «rigide e morte; dopo ognuna di questa si può far punto; la
+   seguente ricomincia per conto proprio, senza che la prima accenni a un
+   movimento verso l'altra, e senza che a questo modo sorga una
+   connessione necessaria attraverso la natura della cosa stessa»^[25].
+
+   Senza tempo e movimento non giunge all'essenza, all'opposizione, al
+   passaggio dell'opposto nell'opposto, e tanto meno all'automovimento
+   qualitativo e immanente.
+
+   Nel '900 sarà dimostrato che tutti i concetti della matematica sono
+   riconducibili ad insiemi; conoscere per insiemi fu paragonato da Hegel
+   a «mettere tutto in un sacco». Anche creando un ordinamento fra le
+   proposizioni, come nella geometria euclidea, con postulati teoremi e
+   corollari, non si ottiene una connessione necessaria, ma dei legami
+   molti-a-molti (un postulato, n teoremi, n corollari, e un teorema e
+   corollario dimostrati per vie differenti).
+
+"La Matematica"
+
+   [modifica | modifica wikitesto]
+
+   Nel paragrafo dal titolo "La Matematica", sempre nella Prefazione, in
+   merito alla dimostrazione del teorema di Pitagora, dirà che
+
+   «il triangolo viene smembrato; le sue parti sono volta in altre figure
+   fattevi sorgere dalla dimostrazione. Dunque, il triangolo intorno al
+   quale si deve operare, veniva perduto di vista durante il procedimento,
+   ed era là soltanto in pezzi che appartenevano ad altri intieri»^[26].
+
+   «La necessità non scaturisce dal concetto del teorema, anzi viene
+   imposta; e si deve ciecamente ubbidire alla prescrizione di tirare
+   certe linee, mentre se ne potrebbero tirare infinite altre: tutto ciò
+   con un'ignoranza pari solo alla fede che ciò andrà a buon fine per la
+   condotta della dimostrazione. [...] così la dimostrazione percorre una
+   via che si fa cominciare a un punto qualunque, senza sapere in che
+   rapporto stia con il risultato che deve venir fuori».^[27]
+
+   Hegel critica il modo di procedere della matematica, per quanto
+   concerne le finalità e l'identificazione dei momenti conoscitivi. Il
+   modo matematico, pur sviluppando le interconnessioni tra le varie fasi
+   dello sviluppo del concetto, non descrive accuratamente, e anzi per lo
+   più tralascia lo sviluppo dialettico che dalle ipotesi arriva alla
+   tesi. Per Hegel, la costruzione è un mezzo della conoscenza, ma non un
+   momento dell'oggetto, poiché nella sua struttura non evidenzia
+   chiaramente i momenti dell'evoluzione dialettica.
+
+   La matematica produce sistemi chiusi nei quali la conclusione è la tesi
+   che si intendeva dimostrare, ma proprio perché la fine è uguale al
+   principio, dopo la dimostrazione lo spirito non si è annullato - ciò
+   che è necessario al suo rivelarsi - ed è tornato in se stesso senza in
+   realtà uscirne. Se si considera la tesi come primo momento della
+   fenomenologia del sapere matematico, la dimostrazione si riduce a
+   qualcosa che si può omettere saltando direttamente alla conclusione, è
+   un passaggio che viene da un metodo scientifico per distinguere verità
+   e opinione. In questo modo, si perde la dialettica, tutta la conoscenza
+   che è manifestata durante i cambiamenti dell'oggetto.
+
+   Un sapere compiuto deve mostrare come si struttura l'oggetto,
+   l'esposizione segue il divenire dell'oggetto ed è necessaria. Ciò non è
+   riscontrabile nel procedere matematico, quando la tesi sia posta come
+   primo momento dello sviluppo del sapere.
+
+   «Quel procedere è piuttosto un formalismo monocromatico che giunge alla
+   differenza del contenuto soltanto perché è preparata e già nota. [..].
+   Il formalismo protesta che sentirsi inappagati dell'universalità da lui
+   proposta è incapacità di impadronirsi di una posizione assoluta e a
+   mantenervisi».^[28]
+
+La negazione delle differenze
+
+   [modifica | modifica wikitesto]
+
+   Al formalismo matematico viene contrapposta la posizione di quanti
+   negano le differenze, senza che «questo atto sia conseguenza di uno
+   sviluppo né si giustifichi in sé stesso», potremmo dire che sia il
+   momento della sintesi.
+
+   Dire che «nell'Assoluto, nello A = A, non ci sono certe possibilità,
+   perché lì tutto è uno. Contrapporre alla conoscenza distinta e
+   compiuta, questa razza di sapere, per la quale nell'Assoluto tutto è
+   uguale, - oppure gabellare un suo Assoluto per la notte nella quale,
+   come si è soliti dire, tutte le vacche sono nere, tutto ciò è
+   l'ingenuità di una conoscenza fatua».^[29]
+
+   La conoscenza che si contrappone al formalismo matematico si manifesta
+   in due modi che alla fine sono identici.
+     * affermare che nell'Assoluto, ogni cosa è tutte le altre, e si
+       vedono sparire tutte le differenze;
+     * affermare che l'Assoluto è come «la notte in cui tutte le vacche
+       sono nere», e le differenze non si vedono più.
+
+   La maggiore filosofia al tempo di Hegel ricadeva o in questa indistinta
+   identificazione delle essenze, o nel formalismo matematico - che pure
+   Hegel contestava.
+
+La soluzione del sapere scientifico
+
+   [modifica | modifica wikitesto]
+
+   Hegel elabora una soluzione, che non consisterà né nella conoscenza
+   vuota di un Assoluto senza differenza, né in un'esposizione da lui
+   scelta come è proprio del formalismo matematico. Si nota che la
+   differenza con le due forme di sapere è di metodo, non solo di merito.
+   Ciò è poco sottolineato nel testo successivo, ma è da notare poiché per
+   Hegel il metodo è anche l'oggetto.
+
+   «Secondo il mio modo di vedere, che dovrà giustificarsi soltanto mercé
+   l'esposizione del sistema stesso, tutto dipende dall'intendere e
+   dall'esprimere il vero non come sostanza, ma altrettanto decisamente
+   come soggetto. [...] La sostanza viva è l'essere che è in verità
+   Soggetto. [...] come Soggetto essa è la pura negatività semplice, ed è,
+   proprio per ciò, la scissione del semplice in due parti o la
+   duplicazione opponente; questa, a sua volta, è la negazione di questa
+   diversità indifferente e della sua opposizione; soltanto questa
+   ricostituentesi eguaglianza e la riflessione entro l'esser-altro in sé
+   stesso - non un'unità originaria come tale, né un'unità immediata come
+   tale - è il vero. Il vero è il divenire di sé stesso, il circolo che
+   presuppone e ha all'inizio la propria fine come fine, e che solo
+   mediante l'attuazione e la propria fine è effettuale».^[30]
+
+   La sintesi si crea nel tempo - non è un'unità originaria che poi si
+   manifesta - e si attua in modo mediato. Un circolo ha la proprietà di
+   avere la fine uguale all'inizio della vita di un soggetto/oggetto. Ciò
+   si verifica nel tempo in due modi:
+     * la fine e l'inizio appaiono uguali in momenti diversi, per cui
+       l'oggetto ha le stesse qualità all'inizio e alla fine del suo
+       divenire;
+     * l'inizio e la fine sono solamente nello stesso istante, al termine
+       del mutare dell'oggetto (o soggetto): l'inizio è la causa che avvia
+       il mutare dell'oggetto, e non è diversa ed esterna da questo.
+
+   È una causa finale, per cui fin dall'inizio il mutare dell'oggetto è
+   finalizzato a ciò che sarà alla fine, la fine è il fine. L'inizio è una
+   causa finale, che si realizza solo al termine della sua vita, quando
+   anche l'effetto desiderato si manifesta.
+
+   L'oggetto è vero solo se:
+     * è alla fine della sua vita;
+     * è divenuto secondo un percorso unico e necessario, assumendo una
+       sequenza inevitabile di tappe, figure, determinazioni.
+
+   Perciò, quanto più l'oggetto diviene tanto più è vero, mentre si
+   avvicina al grado massimo di verità, nel momento di sintesi, quando
+   cessa di mutare. Parlando della verità matematica, affermerà che le
+   conclusioni di un teorema sono vere, ma non sono la verità
+   dell'oggetto, perché la dimostrazione non identifica l'oggetto il cui
+   divenire si attua nella dimostrazione della proposizione.
+
+L'autocausazione
+
+   [modifica | modifica wikitesto]
+
+   Quando la fine è uguale all'inizio, la causa coincide con l'effetto e
+   si parla di autocausazione. L'autocausazione può realizzarsi nei due
+   modi detti prima, parlando del circolo.
+
+   L'autocausazione non è in Hegel un effetto che in un istante successivo
+   diviene causa, e attiva un ripetersi all'infinito dello stesso divenire
+   (effetto insieme a causa materiale o formale). L'autocasauzione è da
+   intendersi nel secondo modo, un effetto e causa finale che sono nello
+   stesso istante, nel momento di sintesi, al termine della vita
+   dell'oggetto. L'oggetto è vero (o pienamente vero) alla fine della sua
+   vita, nello stesso istante in cui è vera la causa finale, che perciò è
+   una proprietà dell'oggetto.
+
+Critica al fondazionalismo filosofico
+
+   [modifica | modifica wikitesto]
+
+   Anche a queste parole, è riconducibile la critica che Hegel muove più
+   avanti al fondazionalismo filosofico.
+   Hegel critica l'abitudine di quei pensatori che cercano il fondamento
+   delle proprie affermazioni oltre l'argomento che stanno trattando, in
+   particolare, quando tentano di mettere alcune verità a fondamento di
+   tutte le altre contenute nella filosofia, oppure quando cercano di
+   porre alcuni principi veri alla base della dimostrazione dell'esistenza
+   di Dio.
+
+   La mancata esposizione del movimento dialettico delle proposizioni è
+   causa dell'incomprensibilità di molti scritti filosofici al grande
+   pubblico e della necessità di rileggerli più volte per capirli, perché
+   una volta la frase assume il significato del soggetto, un'altra del suo
+   predicato o accidente.
+
+   «La dimostrazione usuale si vale di fondamenti che abbisognano ancora
+   di una fondazione, e così all'infinito. Peraltro una tale ricerca del
+   fondamento e della condizione appartiene a quel dimostrare da cui
+   differisce il movimento dialettico; appartiene alla conoscenza
+   esteriore. Il movimento dialettico ha un contenuto che è già in tutto e
+   per tutto soggetto». Poco più avanti:
+
+   «vero è l'intero. Ma l'intiero è soltanto l'essenza che si completa
+   mediante il suo sviluppo. Dell'Assoluto si deve dire che esso è
+   essenzialmente Resultato, che solo alla fine è ciò che è in
+   verità».^[31]
+
+   Intero non è solo l'Assoluto, ma la totalità dell'oggetto che si sta
+   considerando, come nell'esempio sui teoremi di geometria in cui Hegel
+   parla di molteplici intieri.
+
+   La verità si consegue soltanto quando i concetti particolari sono
+   considerati non più nella loro astratta separazione, ma come momenti e
+   articolazioni della totalità (cioè dell'intera struttura dialettica) di
+   cui fanno parte (questa tesi è contenuta nella prefazione alla
+   "Fenomenologia dello spirito").
+
+   Tali considerazioni spiegano ad esempio perché Hegel non cercò di dare
+   una dimostrazione dell'esistenza di Dio, ma in "Vita di Gesù" e altri
+   scritti si occupò del fatto storico, di seguire il movimento dialettico
+   così come si era manifestato. Nella Prefazione afferma che l'amore è
+   l'aspetto principale di Dio, e che sarebbe stato inconcepibile senza il
+   dolore terreno. La morte di Gesù, è intesa come il momento del
+   negativo, e un passaggio inevitabile, per quello positivo di sintesi,
+   con l'ascensione e il ritorno al Padre, e l'avverarsi dell'ultima
+   profezia. In quanto uomo, Gesù doveva inevitabilmente morire, ma la
+   morte di Dio è una contraddizione dialettica che può esistere soltanto
+   auf-heben (togliere-conservare), tolta ed insieme restando.
+
+Note
+
+   [modifica | modifica wikitesto]
+
+    1. ↑ Il complesso delle manifestazioni della vita materiale, sociale e
+       spirituale di un popolo o di un gruppo etnico, in relazione alle
+       varie fasi di un processo evolutivo o ai diversi periodi storici o
+       alle condizioni ambientali. Definizione Oxford Languages in ricerca
+       Google.
+    2. ↑ Tr. it. Hegel, Lettere, a cura di Paolo Manganaro, Bari, Laterza,
+       1972, p. 77 ed Epistolario, a cura di Paolo Manganaro, Vol. I,
+       1785-1808, Napoli, Guida, 1983, p. 119.
+    3. ↑ Antonio Gnoli, Un imperatore per il divino Hegel, la
+       Repubblica.it, 28/02/1992.
+    4. ↑ Hegel, il rivoluzionario del pensiero sulla soglia di un’epoca,
+       in Il Manifesto, 30 aprile 2023.
+    5. ↑ cfr. F. Chiereghin, La Fenomenologia dello spirito di Hegel.
+       Introduzione alla lettura, Carocci, Roma 1994, § 1.
+    6. ↑ Per la distinzione fra figure e momenti cfr. F. Chiereghin, La
+       Fenomenologia, cit. e L. Illetterati et al., Hegel, cit., § 2.
+    7. ↑ Hegel principia la sezione dedicata alla religione con
+       un'apparente critica "in prosa", ciò benché sino a quel punto
+       quest'opera scritta sia perlopiù esplicitamente "teorica"
+    8. ↑ cfr. J. Hyppolite, Genesi e struttura, parte I, cap. III.
+    9. ↑ G.F.W. Hegel, Fenomenologia dello Spirito, a cura di Vincenzo
+       Cicero, ed. Rusconi, Milano 1995, pp. 275-289
+   10. ↑ Hegel, Fenomenologia dello spirito, a cura di Ermanno Arrigoni,
+       Armando Editore, 2000, p. 55.
+   11. ↑ «... per tradurre dal tedesco una parola fondamentale e a doppio
+       senso di Hegel, Aufheben, Aufhebung che significa allo stesso tempo
+       sopprimere e elevare» in Susan Petrilli, La traduzione, Meltemi
+       Editore, 2000, p. 41.
+   12. ↑ Giuseppe Vacca, Politica e filosofia in Bertrando Spaventa,
+       Laterza, 1967, p. 284, e Paolo D'Alessandro, Leggere Hegel, oggi,
+       ed. ScriptaWeb, Napoli 2004.
+   13. ↑ Com'è noto, il rapporto servo-padrone troverà ampio svolgimento
+       nella dottrina marxista.
+   14. ↑ Hegel, Fenomenologia dello spirito, trad. it. di E. De Negri, La
+       Nuova Italia, Firenze 1973. Anteprima disponibile su
+       filosofico.net.
+   15. ↑ Hegel, Fenomenologia dello spirito, a cura di Ermanno Arrigoni,
+       Armando Editore, 2000, p. 89
+   16. ↑ Per completare la comprensione di questa parte si passi
+       direttamente alla Filosofia dello Spirito nella sezione Spirito
+       soggettivo.
+   17. ↑ Antonello La Vergata, Franco Trabattoni, Filosofia cultura
+       cittadinanza, unità 9, Hegel, lo spirito e la storia, RCS Libri
+       S.p.A./La Nuova Italia, 2011, p. 3
+   18. 1 2 3 Antonello La Vergata, Franco Trabattoni, op.cit., ibidem
+   19. ↑ Dizionario di filosofia Treccani 2009 alla parola corrispondente
+   20. ↑ Il significato fondamentale della Fenomenologia dello spirito di
+       Hegel, su gazzettafilosofica.net.
+   21. ↑ cfr. J. Hyppolite, Genesi e struttura della Fenomenologia dello
+       Spirito di Hegel, La nuova Italia, Firenze 1972, parte I.
+   22. ↑ Georg Wilhelm Friedrich Hegel, Prefazione, a cura di Giuseppe
+       Gembillo e Deborah Donato, Rubbettino Editore, 2006, p. 35
+   23. ↑ Antonio Moretto, Hegel e la "matematica dell'infinito", ed.
+       Verifiche, 1984, p. 11
+   24. ↑ Georg Wilhelm Friedrich Hegel, I principi di Hegel: frammenti
+       giovanili, scritti del periodo jenense, Prefazione alla
+       Fenomenologia, a cura di Enrico De Negri, Nuova Italia, 1949, p.
+       117
+   25. ↑ Op.cit., ibidem
+   26. ↑ Op.cit., p. 116
+   27. ↑ Hegel, Prefazione (alla Fenomenologia dello spirito), a cura di
+       G. Gembillo, D. Donato, op.cit., p. 51
+   28. ↑ Grande antologia filosofica: Il pensiero moderno, diretta da M.
+       F. Sciacca, coordinata da M. Schiavone, Andrea Mario Moschetti, ed.
+       C. Marzorati, 1971, p. 496
+   29. ↑ Paolo D'Alessandro, Leggere Hegel, oggi. Napoli, 2004
+   30. ↑ Friedrich Hegel, Fenomenologia dello spirito, Armando Editore,
+       2000, p. 173
+   31. ↑ I principi di Hegel, op.cit. p.143
+
+Bibliografia
+
+   [modifica | modifica wikitesto]
+
+Traduzioni italiane della Fenomenologia dello spirito
+
+   [modifica | modifica wikitesto]
+
+     * Fenomenologia dello spirito, trad di E. De Negri, La Nuova Italia,
+       Firenze 1933.
+     * Fenomenologia dello spirito, trad. di V. Cicero, Rusconi, Milano
+       1995 (rist. Bompiani, Milano 2000).
+     * La fenomenologia dello spirito. Sistema della scienza, parte prima,
+       trad. di G. Garelli, Einaudi, Torino 2008.
+     * Fenomenologia dello spirito, trad. e commento di Adriano Tassi,
+       Brescia, Scholé, 2024.
+
+Introduzioni e Approfondimenti
+
+   [modifica | modifica wikitesto]
+
+   Sulla Prefazione
+     * Aldo Stella, La Prefazione alla Fenomenologia dello spirito di
+       Hegel. Interpretazioni critiche e approfondimenti teoretici,
+       Aracne, Roma 2021.
+
+Introduzioni
+
+   [modifica | modifica wikitesto]
+
+     * Franco Chiereghin, La Fenomenologia dello spirito di Hegel:
+       introduzione alla lettura, Carocci, Urbino, 1994.
+     * Jean Hyppolite, Genesi e struttura della Fenomenologia dello
+       Spirito di Hegel, La Nuova Italia, Firenze 1972.
+     * Alexandre Kojève, Introduzione alla lettura di Hegel, Adelphi,
+       Milano 1996.
+     * Valerio Verra, Introduzione a Hegel, Laterza, Roma-Bari, 1988.
+
+Approfondimenti
+
+   [modifica | modifica wikitesto]
+
+     * AA.VV. Interpretazioni hegeliane, a cura di Roberto Salvadori, La
+       Nuova Italia, Firenze 1980.
+     * Ernst Bloch, Soggetto - oggetto. Commento a Hegel, il Mulino,
+       Bologna 1975.
+     * Martin Heidegger, La fenomenologia dello spirito di Hegel, Guida,
+       Napoli 2000.
+     * L. Illetterati, P. Giuspoli, G. Mendola, Hegel, Carocci, Roma 2010.
+     * A. Moretto, Hegel e la "matematica dell'infinito", Verifiche,
+       Trento 1984.
+     * R. Roni, Il lavoro della ragione. Dimensioni del soggetto nella
+       Fenomenologia dello spirito di Hegel, Firenze University Press,
+       Firenze 2012.
+     * Jean Wahl, La coscienza infelice nella filosofia di Hegel, ILI,
+       Milano 1971.
+
+Voci correlate
+
+   [modifica | modifica wikitesto]
+
+     * Pensiero di Hegel
+     * Georg Wilhelm Friedrich Hegel
+     * Idealismo tedesco
+
+Altri progetti
+
+   [modifica | modifica wikitesto]
+
+   Altri progetti
+     * Wikiquote
+
+     * Collabora a Wikiquote Wikiquote contiene citazioni dalla
+       Fenomenologia dello spirito
+
+Collegamenti esterni
+
+   [modifica | modifica wikitesto]
+
+     *
+     * Sito ufficiale, su global.oup.com. Modifica su Wikidata
+     * Fenomenologia dello spirito (Phanomenologie des Geistes, 1807), in
+       Dizionario di filosofia, Istituto dell'Enciclopedia Italiana, 2009.
+       Modifica su Wikidata
+     * Fenomenologìa dello spìrito, su sapere.it, De Agostini. Modifica su
+       Wikidata
+     * (EN) The Phenomenology of Mind / Phenomenology of Spirit, su
+       Enciclopedia Britannica, Encyclopædia Britannica, Inc. Modifica su
+       Wikidata
+     * (EN) Edizioni e traduzioni di Fenomenologia dello spirito, su Open
+       Library, Internet Archive. Modifica su Wikidata
+     * (EN) Fenomenologia dello spirito, su Goodreads. Modifica su
+       Wikidata
+
+     L'introduzione alla "Fenomenologia dello spirito" a cura di Gadamer
+
+   Controllo di autorità LCCN (EN) no2018154253 · GND (DE) 4099222-6 · BNF
+   (FR) cb11943641n (data) · J9U (EN, HE) 987007588175405171 · NDL
+   (EN, JA) 00627468
+
+     Portale Filosofia: accedi alle voci di Wikipedia che trattano di
+   filosofia
+
+   Estratto da
+   "https://it.wikipedia.org/w/index.php?title=Fenomenologia_dello_spirito
+   &oldid=148480750"
+
+   Categorie:
+     * Saggi del 1807
+     * Saggi in tedesco
+     * Opere di Georg Wilhelm Friedrich Hegel
+     * Idealismo tedesco
+     * Religione e politica
+
+   Categorie nascoste:
+     * P18 uguale su Wikidata
+     * P50 letta da Wikidata
+     * Collegamento interprogetto a Wikiquote presente ma assente su
+       Wikidata
+     * P856 letta da Wikidata
+     * P7993 letta da Wikidata
+     * P6706 letta da Wikidata
+     * P1417 letta da Wikidata
+     * P648 letta da Wikidata
+     * P8383 letta da Wikidata
+     * Voci con codice LCCN
+     * Voci con codice GND
+     * Voci con codice BNF
+     * Voci con codice J9U
+     * Voci con codice NDL
+     * Voci non biografiche con codici di controllo di autorità
+
+     * Questa pagina è stata modificata per l'ultima volta il 14 dic 2025
+       alle 17:39.
+     * La pagina è stata renderizzata con Parsoid.
+     * Il testo è disponibile secondo la licenza Creative Commons
+       Attribuzione-Condividi allo stesso modo; possono applicarsi
+       condizioni ulteriori. Vedi le condizioni d'uso per i dettagli.
+
+     * Informativa sulla privacy
+     * Informazioni su Wikipedia
+     * Avvertenze
+     * Contatti legali e di sicurezza
+     * Codice di condotta
+     * Sviluppatori
+     * Statistiche
+     * Dichiarazione sui cookie
+     * Versione mobile
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki
+
+   (BUTTON) Ricerca
+   ____________________
+   (BUTTON) Ricerca
+
+   [ ] Mostra/Nascondi l'indice
+   Fenomenologia dello spirito
+   (BUTTON) 32 lingue Aggiungi argomento
