@@ -955,11 +955,11 @@ Mots proches
    QUIZ
      __________________________________________________________________
 
-   Parmi ces mots, lequel n'est pas d'origine italienne ?
+   Lequel de ces noms n'est pas féminin ?
      *
-          + (*) scampi
-          + ( ) razzia
-          + ( ) scherzo
+          + (*) alvéole
+          + ( ) astérisque
+          + ( ) épigramme
 
    Applications mobiles Index Mentions légales et crédits CGU CGV Charte
    de confidentialité Cookies Contact À la une © Larousse

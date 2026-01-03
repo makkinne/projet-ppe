@@ -21,6 +21,8 @@ LANGUE=$5 # la langue, pour pouvoir nommer les fichiers
 mkdir -p "$DOSSIER_TABLEAUX/../aspirations"
 mkdir -p "$DOSSIER_TABLEAUX/../dumps-text"
 mkdir -p "$DOSSIER_TABLEAUX/../contextes"
+mkdir -p "$DOSSIER_TABLEAUX/../concordances"
+mkdir -p "$DOSSIER_TABLEAUX/../bigrams"
 
 echo "<!DOCTYPE html>
 <html lang=\"fr\">
@@ -34,7 +36,7 @@ echo "<!DOCTYPE html>
             --primary-gradient: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
         }
         body {
-            background-color: #f9fafb;
+            background-color: white;
             min-height: 100vh;
             display: flex;
             flex-direction: column;
@@ -46,10 +48,6 @@ echo "<!DOCTYPE html>
         .section {
             flex: 1;
         }
-        .footer {
-            background-color: white;
-            padding: 2rem 1.5rem;
-        }
     </style>
 </head>
 <body>
@@ -58,7 +56,7 @@ echo "<!DOCTYPE html>
             <div class=\"container\">
                 <div class=\"columns is-vcentered\">
                     <div class=\"column\">
-                        <h1 class=\"title has-text-white\">Résultats pour : $MOT_CLE</h1>
+                        <h1 class=\"title has-text-white\">Résultats pour : '$MOT_CLE'</h1>
                     </div>
                     <div class=\"column is-narrow\">
                         <a href=\"../index.html\" class=\"button is-light is-outlined\">
@@ -81,6 +79,9 @@ echo "<!DOCTYPE html>
                                 <th>URL</th>
                                 <th>Code HTTP</th>
                                 <th>Encodage</th>
+                                <th>Occurrences</th>
+                                <th>Concordancier</th>
+                                <th>Bigrammes</th>
                                 <th>HTML</th>
                                 <th>TXT</th>
                                 <th>Contexte</th>
@@ -98,6 +99,8 @@ while read -r URL; do
         f_aspirations="$DOSSIER_TABLEAUX/../aspirations/${LANGUE}-${lineno}.html"
         f_dump="$DOSSIER_TABLEAUX/../dumps-text/${LANGUE}-${lineno}.txt"
         f_contexte="$DOSSIER_TABLEAUX/../contextes/${LANGUE}-${lineno}.txt"
+        f_concordance="$DOSSIER_TABLEAUX/../concordances/${LANGUE}-${lineno}.html"
+        f_2gram="$DOSSIER_TABLEAUX/../bigrams/${LANGUE}-${lineno}.html"
 
         # Récupérer la page
         code=$(curl -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" -L -s -o "$f_aspirations" -w "%{http_code}" "$URL")
@@ -137,20 +140,100 @@ while read -r URL; do
                 nb_contexte=0
             fi
 
+            # Compte des occurrences
+            compte=$(grep -o -i "$MOT_CLE" "$f_dump" | wc -l)
+
+            # Construction du concordancier
+            echo "<!DOCTYPE html>
+<html lang=\"fr\">
+<head>
+    <meta charset=\"UTF-8\">
+    <title>Concordancier : $MOT_CLE</title>
+    <link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/bulma@1.0.4/css/bulma.min.css\">
+</head>
+<body>
+    <section class=\"section\">
+        <div class=\"container\">
+            <h1 class=\"title\">Concordancier pour le mot : $MOT_CLE</h1>
+            <a href=\"../$FICHIER_RESULTAT\" class=\"button is-small is-link is-outlined mb-4\">Retour au tableau</a>
+            <table class=\"table is-striped is-hoverable is-fullwidth\">
+                <thead>
+                    <tr>
+                        <th class=\"has-text-right\" style=\"width:45%\">Contexte gauche</th>
+                        <th class=\"has-text-centered\">Mot</th>
+                        <th class=\"has-text-left\" style=\"width:45%\">Contexte droit</th>
+                    </tr>
+                </thead>
+                <tbody>" > "$f_concordance"
+
+            grep -E -o -i ".{0,50}$MOT_CLE.{0,50}" "$f_dump" | sed -E "s/($MOT_CLE)/<\/td><td class=\"has-text-centered\"><strong>\1<\/strong><\/td><td class=\"has-text-left\">/I" | sed -E "s/^/<tr><td class=\"has-text-right\">/" | sed -E "s/$/<\/td><\/tr>/" >> "$f_concordance"
+
+            echo "</tbody>
+            </table>
+        </div>
+    </section>
+</body>
+</html>" >> "$f_concordance"
+
+
+ # Construction des 2-grammes
+            echo "<!DOCTYPE html>
+<html lang=\"fr\">
+<head>
+    <meta charset=\"UTF-8\">
+    <title>Bigrammes : $MOT_CLE</title>
+    <link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/bulma@1.0.4/css/bulma.min.css\">
+</head>
+<body>
+    <section class=\"section\">
+        <div class=\"container\">
+            <h1 class=\"title\">Bigrammes pour le mot : $MOT_CLE</h1>
+            <a href=\"../$FICHIER_RESULTAT\" class=\"button is-small is-link is-outlined mb-4\">Retour au tableau</a>
+            <table class=\"table is-striped is-hoverable is-fullwidth\">
+                <thead>
+                    <tr>
+                        <th class=\"has-text-right\" style=\"width:45%\">Contexte gauche</th>
+                        <th class=\"has-text-centered\">Mot</th>
+                        <th class=\"has-text-left\" style=\"width:45%\">Contexte droit</th>
+                    </tr>
+                </thead>
+                <tbody>" > "$f_2gram"
+
+            # grep -P : utilise des regex Perl pour une meilleure gestion des mots (\w) et non-mots (\W)
+            # -o : affiche uniquement la partie correspondante (le bigramme)
+            # -i : insensible à la casse
+            # Regex : \w+ (mot gauche) \W+ (séparateur) \w*$MOT_CLE\w* (mot contenant le mot clé) \W+ (séparateur) \w+ (mot droit)
+            # sed 1 : remplace le mot central par des balises de fin/début de colonne pour le centrer
+            # sed 2 : ajoute le début de ligne du tableau
+            # sed 3 : ajoute la fin de ligne du tableau
+            grep -P -o -i "\w+\W+\w*$MOT_CLE\w*\W+\w+" "$f_dump" | sed -E "s/(\w*$MOT_CLE\w*)/<\/td><td class=\"has-text-centered\"><strong>\1<\/strong><\/td><td class=\"has-text-left\">/I" | sed -E "s/^/<tr><td class=\"has-text-right\">/" | sed -E "s/$/<\/td><\/tr>/" >> "$f_2gram"
+
+            echo "</tbody>
+            </table>
+        </div>
+    </section>
+</body>
+</html>" >> "$f_2gram"
+
         else
             echo "" > "$f_dump"
             echo "Erreur HTTP $code" > "$f_contexte"
+            echo "" > "$f_concordance"
+            compte=0
         fi
 
         # output pour le tableau, avec une ligne par URL
         echo "    <tr>
-            <td>$lineno</td>
-            <td><a href=\"$URL\" target=\"_blank\">lien</a></td>
-            <td>$code</td>
-            <td>$encoding</td>
-            <td><a href=\"../aspirations/${LANGUE}-${lineno}.html\">html</a></td>
-            <td><a href=\"../dumps-text/${LANGUE}-${lineno}.txt\">txt</a></td>
-            <td><a href=\"../contextes/${LANGUE}-${lineno}.txt\">contexte ($nb_contexte lignes)</a></td>
+        <td>$lineno</td>
+        <td><a href="$URL" target="_blank">lien</a></td>
+        <td>$code</td>
+        <td>$encoding</td>
+        <td>$compte</td>
+        <td><a href=\"../concordances/${LANGUE}-${lineno}.html\">concordance</a></td>
+        <td><a href=\"../bigrams/${LANGUE}-${lineno}.html\">bigrammes</a></td>
+        <td><a href=\"../aspirations/${LANGUE}-${lineno}.html\">html</a></td>
+        <td><a href=\"../dumps-text/${LANGUE}-${lineno}.txt\">txt</a></td>
+        <td><a href=\"../contextes/${LANGUE}-${lineno}.txt\">contexte ($nb_contexte lignes)</a></td>
         </tr>" >> "$FICHIER_RESULTAT"
 
         ((lineno++))
@@ -158,14 +241,10 @@ while read -r URL; do
     fi
 done < "$FICHIER_URL"
 
-echo "                        </tbody>
-                    </table>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    
-</body>
-</html>" >> "$FICHIER_RESULTAT"
+echo "</tbody>
+</table>
+</div>
+</div>
+</div>
+</section>" >> "$FICHIER_RESULTAT"
 echo "fichier texte généré: $FICHIER_RESULTAT"

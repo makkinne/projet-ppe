@@ -10,7 +10,7 @@
             --primary-gradient: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
         }
         body {
-            background-color: #f9fafb;
+            background-color: white;
             min-height: 100vh;
             display: flex;
             flex-direction: column;
@@ -22,10 +22,6 @@
         .section {
             flex: 1;
         }
-        .footer {
-            background-color: white;
-            padding: 2rem 1.5rem;
-        }
     </style>
 </head>
 <body>
@@ -34,7 +30,7 @@
             <div class="container">
                 <div class="columns is-vcentered">
                     <div class="column">
-                        <h1 class="title has-text-white">Résultats pour : esprit</h1>
+                        <h1 class="title has-text-white">Résultats pour : 'esprit'</h1>
                     </div>
                     <div class="column is-narrow">
                         <a href="../index.html" class="button is-light is-outlined">
@@ -57,6 +53,9 @@
                                 <th>URL</th>
                                 <th>Code HTTP</th>
                                 <th>Encodage</th>
+                                <th>Occurrences</th>
+                                <th>Concordancier</th>
+                                <th>Bigrammes</th>
                                 <th>HTML</th>
                                 <th>TXT</th>
                                 <th>Contexte</th>
@@ -64,462 +63,608 @@
                         </thead>
                         <tbody>
     <tr>
-            <td>1</td>
-            <td><a href="https://eglise.catholique.fr/glossaire/esprit/" target="_blank">lien</a></td>
-            <td>200</td>
-            <td>utf-8</td>
-            <td><a href="../aspirations/fr-1.html">html</a></td>
-            <td><a href="../dumps-text/fr-1.txt">txt</a></td>
-            <td><a href="../contextes/fr-1.txt">contexte (12 lignes)</a></td>
+        <td>1</td>
+        <td><a href=https://eglise.catholique.fr/glossaire/esprit/ target=_blank>lien</a></td>
+        <td>200</td>
+        <td>utf-8</td>
+        <td>5</td>
+        <td><a href="../concordances/fr-1.html">concordance</a></td>
+        <td><a href="../bigrams/fr-1.html">bigrammes</a></td>
+        <td><a href="../aspirations/fr-1.html">html</a></td>
+        <td><a href="../dumps-text/fr-1.txt">txt</a></td>
+        <td><a href="../contextes/fr-1.txt">contexte (12 lignes)</a></td>
         </tr>
     <tr>
-            <td>2</td>
-            <td><a href="https://fr.wiktionary.org/wiki/esprit" target="_blank">lien</a></td>
-            <td>200</td>
-            <td>utf-8</td>
-            <td><a href="../aspirations/fr-2.html">html</a></td>
-            <td><a href="../dumps-text/fr-2.txt">txt</a></td>
-            <td><a href="../contextes/fr-2.txt">contexte (321 lignes)</a></td>
+        <td>2</td>
+        <td><a href=https://fr.wiktionary.org/wiki/esprit target=_blank>lien</a></td>
+        <td>200</td>
+        <td>utf-8</td>
+        <td>153</td>
+        <td><a href="../concordances/fr-2.html">concordance</a></td>
+        <td><a href="../bigrams/fr-2.html">bigrammes</a></td>
+        <td><a href="../aspirations/fr-2.html">html</a></td>
+        <td><a href="../dumps-text/fr-2.txt">txt</a></td>
+        <td><a href="../contextes/fr-2.txt">contexte (321 lignes)</a></td>
         </tr>
     <tr>
-            <td>3</td>
-            <td><a href="https://www.dvv-international.de/fr/education-des-adultes-et-developpement/numeros/ead-832016-aptitudes-et-competences/section-4-voila-ce-quil-vous-faut/lesprit-critique-une-competence-cle-pour-lavenir" target="_blank">lien</a></td>
-            <td>200</td>
-            <td>utf-8</td>
-            <td><a href="../aspirations/fr-3.html">html</a></td>
-            <td><a href="../dumps-text/fr-3.txt">txt</a></td>
-            <td><a href="../contextes/fr-3.txt">contexte (148 lignes)</a></td>
+        <td>3</td>
+        <td><a href=https://www.dvv-international.de/fr/education-des-adultes-et-developpement/numeros/ead-832016-aptitudes-et-competences/section-4-voila-ce-quil-vous-faut/lesprit-critique-une-competence-cle-pour-lavenir target=_blank>lien</a></td>
+        <td>200</td>
+        <td>utf-8</td>
+        <td>34</td>
+        <td><a href="../concordances/fr-3.html">concordance</a></td>
+        <td><a href="../bigrams/fr-3.html">bigrammes</a></td>
+        <td><a href="../aspirations/fr-3.html">html</a></td>
+        <td><a href="../dumps-text/fr-3.txt">txt</a></td>
+        <td><a href="../contextes/fr-3.txt">contexte (148 lignes)</a></td>
         </tr>
     <tr>
-            <td>4</td>
-            <td><a href="https://kadampa.org/fr/reference/quest-ce-que-lesprit" target="_blank">lien</a></td>
-            <td>200</td>
-            <td>utf-8</td>
-            <td><a href="../aspirations/fr-4.html">html</a></td>
-            <td><a href="../dumps-text/fr-4.txt">txt</a></td>
-            <td><a href="../contextes/fr-4.txt">contexte (45 lignes)</a></td>
+        <td>4</td>
+        <td><a href=https://kadampa.org/fr/reference/quest-ce-que-lesprit target=_blank>lien</a></td>
+        <td>200</td>
+        <td>utf-8</td>
+        <td>19</td>
+        <td><a href="../concordances/fr-4.html">concordance</a></td>
+        <td><a href="../bigrams/fr-4.html">bigrammes</a></td>
+        <td><a href="../aspirations/fr-4.html">html</a></td>
+        <td><a href="../dumps-text/fr-4.txt">txt</a></td>
+        <td><a href="../contextes/fr-4.txt">contexte (45 lignes)</a></td>
         </tr>
     <tr>
-            <td>5</td>
-            <td><a href="https://philosciences.com/esprit" target="_blank">lien</a></td>
-            <td>200</td>
-            <td>utf-8</td>
-            <td><a href="../aspirations/fr-5.html">html</a></td>
-            <td><a href="../dumps-text/fr-5.txt">txt</a></td>
-            <td><a href="../contextes/fr-5.txt">contexte (63 lignes)</a></td>
+        <td>5</td>
+        <td><a href=https://philosciences.com/esprit target=_blank>lien</a></td>
+        <td>200</td>
+        <td>utf-8</td>
+        <td>19</td>
+        <td><a href="../concordances/fr-5.html">concordance</a></td>
+        <td><a href="../bigrams/fr-5.html">bigrammes</a></td>
+        <td><a href="../aspirations/fr-5.html">html</a></td>
+        <td><a href="../dumps-text/fr-5.txt">txt</a></td>
+        <td><a href="../contextes/fr-5.txt">contexte (63 lignes)</a></td>
         </tr>
     <tr>
-            <td>6</td>
-            <td><a href="https://www.gotquestions.org/Francais/esprit-humain.html" target="_blank">lien</a></td>
-            <td>200</td>
-            <td>utf-8</td>
-            <td><a href="../aspirations/fr-6.html">html</a></td>
-            <td><a href="../dumps-text/fr-6.txt">txt</a></td>
-            <td><a href="../contextes/fr-6.txt">contexte (60 lignes)</a></td>
+        <td>6</td>
+        <td><a href=https://www.gotquestions.org/Francais/esprit-humain.html target=_blank>lien</a></td>
+        <td>200</td>
+        <td>utf-8</td>
+        <td>28</td>
+        <td><a href="../concordances/fr-6.html">concordance</a></td>
+        <td><a href="../bigrams/fr-6.html">bigrammes</a></td>
+        <td><a href="../aspirations/fr-6.html">html</a></td>
+        <td><a href="../dumps-text/fr-6.txt">txt</a></td>
+        <td><a href="../contextes/fr-6.txt">contexte (60 lignes)</a></td>
         </tr>
     <tr>
-            <td>7</td>
-            <td><a href="https://www.viedanslesprit.fr/programme" target="_blank">lien</a></td>
-            <td>200</td>
-            <td>us-ascii</td>
-            <td><a href="../aspirations/fr-7.html">html</a></td>
-            <td><a href="../dumps-text/fr-7.txt">txt</a></td>
-            <td><a href="../contextes/fr-7.txt">contexte (46 lignes)</a></td>
+        <td>7</td>
+        <td><a href=https://www.viedanslesprit.fr/programme target=_blank>lien</a></td>
+        <td>200</td>
+        <td>us-ascii</td>
+        <td>13</td>
+        <td><a href="../concordances/fr-7.html">concordance</a></td>
+        <td><a href="../bigrams/fr-7.html">bigrammes</a></td>
+        <td><a href="../aspirations/fr-7.html">html</a></td>
+        <td><a href="../dumps-text/fr-7.txt">txt</a></td>
+        <td><a href="../contextes/fr-7.txt">contexte (46 lignes)</a></td>
         </tr>
     <tr>
-            <td>8</td>
-            <td><a href="https://www.cnrtl.fr/definition/esprit" target="_blank">lien</a></td>
-            <td>200</td>
-            <td>utf-8</td>
-            <td><a href="../aspirations/fr-8.html">html</a></td>
-            <td><a href="../dumps-text/fr-8.txt">txt</a></td>
-            <td><a href="../contextes/fr-8.txt">contexte (1008 lignes)</a></td>
+        <td>8</td>
+        <td><a href=https://www.cnrtl.fr/definition/esprit target=_blank>lien</a></td>
+        <td>200</td>
+        <td>utf-8</td>
+        <td>609</td>
+        <td><a href="../concordances/fr-8.html">concordance</a></td>
+        <td><a href="../bigrams/fr-8.html">bigrammes</a></td>
+        <td><a href="../aspirations/fr-8.html">html</a></td>
+        <td><a href="../dumps-text/fr-8.txt">txt</a></td>
+        <td><a href="../contextes/fr-8.txt">contexte (1008 lignes)</a></td>
         </tr>
     <tr>
-            <td>9</td>
-            <td><a href="https://www.larousse.fr/dictionnaires/francais/esprit/31059" target="_blank">lien</a></td>
-            <td>200</td>
-            <td>utf-8</td>
-            <td><a href="../aspirations/fr-9.html">html</a></td>
-            <td><a href="../dumps-text/fr-9.txt">txt</a></td>
-            <td><a href="../contextes/fr-9.txt">contexte (765 lignes)</a></td>
+        <td>9</td>
+        <td><a href=https://www.larousse.fr/dictionnaires/francais/esprit/31059 target=_blank>lien</a></td>
+        <td>200</td>
+        <td>utf-8</td>
+        <td>292</td>
+        <td><a href="../concordances/fr-9.html">concordance</a></td>
+        <td><a href="../bigrams/fr-9.html">bigrammes</a></td>
+        <td><a href="../aspirations/fr-9.html">html</a></td>
+        <td><a href="../dumps-text/fr-9.txt">txt</a></td>
+        <td><a href="../contextes/fr-9.txt">contexte (765 lignes)</a></td>
         </tr>
     <tr>
-            <td>10</td>
-            <td><a href="https://www.dictionnaire-academie.fr/article/A9E2642-A" target="_blank">lien</a></td>
-            <td>200</td>
-            <td>utf-8</td>
-            <td><a href="../aspirations/fr-10.html">html</a></td>
-            <td><a href="../dumps-text/fr-10.txt">txt</a></td>
-            <td><a href="../contextes/fr-10.txt">contexte (220 lignes)</a></td>
+        <td>10</td>
+        <td><a href=https://www.dictionnaire-academie.fr/article/A9E2642-A target=_blank>lien</a></td>
+        <td>200</td>
+        <td>utf-8</td>
+        <td>216</td>
+        <td><a href="../concordances/fr-10.html">concordance</a></td>
+        <td><a href="../bigrams/fr-10.html">bigrammes</a></td>
+        <td><a href="../aspirations/fr-10.html">html</a></td>
+        <td><a href="../dumps-text/fr-10.txt">txt</a></td>
+        <td><a href="../contextes/fr-10.txt">contexte (220 lignes)</a></td>
         </tr>
     <tr>
-            <td>11</td>
-            <td><a href="https://regardsprotestants.com/video/bible-theologie/comprendre-bible/le-saint-esprit-quest-ce-que-cest/" target="_blank">lien</a></td>
-            <td>200</td>
-            <td>utf-8</td>
-            <td><a href="../aspirations/fr-11.html">html</a></td>
-            <td><a href="../dumps-text/fr-11.txt">txt</a></td>
-            <td><a href="../contextes/fr-11.txt">contexte (53 lignes)</a></td>
+        <td>11</td>
+        <td><a href=https://regardsprotestants.com/video/bible-theologie/comprendre-bible/le-saint-esprit-quest-ce-que-cest/ target=_blank>lien</a></td>
+        <td>200</td>
+        <td>utf-8</td>
+        <td>18</td>
+        <td><a href="../concordances/fr-11.html">concordance</a></td>
+        <td><a href="../bigrams/fr-11.html">bigrammes</a></td>
+        <td><a href="../aspirations/fr-11.html">html</a></td>
+        <td><a href="../dumps-text/fr-11.txt">txt</a></td>
+        <td><a href="../contextes/fr-11.txt">contexte (53 lignes)</a></td>
         </tr>
     <tr>
-            <td>12</td>
-            <td><a href="https://regardsprotestants.com/bible-theologie/saint-esprit-dieu-agit-en-nous/" target="_blank">lien</a></td>
-            <td>200</td>
-            <td>utf-8</td>
-            <td><a href="../aspirations/fr-12.html">html</a></td>
-            <td><a href="../dumps-text/fr-12.txt">txt</a></td>
-            <td><a href="../contextes/fr-12.txt">contexte (32 lignes)</a></td>
+        <td>12</td>
+        <td><a href=https://regardsprotestants.com/bible-theologie/saint-esprit-dieu-agit-en-nous/ target=_blank>lien</a></td>
+        <td>200</td>
+        <td>utf-8</td>
+        <td>13</td>
+        <td><a href="../concordances/fr-12.html">concordance</a></td>
+        <td><a href="../bigrams/fr-12.html">bigrammes</a></td>
+        <td><a href="../aspirations/fr-12.html">html</a></td>
+        <td><a href="../dumps-text/fr-12.txt">txt</a></td>
+        <td><a href="../contextes/fr-12.txt">contexte (32 lignes)</a></td>
         </tr>
     <tr>
-            <td>13</td>
-            <td><a href="https://www.lejourduseigneur.com/bible/esprit-saint" target="_blank">lien</a></td>
-            <td>200</td>
-            <td>utf-8</td>
-            <td><a href="../aspirations/fr-13.html">html</a></td>
-            <td><a href="../dumps-text/fr-13.txt">txt</a></td>
-            <td><a href="../contextes/fr-13.txt">contexte (79 lignes)</a></td>
+        <td>13</td>
+        <td><a href=https://www.lejourduseigneur.com/bible/esprit-saint target=_blank>lien</a></td>
+        <td>200</td>
+        <td>utf-8</td>
+        <td>35</td>
+        <td><a href="../concordances/fr-13.html">concordance</a></td>
+        <td><a href="../bigrams/fr-13.html">bigrammes</a></td>
+        <td><a href="../aspirations/fr-13.html">html</a></td>
+        <td><a href="../dumps-text/fr-13.txt">txt</a></td>
+        <td><a href="../contextes/fr-13.txt">contexte (79 lignes)</a></td>
         </tr>
     <tr>
-            <td>14</td>
-            <td><a href="https://monegliseaozoir.fr/predication/pentecote-2005/" target="_blank">lien</a></td>
-            <td>200</td>
-            <td>utf-8</td>
-            <td><a href="../aspirations/fr-14.html">html</a></td>
-            <td><a href="../dumps-text/fr-14.txt">txt</a></td>
-            <td><a href="../contextes/fr-14.txt">contexte (157 lignes)</a></td>
+        <td>14</td>
+        <td><a href=https://monegliseaozoir.fr/predication/pentecote-2005/ target=_blank>lien</a></td>
+        <td>200</td>
+        <td>utf-8</td>
+        <td>64</td>
+        <td><a href="../concordances/fr-14.html">concordance</a></td>
+        <td><a href="../bigrams/fr-14.html">bigrammes</a></td>
+        <td><a href="../aspirations/fr-14.html">html</a></td>
+        <td><a href="../dumps-text/fr-14.txt">txt</a></td>
+        <td><a href="../contextes/fr-14.txt">contexte (157 lignes)</a></td>
         </tr>
     <tr>
-            <td>15</td>
-            <td><a href="https://encyclo-philo.fr/philosophie-de-lesprit-a" target="_blank">lien</a></td>
-            <td>200</td>
-            <td>utf-8</td>
-            <td><a href="../aspirations/fr-15.html">html</a></td>
-            <td><a href="../dumps-text/fr-15.txt">txt</a></td>
-            <td><a href="../contextes/fr-15.txt">contexte (151 lignes)</a></td>
+        <td>15</td>
+        <td><a href=https://encyclo-philo.fr/philosophie-de-lesprit-a target=_blank>lien</a></td>
+        <td>200</td>
+        <td>utf-8</td>
+        <td>41</td>
+        <td><a href="../concordances/fr-15.html">concordance</a></td>
+        <td><a href="../bigrams/fr-15.html">bigrammes</a></td>
+        <td><a href="../aspirations/fr-15.html">html</a></td>
+        <td><a href="../dumps-text/fr-15.txt">txt</a></td>
+        <td><a href="../contextes/fr-15.txt">contexte (151 lignes)</a></td>
         </tr>
     <tr>
-            <td>16</td>
-            <td><a href="https://philosciences.com/idee-esprit" target="_blank">lien</a></td>
-            <td>200</td>
-            <td>utf-8</td>
-            <td><a href="../aspirations/fr-16.html">html</a></td>
-            <td><a href="../dumps-text/fr-16.txt">txt</a></td>
-            <td><a href="../contextes/fr-16.txt">contexte (608 lignes)</a></td>
+        <td>16</td>
+        <td><a href=https://philosciences.com/idee-esprit target=_blank>lien</a></td>
+        <td>200</td>
+        <td>utf-8</td>
+        <td>209</td>
+        <td><a href="../concordances/fr-16.html">concordance</a></td>
+        <td><a href="../bigrams/fr-16.html">bigrammes</a></td>
+        <td><a href="../aspirations/fr-16.html">html</a></td>
+        <td><a href="../dumps-text/fr-16.txt">txt</a></td>
+        <td><a href="../contextes/fr-16.txt">contexte (608 lignes)</a></td>
         </tr>
     <tr>
-            <td>17</td>
-            <td><a href="https://cortecs.org/superieur/former-lesprit-critique-ressources-pour-enseignant%C2%B7e%C2%B7s/" target="_blank">lien</a></td>
-            <td>200</td>
-            <td>utf-8</td>
-            <td><a href="../aspirations/fr-17.html">html</a></td>
-            <td><a href="../dumps-text/fr-17.txt">txt</a></td>
-            <td><a href="../contextes/fr-17.txt">contexte (66 lignes)</a></td>
+        <td>17</td>
+        <td><a href=https://cortecs.org/superieur/former-lesprit-critique-ressources-pour-enseignant%C2%B7e%C2%B7s/ target=_blank>lien</a></td>
+        <td>200</td>
+        <td>utf-8</td>
+        <td>20</td>
+        <td><a href="../concordances/fr-17.html">concordance</a></td>
+        <td><a href="../bigrams/fr-17.html">bigrammes</a></td>
+        <td><a href="../aspirations/fr-17.html">html</a></td>
+        <td><a href="../dumps-text/fr-17.txt">txt</a></td>
+        <td><a href="../contextes/fr-17.txt">contexte (66 lignes)</a></td>
         </tr>
     <tr>
-            <td>18</td>
-            <td><a href="https://www.mcommemutuelle.com/magazine/un-esprit-sain-dans-un-corps-sain-comment-y-parvenir-jour-apres-jour/" target="_blank">lien</a></td>
-            <td>200</td>
-            <td>utf-8</td>
-            <td><a href="../aspirations/fr-18.html">html</a></td>
-            <td><a href="../dumps-text/fr-18.txt">txt</a></td>
-            <td><a href="../contextes/fr-18.txt">contexte (71 lignes)</a></td>
+        <td>18</td>
+        <td><a href=https://www.mcommemutuelle.com/magazine/un-esprit-sain-dans-un-corps-sain-comment-y-parvenir-jour-apres-jour/ target=_blank>lien</a></td>
+        <td>200</td>
+        <td>utf-8</td>
+        <td>22</td>
+        <td><a href="../concordances/fr-18.html">concordance</a></td>
+        <td><a href="../bigrams/fr-18.html">bigrammes</a></td>
+        <td><a href="../aspirations/fr-18.html">html</a></td>
+        <td><a href="../dumps-text/fr-18.txt">txt</a></td>
+        <td><a href="../contextes/fr-18.txt">contexte (71 lignes)</a></td>
         </tr>
     <tr>
-            <td>19</td>
-            <td><a href="https://fr.wikipedia.org/wiki/Esprit_de_l%27escalier" target="_blank">lien</a></td>
-            <td>200</td>
-            <td>utf-8</td>
-            <td><a href="../aspirations/fr-19.html">html</a></td>
-            <td><a href="../dumps-text/fr-19.txt">txt</a></td>
-            <td><a href="../contextes/fr-19.txt">contexte (64 lignes)</a></td>
+        <td>19</td>
+        <td><a href=https://fr.wikipedia.org/wiki/Esprit_de_l%27escalier target=_blank>lien</a></td>
+        <td>200</td>
+        <td>utf-8</td>
+        <td>18</td>
+        <td><a href="../concordances/fr-19.html">concordance</a></td>
+        <td><a href="../bigrams/fr-19.html">bigrammes</a></td>
+        <td><a href="../aspirations/fr-19.html">html</a></td>
+        <td><a href="../dumps-text/fr-19.txt">txt</a></td>
+        <td><a href="../contextes/fr-19.txt">contexte (64 lignes)</a></td>
         </tr>
     <tr>
-            <td>20</td>
-            <td><a href="https://www.zenngo.fr/guide-voyage/guide-bien-etre/details/108/515-les-animaux-totems.html" target="_blank">lien</a></td>
-            <td>200</td>
-            <td>utf-8</td>
-            <td><a href="../aspirations/fr-20.html">html</a></td>
-            <td><a href="../dumps-text/fr-20.txt">txt</a></td>
-            <td><a href="../contextes/fr-20.txt">contexte (48 lignes)</a></td>
+        <td>20</td>
+        <td><a href=https://www.zenngo.fr/guide-voyage/guide-bien-etre/details/108/515-les-animaux-totems.html target=_blank>lien</a></td>
+        <td>200</td>
+        <td>utf-8</td>
+        <td>13</td>
+        <td><a href="../concordances/fr-20.html">concordance</a></td>
+        <td><a href="../bigrams/fr-20.html">bigrammes</a></td>
+        <td><a href="../aspirations/fr-20.html">html</a></td>
+        <td><a href="../dumps-text/fr-20.txt">txt</a></td>
+        <td><a href="../contextes/fr-20.txt">contexte (48 lignes)</a></td>
         </tr>
     <tr>
-            <td>21</td>
-            <td><a href="https://meditation-zen.org/fr/zazen-meditation-assise/quest-ce-que-le-zen" target="_blank">lien</a></td>
-            <td>200</td>
-            <td>utf-8</td>
-            <td><a href="../aspirations/fr-21.html">html</a></td>
-            <td><a href="../dumps-text/fr-21.txt">txt</a></td>
-            <td><a href="../contextes/fr-21.txt">contexte (30 lignes)</a></td>
+        <td>21</td>
+        <td><a href=https://meditation-zen.org/fr/zazen-meditation-assise/quest-ce-que-le-zen target=_blank>lien</a></td>
+        <td>200</td>
+        <td>utf-8</td>
+        <td>9</td>
+        <td><a href="../concordances/fr-21.html">concordance</a></td>
+        <td><a href="../bigrams/fr-21.html">bigrammes</a></td>
+        <td><a href="../aspirations/fr-21.html">html</a></td>
+        <td><a href="../dumps-text/fr-21.txt">txt</a></td>
+        <td><a href="../contextes/fr-21.txt">contexte (30 lignes)</a></td>
         </tr>
     <tr>
-            <td>22</td>
-            <td><a href="https://www.sengager.fr/editos/esprit-et-valeurs-de-l-armee-de-terre" target="_blank">lien</a></td>
-            <td>200</td>
-            <td>utf-8</td>
-            <td><a href="../aspirations/fr-22.html">html</a></td>
-            <td><a href="../dumps-text/fr-22.txt">txt</a></td>
-            <td><a href="../contextes/fr-22.txt">contexte (49 lignes)</a></td>
+        <td>22</td>
+        <td><a href=https://www.sengager.fr/editos/esprit-et-valeurs-de-l-armee-de-terre target=_blank>lien</a></td>
+        <td>200</td>
+        <td>utf-8</td>
+        <td>13</td>
+        <td><a href="../concordances/fr-22.html">concordance</a></td>
+        <td><a href="../bigrams/fr-22.html">bigrammes</a></td>
+        <td><a href="../aspirations/fr-22.html">html</a></td>
+        <td><a href="../dumps-text/fr-22.txt">txt</a></td>
+        <td><a href="../contextes/fr-22.txt">contexte (49 lignes)</a></td>
         </tr>
     <tr>
-            <td>23</td>
-            <td><a href="https://www.euclea-business-school.com/actualites/lesprit-entrepreneurial-au-dela-dun-metier-une-philosophie/" target="_blank">lien</a></td>
-            <td>200</td>
-            <td>utf-8</td>
-            <td><a href="../aspirations/fr-23.html">html</a></td>
-            <td><a href="../dumps-text/fr-23.txt">txt</a></td>
-            <td><a href="../contextes/fr-23.txt">contexte (66 lignes)</a></td>
+        <td>23</td>
+        <td><a href=https://www.euclea-business-school.com/actualites/lesprit-entrepreneurial-au-dela-dun-metier-une-philosophie/ target=_blank>lien</a></td>
+        <td>200</td>
+        <td>utf-8</td>
+        <td>18</td>
+        <td><a href="../concordances/fr-23.html">concordance</a></td>
+        <td><a href="../bigrams/fr-23.html">bigrammes</a></td>
+        <td><a href="../aspirations/fr-23.html">html</a></td>
+        <td><a href="../dumps-text/fr-23.txt">txt</a></td>
+        <td><a href="../contextes/fr-23.txt">contexte (66 lignes)</a></td>
         </tr>
     <tr>
-            <td>24</td>
-            <td><a href="https://www.pensezpsychomot.com/esprit-critique-derives-soins-sante/" target="_blank">lien</a></td>
-            <td>200</td>
-            <td>utf-8</td>
-            <td><a href="../aspirations/fr-24.html">html</a></td>
-            <td><a href="../dumps-text/fr-24.txt">txt</a></td>
-            <td><a href="../contextes/fr-24.txt">contexte (38 lignes)</a></td>
+        <td>24</td>
+        <td><a href=https://www.pensezpsychomot.com/esprit-critique-derives-soins-sante/ target=_blank>lien</a></td>
+        <td>200</td>
+        <td>utf-8</td>
+        <td>12</td>
+        <td><a href="../concordances/fr-24.html">concordance</a></td>
+        <td><a href="../bigrams/fr-24.html">bigrammes</a></td>
+        <td><a href="../aspirations/fr-24.html">html</a></td>
+        <td><a href="../dumps-text/fr-24.txt">txt</a></td>
+        <td><a href="../contextes/fr-24.txt">contexte (38 lignes)</a></td>
         </tr>
     <tr>
-            <td>25</td>
-            <td><a href="https://www.insb.cnrs.fr/fr/cnrsinfo/les-reseaux-cerebraux-lorigine-de-la-conscience-de-soi-enfin-identifies" target="_blank">lien</a></td>
-            <td>200</td>
-            <td>utf-8</td>
-            <td><a href="../aspirations/fr-25.html">html</a></td>
-            <td><a href="../dumps-text/fr-25.txt">txt</a></td>
-            <td><a href="../contextes/fr-25.txt">contexte (17 lignes)</a></td>
+        <td>25</td>
+        <td><a href=https://www.insb.cnrs.fr/fr/cnrsinfo/les-reseaux-cerebraux-lorigine-de-la-conscience-de-soi-enfin-identifies target=_blank>lien</a></td>
+        <td>200</td>
+        <td>utf-8</td>
+        <td>4</td>
+        <td><a href="../concordances/fr-25.html">concordance</a></td>
+        <td><a href="../bigrams/fr-25.html">bigrammes</a></td>
+        <td><a href="../aspirations/fr-25.html">html</a></td>
+        <td><a href="../dumps-text/fr-25.txt">txt</a></td>
+        <td><a href="../contextes/fr-25.txt">contexte (17 lignes)</a></td>
         </tr>
     <tr>
-            <td>26</td>
-            <td><a href="https://fr.aleteia.org/2014/10/16/messe-que-signifie-exactement-et-avec-votre-esprit/" target="_blank">lien</a></td>
-            <td>200</td>
-            <td>utf-8</td>
-            <td><a href="../aspirations/fr-26.html">html</a></td>
-            <td><a href="../dumps-text/fr-26.txt">txt</a></td>
-            <td><a href="../contextes/fr-26.txt">contexte (35 lignes)</a></td>
+        <td>26</td>
+        <td><a href=https://fr.aleteia.org/2014/10/16/messe-que-signifie-exactement-et-avec-votre-esprit/ target=_blank>lien</a></td>
+        <td>200</td>
+        <td>utf-8</td>
+        <td>14</td>
+        <td><a href="../concordances/fr-26.html">concordance</a></td>
+        <td><a href="../bigrams/fr-26.html">bigrammes</a></td>
+        <td><a href="../aspirations/fr-26.html">html</a></td>
+        <td><a href="../dumps-text/fr-26.txt">txt</a></td>
+        <td><a href="../contextes/fr-26.txt">contexte (35 lignes)</a></td>
         </tr>
     <tr>
-            <td>27</td>
-            <td><a href="https://www.lexpress.fr/sciences-sante/sciences/lesprit-critique-est-il-vraiment-en-declin-pourquoi-il-est-permis-den-douter-MGJ75TMSHRAWPLF2DSBDSQMQXY/" target="_blank">lien</a></td>
-            <td>200</td>
-            <td>utf-8</td>
-            <td><a href="../aspirations/fr-27.html">html</a></td>
-            <td><a href="../dumps-text/fr-27.txt">txt</a></td>
-            <td><a href="../contextes/fr-27.txt">contexte (61 lignes)</a></td>
+        <td>27</td>
+        <td><a href=https://www.lexpress.fr/sciences-sante/sciences/lesprit-critique-est-il-vraiment-en-declin-pourquoi-il-est-permis-den-douter-MGJ75TMSHRAWPLF2DSBDSQMQXY/ target=_blank>lien</a></td>
+        <td>200</td>
+        <td>utf-8</td>
+        <td>14</td>
+        <td><a href="../concordances/fr-27.html">concordance</a></td>
+        <td><a href="../bigrams/fr-27.html">bigrammes</a></td>
+        <td><a href="../aspirations/fr-27.html">html</a></td>
+        <td><a href="../dumps-text/fr-27.txt">txt</a></td>
+        <td><a href="../contextes/fr-27.txt">contexte (61 lignes)</a></td>
         </tr>
     <tr>
-            <td>28</td>
-            <td><a href="https://www.radiofrance.fr/franceculture/podcasts/affaire-en-cours/notre-esprit-critique-est-il-en-peril-1524000" target="_blank">lien</a></td>
-            <td>200</td>
-            <td>utf-8</td>
-            <td><a href="../aspirations/fr-28.html">html</a></td>
-            <td><a href="../dumps-text/fr-28.txt">txt</a></td>
-            <td><a href="../contextes/fr-28.txt">contexte (32 lignes)</a></td>
+        <td>28</td>
+        <td><a href=https://www.radiofrance.fr/franceculture/podcasts/affaire-en-cours/notre-esprit-critique-est-il-en-peril-1524000 target=_blank>lien</a></td>
+        <td>200</td>
+        <td>utf-8</td>
+        <td>7</td>
+        <td><a href="../concordances/fr-28.html">concordance</a></td>
+        <td><a href="../bigrams/fr-28.html">bigrammes</a></td>
+        <td><a href="../aspirations/fr-28.html">html</a></td>
+        <td><a href="../dumps-text/fr-28.txt">txt</a></td>
+        <td><a href="../contextes/fr-28.txt">contexte (32 lignes)</a></td>
         </tr>
     <tr>
-            <td>29</td>
-            <td><a href="https://journals.openedition.org/ress/284" target="_blank">lien</a></td>
-            <td>200</td>
-            <td>utf-8</td>
-            <td><a href="../aspirations/fr-29.html">html</a></td>
-            <td><a href="../dumps-text/fr-29.txt">txt</a></td>
-            <td><a href="../contextes/fr-29.txt">contexte (51 lignes)</a></td>
+        <td>29</td>
+        <td><a href=https://journals.openedition.org/ress/284 target=_blank>lien</a></td>
+        <td>200</td>
+        <td>utf-8</td>
+        <td>10</td>
+        <td><a href="../concordances/fr-29.html">concordance</a></td>
+        <td><a href="../bigrams/fr-29.html">bigrammes</a></td>
+        <td><a href="../aspirations/fr-29.html">html</a></td>
+        <td><a href="../dumps-text/fr-29.txt">txt</a></td>
+        <td><a href="../contextes/fr-29.txt">contexte (51 lignes)</a></td>
         </tr>
     <tr>
-            <td>30</td>
-            <td><a href="https://eduscol.education.fr/1538/former-l-esprit-critique-des-eleves" target="_blank">lien</a></td>
-            <td>200</td>
-            <td>utf-8</td>
-            <td><a href="../aspirations/fr-30.html">html</a></td>
-            <td><a href="../dumps-text/fr-30.txt">txt</a></td>
-            <td><a href="../contextes/fr-30.txt">contexte (135 lignes)</a></td>
+        <td>30</td>
+        <td><a href=https://eduscol.education.fr/1538/former-l-esprit-critique-des-eleves target=_blank>lien</a></td>
+        <td>200</td>
+        <td>utf-8</td>
+        <td>47</td>
+        <td><a href="../concordances/fr-30.html">concordance</a></td>
+        <td><a href="../bigrams/fr-30.html">bigrammes</a></td>
+        <td><a href="../aspirations/fr-30.html">html</a></td>
+        <td><a href="../dumps-text/fr-30.txt">txt</a></td>
+        <td><a href="../contextes/fr-30.txt">contexte (135 lignes)</a></td>
         </tr>
     <tr>
-            <td>31</td>
-            <td><a href="https://www.academie-francaise.fr/des-effets-de-lesprit-litteraire-dans-les-sciences-et-de-lesprit-scientifique-dans-les-lettres" target="_blank">lien</a></td>
-            <td>200</td>
-            <td>utf-8</td>
-            <td><a href="../aspirations/fr-31.html">html</a></td>
-            <td><a href="../dumps-text/fr-31.txt">txt</a></td>
-            <td><a href="../contextes/fr-31.txt">contexte (106 lignes)</a></td>
+        <td>31</td>
+        <td><a href=https://www.academie-francaise.fr/des-effets-de-lesprit-litteraire-dans-les-sciences-et-de-lesprit-scientifique-dans-les-lettres target=_blank>lien</a></td>
+        <td>200</td>
+        <td>utf-8</td>
+        <td>26</td>
+        <td><a href="../concordances/fr-31.html">concordance</a></td>
+        <td><a href="../bigrams/fr-31.html">bigrammes</a></td>
+        <td><a href="../aspirations/fr-31.html">html</a></td>
+        <td><a href="../dumps-text/fr-31.txt">txt</a></td>
+        <td><a href="../contextes/fr-31.txt">contexte (106 lignes)</a></td>
         </tr>
     <tr>
-            <td>32</td>
-            <td><a href="https://www.academie-francaise.fr/linstitution-academique-des-sciences-morales-et-politiques-communication-lacademie-des-sciences" target="_blank">lien</a></td>
-            <td>200</td>
-            <td>utf-8</td>
-            <td><a href="../aspirations/fr-32.html">html</a></td>
-            <td><a href="../dumps-text/fr-32.txt">txt</a></td>
-            <td><a href="../contextes/fr-32.txt">contexte (34 lignes)</a></td>
+        <td>32</td>
+        <td><a href=https://www.academie-francaise.fr/linstitution-academique-des-sciences-morales-et-politiques-communication-lacademie-des-sciences target=_blank>lien</a></td>
+        <td>200</td>
+        <td>utf-8</td>
+        <td>7</td>
+        <td><a href="../concordances/fr-32.html">concordance</a></td>
+        <td><a href="../bigrams/fr-32.html">bigrammes</a></td>
+        <td><a href="../aspirations/fr-32.html">html</a></td>
+        <td><a href="../dumps-text/fr-32.txt">txt</a></td>
+        <td><a href="../contextes/fr-32.txt">contexte (34 lignes)</a></td>
         </tr>
     <tr>
-            <td>33</td>
-            <td><a href="https://www.fabula.org/lht/8/bridet.html" target="_blank">lien</a></td>
-            <td>200</td>
-            <td>utf-8</td>
-            <td><a href="../aspirations/fr-33.html">html</a></td>
-            <td><a href="../dumps-text/fr-33.txt">txt</a></td>
-            <td><a href="../contextes/fr-33.txt">contexte (69 lignes)</a></td>
+        <td>33</td>
+        <td><a href=https://www.fabula.org/lht/8/bridet.html target=_blank>lien</a></td>
+        <td>200</td>
+        <td>utf-8</td>
+        <td>13</td>
+        <td><a href="../concordances/fr-33.html">concordance</a></td>
+        <td><a href="../bigrams/fr-33.html">bigrammes</a></td>
+        <td><a href="../aspirations/fr-33.html">html</a></td>
+        <td><a href="../dumps-text/fr-33.txt">txt</a></td>
+        <td><a href="../contextes/fr-33.txt">contexte (69 lignes)</a></td>
         </tr>
     <tr>
-            <td>34</td>
-            <td><a href="https://approche-tissulaire.fr/le-blog/archive-blog-approche-tissulaire/271-esprit-ou-esprit" target="_blank">lien</a></td>
-            <td>200</td>
-            <td>utf-8</td>
-            <td><a href="../aspirations/fr-34.html">html</a></td>
-            <td><a href="../dumps-text/fr-34.txt">txt</a></td>
-            <td><a href="../contextes/fr-34.txt">contexte (139 lignes)</a></td>
+        <td>34</td>
+        <td><a href=https://approche-tissulaire.fr/le-blog/archive-blog-approche-tissulaire/271-esprit-ou-esprit target=_blank>lien</a></td>
+        <td>200</td>
+        <td>utf-8</td>
+        <td>46</td>
+        <td><a href="../concordances/fr-34.html">concordance</a></td>
+        <td><a href="../bigrams/fr-34.html">bigrammes</a></td>
+        <td><a href="../aspirations/fr-34.html">html</a></td>
+        <td><a href="../dumps-text/fr-34.txt">txt</a></td>
+        <td><a href="../contextes/fr-34.txt">contexte (139 lignes)</a></td>
         </tr>
     <tr>
-            <td>35</td>
-            <td><a href="https://www.marvinroger.fr/skills/team-spirit" target="_blank">lien</a></td>
-            <td>200</td>
-            <td>utf-8</td>
-            <td><a href="../aspirations/fr-35.html">html</a></td>
-            <td><a href="../dumps-text/fr-35.txt">txt</a></td>
-            <td><a href="../contextes/fr-35.txt">contexte (37 lignes)</a></td>
+        <td>35</td>
+        <td><a href=https://www.marvinroger.fr/skills/team-spirit target=_blank>lien</a></td>
+        <td>200</td>
+        <td>utf-8</td>
+        <td>9</td>
+        <td><a href="../concordances/fr-35.html">concordance</a></td>
+        <td><a href="../bigrams/fr-35.html">bigrammes</a></td>
+        <td><a href="../aspirations/fr-35.html">html</a></td>
+        <td><a href="../dumps-text/fr-35.txt">txt</a></td>
+        <td><a href="../contextes/fr-35.txt">contexte (37 lignes)</a></td>
         </tr>
     <tr>
-            <td>36</td>
-            <td><a href="https://blog.candidatus.com/processus-de-recrutement/soft-skills/soft-skill-esprit-dequipe/" target="_blank">lien</a></td>
-            <td>200</td>
-            <td>utf-8</td>
-            <td><a href="../aspirations/fr-36.html">html</a></td>
-            <td><a href="../dumps-text/fr-36.txt">txt</a></td>
-            <td><a href="../contextes/fr-36.txt">contexte (74 lignes)</a></td>
+        <td>36</td>
+        <td><a href=https://blog.candidatus.com/processus-de-recrutement/soft-skills/soft-skill-esprit-dequipe/ target=_blank>lien</a></td>
+        <td>200</td>
+        <td>utf-8</td>
+        <td>18</td>
+        <td><a href="../concordances/fr-36.html">concordance</a></td>
+        <td><a href="../bigrams/fr-36.html">bigrammes</a></td>
+        <td><a href="../aspirations/fr-36.html">html</a></td>
+        <td><a href="../dumps-text/fr-36.txt">txt</a></td>
+        <td><a href="../contextes/fr-36.txt">contexte (74 lignes)</a></td>
         </tr>
     <tr>
-            <td>37</td>
-            <td><a href="https://www.cesi.fr/formation/approche-augmentee-soft-skills-esprit-dequipe-2336660/" target="_blank">lien</a></td>
-            <td>200</td>
-            <td>utf-8</td>
-            <td><a href="../aspirations/fr-37.html">html</a></td>
-            <td><a href="../dumps-text/fr-37.txt">txt</a></td>
-            <td><a href="../contextes/fr-37.txt">contexte (30 lignes)</a></td>
+        <td>37</td>
+        <td><a href=https://www.cesi.fr/formation/approche-augmentee-soft-skills-esprit-dequipe-2336660/ target=_blank>lien</a></td>
+        <td>200</td>
+        <td>utf-8</td>
+        <td>7</td>
+        <td><a href="../concordances/fr-37.html">concordance</a></td>
+        <td><a href="../bigrams/fr-37.html">bigrammes</a></td>
+        <td><a href="../aspirations/fr-37.html">html</a></td>
+        <td><a href="../dumps-text/fr-37.txt">txt</a></td>
+        <td><a href="../contextes/fr-37.txt">contexte (30 lignes)</a></td>
         </tr>
     <tr>
-            <td>38</td>
-            <td><a href="https://www.boostrh.com/les-soft-skills-le-secret-dune-equipe-performante/" target="_blank">lien</a></td>
-            <td>200</td>
-            <td>utf-8</td>
-            <td><a href="../aspirations/fr-38.html">html</a></td>
-            <td><a href="../dumps-text/fr-38.txt">txt</a></td>
-            <td><a href="../contextes/fr-38.txt">contexte (37 lignes)</a></td>
+        <td>38</td>
+        <td><a href=https://www.boostrh.com/les-soft-skills-le-secret-dune-equipe-performante/ target=_blank>lien</a></td>
+        <td>200</td>
+        <td>utf-8</td>
+        <td>10</td>
+        <td><a href="../concordances/fr-38.html">concordance</a></td>
+        <td><a href="../bigrams/fr-38.html">bigrammes</a></td>
+        <td><a href="../aspirations/fr-38.html">html</a></td>
+        <td><a href="../dumps-text/fr-38.txt">txt</a></td>
+        <td><a href="../contextes/fr-38.txt">contexte (37 lignes)</a></td>
         </tr>
     <tr>
-            <td>39</td>
-            <td><a href="https://myconnecting.fr/articles/10-soft-skills-indispensables-entreprise/" target="_blank">lien</a></td>
-            <td>200</td>
-            <td>utf-8</td>
-            <td><a href="../aspirations/fr-39.html">html</a></td>
-            <td><a href="../dumps-text/fr-39.txt">txt</a></td>
-            <td><a href="../contextes/fr-39.txt">contexte (20 lignes)</a></td>
+        <td>39</td>
+        <td><a href=https://myconnecting.fr/articles/10-soft-skills-indispensables-entreprise/ target=_blank>lien</a></td>
+        <td>200</td>
+        <td>utf-8</td>
+        <td>4</td>
+        <td><a href="../concordances/fr-39.html">concordance</a></td>
+        <td><a href="../bigrams/fr-39.html">bigrammes</a></td>
+        <td><a href="../aspirations/fr-39.html">html</a></td>
+        <td><a href="../dumps-text/fr-39.txt">txt</a></td>
+        <td><a href="../contextes/fr-39.txt">contexte (20 lignes)</a></td>
         </tr>
     <tr>
-            <td>40</td>
-            <td><a href="https://klaxoon.com/fr/insight/comprendre-les-soft-skills-le-secret-dun-bon-travail-dequipe/" target="_blank">lien</a></td>
-            <td>200</td>
-            <td>utf-8</td>
-            <td><a href="../aspirations/fr-40.html">html</a></td>
-            <td><a href="../dumps-text/fr-40.txt">txt</a></td>
-            <td><a href="../contextes/fr-40.txt">contexte (35 lignes)</a></td>
+        <td>40</td>
+        <td><a href=https://klaxoon.com/fr/insight/comprendre-les-soft-skills-le-secret-dun-bon-travail-dequipe/ target=_blank>lien</a></td>
+        <td>200</td>
+        <td>utf-8</td>
+        <td>7</td>
+        <td><a href="../concordances/fr-40.html">concordance</a></td>
+        <td><a href="../bigrams/fr-40.html">bigrammes</a></td>
+        <td><a href="../aspirations/fr-40.html">html</a></td>
+        <td><a href="../dumps-text/fr-40.txt">txt</a></td>
+        <td><a href="../contextes/fr-40.txt">contexte (35 lignes)</a></td>
         </tr>
     <tr>
-            <td>41</td>
-            <td><a href="https://www.universcience.fr/fr/esprit-critique/barometre-esprit-critique-2024" target="_blank">lien</a></td>
-            <td>200</td>
-            <td>utf-8</td>
-            <td><a href="../aspirations/fr-41.html">html</a></td>
-            <td><a href="../dumps-text/fr-41.txt">txt</a></td>
-            <td><a href="../contextes/fr-41.txt">contexte (82 lignes)</a></td>
+        <td>41</td>
+        <td><a href=https://www.universcience.fr/fr/esprit-critique/barometre-esprit-critique-2024 target=_blank>lien</a></td>
+        <td>200</td>
+        <td>utf-8</td>
+        <td>23</td>
+        <td><a href="../concordances/fr-41.html">concordance</a></td>
+        <td><a href="../bigrams/fr-41.html">bigrammes</a></td>
+        <td><a href="../aspirations/fr-41.html">html</a></td>
+        <td><a href="../dumps-text/fr-41.txt">txt</a></td>
+        <td><a href="../contextes/fr-41.txt">contexte (82 lignes)</a></td>
         </tr>
     <tr>
-            <td>42</td>
-            <td><a href="https://www.universcience.fr/fr/esprit-critique" target="_blank">lien</a></td>
-            <td>200</td>
-            <td>utf-8</td>
-            <td><a href="../aspirations/fr-42.html">html</a></td>
-            <td><a href="../dumps-text/fr-42.txt">txt</a></td>
-            <td><a href="../contextes/fr-42.txt">contexte (143 lignes)</a></td>
+        <td>42</td>
+        <td><a href=https://www.universcience.fr/fr/esprit-critique target=_blank>lien</a></td>
+        <td>200</td>
+        <td>utf-8</td>
+        <td>39</td>
+        <td><a href="../concordances/fr-42.html">concordance</a></td>
+        <td><a href="../bigrams/fr-42.html">bigrammes</a></td>
+        <td><a href="../aspirations/fr-42.html">html</a></td>
+        <td><a href="../dumps-text/fr-42.txt">txt</a></td>
+        <td><a href="../contextes/fr-42.txt">contexte (143 lignes)</a></td>
         </tr>
     <tr>
-            <td>43</td>
-            <td><a href="https://www.actuia.com/actualite/universcience-presente-la-3eme-edition-de-son-barometre-de-lesprit-critique/" target="_blank">lien</a></td>
-            <td>200</td>
-            <td>utf-8</td>
-            <td><a href="../aspirations/fr-43.html">html</a></td>
-            <td><a href="../dumps-text/fr-43.txt">txt</a></td>
-            <td><a href="../contextes/fr-43.txt">contexte (41 lignes)</a></td>
+        <td>43</td>
+        <td><a href=https://www.actuia.com/actualite/universcience-presente-la-3eme-edition-de-son-barometre-de-lesprit-critique/ target=_blank>lien</a></td>
+        <td>200</td>
+        <td>utf-8</td>
+        <td>10</td>
+        <td><a href="../concordances/fr-43.html">concordance</a></td>
+        <td><a href="../bigrams/fr-43.html">bigrammes</a></td>
+        <td><a href="../aspirations/fr-43.html">html</a></td>
+        <td><a href="../dumps-text/fr-43.txt">txt</a></td>
+        <td><a href="../contextes/fr-43.txt">contexte (41 lignes)</a></td>
         </tr>
     <tr>
-            <td>44</td>
-            <td><a href="https://www.franceinfo.fr/partenariats/evenement-universcience-presente-le-barometre-national-de-l-esprit-critique_5021521.html" target="_blank">lien</a></td>
-            <td>200</td>
-            <td>utf-8</td>
-            <td><a href="../aspirations/fr-44.html">html</a></td>
-            <td><a href="../dumps-text/fr-44.txt">txt</a></td>
-            <td><a href="../contextes/fr-44.txt">contexte (29 lignes)</a></td>
+        <td>44</td>
+        <td><a href=https://www.franceinfo.fr/partenariats/evenement-universcience-presente-le-barometre-national-de-l-esprit-critique_5021521.html target=_blank>lien</a></td>
+        <td>200</td>
+        <td>utf-8</td>
+        <td>9</td>
+        <td><a href="../concordances/fr-44.html">concordance</a></td>
+        <td><a href="../bigrams/fr-44.html">bigrammes</a></td>
+        <td><a href="../aspirations/fr-44.html">html</a></td>
+        <td><a href="../dumps-text/fr-44.txt">txt</a></td>
+        <td><a href="../contextes/fr-44.txt">contexte (29 lignes)</a></td>
         </tr>
     <tr>
-            <td>45</td>
-            <td><a href="https://espritcritique.hypotheses.org/" target="_blank">lien</a></td>
-            <td>200</td>
-            <td>utf-8</td>
-            <td><a href="../aspirations/fr-45.html">html</a></td>
-            <td><a href="../dumps-text/fr-45.txt">txt</a></td>
-            <td><a href="../contextes/fr-45.txt">contexte (156 lignes)</a></td>
+        <td>45</td>
+        <td><a href=https://espritcritique.hypotheses.org/ target=_blank>lien</a></td>
+        <td>200</td>
+        <td>utf-8</td>
+        <td>37</td>
+        <td><a href="../concordances/fr-45.html">concordance</a></td>
+        <td><a href="../bigrams/fr-45.html">bigrammes</a></td>
+        <td><a href="../aspirations/fr-45.html">html</a></td>
+        <td><a href="../dumps-text/fr-45.txt">txt</a></td>
+        <td><a href="../contextes/fr-45.txt">contexte (156 lignes)</a></td>
         </tr>
     <tr>
-            <td>46</td>
-            <td><a href="https://www.openedition.org/33101" target="_blank">lien</a></td>
-            <td>200</td>
-            <td>utf-8</td>
-            <td><a href="../aspirations/fr-46.html">html</a></td>
-            <td><a href="../dumps-text/fr-46.txt">txt</a></td>
-            <td><a href="../contextes/fr-46.txt">contexte (78 lignes)</a></td>
+        <td>46</td>
+        <td><a href=https://www.openedition.org/33101 target=_blank>lien</a></td>
+        <td>200</td>
+        <td>utf-8</td>
+        <td>23</td>
+        <td><a href="../concordances/fr-46.html">concordance</a></td>
+        <td><a href="../bigrams/fr-46.html">bigrammes</a></td>
+        <td><a href="../aspirations/fr-46.html">html</a></td>
+        <td><a href="../dumps-text/fr-46.txt">txt</a></td>
+        <td><a href="../contextes/fr-46.txt">contexte (78 lignes)</a></td>
         </tr>
     <tr>
-            <td>47</td>
-            <td><a href="https://fr.wikipedia.org/wiki/Th%C3%A9orie_de_l'esprit" target="_blank">lien</a></td>
-            <td>200</td>
-            <td>utf-8</td>
-            <td><a href="../aspirations/fr-47.html">html</a></td>
-            <td><a href="../dumps-text/fr-47.txt">txt</a></td>
-            <td><a href="../contextes/fr-47.txt">contexte (370 lignes)</a></td>
+        <td>47</td>
+        <td><a href=https://fr.wikipedia.org/wiki/Th%C3%A9orie_de_l'esprit target=_blank>lien</a></td>
+        <td>200</td>
+        <td>utf-8</td>
+        <td>92</td>
+        <td><a href="../concordances/fr-47.html">concordance</a></td>
+        <td><a href="../bigrams/fr-47.html">bigrammes</a></td>
+        <td><a href="../aspirations/fr-47.html">html</a></td>
+        <td><a href="../dumps-text/fr-47.txt">txt</a></td>
+        <td><a href="../contextes/fr-47.txt">contexte (370 lignes)</a></td>
         </tr>
     <tr>
-            <td>48</td>
-            <td><a href="https://www.running-addict.fr/actualite/pensee-runner/esprit-sain-corps-sain/" target="_blank">lien</a></td>
-            <td>200</td>
-            <td>utf-8</td>
-            <td><a href="../aspirations/fr-48.html">html</a></td>
-            <td><a href="../dumps-text/fr-48.txt">txt</a></td>
-            <td><a href="../contextes/fr-48.txt">contexte (78 lignes)</a></td>
+        <td>48</td>
+        <td><a href=https://www.running-addict.fr/actualite/pensee-runner/esprit-sain-corps-sain/ target=_blank>lien</a></td>
+        <td>200</td>
+        <td>utf-8</td>
+        <td>24</td>
+        <td><a href="../concordances/fr-48.html">concordance</a></td>
+        <td><a href="../bigrams/fr-48.html">bigrammes</a></td>
+        <td><a href="../aspirations/fr-48.html">html</a></td>
+        <td><a href="../dumps-text/fr-48.txt">txt</a></td>
+        <td><a href="../contextes/fr-48.txt">contexte (78 lignes)</a></td>
         </tr>
     <tr>
-            <td>49</td>
-            <td><a href="https://www.nicematin.com/sante/bigorexie-le-sport-a-la-vie-a-la-mort-10660969" target="_blank">lien</a></td>
-            <td>200</td>
-            <td>utf-8</td>
-            <td><a href="../aspirations/fr-49.html">html</a></td>
-            <td><a href="../dumps-text/fr-49.txt">txt</a></td>
-            <td><a href="../contextes/fr-49.txt">contexte (12 lignes)</a></td>
+        <td>49</td>
+        <td><a href=https://www.nicematin.com/sante/bigorexie-le-sport-a-la-vie-a-la-mort-10660969 target=_blank>lien</a></td>
+        <td>200</td>
+        <td>utf-8</td>
+        <td>3</td>
+        <td><a href="../concordances/fr-49.html">concordance</a></td>
+        <td><a href="../bigrams/fr-49.html">bigrammes</a></td>
+        <td><a href="../aspirations/fr-49.html">html</a></td>
+        <td><a href="../dumps-text/fr-49.txt">txt</a></td>
+        <td><a href="../contextes/fr-49.txt">contexte (12 lignes)</a></td>
         </tr>
     <tr>
-            <td>50</td>
-            <td><a href="https://www.hp-recruitment.com/fr/la-publication-hr-group/65-esprit-de-competition-performances-des-systemes-entrepreneuriaux.html" target="_blank">lien</a></td>
-            <td>200</td>
-            <td>utf-8</td>
-            <td><a href="../aspirations/fr-50.html">html</a></td>
-            <td><a href="../dumps-text/fr-50.txt">txt</a></td>
-            <td><a href="../contextes/fr-50.txt">contexte (103 lignes)</a></td>
+        <td>50</td>
+        <td><a href=https://www.hp-recruitment.com/fr/la-publication-hr-group/65-esprit-de-competition-performances-des-systemes-entrepreneuriaux.html target=_blank>lien</a></td>
+        <td>200</td>
+        <td>utf-8</td>
+        <td>27</td>
+        <td><a href="../concordances/fr-50.html">concordance</a></td>
+        <td><a href="../bigrams/fr-50.html">bigrammes</a></td>
+        <td><a href="../aspirations/fr-50.html">html</a></td>
+        <td><a href="../dumps-text/fr-50.txt">txt</a></td>
+        <td><a href="../contextes/fr-50.txt">contexte (103 lignes)</a></td>
         </tr>
-                        </tbody>
-                    </table>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    
-</body>
-</html>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</section>

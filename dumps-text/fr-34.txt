@@ -1196,14 +1196,14 @@ Questions fréquentes
      * Sur l'approche tissulaire Sur l'approche tissulaire
      * Sur l'histoire et la philosophie Sur l'histoire et la philosophie
 
-   14189670
-   Aujourd'hui: 77
-   Hier: 34
-   Cette semaine: 275
+   14189672
+   Aujourd'hui: 1
+   Hier: 78
+   Cette semaine: 277
    Semaine dernière: 376
-   Ce mois: 111
+   Ce mois: 113
    Mois dernier: 3.386
-   Total: 14.189.670
+   Total: 14.189.672
      * Accueil
      * Liens internet
      * Mentions légales

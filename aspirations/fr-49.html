@@ -497,14 +497,14 @@
 
             <div class="d-none d-xl-flex flex-row gap-2 position-relative">
                 <div class="d-flex flex-column justify-content-center align-items-end mt-3">
-                    <span class="fs-6">Vendredi</span>
-                    <span class="fs-6 fw-semibold">2 janvier</span>
+                    <span class="fs-6">Samedi</span>
+                    <span class="fs-6 fw-semibold">3 janvier</span>
                 </div>
 
                 <button class="btn-text p-0 border-0" x-bind="newspaperBtnBind('\/kiosque\/nicematin?edition=nice')">
                     <img
                             class="border border-1 border-light"
-                            src="https://assets.nicematin.com/pdfs/covers/20260102/NM_NIC20260102.avif"
+                            src="https://assets.nicematin.com/pdfs/fallbacks/coverFB_nm.avif"
                             loading="lazy"
                             alt="Une du journal du jour"
                             style="width: 135px; height: 125px; object-fit: cover; object-position: top;"
@@ -1660,12 +1660,12 @@
         <!-- Newspaper block -->
         <div class="d-flex flex-row gap-9 px-3 py-4">
             <template x-if="displayedBurger">
-                <img class="border border-1 border-light" src="https://assets.nicematin.com/pdfs/covers/20260102/NM_NIC20260102.avif" alt="Une du journal du jour"
+                <img class="border border-1 border-light" src="https://assets.nicematin.com/pdfs/fallbacks/coverFB_nm.avif" alt="Une du journal du jour"
                      style="width: 135px">
             </template>
 
             <div class="d-flex flex-column justify-content-center align-items-center gap-1">
-                <span class="fs-6 fw-semibold">Vendredi 2 janvier</span>
+                <span class="fs-6 fw-semibold">Samedi 3 janvier</span>
                 <button class="btn btn-warning btn-sm"
                         x-bind="newspaperBurgerBtnBind('\/kiosque\/nicematin?edition=nice')">Lire le journal
                 </button>
@@ -2243,7 +2243,7 @@
 >
     <div class="d-flex flex-row flex-lg-column justify-content-center align-items-center gap-3">
         <picture class="px-0 custom-w-img-newspaper">
-            <img id="newspaper-img" class="img-fluid lazy p-0" src="https://assets.nicematin.com/pdfs/covers/20260102/NM_NIC20260102.avif" loading="lazy" alt="newspaper" width="350" height="525">
+            <img id="newspaper-img" class="img-fluid lazy p-0" src="https://assets.nicematin.com/pdfs/fallbacks/coverFB_nm.avif" loading="lazy" alt="newspaper" width="350" height="525">
         </picture>
 
         <div class="d-flex flex-column align-items-center gap-3">
