@@ -1,2 +1,1574 @@
-<!DOCTYPE html><html><head><meta charset='UTF-8'><title>Browser Verification</title></head><body><script>window.onload = function() {    if (!navigator.cookieEnabled) {        if (!window.location.search.includes('no_cookie=true')) {            window.location.search += (window.location.search ? '&' : '?') + 'no_cookie=true';        } else {            document.body.innerHTML = '<h1>Cookies are required to access this content.</h1>                                       <p>Please enable cookies in your browser settings and try again.</p>';        }    } else {        !function(){           function t(t){               t?(                   f[0] = f[16] = f[1] = f[2] = f[3] = f[4] = f[5] = f[6] = f[7] = f[8] = f[9] = f[10] = f[11] = f[12] = f[13] = f[14] = f[15] = 0,                   this.blocks = f               ):                   this.blocks = [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],               this.h0 = 1732584193,               this.h1 = 4023233417,               this.h2 = 2562383102,               this.h3 = 271733878,               this.h4 = 3285377520,               this.block = this.start = this.bytes = this.hBytes = 0,               this.finalized = this.hashed = !1,               this.first = !0           }           var h = "object"==typeof window?window:{},               s = !h.JS_SHA1_NO_NODE_JS&&"object"==typeof process&&process.versions&&process.versions.node;               s &&                    (h = global);           var i = !h.JS_SHA1_NO_COMMON_JS && "object" == typeof module && module.exports,               e = "function"==typeof define&&define.amd,               r = "0123456789abcdef".split(""),               o = [-2147483648,8388608,32768,128],               n = [24,16,8,0],               a = ["hex","array","digest","arrayBuffer"],               f = [],               u = function(h){                   return function(s){                       return new t(!0).update(s)[h]()                   }               },               c = function(){                   var h = u("hex");                   s &&                        (h = p(h)),                   h.create = function(){                       return new t                   },                   h.update = function(t){                       return h.create().update(t)                   };                   for(var i = 0; i<a.length; ++i){                       var e = a[i];h[e] = u(e)                   }                   return h               },               p = function(t){                   var h = eval("require('crypto')"),                       s = eval("require('buffer').Buffer"),                       i = function(i){                           if("string"==typeof i)                               return h.createHash("s1").update(i,"utf8").digest("hex");                           if(i.constructor===ArrayBuffer)                               i = new Uint8Array(i);                           else if(void 0===i.length)                               return t(i);                           return h.createHash("s1").update(new s(i)).digest("hex")                       };                       return i               };            t.prototype.update = function(t){                if(!this.finalized){                    var s = "string"!=typeof t;                    s&&t.constructor===h.ArrayBuffer&&(t = new Uint8Array(t));                    for(var i,e,r = 0,o = t.length||0,a = this.blocks; r<o;){                        if(this.hashed &&                             (this.hashed = !1,                            a[0] = this.block,a[16] = a[1] = a[2] = a[3] = a[4] = a[5] = a[6] = a[7] = a[8] = a[9] = a[10] = a[11] = a[12] = a[13] = a[14] = a[15] = 0                        ),                        s)                            for(e = this.start; r<o&&e<64; ++r)                                a[e>>2]|= t[r]<<n[3&e++];                        else                             for(e = this.start; r<o&&e<64; ++r)                                (i = t.charCodeAt(r))<128 ?                                     a[e>>2]|=i<<n[3&e++]                                :i<2048 ? (                                    a[e>>2]|=(192|i>>6)<<n[3&e++],                                    a[e>>2]|=(128|63&i)<<n[3&e++]                                ) : i<55296 || i>=57344 ? (                                    a[e>>2]|=(224|i>>12)<<n[3&e++],                                    a[e>>2]|=(128|i>>6&63)<<n[3&e++],                                    a[e>>2]|=(128|63&i)<<n[3&e++]                                ) : (                                    i = 65536 + ((1023&i)<<10|1023&t.charCodeAt(++r)),                                    a[e>>2]|=(240|i>>18)<<n[3&e++],                                    a[e>>2]|=(128|i>>12&63)<<n[3&e++],                                    a[e>>2]|=(128|i>>6&63)<<n[3&e++],                                    a[e>>2]|=(128|63&i)<<n[3&e++]                                );                        this.lastByteIndex = e,                        this.bytes+=e-this.start,                        e >= 64 ? (                            this.block = a[16],                            this.start = e-64,                            this.hash(),                            this.hashed = !0                        ) :                             this.start = e                    }                    return this.bytes>4294967295 && (this.hBytes+=this.bytes/4294967296<<0,this.bytes = this.bytes%4294967296), this                }            },            t.prototype.finalize = function(){                if(!this.finalized){                    this.finalized = !0;                    var t = this.blocks,                        h = this.lastByteIndex;                    t[16] = this.block,                    t[h>>2]|=o[3&h],                    this.block = t[16],                    h >= 56 && (                        this.hashed || this.hash(),                        t[0] = this.block,                        t[16] = t[1] = t[2] = t[3] = t[4] = t[5] = t[6] = t[7] = t[8] = t[9] = t[10] = t[11] = t[12] = t[13] = t[14] = t[15] = 0                    ),                    t[14] = this.hBytes<<3|this.bytes>>>29,                    t[15] = this.bytes<<3,                    this.hash()                }            },            t.prototype.hash = function(){                var t,h,s = this.h0,                    i = this.h1,                    e = this.h2,                    r = this.h3,                    o = this.h4,                    n = this.blocks;                for(t = 16; t<80; ++t)                    h = n[t-3]^n[t-8]^n[t-14]^n[t-16],                    n[t] = h<<1|h>>>31;                for(t = 0; t<20; t+=5)                    s = (h = (i = (h = (e = (h = (r = (h = (o = (h = s<<5|s>>>27) + (i&e|~i&r) + o + 1518500249 + n[t]<<0)<<5|o>>>27) + (s&(i = i<<30|i>>>2)|~s&e) + r + 1518500249 + n[t+1]<<0)<<5|r>>>27) + (o&(s = s<<30|s>>>2)|~o&i) + e + 1518500249 + n[t+2]<<0)<<5|e>>>27) + (r&(o = o<<30|o>>>2)|~r&s) + i + 1518500249 + n[t+3]<<0)<<5|i>>>27) + (e&(r = r<<30|r>>>2)|~e&o) + s + 1518500249 + n[t+4]<<0,                    e = e<<30|e>>>2;                for(; t<40; t += 5)                    s = (h = (i = (h = (e = (h = (r = (h = (o = (h = s<<5|s>>>27) + (i^e^r) + o + 1859775393 + n[t]<<0)<<5|o>>>27) + (s^(i = i<<30|i>>>2)^e) + r + 1859775393 + n[t+1]<<0)<<5|r>>>27) + (o^(s = s<<30|s>>>2)^i) + e + 1859775393 + n[t+2]<<0)<<5|e>>>27) + (r^(o = o<<30|o>>>2)^s) + i + 1859775393 + n[t+3]<<0)<<5|i>>>27) + (e^(r = r<<30|r>>>2)^o) + s + 1859775393 + n[t+4]<<0,                    e = e<<30|e>>>2;                for(; t<60; t+=5)                    s = (h = (i = (h = (e = (h = (r = (h = (o = (h = s<<5|s>>>27) + (i&e|i&r|e&r) + o-1894007588 + n[t]<<0)<<5|o>>>27) + (s&(i = i<<30|i>>>2)|s&e|i&e) + r-1894007588 + n[t+1]<<0)<<5|r>>>27) + (o&(s = s<<30|s>>>2)|o&i|s&i) + e-1894007588 + n[t+2]<<0)<<5|e>>>27) + (r&(o = o<<30|o>>>2)|r&s|o&s) + i-1894007588 + n[t+3]<<0)<<5|i>>>27) + (e&(r = r<<30|r>>>2)|e&o|r&o) + s-1894007588 + n[t+4]<<0,                    e = e<<30|e>>>2;                for(; t<80; t+=5)                    s = (h = (i = (h = (e = (h = (r = (h = (o = (h = s<<5|s>>>27) + (i^e^r) + o-899497514 + n[t]<<0)<<5|o>>>27) + (s^(i = i<<30|i>>>2)^e) + r-899497514 + n[t+1]<<0)<<5|r>>>27) + (o^(s = s<<30|s>>>2)^i) + e-899497514 + n[t+2]<<0)<<5|e>>>27) + (r^(o = o<<30|o>>>2)^s) + i-899497514 + n[t+3]<<0)<<5|i>>>27) + (e^(r = r<<30|r>>>2)^o) + s-899497514 + n[t+4]<<0,                    e = e<<30|e>>>2;                this.h0 = this.h0 + s<<0,                this.h1 = this.h1 + i<<0,                this.h2 = this.h2 + e<<0,                this.h3 = this.h3 + r<<0,                this.h4 = this.h4 + o<<0            },            t.prototype.hex = function(){                this.finalize();                var t = this.h0,                    h = this.h1,                    s = this.h2,                    i = this.h3,                    e = this.h4;                return r[t>>28&15] + r[t>>24&15] + r[t>>20&15] + r[t>>16&15] + r[t>>12&15] + r[t>>8&15] + r[t>>4&15] + r[15&t] +                        r[h>>28&15] + r[h>>24&15] + r[h>>20&15] + r[h>>16&15] + r[h>>12&15] + r[h>>8&15] + r[h>>4&15] + r[15&h] +                        r[s>>28&15] + r[s>>24&15] + r[s>>20&15] + r[s>>16&15] + r[s>>12&15] + r[s>>8&15] + r[s>>4&15] + r[15&s] +                        r[i>>28&15] + r[i>>24&15] + r[i>>20&15] + r[i>>16&15] + r[i>>12&15] + r[i>>8&15] + r[i>>4&15] + r[15&i] +                        r[e>>28&15] + r[e>>24&15] + r[e>>20&15] + r[e>>16&15] + r[e>>12&15] + r[e>>8&15] + r[e>>4&15] + r[15&e]            },            t.prototype.toString = t.prototype.hex,            t.prototype.digest = function(){                this.finalize();                var t = this.h0,                    h = this.h1,                    s = this.h2,                    i = this.h3,                    e = this.h4;                return [t>>24&255, t>>16&255, t>>8&255, 255&t, h>>24&255, h>>16&255, h>>8&255, 255&h, s>>24&255, s>>16&255,                         s>>8&255, 255&s, i>>24&255, i>>16&255,i>>8&255,255&i,e>>24&255,e>>16&255,e>>8&255,255&e]            },            t.prototype.array = t.prototype.digest,            t.prototype.arrayBuffer = function(){                this.finalize();                var t = new ArrayBuffer(20),                    h = new DataView(t);                return h.setUint32(0,this.h0),h.setUint32(4,this.h1),h.setUint32(8,this.h2),h.setUint32(12,this.h3),h.setUint32(16,this.h4),t            };            var y = c();            i?                module.exports = y            :(                h.s1 = y,e&&define(function(){                    return y                })            )        }();        const a0_0x2a54 = ['0740D144A4235A9BAFBFD9D0164AC132','challenge_token=','array'];        (function(_0x41abf3,_0x2a548e){            const _0x4457dc = function(_0x804ad2){                while(--_0x804ad2){                    _0x41abf3['push'](_0x41abf3['shift']());                }            };            _0x4457dc(++_0x2a548e);        }(a0_0x2a54,0x178));        const a0_0x4457 = function(_0x41abf3,_0x2a548e){            _0x41abf3 = _0x41abf3-0x0;            let _0x4457dc = a0_0x2a54[_0x41abf3];            return _0x4457dc;        };        let c = a0_0x4457('0x2');        let i = 0x0;        let n1 = parseInt('0x'+c[0x0]);        while(!![]){            let s = s1[a0_0x4457('0x1')](c + i);            if(s[n1]===0xb0&&s[n1 + 0x1]===0xb){                document['cookie'] = a0_0x4457('0x0') + c + i + '; path=/';                break;            }            i++;        };        ;window.setTimeout(function(){window.location.reload()}, 3000        )    }}</script><html><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=9"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Защита Solar Space от DDoS-атак</title><style>body,html{width:100%;height:100%;padding:0;margin:0;font-size:16px}body{font-family:blinkmacsystemfont,-apple-system,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",Helvetica,Arial,sans-serif;background-color:#1b1e23;color:#fff;font-size:.875rem;line-height:1.125rem;font-weight:400}table{width:100%;border-spacing:0;border-collapse:collapse;font-size:.875rem;line-height:1.125rem;font-weight:400}table td,table th{padding:0}body{overflow:hidden}html{font-size:min(4vh,min(5vw,16px))}[data-lang]:not([data-lang=ru]){display:none}.bg{position:absolute;left:50%;width:100vw;max-width:55rem;height:27.397260274vw;max-height:15.0684931507rem;transform:translate(-50%,-16.5%);z-index:-1}.bg svg{position:relative;left:50%;transform:translate(-50%,0);width:100vw;max-width:55rem;height:27.397260274vw;max-height:15.0684931507rem}.container{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);max-width:40rem;width:100%;min-width:20rem;min-height:22rem}.header{margin-bottom:.5rem;text-align:center;letter-spacing:-.5px;font-size:1.875rem;line-height:2.25rem;font-weight:300}.header b{font-weight:inherit;color:#fe6e36}.description{text-align:center;color:#9ba3ab}.card{background-color:#2b323a;border-radius:4px;margin-top:3rem;padding:1.5rem 1rem 1rem 1rem;max-width:26rem;position:relative;left:50%;transform:translate(-50%,0)}.card-header{width:100%;padding-bottom:1.5rem;border-bottom:.125rem solid #1b1e23;margin-bottom:1rem}.card-header__logo--full{width:7.75rem}.card-header__logo--full svg{width:7.5rem;height:.9782608696rem}.card-header__logo--compact{width:7.75rem}.card-header__logo--compact svg{display:inline;width:1rem;height:1rem;position:relative;margin-bottom:-.125rem;transform:translate(0,.125rem)}.card-header__logo--compact span{color:#fe6e36;margin-left:.125rem;font-size:1rem;line-height:1rem;font-weight:300}.card-header__logo--compact span b{font-weight:400}.card-header__content{padding-right:.25rem}a.policy-link{font-size:.75rem;line-height:1rem;font-weight:400}a.policy-link,a.policy-link:visited{text-decoration:none;color:#9ba3ab}a.policy-link:hover span{text-decoration:underline}a.policy-link svg{display:inline;margin-bottom:-4px;transform:translate(0,-1px)}a.bottom-banner{position:absolute;display:block;text-align:center;bottom:1rem;width:100%;white-space:nowrap;font-size:.75rem;line-height:1rem;font-weight:400}a.bottom-banner,a.bottom-banner:hover,a.bottom-banner:visited{color:#fe6e36;text-decoration:none}a.bottom-banner:hover{text-decoration:underline}a.bottom-banner svg{display:inline;margin-left:.375rem}</style><style>table.challenge-progress{width:100%;border-spacing:0;border-collapse:collapse}table.challenge-progress td{padding:0}table.challenge-progress td.challenge-progress-td-1{width:1.25rem;padding-right:.75rem}table.challenge-progress td.challenge-progress-td-1 svg{width:1.5rem;height:1.5rem;margin-bottom:-6px;transform:translate(0,-5px)}table.challenge-progress .in-progress{display:block}table.challenge-progress .is-completed{display:none}table.challenge-progress.completed .in-progress{display:none}table.challenge-progress.completed .is-completed{display:block}</style></head><body><div class="container"><div class="bg"><svg width="100%" viewBox="0 0 292.06433 80.855573" xmlns="http://www.w3.org/2000/svg"><defs><linearGradient id="gr" x1="50%" y1="0%" x2="50%" y2="140%"><stop offset="0%" stop-color="#fe6e36" stop-opacity="1"/><stop offset="20%" stop-color="#fe6e36" stop-opacity="0.33"/><stop offset="100%" stop-color="#fe6e36" stop-opacity="0"/></linearGradient></defs><path transform="translate(40.490705,-159.49269)" style="fill:url(#gr);stroke-width:.386963" d="m 105.54172,164.76114 a 146.03229,45.878311 0 0 0 -146.032426,45.87834 146.03229,45.878311 0 0 0 35.1001831,29.70878 v -0.0181 A 144.52863,45.204338 0 0 1 -38.986922,211.45647 144.52863,45.204338 0 0 1 105.54172,166.252 a 144.52863,45.204338 0 0 1 144.52865,45.20447 144.52863,45.204338 0 0 1 -27.39729,26.46815 146.03229,45.878311 0 0 0 28.90056,-27.28515 146.03229,45.878311 0 0 0 -146.03192,-45.87834 z"/></svg></div><div class="header"><span data-lang="ru">Данный сайт под&nbsp;защитой <nobr><b>Solar Space</b></nobr></span></div><div class="description"><span data-lang="ru">Идет автоматическая проверка вашего запроса. Это&nbsp;займет всего несколько секунд</span></div><div class="card"><div class="card-header"><table><td class="card-header__content"><table class="challenge-progress"><td class="challenge-progress-td-1"><div class="in-progress"><svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><g><circle cx="12" cy="12" r="9.5" fill="none" stroke-width="2" stroke-linecap="round" stroke="#fff"><animate attributeName="stroke-dasharray" dur="1.5s" calcMode="spline" values="0 150;42 150;42 150;42 150" keyTimes="0;0.475;0.95;1" keySplines="0.42,0,0.58,1;0.42,0,0.58,1;0.42,0,0.58,1" repeatCount="indefinite"/><animate attributeName="stroke-dashoffset" dur="1.5s" calcMode="spline" values="0;-16;-59;-59" keyTimes="0;0.475;0.95;1" keySplines="0.42,0,0.58,1;0.42,0,0.58,1;0.42,0,0.58,1" repeatCount="indefinite"/></circle><animateTransform attributeName="transform" type="rotate" dur="2s" values="0 12 12;360 12 12" repeatCount="indefinite"/></g></svg></div><div class="is-completed"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><g clip-path="url(#clip0_22621_93174)"><rect width="24" height="24" rx="12" fill="#90B751"/><path fill-rule="evenodd" clip-rule="evenodd" d="M10.572 16.7588L5.99999 12.3273L7.16006 11.1737L11.1521 15.0219L17.4932 8.3468L18.6532 9.50043L11.7321 16.7588C11.5786 16.9132 11.3698 17 11.1521 17C10.9343 17 10.7256 16.9132 10.572 16.7588Z" fill="white"/></g><defs><clipPath id="clip0_22621_93174"><rect width="24" height="24" rx="12" fill="white"/></clipPath></defs></svg></div></td><td><div class="in-progress"><span data-lang="ru">Идет проверка запроса…</span><span data-lang="en">Checking the request…</span></div><div class="is-completed"><span data-lang="ru">Успешно!</span><span data-lang="en">Success!</span></div></td></table></td><td class="card-header__logo card-header__logo--compact"><svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M19.8871 3.52355C17.3887 0.825787 13.4565 -0.471543 9.61869 0.155643C6.33039 0.653956 3.43702 2.56988 1.67696 5.42229C-0.0401732 8.19737 -0.460871 11.5395 0.517894 14.5895C1.4108 17.4677 3.60015 19.9335 6.3819 21.1621L6.60513 21.2566L6.93997 20.5865L6.72533 20.4662C4.6476 19.2977 3.06784 17.4505 2.27795 15.2683C0.947178 11.7199 1.96887 7.51864 4.7678 5.04426C6.93138 3.11115 9.62728 2.32072 12.3575 2.81904C15.2251 3.34312 17.6806 5.22468 19.1058 7.97399C20.9003 11.445 20.3679 15.7752 17.7493 19.0056L17.6119 19.1774L18.0756 19.6929L18.2559 19.5812C20.222 18.3526 21.7331 16.2992 22.4027 13.9623C23.4674 10.3367 22.48 6.23849 19.8871 3.51496V3.52355Z" fill="#FE6E36"/></svg> <span><b>SOLAR</b>&nbsp;Space</span></td></table></div><div style="text-align:center"><a href="https://rt-solar.ru/about_company/information/pdib/ppopd.pdf" class="policy-link" target="policy"><span data-lang="ru">Политика обработки персональных данных</span></a></div></div></div><a href="https://my.rt-solar.ru" class="bottom-banner" target="_my.rt-solar.ru"><span data-lang="ru">Защита Solar Space от DDoS-атак</span></a><div style="display:none">{JS_CHALLENGE_SCRIPT}</div></body></html>
-</body></html>
+
+<!DOCTYPE html>
+<html lang="ru-RU">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="yandex-verification" content="9e79824a42773e87" />
+    <meta name="sputnik-verification" content="iDyBfT6AeSZiILkR" />
+    <meta name="pmail-verification" content="8e42c815b0c013bd222512e9267dfa1e">
+    <meta name="msvalidate.01" content="0DA62351D3B3C8C50B78B0EC08CDBD38" />
+    <link type="image/x-icon" rel="shortcut icon" href="https://ug.ru/wp-content/themes/bb/assets/img/favicon.ico">
+    <link rel="icon" type="image/svg+xml" href="https://ug.ru/wp-content/themes/bb/assets/img/favicon.svg" />
+
+        <title>Дух и душа. О нематериальных началах человека &ndash; Учительская газета</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v12.3 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1"/>
+<link rel="canonical" href="https://ug.ru/duh-i-dusha-o-nematerialnyh-nachalah-cheloveka/" />
+<meta property="og:locale" content="ru_RU" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Дух и душа. О нематериальных началах человека &ndash; Учительская газета" />
+<meta property="og:description" content="В христианской антропологии человек имеет тройственное строение (дух &#8211; душа &#8211; тело). Для наивно-языкового сознания указанную триаду заменяют две оппозиции: дух &#8211; плоть и душа &#8211; тело. Первые члены этих оппозиций (дух и душа) указывают на нематериальное начало в человеке, а вторые члены (плоть и тело) &#8211; на материальное начало. По-видимому, не случайно для нематериального..." />
+<meta property="og:url" content="https://ug.ru/duh-i-dusha-o-nematerialnyh-nachalah-cheloveka/" />
+<meta property="og:site_name" content="Учительская газета" />
+<meta property="article:section" content="Архив Учительская газета" />
+<meta property="article:published_time" content="2012-04-09T21:00:00+03:00" />
+<meta property="article:modified_time" content="2022-08-19T16:52:08+03:00" />
+<meta property="og:updated_time" content="2022-08-19T16:52:08+03:00" />
+<meta property="og:image" content="https://ug.ru/wp-content/uploads/2021/07/ugnum-min.jpeg" />
+<meta property="og:image:secure_url" content="https://ug.ru/wp-content/uploads/2021/07/ugnum-min.jpeg" />
+<meta property="og:image:width" content="600" />
+<meta property="og:image:height" content="600" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="В христианской антропологии человек имеет тройственное строение (дух &#8211; душа &#8211; тело). Для наивно-языкового сознания указанную триаду заменяют две оппозиции: дух &#8211; плоть и душа &#8211; тело. Первые члены этих оппозиций (дух и душа) указывают на нематериальное начало в человеке, а вторые члены (плоть и тело) &#8211; на материальное начало. По-видимому, не случайно для нематериального..." />
+<meta name="twitter:title" content="Дух и душа. О нематериальных началах человека &ndash; Учительская газета" />
+<meta name="twitter:image" content="https://ug.ru/wp-content/uploads/2021/07/ugnum-min.jpeg" />
+<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://ug.ru/#website","url":"https://ug.ru/","name":"\u0423\u0447\u0438\u0442\u0435\u043b\u044c\u0441\u043a\u0430\u044f \u0433\u0430\u0437\u0435\u0442\u0430","potentialAction":{"@type":"SearchAction","target":"https://ug.ru/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"ImageObject","@id":"https://ug.ru/duh-i-dusha-o-nematerialnyh-nachalah-cheloveka/#primaryimage","url":"https://ug.ru/wp-content/uploads/2021/07/ugnum-min.jpeg","width":600,"height":600},{"@type":"WebPage","@id":"https://ug.ru/duh-i-dusha-o-nematerialnyh-nachalah-cheloveka/#webpage","url":"https://ug.ru/duh-i-dusha-o-nematerialnyh-nachalah-cheloveka/","inLanguage":"ru-RU","name":"\u0414\u0443\u0445 \u0438 \u0434\u0443\u0448\u0430. \u041e \u043d\u0435\u043c\u0430\u0442\u0435\u0440\u0438\u0430\u043b\u044c\u043d\u044b\u0445 \u043d\u0430\u0447\u0430\u043b\u0430\u0445 \u0447\u0435\u043b\u043e\u0432\u0435\u043a\u0430 &ndash; \u0423\u0447\u0438\u0442\u0435\u043b\u044c\u0441\u043a\u0430\u044f \u0433\u0430\u0437\u0435\u0442\u0430","isPartOf":{"@id":"https://ug.ru/#website"},"primaryImageOfPage":{"@id":"https://ug.ru/duh-i-dusha-o-nematerialnyh-nachalah-cheloveka/#primaryimage"},"datePublished":"2012-04-09T21:00:00+03:00","dateModified":"2022-08-19T16:52:08+03:00","author":{"@id":"https://ug.ru/#/schema/person/a6e998896be0b5967f30b15d47d4b150"}},{"@type":["Person"],"@id":"https://ug.ru/#/schema/person/a6e998896be0b5967f30b15d47d4b150","name":"\u0410\u043b\u0435\u043a\u0441\u0435\u0439 \u0428\u043c\u0435\u043b\u0435\u0432","image":{"@type":"ImageObject","@id":"https://ug.ru/#authorlogo","url":"https://ug.ru/wp-content/uploads/2019/05/no-avatar-300x300.png","caption":"\u0410\u043b\u0435\u043a\u0441\u0435\u0439 \u0428\u043c\u0435\u043b\u0435\u0432"},"sameAs":[]}]}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//ug.ru' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Учительская газета &raquo; Лента" href="https://ug.ru/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Учительская газета &raquo; Лента комментариев" href="https://ug.ru/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Учительская газета &raquo; Лента комментариев к &laquo;Дух и душа. О нематериальных началах человека&raquo;" href="https://ug.ru/duh-i-dusha-o-nematerialnyh-nachalah-cheloveka/feed/" />
+<link rel='stylesheet' id='style-css'  href='https://ug.ru/wp-content/themes/bb/assets/css/style.min.css?ver=5.6.5' type='text/css' media='all' />
+<script type='text/javascript' id='jquery-core-js-extra'>
+/* <![CDATA[ */
+var ajax_var = {"url":"https:\/\/ug.ru\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://ug.ru/wp-includes/js/jquery/jquery.form.min.js?ver=4.2.1' id='jquery-form-js'></script>
+<script type='text/javascript' src='https://ug.ru/wp-content/themes/bb/assets/js/min/jquery-wplogin-min.js?ver=5.6.5' id='jquery-wplogin-js'></script>
+<script type='text/javascript' id='ug-single-page-ajax-js-extra'>
+/* <![CDATA[ */
+var myajax = {"url":"https:\/\/ug.ru\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://ug.ru/wp-content/plugins/ug-ru-ajax/singlepage.min.js?ver=5.6.5' id='ug-single-page-ajax-js'></script>
+<link rel="https://api.w.org/" href="https://ug.ru/wp-json/" /><link rel="alternate" type="application/json" href="https://ug.ru/wp-json/wp/v2/posts/228079" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://ug.ru/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://ug.ru/wp-includes/wlwmanifest.xml" /> 
+<link rel='shortlink' href='https://ug.ru/?p=228079' />
+<link rel="alternate" type="application/json+oembed" href="https://ug.ru/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fug.ru%2Fduh-i-dusha-o-nematerialnyh-nachalah-cheloveka%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://ug.ru/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fug.ru%2Fduh-i-dusha-o-nematerialnyh-nachalah-cheloveka%2F&#038;format=xml" />
+<meta content="" name="keywords" /><meta name="Description" content="В христианской антропологии человек имеет тройственное строение (дух - душа - тело). Для наивно-языкового сознания указанную триаду заменяют две оппозиции: дух ..."/>		<style type="text/css">
+			.um_request_name {
+				display: none !important;
+			}
+		</style>
+		<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	      <meta name="onesignal" content="wordpress-plugin"/>
+            <script>
+
+      window.OneSignal = window.OneSignal || [];
+
+      OneSignal.push( function() {
+        OneSignal.SERVICE_WORKER_UPDATER_PATH = "OneSignalSDKUpdaterWorker.js.php";
+                      OneSignal.SERVICE_WORKER_PATH = "OneSignalSDKWorker.js.php";
+                      OneSignal.SERVICE_WORKER_PARAM = { scope: "/" };
+        OneSignal.setDefaultNotificationUrl("https://ug.ru");
+        var oneSignal_options = {};
+        window._oneSignalInitOptions = oneSignal_options;
+
+        oneSignal_options['wordpress'] = true;
+oneSignal_options['appId'] = 'd35ac720-a4b8-4ba2-90c2-cf5dfe1e38ec';
+oneSignal_options['allowLocalhostAsSecureOrigin'] = true;
+oneSignal_options['welcomeNotification'] = { };
+oneSignal_options['welcomeNotification']['title'] = "";
+oneSignal_options['welcomeNotification']['message'] = "Спасибо что подписались!";
+oneSignal_options['path'] = "https://ug.ru/wp-content/plugins/onesignal-free-web-push-notifications/sdk_files/";
+oneSignal_options['promptOptions'] = { };
+oneSignal_options['promptOptions']['actionMessage'] = "Подпишитесь на наши новости";
+oneSignal_options['promptOptions']['acceptButtonText'] = "Подписаться";
+oneSignal_options['promptOptions']['cancelButtonText'] = "Не сейчас";
+oneSignal_options['promptOptions']['siteName'] = "ug.ru";
+                OneSignal.init(window._oneSignalInitOptions);
+                OneSignal.showSlidedownPrompt();      });
+
+      function documentInitOneSignal() {
+        var oneSignal_elements = document.getElementsByClassName("OneSignal-prompt");
+
+        var oneSignalLinkClickHandler = function(event) { OneSignal.push(['registerForPushNotifications']); event.preventDefault(); };        for(var i = 0; i < oneSignal_elements.length; i++)
+          oneSignal_elements[i].addEventListener('click', oneSignalLinkClickHandler, false);
+      }
+
+      if (document.readyState === 'complete') {
+           documentInitOneSignal();
+      }
+      else {
+           window.addEventListener("load", function(event){
+               documentInitOneSignal();
+          });
+      }
+    </script>
+		<style type="text/css" id="wp-custom-css">
+			@media (min-width:576px) {
+	.header-container .header-logo {
+		width: 260px;
+	}
+}
+
+.tnp-field {
+	font-size: 12px;
+}
+.tnp-field label {
+	display: flex;
+	align-items: start;
+	gap: 10px;
+}
+.tnp-field label a {
+	color: #222;
+	font-weight: 500;
+}
+.tnp-field label p {
+	margin-bottom: 0;
+}
+.tnp-privacy {
+	margin-top: 2px;
+}
+.subscribe-news__button {
+	width: 100%;
+}
+
+.dnln_subscribe {
+	max-width: 600px;
+	border-radius: 24px;
+	padding: 2rem 2rem 1.5rem 2rem;
+	background-color: #f8f8f8;
+	margin-bottom: 1rem;
+}
+.dnln_subscribe_after_post {
+	max-width: 100%;
+	border-radius: 24px;
+	padding: 2rem 2rem 1.5rem 2rem;
+	background-color: transparent;
+	border: 5px dashed red;
+	margin-bottom: 2rem;
+}
+
+/* 7.10.2025 */
+
+iframe[src*="vk.com/video_ext"] {
+  width: 100% !important;
+  height: auto !important;
+  aspect-ratio: 16 / 9;
+	margin: 1em 0;
+}		</style>
+		
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script src="https://www.googletagmanager.com/gtag/js?id=G-R8EQJBE8VT"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-R8EQJBE8VT');
+    </script>
+    <script custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
+    <script src="https://jsn.24smi.net/smi.js"></script> <!-- 24СМИ -->
+
+    <!-- Marquiz script start -->
+    <script>
+    (function(w, d, s, o){
+    var j = d.createElement(s); j.async = true; j.src = '//script.marquiz.ru/v2.js';j.onload = function() {
+        if (document.readyState !== 'loading') Marquiz.init(o);
+        else document.addEventListener("DOMContentLoaded", function() {
+        Marquiz.init(o);
+        });
+    };
+    d.head.insertBefore(j, d.head.firstElementChild);
+    })(window, document, 'script', {
+        host: '//quiz.marquiz.ru',
+        region: 'eu',
+        id: '60a8e10fd9c26a003e890370',
+        autoOpen: false,
+        autoOpenFreq: 'once',
+        openOnExit: false,
+        disableOnMobile: false
+    }
+    );
+    </script>
+    <!-- Marquiz script end -->
+
+    <!-- Yandex.RTB -->
+    <script>window.yaContextCb=window.yaContextCb||[]</script>
+    <script src="https://yandex.ru/ads/system/context.js" async></script>
+    <!--Sova ad -->
+    <script type="text/javascript" src="https://inplayer.ru/player/in-player-v1.10.js"></script>
+    <!--/Sova ad -->
+
+    <!--AdFox-->
+    <script>window.yaContextCb = window.yaContextCb || []</script>
+    <script src="https://yandex.ru/ads/system/context.js" async></script>
+</head>
+
+<body class="post-template-default single single-post postid-228079 single-format-standard bb theme-bb woocommerce-no-js">
+
+        <!-- Yandex.Metrika counter -->
+    <script type="text/javascript" >
+    (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+    m[i].l=1*new Date();
+    for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+    k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+    (window, document, "script", "https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js", "ym");
+
+    ym(18337726, "init", {
+            clickmap:true,
+            trackLinks:true,
+            accurateTrackBounce:true
+    });
+    </script>
+    <noscript><div><img src="https://mc.yandex.ru/watch/18337726" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+    <!-- /Yandex.Metrika counter -->
+        <!-- old Mail.ru count -->
+    <!-- Rating Mail.ru counter -->
+    <script type="text/javascript">
+    var _tmr = window._tmr || (window._tmr = []);
+    _tmr.push({id: "128740", type: "pageView", start: (new Date()).getTime()});
+    (function (d, w, id) {
+    if (d.getElementById(id)) return;
+    var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+    ts.src = "https://top-fwz1.mail.ru/js/code.js";
+    var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+    if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+    })(document, window, "topmailru-code");
+    </script><noscript><div>
+    <img src="https://top-fwz1.mail.ru/counter?id=128740;js=na" style="border:0;position:absolute;left:-9999px;" alt="Top.Mail.Ru" />
+    </div></noscript>
+    <!-- //Rating Mail.ru counter -->
+    <!-- new Mail.ru count -->
+    <!-- Rating Mail.ru counter -->
+    <script type="text/javascript">
+    var _tmr = window._tmr || (window._tmr = []);
+    _tmr.push({id: "3201668", type: "pageView", start: (new Date()).getTime()});
+    (function (d, w, id) {
+    if (d.getElementById(id)) return;
+    var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+    ts.src = "https://top-fwz1.mail.ru/js/code.js";
+    var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+    if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+    })(document, window, "topmailru-code");
+    </script><noscript><div>
+    <img src="https://top-fwz1.mail.ru/counter?id=3201668;js=na" style="border:0;position:absolute;left:-9999px;" alt="Top.Mail.Ru" />
+    </div></noscript>
+    <!-- //Rating Mail.ru counter -->
+    <!--LiveInternet counter-->
+    <script>
+    new Image().src = "https://counter.yadro.ru/hit?r"+
+    escape(document.referrer)+((typeof(screen)=="undefined")?"":
+    ";s"+screen.width+""+screen.height+""+(screen.colorDepth?
+    screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+    ";h"+escape(document.title.substring(0,150))+
+    ";"+Math.random();</script>
+    <!--/LiveInternet-->
+    <!-- Sputnik -->
+    <script type="text/javascript">
+       (function(d, t, p) {
+           var j = d.createElement(t); j.async = true; j.type = "text/javascript";
+           j.src = ("https:" == p ? "https:" : "http:") + "//stat.sputnik.ru/cnt.js";
+           var s = d.getElementsByTagName(t)[0]; s.parentNode.insertBefore(j, s);
+       })(document, "script", document.location.protocol);
+    </script>
+    <!--/Sputnik-->
+    <!--AMP counter for Yandex Metrika-->
+    <amp-analytics type="metrika">
+        <script type="application/json">
+            {
+                "vars": {
+                    "counterId": "18337726",
+                    "yaParams": "{\"key\":\"value\",\"__ymu\":{\"user_param_key\":\"user_param_value\"}}"
+                }
+            }
+        </script>
+    </amp-analytics>
+    <!--/AMP counter for Yandex Metrika-->
+    <!-- Top100 (Kraken) Counter -->
+    <script>
+        (function (w, d, c) {
+        (w[c] = w[c] || []).push(function() {
+            var options = {
+                project: 7690625,
+            };
+            try {
+                w.top100Counter = new top100(options);
+            } catch(e) { }
+        });
+        var n = d.getElementsByTagName("script")[0],
+        s = d.createElement("script"),
+        f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src =
+        (d.location.protocol == "https:" ? "https:" : "http:") +
+        "//st.top100.ru/top100/top100.js";
+
+        if (w.opera == "[object Opera]") {
+        d.addEventListener("DOMContentLoaded", f, false);
+    } else { f(); }
+    })(window, document, "_top100q");
+    </script>
+    <noscript>
+        <img src="//counter.rambler.ru/top100.cnt?pid=7690625" alt="Топ-100" />
+    </noscript>
+    <!-- END Top100 (Kraken) Counter -->
+    
+<!--AdFox START-->
+<!--yandex_ug-ru-->
+<!--Площадка: Сетевое издание «Учительская газета» / Главная страница / Над всем сайтом-->
+<!--Категория: <не задана>-->
+<!--Баннер: <не задана>-->
+<!--Тип баннера: Над всем сайтом. Десктоп - 1110x120 px-->
+<div id="ugru_1693900040697210000" class="desktop-display container"></div>
+<script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.create({
+            ownerId: 394445,
+            containerId: 'ugru_1693900040697210000',
+            params: {
+                p1: 'czfgz',
+                p2: 'inte',
+                pfc: 'fskst',
+                pfb: 'qtliy'
+            }
+        })
+    })
+</script>
+
+<!--AdFox START-->
+<!--yandex_ug-ru-->
+<!--Площадка: Сетевое издание «Учительская газета» / Весь сайт / Над всем сайтом. Мобильный-->
+<!--Категория: <не задана>-->
+<!--Баннер: <не задана>-->
+<!--Тип баннера: Над всем сайтом. Мобильный - 100% x 120px-->
+<div id="ugru_169390091010013926" class="mobile-display"></div>
+<script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.create({
+            ownerId: 394445,
+            containerId: 'ugru_169390091010013926',
+            params: {
+                p1: 'czfhm',
+                p2: 'intf',
+                pfc: 'fskst',
+                pfb: 'qtljh'
+            }
+        })
+    })
+</script>
+
+<!-- panel -->
+<div class="wrapper panel-header">
+    <div class="container header-container">
+        <div class="header-logo">
+            <a href="/">
+                <img src="https://ug.ru/wp-content/themes/bb/assets/img/logo-ug.svg" class="logo" alt>
+            </a>
+        </div>
+
+        <div class="navbar-expand d-none d-md-block" id="navbarMain">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/category/all-news/">Новости</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/blog/">Блог</a>
+                </li>
+                <li class="nav-item">
+                                        <a class="nav-link" href="https://ug.ru/num/uchitelskaya-gazeta/">Архив номеров</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/onlajn-versiya/">Подписка</a>
+                </li>
+            </ul>
+        </div>
+
+        <div class="header-navigation-buttons">
+            <div class="menu-btn" id="sumbenuOpenBtn" data-toggle="collapse" data-target=".submenu-collapse">
+                <span class="d-none d-lg-block">Рубрикатор</span>
+                <img src="https://ug.ru/wp-content/themes/bb/assets/img/icons/bmenu.svg" alt="menu">
+            </div>
+
+            <div class="search-btn" data-toggle="collapse" data-target="#menuSearch">
+                <img src="https://ug.ru/wp-content/themes/bb/assets/img/icons/loupe.svg" alt="search">
+            </div>
+
+            <a class="search-btn" href="/">
+                <img src="https://ug.ru/wp-content/themes/bb/assets/img/icons/home.svg" alt="main">
+            </a>
+
+            <div class="user-btns">
+                                    <a href="#form-login" class="btn-login" data-fancybox>Войти</a>
+                    <div id="form-login" style="display: none;">
+    <div class="modal-window">
+        <div class="g__block-title mb-3">Вход</div>
+        <form name="loginform" id="loginform" action="https://ug.ru/wp-login.php" method="post"> 
+            <div class="form-group g__form-group">
+                <input type="text" name="log" id="user_login" placeholder="Логин или email"/>
+            </div>
+            <div class="form-group g__form-group">
+                <input type="password" name="pwd" id="user_pass" placeholder="Пароль"/>
+            </div>
+            <div class="form-group g__form-group">
+                <label><input name="rememberme" type="checkbox" id="rememberme" value="forever"/>  Запомнить меня</label>
+            </div>
+            <input type="submit" name="wp-submit" id="wp-submit" value="Войти" class="g__button"/> 
+            <input type="hidden" name="redirect_to" value="/duh-i-dusha-o-nematerialnyh-nachalah-cheloveka/" />
+            <div class="form-group g__form-group mt-3">
+                
+<!--
+	wsl_render_auth_widget
+	WordPress Social Login 3.0.3.
+	http://wordpress.org/plugins/wordpress-social-login/
+-->
+
+<style type="text/css">
+.wp-social-login-connect-with{}.wp-social-login-provider-list{}.wp-social-login-provider-list a{}.wp-social-login-provider-list img{}.wsl_connect_with_provider{}</style>
+
+<div class="wp-social-login-widget">
+
+	<div class="wp-social-login-connect-with">Вы можете зарегистрироваться на сайте с помощью социальных сетей ВК и Одноклассники</div>
+
+	<div class="wp-social-login-provider-list">
+
+		<a rel="nofollow" href="https://ug.ru/wp-login.php?action=wordpress_social_authenticate&#038;mode=login&#038;provider=Vkontakte&#038;redirect_to=https%3A%2F%2Fug.ru%2Fduh-i-dusha-o-nematerialnyh-nachalah-cheloveka%2F" title="С помощью ВКонтакте" class="wp-social-login-provider wp-social-login-provider-vkontakte" data-provider="Vkontakte" role="button">
+			<img loading="lazy" alt="ВКонтакте" src="https://ug.ru/wp-content/plugins/wordpress-social-login/assets/img/32x32/wpzoom/vkontakte.png" aria-hidden="true" />
+		</a>
+
+		<a rel="nofollow" href="https://ug.ru/wp-login.php?action=wordpress_social_authenticate&#038;mode=login&#038;provider=Odnoklassniki&#038;redirect_to=https%3A%2F%2Fug.ru%2Fduh-i-dusha-o-nematerialnyh-nachalah-cheloveka%2F" title="С помощью Odnoklassniki" class="wp-social-login-provider wp-social-login-provider-odnoklassniki" data-provider="Odnoklassniki" role="button">
+			<img loading="lazy" alt="Odnoklassniki" src="https://ug.ru/wp-content/plugins/wordpress-social-login/assets/img/32x32/wpzoom/odnoklassniki.png" aria-hidden="true" />
+		</a>
+
+	</div>
+
+	<div class="wp-social-login-widget-clearing"></div>
+
+</div>
+
+<!-- wsl_render_auth_widget -->
+
+            </div>
+        </form>
+        <div class="login-nav">
+            <a href="#form-register" onclick="$.fancybox.close();" data-fancybox>Регистрация</a>
+            <a href="/password-reset/">Забыли пароль?</a>
+        </div>
+    </div>
+</div>
+
+
+                    <div id="form-register" style="display: none;">
+    <div class="modal-window">
+        <div class="g__block-title mb-3">Регистрация</div>
+                    <form name="registrationform" id="registrationform" method="post" class="userform" action=""> <!-- обратите внимание на класс, по этому классу на форму вешается обработка из первой статьи -->
+                <div class="form-group g__form-group">
+                    <input type="text" name="user_login" id="user_login" placeholder="Логин">
+                </div>
+                <div class="form-group g__form-group">
+                    <input type="email" name="user_email" id="user_email" placeholder="Email">
+                </div>
+                <div class="form-group g__form-group">
+                    <input type="password" name="pass1" id="pass1" placeholder="Пароль">
+                </div>
+                <div class="form-group g__form-group">
+                    <input type="password" name="pass2" id="pass2" placeholder="Повторите пароль">
+                </div>
+                <div class="form-group g__form-group">
+                    <input type="text" name="first_name" id="first_name" placeholder="Имя">
+                </div>
+                <div class="form-group g__form-group">
+                    <input type="text" name="last_name" id="last_name" placeholder="Фамилия">
+                </div>
+                <!-- <div class="form-group">
+                    <input type="file" name="avatar" id="avatar">
+                </div> -->
+                <button type="submit" class="g__button">Зарегистрироваться</button>
+
+                <input type="hidden" name="redirect_to" value="/duh-i-dusha-o-nematerialnyh-nachalah-cheloveka/"> <!-- куда отправим юзера если все прошло ок, в нашем случае это не понадобиться, а вообще может если форма сквозная -->
+                <input type="hidden" name="nonce" value="2e29efed2e"> <!-- поле со строкой безопасности, будем проверять её в обработчике чтобы убедиться, что форма отправлена откуда надо -->
+                <input type="hidden" name="action" value="register_me"> <!-- обязательное поле, по нему запустится нужная функция -->
+                <div class="response"></div> <!-- ну сюда будем пихать ответ от сервера -->
+            </form>
+            <div class="login-nav">
+                <a href="#form-login" onclick="$.fancybox.close();" data-fancybox>Вход</a>
+                <a href="/password-reset/">Забыли пароль?</a>
+            </div>
+            </div>
+</div>
+                    <div id="form-lostpass" style="display: none;">
+    <div class="modal-window">
+        <div class="g__block-title mb-3">Восстановление пароля</div>
+                    <form name="lostpasswordform" id="lostpasswordform" method="post" class="userform">
+                <div class="form-group g__form-group">
+                    <input type="text" name="user_login" placeholder="Ваш логин или email">
+                </div>
+                <button type="submit" class="g__button">Сбросить</button>
+                <input type="hidden" name="redirect_to" value="/"> <!-- можно не заполнять если редирект не нужен -->
+                <input type="hidden" name="nonce" value="52fe9d272c">
+                <input type="hidden" name="action" value="lost_password">
+                <div class="response"></div>
+            </form>
+            <div class="login-nav">
+                <a href="#form-login" onclick="$.fancybox.close();" data-fancybox>Вход</a>
+                <a href="#form-register" onclick="$.fancybox.close();" data-fancybox>Регистрация</a>
+            </div>
+            </div>
+</div>
+                            </div>
+        </div>
+    </div>
+
+    <div class="collapse" id="menuSearch">
+        <div class="container no-search-container">
+            <div class="row menu-serach-heading">
+                <span>Поиск по сайту</span>
+            </div>
+            <form method="get" action="/" class="search-form row menu-serach-form flex-nowrap">
+                <input type="text" name='s' class="input-search" placeholder="Что вы ищете?" >
+                <input type="submit" name="start_search" class="start_search" value="Поиск"/>
+                <div class="btn-search-close" data-toggle="collapse" data-target="#menuSearch">
+                    <img src="https://ug.ru/wp-content/themes/bb/assets/img/icons/close.svg" alt="close">
+                </div>
+            </form>
+            
+        </div>
+    </div>
+    
+
+    <div class="collapse submenu submenu-collapse">
+        <div class="container">
+            <div class="submenu-group">
+                <div class="row">
+                    <div class="col">
+                        <span class="submenu-subtitle"><a>Рубрики</a></span>
+                    </div>
+                </div>
+                <div class="navbar-expand" id="navbarCategories">
+                    <ul class="navbar-nav"><li class="nav-item">
+    <a class="nav-link" href="/category/obrazovanie-ug-ru/">Образование</a>
+</li>
+<li class="nav-item">
+    <a class="nav-link" href="/category/nauka-ug-ru/">Наука</a>
+</li>
+<li class="nav-item">
+    <a class="nav-link" href="/category/pro-kulturu-ug-ru/">Про культуру</a>
+</li>
+<li class="nav-item">
+    <a class="nav-link" href="/category/pro-zakon-ug-ru/">Про закон</a>
+</li>
+<li class="nav-item">
+    <a class="nav-link" href="/category/ekologiya-ug-ru/">Экология</a>
+</li>
+<li class="nav-item">
+    <a class="nav-link" href="/category/vybor-dnya-ug-ru/">Выбор дня</a>
+</li>
+<li class="nav-item">
+    <a class="nav-link" href="/category/pro-turizm-ug-ru/">Про туризм</a>
+</li>
+<li class="nav-item">
+    <a class="nav-link" href="/partner/uchitel-goda-rossii/">Учитель года</a>
+</li>
+<li class="nav-item">
+    <a class="nav-link" href="/category/gramotey/">Грамотей</a>
+</li>
+<li class="nav-item">
+    <a class="nav-link" href="/category/pro-finansy-ug-ru/">Про финансы</a>
+</li>
+<li class="nav-item">
+    <a class="nav-link" href="/category/zdorove-ug-ru/">Здоровье</a>
+</li>
+<li class="nav-item">
+    <a class="nav-link" href="/partner/uchitel-i-czifra/">Учитель и цифра</a>
+</li>
+<li class="nav-item">
+    <a class="nav-link" href="/partner/blagotvoritelnyj-fond-vklad-v-budushhee/">Вклад в будущее</a>
+</li>
+<li class="nav-item">
+    <a class="nav-link" href="/category/obrazovatelnoe-pravo/">Образовательное право</a>
+</li>
+<li class="nav-item">
+    <a class="nav-link" href="/category/problemy-i-resheniya/">Проблемы и решения</a>
+</li>
+<li class="nav-item">
+    <a class="nav-link" href="/category/tochka-zreniya-ug-ru/">Точка зрения</a>
+</li>
+<li class="nav-item">
+    <a class="nav-link" href="/category/art-progulka/">АРТ-прогулка</a>
+</li>
+<li class="nav-item">
+    <a class="nav-link" href="/category/peremena/">Перемена</a>
+</li>
+<li class="nav-item">
+    <a class="nav-link" href="/category/ostraya-tema/">Острая тема</a>
+</li>
+<li class="nav-item">
+    <a class="nav-link" href="/category/zarplata/">Зарплата</a>
+</li>
+<li class="nav-item">
+    <a class="nav-link" href="/category/politika-obrazovaniya/">Политика образования</a>
+</li>
+<li class="nav-item">
+    <a class="nav-link" href="/category/uchitelskaya-gazeta/dnevnik/sobytie-nedeli/">Событие недели</a>
+</li>
+<li class="nav-item">
+    <a class="nav-link" href="/category/stroki-iz-pisem/">Строки из писем</a>
+</li>
+<li class="nav-item">
+    <a class="nav-link" href="/categories/">Все рубрики</a>
+</li></ul>
+                </div>
+            </div>
+
+            <div class="submenu-group">
+                <div class="row">
+                    <div class="col">
+                        <span class="submenu-subtitle"><a>Наши издания</a></span>
+                    </div>
+                </div>
+                <div class="navbar-expand" id="navbarArchives">
+                    <ul class="navbar-nav">
+                        <li class="nav-item">
+                            <a class="nav-link" href="/rubriki-ug-ru/">Сетевое издание UG.RU</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/archives/ug-moskva/">УГ - Москва</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/archives/moj-profsoyuz/">Мой профсоюз</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/archives/ug-region/">УГ - Регион</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/archives/uchitelskaya-gazeta/">Архив номеров</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="submenu-group">
+                <div class="row">
+                    <div class="col">
+                        <span class="submenu-subtitle"><a>Конкурсы</a></span>
+                    </div>
+                </div>
+                <div class="navbar-expand" id="navbarCompetitions">
+                    <ul class="navbar-nav">
+                        <li class="nav-item">
+                            <a class="nav-link" href="https://ug.ru/partner/uchitel-goda-rossii/">Учитель года России</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="https://ug.ru/uspeshnaya-shkola-23/">Успешная школа</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="https://ug.ru/obrazovatelnye-tehnologii/">Образовательные технологии</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="submenu-group">
+                <div class="navbar-expand" id="navbarOther">
+                    <ul class="navbar-nav submenu-subtitle flex-wrap">
+                        <li class="nav-item">
+                            <a class="nav-link" href="/iccs/">Исследования ICCS</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/fotoreportazhi/">Фоторепортажи</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/contacts/">Контакты</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/redakcziya/">Редакция</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/reklama/">Реклама</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/partnery/">Партнеры</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="collapse submenu-mobile d-md-none submenu-collapse">
+        <div class="list-group" id="list-tab" role="tablist">
+            <a class="list-group-item list-group-item-action active" id="list-site-list" data-toggle="list" href="#siteSubmenu" role="tab" aria-controls="site">Сайт</a>
+                            <a href="#form-login" class="btn-login-sub" data-fancybox>Войти</a>
+                    </div>
+        
+        <div class="tab-content" id="nav-tabContent">
+            <div class="container container-site-submenu tab-pane fade show active" id="siteSubmenu">
+                <div class="submenu-group">
+                    <div class="navbar" id="navbarMainMobile">
+                        <ul class="navbar-nav submenu-subtitle flex-wrap">
+                            <li class="nav-item">
+                                <a class="nav-link" href="/category/all-news/">Новости</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="/blog/">Блог</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="https://ug.ru/num/uchitelskaya-gazeta/">Архив номеров</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="/onlajn-versiya/">Подписка</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="submenu-group">
+                    <div class="row">
+                        <div class="col">
+                            <span class="submenu-subtitle submenu-subtitle-arrow"><a data-toggle="collapse" href="#collapseCategories">Рубрики</a></span>
+                        </div>
+                    </div>
+                    <div class="collapse navbar collapse" id="collapseCategories">
+                        <ul class="navbar-nav"><li class="nav-item">
+    <a class="nav-link" href="/category/obrazovanie-ug-ru/">Образование</a>
+</li>
+<li class="nav-item">
+    <a class="nav-link" href="/category/nauka-ug-ru/">Наука</a>
+</li>
+<li class="nav-item">
+    <a class="nav-link" href="/category/pro-kulturu-ug-ru/">Про культуру</a>
+</li>
+<li class="nav-item">
+    <a class="nav-link" href="/category/pro-zakon-ug-ru/">Про закон</a>
+</li>
+<li class="nav-item">
+    <a class="nav-link" href="/category/ekologiya-ug-ru/">Экология</a>
+</li>
+<li class="nav-item">
+    <a class="nav-link" href="/category/vybor-dnya-ug-ru/">Выбор дня</a>
+</li>
+<li class="nav-item">
+    <a class="nav-link" href="/category/pro-turizm-ug-ru/">Про туризм</a>
+</li>
+<li class="nav-item">
+    <a class="nav-link" href="/partner/uchitel-goda-rossii/">Учитель года</a>
+</li>
+<li class="nav-item">
+    <a class="nav-link" href="/category/gramotey/">Грамотей</a>
+</li>
+<li class="nav-item">
+    <a class="nav-link" href="/category/pro-finansy-ug-ru/">Про финансы</a>
+</li>
+<li class="nav-item">
+    <a class="nav-link" href="/category/zdorove-ug-ru/">Здоровье</a>
+</li>
+<li class="nav-item">
+    <a class="nav-link" href="/partner/uchitel-i-czifra/">Учитель и цифра</a>
+</li>
+<li class="nav-item">
+    <a class="nav-link" href="/partner/blagotvoritelnyj-fond-vklad-v-budushhee/">Вклад в будущее</a>
+</li>
+<li class="nav-item">
+    <a class="nav-link" href="/category/obrazovatelnoe-pravo/">Образовательное право</a>
+</li>
+<li class="nav-item">
+    <a class="nav-link" href="/category/problemy-i-resheniya/">Проблемы и решения</a>
+</li>
+<li class="nav-item">
+    <a class="nav-link" href="/category/tochka-zreniya-ug-ru/">Точка зрения</a>
+</li>
+<li class="nav-item">
+    <a class="nav-link" href="/category/art-progulka/">АРТ-прогулка</a>
+</li>
+<li class="nav-item">
+    <a class="nav-link" href="/category/peremena/">Перемена</a>
+</li>
+<li class="nav-item">
+    <a class="nav-link" href="/category/ostraya-tema/">Острая тема</a>
+</li>
+<li class="nav-item">
+    <a class="nav-link" href="/category/zarplata/">Зарплата</a>
+</li>
+<li class="nav-item">
+    <a class="nav-link" href="/category/politika-obrazovaniya/">Политика образования</a>
+</li>
+<li class="nav-item">
+    <a class="nav-link" href="/category/uchitelskaya-gazeta/dnevnik/sobytie-nedeli/">Событие недели</a>
+</li>
+<li class="nav-item">
+    <a class="nav-link" href="/category/stroki-iz-pisem/">Строки из писем</a>
+</li>
+<li class="nav-item">
+    <a class="nav-link" href="/categories/">Все рубрики</a>
+</li></ul>
+                    </div>
+                </div>
+
+                <div class="submenu-group">
+                    <div class="row">
+                        <div class="col">
+                            <span class="submenu-subtitle submenu-subtitle-arrow"><a data-toggle="collapse" href="#collapseArchives">Наши издания</a></span>
+                        </div>
+                    </div>
+                    <div class="collapse navbar collapse" id="collapseArchives">
+                        <ul class="navbar-nav">
+                            <li class="nav-item">
+                                <a class="nav-link" href="/rubriki-ug-ru/">Сетевое издание UG.RU</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="/archives/ug-moskva/">УГ - Москва</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="/archives/moj-profsoyuz/">Мой профсоюз</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="/archives/ug-region/">УГ - Регион</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="/archives/uchitelskaya-gazeta/">Архив номеров</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="submenu-group">
+                    <div class="row">
+                        <div class="col">
+                            <span class="submenu-subtitle submenu-subtitle-arrow"><a data-toggle="collapse" href="#collapseCompetitions">Конкурсы</a></span>
+                        </div>
+                    </div>
+                    <div class="collapse navbar" id="collapseCompetitions">
+                        <ul class="navbar-nav">
+                            <li class="nav-item">
+                                <a class="nav-link" href="https://ug.ru/partner/uchitel-goda-rossii/">Учитель года России</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="https://ug.ru/uspeshnaya-shkola-23/">Успешная школа</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="https://ug.ru/obrazovatelnye-tehnologii/">Образовательные технологии</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="submenu-group">
+                    <div class="navbar" id="navbarOther">
+                        <ul class="navbar-nav submenu-subtitle flex-wrap">
+                            <li class="nav-item">
+                                <a class="nav-link" href="/iccs/">Исследования ICCS</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="/fotoreportazhi/">Фоторепортажи</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="/contacts/">Контакты</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="/redakcziya/">Редакция</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="/reklama/">Реклама</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="/partnery/">Партнеры</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+                    </div>
+    </div>
+</div>
+
+<noindex>
+</noindex>
+
+<div class="container">
+<!-- Yandex.RTB R-A-2387340-28 -->
+<div id="yandex_rtb_R-A-2387340-28"></div>
+<script>window.yaContextCb.push(()=>{
+	Ya.Context.AdvManager.render({
+		"blockId": "R-A-2387340-28",
+		"renderTo": "yandex_rtb_R-A-2387340-28"
+	})
+})
+</script></div>
+
+<div class="wrapper content-container">
+    <!-- all wrapper -->
+
+    <div class="ugrulike_block" data-one="228079" data-two="0" data-three="6545">
+                    <a href="#form-login" data-fancybox class="ugrulike_block__button ugrulike_block__button_like">
+                <img src="https://ug.ru/wp-content/themes/bb/assets/img/icons/like_empty.svg">
+            </a>
+            <a href="#form-login" data-fancybox class="ugrulike_block__button ugrulike_block__button_dislike">
+                <img src="https://ug.ru/wp-content/themes/bb/assets/img/icons/dislike_empty.svg">
+            </a>
+                <span id="like_value_228079" class="ugrulike_block__value ">0</span>
+    </div>
+
+<!-- news page -->
+<!-- if user not logged in add class "not-logged-in" -->
+<div class="container news-page mt-4">
+    <div class="row mb-4">
+        
+<div class="col-md-8 mb-md-0 content content-news">
+    <div class="post-info mb-3">
+                <div class="post-info__publish_date">
+            Учительская газета, №15 от 10 апреля 2012. <a href="https://ug.ru/num/%e2%84%9615-3/">Читать номер</a>
+                        </div>
+    </div>
+    <h1 class="title mb-3">Дух и душа. О нематериальных началах человека</h1>
+        <div class="post-info mb-2">
+        <div class="post-info__author post-info__author_name">
+            Автор: <a href="https://ug.ru/author/shmelevaleksej/" title="Записи Алексей Шмелев" rel="author">Алексей Шмелев</a>                                </div>
+        <div class="post-ifno__read-time"><img width="15px" src="https://ug.ru/wp-content/themes/bb/assets/img/icons/clock.svg">На чтение: ≈ 11 мин.</div>
+    </div>
+    <div class="panel mt-4 mb-4">
+        <div class="panel__share">
+            <span class="panel__share__title">Поделиться:</span>
+            <div class="panel__share__social">
+                <script src="//yastatic.net/es5-shims/0.0.2/es5-shims.min.js" defer></script>
+                <script src="//yastatic.net/share2/share.js" defer></script>
+                <div class="ya-share2" data-services="vkontakte,odnoklassniki,twitter"></div>
+            </div>
+            <button class="panel__share__copy-link"
+                    id="linkbtn228079"
+                    for="#link-228079">
+                <span class="panel__share__copy-link__text panel__share__copy-link__text_desktop">Скопировать ссылку</span>
+                <span class="panel__share__copy-link__text panel__share__copy-link__text_mobile">🔗</span>
+                <input id="link-228079" type="hidden" value="https://ug.ru/duh-i-dusha-o-nematerialnyh-nachalah-cheloveka/">
+                <script>
+                    linkbtn228079.onclick = function() {
+                        var linkId = $(this).attr('for');
+                        navigator.clipboard.writeText($(linkId).attr('value'));
+                    }
+                </script>
+            </button>
+        </div>
+            </div>
+
+    <div class="article mb-5">
+        <div class="first-content">
+            <p><b>В христианской антропологии человек имеет тройственное строение (дух &#8211; душа &#8211; тело). Для наивно-языкового сознания указанную триаду заменяют две оппозиции: дух &#8211; плоть и душа &#8211; тело. Первые члены этих оппозиций (дух и душа) указывают на нематериальное начало в человеке, а вторые члены (плоть и тело) &#8211; на материальное начало. По-видимому, не случайно для нематериального начала человека в русском языке есть два слова дух и душа, ведь почти нет контекстов, в которых эти слова были бы взаимозаменимы &#8211; например, можно упасть духом (но не душою), но тяжело (легко, весело) может быть только на душе (не на духе). Если же в каком-то контексте можно употребить как то, так и другое слово, смысл кардинальным образом меняется &#8211; так, выражение в душе указывает на тайные мысли человека (ср. Она говорила: «Как я рада, что вы зашли», &#8211; а в душе думала: «Как это неуместно!»), а выражение в духе &#8211; на хорошее настроение человека (чаще это выражение употребляется с отрицанием &#8211; не в духе).</b></p>
+<p>Дело, по-видимому, в том, что душа в наивно-языковом представлении воспринимается как своего рода невидимый орган, локализованный где-то в груди и «заведующий» внутренней жизнью человека. О том, что душа воспринимается почти как часть тела, как некий внутренний орган, свидетельствует и то, что с точки зрения языка она имеет «волокнистое» строение, состоит из фибр (ср. устойчивое выражение всеми фибрами души). Поэтому душа может болеть за кого-то (невозможно дух болит).Каждый человек обладает уникальною, неповторимою душою &#8211; сколько людей, столько душ, и поэтому людей удобно считать по душам. Именно такой способ счета и принят в России. Поэтому употребительное во многих западноевропейских языках латинское выражение per capita (буквально ‘на (одну) голову’) переводится на русский язык как на душу населения.</p>
+<p>При этом душа воспринимается как некоторое вместилище внутренних состояний (именно тот факт, что душа концептуализуется как вместилище, дал Пастернаку возможность сказать о своей душе, что она стала усыпальницей замученных живьем и теперь стоит могильной урною, вмещающей их прах). Скрытые от посторонних мысли и чувства находятся в глубине этого вместилища (в душе или в глубине души), а те состояния, которые имеют внешние проявления или по крайней мере не противоречат таковым, находятся где-то на его поверхности (на душе). Поведать другому свои даже самые сокровенные мысли или чувства значит раскрыть душу, а нежелательное вмешательство в частную жизнь человека, приставания с целью выведать те мысли и чувства, которые он прячет от посторонних, описывается выражением лезть в душу. Если же неосторожным словом или поступком мы оскорбляем что-то, что человек бережно хранит в тайниках своей души, то мы плюем ему в душу.Во многих отношениях, поскольку речь идет о роли соответствующего органа во внутренней жизни человека, нематериальная душа подобна такому материальному органу, как сердце, и, напротив, имеет мало общего с человеческим духом. Дух вообще не концептуализуется как орган. Скорее, это некоторая нематериальная субстанция, которая не столько находится внутри человека, сколько окружает его и его душу, как своего рода ореол. Эта субстанция может проникать туда, где человек отсутствует физически, и оставаться там, откуда человек уже ушел, в виде своего рода воспоминания о нем. Чтоб духу твоего здесь не было! &#8211; говорят тому, кого не желают видеть в данном месте, и это означает гиперболический запрет не только физического присутствия, но и малейших нематериальных следов человека, желание уничтожить само воспоминание о нем.Поскольку дух является невесомой, летучей субстанцией, то человек может подниматься на большую высоту (в метафорическом смысле) именно при помощи духа (или, как говорят, воспарять духом). С другой стороны, человек может и упасть духом, и это означает, что он пришел в уныние, при котором достичь высот человеческого духа уже невозможно. Слово душа в стандартном употреблении не используется в контекстах подобного рода. Мы не можем ни воспарять душой, ни падать душой.</p>
+<p>Правда, о сильно испугавшемся человеке говорят, что у него душа в пятки ушла. Здесь речь идет о том, что душа, охваченная страхом, переместилась не просто вниз, но, что важнее, из места своей постоянной локализации (из груди) в новое, неподходящее место. Дух не имеет постоянной локализации в теле человека, поэтому не имеют образной мотивации и не используются такие выражения, как дух ушел в пятки (или куда-либо еще). Точно так же о сильно встревоженном человеке говорят, что у него душа не на месте, дух же, не имея постоянной локализации, не может быть не на месте.Для души существенно не только местонахождение, но и положение: говоря о симпатиях и антипатиях человека, используют выражение душа лежит к кому-либо или чему-либо. Для духа расположение также важно, недаром говорят о хорошем или дурном расположении духа; но само выражение показывает, что речь идет не о том, что дух, находящийся внутри человека, как-либо расположен, а как бы о некоей субстанции, окружающей человека, который может пребывать в том или ином расположении духа.</p>
+<p>Дух представляет собою именно субстанцию, он в отличие от души плохо поддается счету. Из этого вытекает целый ряд отличий в употреблении слов дух и душа. Если выражение ни души означает просто ‘никого’ (поскольку, как уже говорилось, людей обычно считают «по душам»), то ни духу используется лишь в таких устойчивых выражениях, как ни слуху ни духу, и означает отсутствие малейших вестей и даже воспоминания о человеке. Души в ситуации счета означает просто ‘люди’ (например, в выражении столько-то душ), и тогда душа выступает заместителем всего человека, включая тело; дух исключает тело, подчеркивает нематериальность, бесплотность, и поэтому духи означает ‘призраки’, ‘привидения’. Душа человека автономна и индивидуальна, тогда как человеческий дух существует прежде всего как часть некоторой межличностной субстанции, или, если использовать выражение из «Ракового корпуса», осколочек Мирового Духа. Приобщенность к данной межличностной субстанции позволяет человеку черпать из нее, и часто, для того чтобы предпринять какое-либо решительное действие, бывает необходимо набраться духу. Если же человек не сумел этого сделать, то можно сказать, что ему не хватило духу. Если душа человека формирует его личность, будучи вместилищем его сокровенных мыслей и чувств, то дух составляет его внутренний стержень. Поэтому в ситуации борьбы часто бывает важно сломить дух противника, после чего он утрачивает волю к победе или даже впадает в отчаяние. Не случайно боевая подготовка издавна &#8211; «от Саргона и Ассурбанипала до Вильгельма II», как говорил один персонаж из «Трех разговоров» Владимира Соловьева, &#8211; состояла в том, чтобы (опять пользуясь словами этого персонажа) «поддерживать и укреплять в своих войсках… боевой дух».</p>
+<p>Для человека важно горение духа. Если дух угасает, это свидетельствует если не об отчаянии, то все же о некоторой потере энтузиазма. «Горение души» (выражение душа горит) &#8211; это нечто совсем другое; оно свидетельствует лишь об особого рода энтузиазме &#8211; о желании выпить. В критических ситуациях человеку бывает необходимо присутствие духа (но нельзя сказать: присутствие души: ведь душа у человека есть всегда, и притом как единое целое), и, прежде чем что-то предпринять, он часто должен собраться с духом (ср. также упоминавшиеся выражения набраться духа, не хватает духа). Роль души в человеческой деятельности иная. Не говорят набраться души или не хватило души. Существенно не наличие души у человека, а ее участие в конкретном действии: человек может вкладывать душу в какое-либо дело, делать его с душой (или без души).​</p>
+<p><strong>Алексей ШМЕЛЕВ, доктор филологических наук, профессор, заведующий отделом культуры речи Института русского языка им. В.В. Виноградова РАН</strong></p>
+</p>        </div>
+        <link type="text/css" rel="stylesheet" href="https://cdn2.voiced.fm/ug/voiced.v6.min.css" />
+        <script src="https://cdn2.voiced.fm/ug/voiced.v6.min.js"></script>
+        <script>
+            var scroll_widget = xhraudio_widget_scroll("xhraudio-scroll", "https://audio2.voiced.fm");
+            var textHash = null;
+            var item = scroll_widget.addStateless(textHash);
+            item.makeInline = true;
+            
+            $.when (
+                scroll_widget.initStateless(item, false, "panel__voiced_player", "single-article-related", "https://ug.ru/duh-i-dusha-o-nematerialnyh-nachalah-cheloveka/")
+            ).then(function_test_1);
+
+            function function_test_1() {
+                setTimeout(function () {
+                    $(".ctrl.toggle-play").on('click', function() {
+                        if (!$(this).hasClass('paused')) {
+                            $.post(
+                                myajax.url, 
+                                {
+                                    action: 'set_info_listen',
+                                }, 
+                                function(response) {}
+                            ).fail(function(error) {});
+                        }
+                    });
+                }, 3000)
+            }
+        </script>
+    </div>
+
+        
+
+	    <section class="dnln_subscribe_after_post">
+    <h5 class="subscribe-news__title">Профессионалам — профессиональную рассылку!</h5>
+    <p class="subscribe-news__description">Подпишитесь, чтобы получать актуальные новости и специальные предложения от «Учительской газеты», не выходя из почтового ящика</p>
+    <form method="post" action="/?na=s" onsubmit="return newsletter_check(this)">
+        <div class="form-group row">
+            <div class="col-md-8 mb-3 mb-md-0">
+                <input type="hidden" name="nl[]" value="1">
+                <input type="email" name="ne" class="form-control subscribe-news__input" placeholder="Введите ваш e-mail" required>
+            </div>
+            <div class="col-md-4">
+                <button class="g__button subscribe-news__button" type="submit">Подписаться</button>
+            </div>
+        </div>
+        <div class="tnp-field tnp-privacy-field">
+            <label>
+                <input type="checkbox" name="ny" required class="tnp-privacy">
+                <p>Соглашаюсь с <a href="https://ug.ru/privacy/" target="_blank">политикой конфиденциальности</a> и даю согласие на обработку персональных данных</p>
+            </label>
+        </div>
+    </form>
+    </section>
+    
+    
+    <div class="panel__share mb-3">
+        <span class="panel__share__title">Поделиться:</span>
+        <div class="panel__share__social">
+            <script src="//yastatic.net/es5-shims/0.0.2/es5-shims.min.js" defer></script>
+            <script src="//yastatic.net/share2/share.js" defer></script>
+            <div class="ya-share2" data-services="vkontakte,odnoklassniki,twitter"></div>
+        </div>
+        <button class="panel__share__copy-link"
+                id="linkbtn228079"
+                for="#link-228079">
+            <span class="panel__share__copy-link__text panel__share__copy-link__text_desktop">Скопировать ссылку</span>
+            <span class="panel__share__copy-link__text panel__share__copy-link__text_mobile">🔗</span>
+            <input id="link-228079" type="hidden" value="https://ug.ru/duh-i-dusha-o-nematerialnyh-nachalah-cheloveka/">
+            <script>
+                linkbtn228079.onclick = function() {
+                    var linkId = $(this).attr('for');
+                    navigator.clipboard.writeText($(linkId).attr('value'));
+                }
+            </script>
+        </button>
+    </div>
+    <div class="rate mb-3">
+        <span class="rate__title">Оценить:</span>
+        <div class="rate__social">
+            <script async src="https://usocial.pro/usocial/usocial.js?uid=6b4e0d95acf59452&v=6.1.5" data-script="usocial" charset="utf-8"></script>
+            <div class="uSocial-Like" data-pid="e1f30dba3dcd49c70ba4be7bddceb357" data-type="like" data-options="absolute,round-rect,horizontal" data-social="vk,mail,ok" data-appId-vk="7766818"></div>
+        </div>
+    </div>
+
+    <!-- Читайте в других источниках -->
+    <div class="social-news-links mb-3">
+    <div class="social-news-links__title">Читайте «УГ» в:</div>
+    <div class="social-news-links__images">
+        <a class="social-news-links__images_link" href="https://dzen.ru/news/?favid=2610" target="_blank">
+            <img src="https://ug.ru/wp-content/themes/bb/assets/img/external/dzen_news.svg"  loading="lazy">
+        </a>
+        <a class="social-news-links__images_link" href="https://zen.yandex.ru/ug.ru" target="_blank">
+            <img src="https://ug.ru/wp-content/themes/bb/assets/img/external/zen.svg"  loading="lazy">
+        </a>
+        <a class="social-news-links__images_link" href="https://pulse.mail.ru/ugru/" target="_blank">
+            <img src="https://ug.ru/wp-content/themes/bb/assets/img/external/mail_pulse.svg"  loading="lazy">
+        </a>
+        <a class="social-news-links__images_link" href="https://news.google.com/publications/CAAqBwgKMJ2joAswqq24Aw?hl=ru&gl=RU&ceid=RU%3Aru" target="_blank">
+            <img src="https://ug.ru/wp-content/themes/bb/assets/img/external/google_news.svg"  loading="lazy">
+        </a>
+    </div>
+</div>    
+    
+<div class="g__block-title mb-3">Читайте также</div>
+<div class="row mobile-scroll">
+    
+<div class="col-md-6 item">
+    <div class="g__post-card-250">
+        <a href="https://ug.ru/institut-pushkina-nazval-samye-populyarnye-slova-2025-goda/">
+            <div class="g__post-card__background">
+                <img class="g__post-card__background" src='https://ug.ru/wp-content/uploads/2026/01/iskusstvennyj-intellekt-420x236.jpg' loading="lazy"/>
+            </div>
+        </a>
+        <div class="g__post-card__text">
+                        <a href="https://ug.ru/category/obrazovanie-ug-ru/" class="g__post-card__category">Образование UG.RU</a>
+                        <a href="https://ug.ru/institut-pushkina-nazval-samye-populyarnye-slova-2025-goda/" class="g__post-card__title">
+                <h3 class="g__post-card__title__text">Институт Пушкина назвал самые популярные слова 2025 года</h3>
+            </a>
+        </div>
+    </div>
+</div>
+
+<div class="col-md-6 item">
+    <div class="g__post-card-250">
+        <a href="https://ug.ru/fundament-budushhego-shkoly-otkryvshiesya-1%e2%80%afsentyabrya%e2%80%af2025/">
+            <div class="g__post-card__background">
+                <img class="g__post-card__background" src='https://ug.ru/wp-content/uploads/2022/08/1-sentyabrya-2-420x279.jpg' loading="lazy"/>
+            </div>
+        </a>
+        <div class="g__post-card__text">
+                        <a href="https://ug.ru/category/obrazovanie-ug-ru/" class="g__post-card__category">Образование UG.RU</a>
+                        <a href="https://ug.ru/fundament-budushhego-shkoly-otkryvshiesya-1%e2%80%afsentyabrya%e2%80%af2025/" class="g__post-card__title">
+                <h3 class="g__post-card__title__text">Фундамент будущего: школы, открывшиеся 1 сентября 2025</h3>
+            </a>
+        </div>
+    </div>
+</div>
+</div>
+
+            <div class="post_comments mt-4">
+        <h5 class="mb-3">Комментарии</h5>
+	<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title"> <small><a rel="nofollow" id="cancel-comment-reply-link" href="/duh-i-dusha-o-nematerialnyh-nachalah-cheloveka/#respond" style="display:none;">Отменить ответ</a></small></h3><p class="must-log-in">Для добавления комментария вы должны быть <a href="#form-login" data-fancybox>авторизированы</a>.</p>
+<!--
+	wsl_render_auth_widget
+	WordPress Social Login 3.0.3.
+	http://wordpress.org/plugins/wordpress-social-login/
+-->
+
+<style type="text/css">
+.wp-social-login-connect-with{}.wp-social-login-provider-list{}.wp-social-login-provider-list a{}.wp-social-login-provider-list img{}.wsl_connect_with_provider{}</style>
+
+<div class="wp-social-login-widget">
+
+	<div class="wp-social-login-connect-with">Вы можете зарегистрироваться на сайте с помощью социальных сетей ВК и Одноклассники</div>
+
+	<div class="wp-social-login-provider-list">
+
+		<a rel="nofollow" href="https://ug.ru/wp-login.php?action=wordpress_social_authenticate&#038;mode=login&#038;provider=Vkontakte&#038;redirect_to=https%3A%2F%2Fug.ru%2Fduh-i-dusha-o-nematerialnyh-nachalah-cheloveka%2F" title="С помощью ВКонтакте" class="wp-social-login-provider wp-social-login-provider-vkontakte" data-provider="Vkontakte" role="button">
+			<img loading="lazy" alt="ВКонтакте" src="https://ug.ru/wp-content/plugins/wordpress-social-login/assets/img/32x32/wpzoom/vkontakte.png" aria-hidden="true" />
+		</a>
+
+		<a rel="nofollow" href="https://ug.ru/wp-login.php?action=wordpress_social_authenticate&#038;mode=login&#038;provider=Odnoklassniki&#038;redirect_to=https%3A%2F%2Fug.ru%2Fduh-i-dusha-o-nematerialnyh-nachalah-cheloveka%2F" title="С помощью Odnoklassniki" class="wp-social-login-provider wp-social-login-provider-odnoklassniki" data-provider="Odnoklassniki" role="button">
+			<img loading="lazy" alt="Odnoklassniki" src="https://ug.ru/wp-content/plugins/wordpress-social-login/assets/img/32x32/wpzoom/odnoklassniki.png" aria-hidden="true" />
+		</a>
+
+	</div>
+
+	<div class="wp-social-login-widget-clearing"></div>
+
+</div>
+
+<!-- wsl_render_auth_widget -->
+
+	</div><!-- #respond -->
+	
+<ul class="commentlist">
+    </ul>
+
+
+        </div>
+    
+    
+</div>        
+        <div class="col-md-4 mb-md-0">
+            <div class="sidebar-scroll" id="sidebar">
+                <div class="sidebar">
+                    
+    <div class="g__post-list-column">
+        <h3 class="g__block-title g__block-title_image"><a href="/reader-choice/"><img src="https://ug.ru/wp-content/themes/bb/assets/img/category/tick.svg">Выбор читателей</a></h3>
+                        <time class="g__post-list-column__time">11 декабря 2025, 21:40</time>
+                <a href="https://ug.ru/reshenie-problemy-s-zarplatami-uchitelej-trebuet-mnogo-vremeni-zayavil-glava-minprosveshheniya/" class="g__post-list-column__link">
+                    <h2 class="g__post-list-column__title">Решение проблемы с зарплатами учителей требует много времени, заявил глава Минпросвещения</h2>
+                </a>
+                            <time class="g__post-list-column__time">11 декабря 2025, 17:49</time>
+                <a href="https://ug.ru/instrukczii-po-dejstviyam-pedagogov-v-konfliktnyh-situacziyah-utverdilo-minprosveshheniya-rossii/" class="g__post-list-column__link">
+                    <h2 class="g__post-list-column__title">Инструкции по действиям педагогов в конфликтных ситуациях утвердило Минпросвещения России</h2>
+                </a>
+            <!-- Yandex.RTB R-A-2387340-23 -->
+<div id="yandex_rtb_R-A-2387340-23"></div>
+<script>window.yaContextCb.push(()=>{
+	Ya.Context.AdvManager.render({
+		"blockId": "R-A-2387340-23",
+		"renderTo": "yandex_rtb_R-A-2387340-23"
+	})
+})
+</script>                <time class="g__post-list-column__time">10 декабря 2025, 14:01</time>
+                <a href="https://ug.ru/minprosveshheniya-opredelilo-daty-provedeniya-poslednih-zvonkov-i-vypusknyh-v-shkolah/" class="g__post-list-column__link">
+                    <h2 class="g__post-list-column__title">Минпросвещения определило даты проведения последних звонков и выпускных в школах</h2>
+                </a>
+                            <time class="g__post-list-column__time">8 декабря 2025, 16:58</time>
+                <a href="https://ug.ru/skolko-detej-mogut-uchitsya-v-odnom-klasse-rasskazali-v-mpgu/" class="g__post-list-column__link">
+                    <h2 class="g__post-list-column__title">Сколько детей могут учиться в одном классе, рассказали в МПГУ</h2>
+                </a>
+            <!-- Yandex.RTB R-A-2387340-24 -->
+<div id="yandex_rtb_R-A-2387340-24"></div>
+<script>window.yaContextCb.push(()=>{
+	Ya.Context.AdvManager.render({
+		"blockId": "R-A-2387340-24",
+		"renderTo": "yandex_rtb_R-A-2387340-24"
+	})
+})
+</script>                <time class="g__post-list-column__time">6 декабря 2025, 09:56</time>
+                <a href="https://ug.ru/utverzhdeno-raspisanie-oge-i-ege-na-2026-god-osnovnoj-period-nachnetsya-1-iyunya/" class="g__post-list-column__link">
+                    <h2 class="g__post-list-column__title">Утверждено расписание ОГЭ и ЕГЭ на 2026 год: основной период начнется 1 июня</h2>
+                </a>
+                            <time class="g__post-list-column__time">4 декабря 2025, 15:03</time>
+                <a href="https://ug.ru/minprosveshheniya-predstavilo-proekt-edinogo-standarta-obucheniya-dlya-starsheklassnikov/" class="g__post-list-column__link">
+                    <h2 class="g__post-list-column__title">Минпросвещения представило проект единого стандарта обучения для старшеклассников</h2>
+                </a>
+                            <time class="g__post-list-column__time">4 декабря 2025, 11:15</time>
+                <a href="https://ug.ru/novost-dlya-roditelej-prodlen-srok-dejstviya-poryadka-priema-v-detsady/" class="g__post-list-column__link">
+                    <h2 class="g__post-list-column__title">Новость для родителей: продлен срок действия порядка приема в детсады</h2>
+                </a>
+                </div>
+    <div class="text-right"><a class="g__post-list-column__all-link" href="/reader-choice/">Все топ новости</a></div>
+                    <!-- 24СМИ Sidebar -->
+                    <div class="smi24__informer smi24__auto" data-smi-blockid="17133"></div>
+                    <script>(window.smiq = window.smiq || []).push({});</script>
+                    
+    <div class="sidebar__blog-column">
+        <h3 class="g__block-title"><a href="/blog/">Топ блоги</a></h3>
+        <div class="sidebar__blog-column__cards">
+                    <div class="g__post-card-250">
+                <a href="https://ug.ru/vospitanie-rechevoj-kultury-u-detej/">
+                    <div class="g__post-card__background">
+                        <img class="g__post-card__background" src='https://ug.ru/wp-content/uploads/2025/11/mal-cik-smotrit-na-devusku-s-lupoi-420x279.jpg' loading="lazy"/>
+                    </div>
+                </a>
+                <div class="g__post-card__text">
+                    <a href="https://ug.ru/vospitanie-rechevoj-kultury-u-detej/" class="g__post-card__title">
+                        <h3 class="g__post-card__title__text">Воспитание речевой культуры у детей</h3>
+                    </a>
+                </div>
+            </div>
+                    <div class="g__post-card-250">
+                <a href="https://ug.ru/mediaprodvizhenie-istoriya-odnoj-rubriki/">
+                    <div class="g__post-card__background">
+                        <img class="g__post-card__background" src='https://ug.ru/wp-content/uploads/2025/12/photo_2025-12-07_20-19-18-294x294.jpg' loading="lazy"/>
+                    </div>
+                </a>
+                <div class="g__post-card__text">
+                    <a href="https://ug.ru/mediaprodvizhenie-istoriya-odnoj-rubriki/" class="g__post-card__title">
+                        <h3 class="g__post-card__title__text">Медиапродвижение: история одной рубрики</h3>
+                    </a>
+                </div>
+            </div>
+                </div>
+        <div class="text-right">
+            <a class="text-right g__button" href="/blog/">Читать блоги</a>
+        </div>
+    </div>
+                </div>
+                <div class="sidebar__poll-column">
+    <div class="sidebar__poll-column__header">
+        <a class="g__block-title sidebar__poll-column__title" href="/democracy-archives/">Опрос</a>
+    </div>
+    <div class="sidebar__poll-column__container">
+        
+<!--democracy-->
+<style type="text/css">.democracy:after{content:'';display:table;clear:both}.democracy ul li,.democracy ul{background:none;padding:0;margin:0}.democracy ul li:before{display:none}.democracy input[type='radio'],.democracy input[type='checkbox']{margin:0;vertical-align:middle}.democracy input[type='radio']:focus,.democracy input[type='checkbox']:focus{outline:0}.democracy ul{list-style:none !important;border:0 !important}.democracy ul li{list-style:none !important}input[type="submit"].dem-button,a.dem-button,.dem-button{position:relative;display:inline-block;text-decoration:none;line-height:1;border:0;margin:0;padding:0;cursor:pointer;white-space:nowrap;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}input[type="submit"].dem-button:focus,a.dem-button:focus,.dem-button:focus{outline:0}input[type="submit"].dem-button:disabled,a.dem-button:disabled,.dem-button:disabled{opacity:.6;cursor:not-allowed}a.dem-button:hover{text-decoration:none !important}.democracy{position:relative;margin:0 auto}.democracy input[type='radio'],.democracy input[type='checkbox']{margin-right:.2em}.dem-screen{position:relative;line-height:1.3}.democracy ul.dem-vote{margin-bottom:1em}.democracy ul.dem-vote li{padding-bottom:0;margin-bottom:0}.democracy ul.dem-vote li>*{margin-bottom:.6em}.democracy ul.dem-answers li{padding-bottom:1em}.dem-answers .dem-label{margin-bottom:.2em;line-height:1.2}.dem-graph{position:relative;color:#555;color:rgba(0,0,0,.6);box-sizing:content-box;width:100%;display:table;height:1.2em;line-height:1.2em}.dem-fill{position:absolute;top:0;left:0;height:100%;background-color:#7cb4dd}.dem-voted-this .dem-fill{background-color:#ffc45a}.dem-votes-txt,.dem-percent-txt{position:relative;display:table-cell;padding-left:.3em;vertical-align:middle;font-size:90%}.dem-poll-info{padding-bottom:1em}.dem-poll-info:after{content:'';display:table;clear:both}.dem-poll-info>*{font-size:85%;display:block;float:right;clear:both;text-align:right;opacity:.7;line-height:1.3}.dem-vote label{float:none;display:block}.dem-results-link{display:inline-block;line-height:1;margin:.8em 1em}.dem-vote .dem-disabled{opacity:.5}.democracy .dem-bottom{padding-bottom:1em}.dem-bottom{text-align:center}.dem-bottom:after{content:'';display:table;clear:both}.dem-poll-title{display:block;margin-bottom:1.5em;margin-top:1.2em;font-size:120%}.dem-notice{z-index:10;position:absolute;top:0;border-radius:2px;width:100%;padding:1.5em 2em;text-align:center;background:rgba(247,241,212,.8);color:#6d6214}.dem-notice-close{position:absolute;top:0;right:0;padding:5px;cursor:pointer;line-height:.6;font-size:150%}.dem-notice-close:hover{color:#d26616}.dem-star{font-size:90%;vertical-align:baseline;padding-left:.3em;color:#ff4e00}.dem-poll-note{font-size:90%;padding:.5em;opacity:.8;line-height:1.3}.democracy .dem-copyright{position:absolute;bottom:-1em;right:0;text-decoration:none;border-bottom:0;color:#b2b2b2;opacity:.5;line-height:1}.democracy .dem-copyright:hover{opacity:1}.dem-add-answer{position:relative}.dem-add-answer>*{display:block}.dem-add-answer a{display:inline-block}input.dem-add-answer-txt{width:100%;box-sizing:border-box}.dem-add-answer-close{position:absolute;right:0;padding:0 .7em;cursor:pointer;color:#333}.dem-add-answer-close:hover{color:#ff2700}.dem-edit-link{display:block;position:absolute;top:0;right:0;line-height:1;text-decoration:none !important;border:0 !important}.dem-edit-link svg{width:1.2em !important;fill:#5a5a5a;fill:rgba(0,0,0,.6)}.dem-edit-link:hover svg{fill:#35a91d}.dem-loader{display:none;position:absolute;top:0;left:0;width:100%;height:100%}.dem-loader>*{display:table-cell;vertical-align:middle;text-align:center}.dem-loader svg{width:20%;max-width:100px;min-width:80px;margin-bottom:15%}.dem-loader [class^="dem-"]{margin-bottom:15% !important}.dem__collapser{display:block;cursor:pointer;text-align:center;font-size:150%;line-height:1}.dem__collapser:hover{color:#f31;background:rgba(255,255,255,.3)}.dem__collapser.expanded{position:relative;height:1em}.dem__collapser.collapsed{position:absolute;top:0;bottom:0;right:0;left:0}.dem__collapser .arr{display:block;position:absolute;bottom:0;width:100%}.dem__collapser.collapsed .arr:before{content:"▾"}.dem__collapser.expanded .arr:before{content:"▴"}.dem-poll-shortcode{margin-bottom:1.5em}.dem-archives .dem-elem-wrap{margin-bottom:2em;padding-bottom:20px;border-bottom:1px dashed #ccc}.dem-archives .dem-archive-link{display:none}.dem-paging{text-align:center;margin:1.5em auto}.dem-paging>*{display:inline-block;padding:.3em .8em;border-radius:.2em;background:#e2e2e2;color:#333;text-decoration:none;text-transform:lowercase;user-select:none}.dem-paging>a{color:#333}.dem-paging>a:hover{background:#ccc;color:#333;text-decoration:none}.dem-paging .current{background:#656565;color:#fff}.dem-paging .dots{background:none}.dem-link{font-style:italic;font-size:90%}.dem-vote-link:before{content:'◂ '}.dem-vote label:hover{opacity:.8}.dem-vote-button{float:left}.dem-results-link{float:right}.dem-graph{font-family:Arial,sans-serif;background:#f7f7f7;background:linear-gradient(to bottom,rgba(0,0,0,.05) 50%,rgba(0,0,0,.1) 50%);background:-webkit-linear-gradient(top,rgba(0,0,0,.05) 50%,rgba(0,0,0,.1) 50%)}.dem-fill{background-image:linear-gradient(to right,rgba(255,255,255,.3),transparent);background-image:-webkit-linear-gradient(left,rgba(255,255,255,.3),transparent)}.dem-answers .dem-label{margin-bottom:.1em}.dem-votes-txt,.dem-percent-txt{font-size:80%}.dem-percent-txt{display:none}.dem-answers li:hover .dem-votes-txt{display:none}.dem-answers li:hover .dem-percent-txt{display:table-cell}.dem-voted-this .dem-label:before{content:'✓';display:inline-block;margin-right:.2em}.dem-voted-this .dem-graph{border-color:#969696}.dem-label-percent-txt,.dem-votes-txt-percent,.dem-novoted .dem-votes-txt{display:none}.dem-poll-info{font-style:italic}.dem-archive-link{text-align:right}.dem-bottom{text-align:left}.dem__checkbox,.dem__radio{display:none !important}.dem__checkbox_label,.dem__radio_label{position:relative;box-sizing:content-box}.dem__checkbox_label .dem__spot,.dem__radio_label .dem__spot{position:relative;display:inline-block;vertical-align:baseline;top:.1em;cursor:pointer;width:12px;height:12px;margin-right:.3em;background:#777}.dem__checkbox_label .dem__spot{border-radius:3px}.dem__radio_label .dem__spot{border-radius:50%}.dem__checkbox_label .dem__spot:after,.dem__radio_label .dem__spot:after{content:'';position:absolute;opacity:0}.dem__checkbox_label .dem__spot:after{width:11px;height:4px;top:0;left:2px;border:2px solid #fff;border-top:0;border-right:0;background:transparent;-ms-transform:rotate(-45deg);-webkit-transform:rotate(-45deg);transform:rotate(-45deg);box-shadow:-1px 1px 1px #555}.dem__radio_label .dem__spot:after{width:6px;height:6px;border-radius:50%;top:50%;left:50%;background:#fff;-ms-transform:translate(-50%,-50%);-webkit-transform:translate(-50%,-50%);transform:translate(-50%,-50%);box-shadow:0 0 0 1px #666,inset -1px -1px 1px #ccc}.dem__checkbox_label:hover .dem__spot::after,.dem__radio_label:hover .dem__spot::after{opacity:.4}.dem__checkbox:checked+.dem__spot,.dem__radio:checked+.dem__spot{border-color:#999}.dem__checkbox:checked+.dem__spot:after,.dem__radio:checked+.dem__spot:after{opacity:1}.dem__checkbox:disabled+.dem__spot,.dem__radio:disabled+.dem__spot{opacity:.5}.dem__checkbox:not(:checked):disabled+.dem__spot:after,.dem__radio:not(:checked):disabled+.dem__spot:after{opacity:0}.dem-loader .fill{fill:#006e1f !important}.dem-loader .css-fill{background-color:#006e1f !important}.dem-loader .stroke{stroke:#006e1f !important}.dem-poll-shortcode{margin-bottom:0}.dem-poll-title{font-family:Lato;font-style:normal;font-weight:bold;font-size:18px;line-height:20px;color:#000;margin:0 0 16px 0}.dem-button{background:linear-gradient(95.46deg,#f0073b 4.55%,#ba0f0f 100%);border-radius:6px;padding:8px 36px !important;font-family:Lato;font-style:normal;font-weight:700;font-size:18px;line-height:20px !important;color:#fff;filter:drop-shadow(0 4px 5px rgba(0,0,0,.25));transition:all .3s;padding}.dem__checkbox_label,.dem__radio_label{display:flex !important;color:#4a4a4a;font-size:14px;font-weight:400;line-height:20px;margin-bottom:15px !important}.dem__checkbox_label .dem__spot,.dem__radio_label .dem__spot{min-width:12px;margin-top:3px;margin-right:7px;display:block}.dem-vote-button{max-width:50%}.dem-bottom{padding:0 !important}.dem-answers{max-width:600px;width:auto}.dem-answers .dem-label{color:#4a4a4a;font-size:14px;font-weight:400;line-height:24px}.dem-poll-info{display:none}.dem-archives .dem-poll-info{display:block;font-style:normal;text-align:left}.dem-archives .dem-poll-info .dem-total-votes{float:none;text-align:left;font-size:18px;font-weight:bold;color:#000}.dem-archives .dem-poll-info .dem-date{display:none}.dem-label-percent-txt{display:block;font-size:12px;font-weight:700;line-height:20px}.dem-graph{background:none;border:0 !important;height:10px;max-height:10px;line-height:10px;display:inline-block}.dem-fill{background:#00a31a}.dem-voted-this .dem-fill{background-color:#00a31a}.dem-percent-txt,.dem-votes-txt-votes{display:none;opacity:0;visibility:hidden}.dem-poll-note{padding:16px 0 4px 0;font-size:18px;line-height:inherit}.dem-elem-wrap{margin-bottom:8px;padding-bottom:20px;border-bottom:1px solid #ccc !important}</style>
+<div id="democracy-79" class="democracy" data-opts='{"ajax_url":"https:\/\/ug.ru\/wp-admin\/admin-ajax.php","pid":79,"max_answs":0,"answs_max_height":"500","anim_speed":"400","line_anim_speed":1500}' ><strong class="dem-poll-title">Депутаты Госдумы предложили отменить оценки по физкультуре, ИЗО, музыке и труду. Как вы относитесь к подобной инициативе?</strong><div class="dem-screen vote"><form method="POST" action="#democracy-79"><ul class="dem-vote">
+					<li data-aid="309">
+						<label class="dem__radio_label">
+							<input class="dem__radio"  type="radio" value="309" name="answer_ids[]"><span class="dem__spot"></span> Я «за»
+						</label>
+					</li>
+					<li data-aid="310">
+						<label class="dem__radio_label">
+							<input class="dem__radio"  type="radio" value="310" name="answer_ids[]"><span class="dem__spot"></span> Я «против»
+						</label>
+					</li>
+					<li data-aid="311">
+						<label class="dem__radio_label">
+							<input class="dem__radio"  type="radio" value="311" name="answer_ids[]"><span class="dem__spot"></span> Нужно вообще отменить оценки в школе
+						</label>
+					</li></ul><div class="dem-bottom"><input type="hidden" name="dem_act" value="vote"><input type="hidden" name="dem_pid" value="79"><div class="dem-vote-button"><input class="dem-button " type="submit" value="Голосовать" data-dem-act="vote"></div></div></form></div><noscript>Poll Options are limited because JavaScript is disabled in your browser.</noscript><div class="dem-poll-note"><a href="https://ug.ru/deputaty-gosdumy-predlozhili-otmenit-oczenki-v-shkole-po-chetyrem-predmetam/"><p>Депутаты Госдумы предложили отменить оценки в школе по четырем предметам</p>
+</a></div><div class="dem-total-votes">Всего проголосовало: 3485</div><div class="dem-poll-single-link"><a href="https://ug.ru/poll/?pollId=79" target="_blank">Открыть отдельно</a></div><div class="dem-loader"><div><svg  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" preserveAspectRatio="xMidYMid" class="uil-spin">
+  <rect x="0" y="0" width="100" height="100" fill="none" class="bk"></rect>
+  <g transform="translate(50 50)">
+    <g transform="rotate(0) translate(34 0)">
+      <circle cx="0" cy="0" r="8" class="fill" fill="#000">
+        <animate attributeName="opacity" from="1" to="0.1" begin="0s" dur="1s" repeatCount="indefinite"></animate>
+        <animateTransform attributeName="transform" type="scale" from="1.5" to="1" begin="0s" dur="1s" repeatCount="indefinite"></animateTransform>
+      </circle>
+    </g>
+    <g transform="rotate(45) translate(34 0)">
+      <circle cx="0" cy="0" r="8" class="fill" fill="#000">
+        <animate attributeName="opacity" from="1" to="0.1" begin="0.12s" dur="1s" repeatCount="indefinite"></animate>
+        <animateTransform attributeName="transform" type="scale" from="1.5" to="1" begin="0.12s" dur="1s" repeatCount="indefinite"></animateTransform>
+      </circle>
+    </g>
+    <g transform="rotate(90) translate(34 0)">
+      <circle cx="0" cy="0" r="8" class="fill" fill="#000">
+        <animate attributeName="opacity" from="1" to="0.1" begin="0.25s" dur="1s" repeatCount="indefinite"></animate>
+        <animateTransform attributeName="transform" type="scale" from="1.5" to="1" begin="0.25s" dur="1s" repeatCount="indefinite"></animateTransform>
+      </circle>
+    </g>
+    <g transform="rotate(135) translate(34 0)">
+      <circle cx="0" cy="0" r="8" class="fill" fill="#000">
+        <animate attributeName="opacity" from="1" to="0.1" begin="0.37s" dur="1s" repeatCount="indefinite"></animate>
+        <animateTransform attributeName="transform" type="scale" from="1.5" to="1" begin="0.37s" dur="1s" repeatCount="indefinite"></animateTransform>
+      </circle>
+    </g>
+    <g transform="rotate(180) translate(34 0)">
+      <circle cx="0" cy="0" r="8" class="fill" fill="#000">
+        <animate attributeName="opacity" from="1" to="0.1" begin="0.5s" dur="1s" repeatCount="indefinite"></animate>
+        <animateTransform attributeName="transform" type="scale" from="1.5" to="1" begin="0.5s" dur="1s" repeatCount="indefinite"></animateTransform>
+      </circle>
+    </g>
+    <g transform="rotate(225) translate(34 0)">
+      <circle cx="0" cy="0" r="8" class="fill" fill="#000">
+        <animate attributeName="opacity" from="1" to="0.1" begin="0.62s" dur="1s" repeatCount="indefinite"></animate>
+        <animateTransform attributeName="transform" type="scale" from="1.5" to="1" begin="0.62s" dur="1s" repeatCount="indefinite"></animateTransform>
+      </circle>
+    </g>
+    <g transform="rotate(270) translate(34 0)">
+      <circle cx="0" cy="0" r="8" class="fill" fill="#000">
+        <animate attributeName="opacity" from="1" to="0.1" begin="0.75s" dur="1s" repeatCount="indefinite"></animate>
+        <animateTransform attributeName="transform" type="scale" from="1.5" to="1" begin="0.75s" dur="1s" repeatCount="indefinite"></animateTransform>
+      </circle>
+    </g>
+    <g transform="rotate(315) translate(34 0)">
+      <circle cx="0" cy="0" r="8" class="fill" fill="#000">
+        <animate attributeName="opacity" from="1" to="0.1" begin="0.87s" dur="1s" repeatCount="indefinite"></animate>
+        <animateTransform attributeName="transform" type="scale" from="1.5" to="1" begin="0.87s" dur="1s" repeatCount="indefinite"></animateTransform>
+      </circle>
+    </g>
+  </g>
+</svg></div></div></div><!--democracy-->
+			<!--noindex-->
+			<div class="dem-cache-screens" style="display:none;" data-opt_logs="1"><div class="dem-screen-cache voted"><ul class="dem-answers" data-voted-class="dem-voted-this" data-voted-txt="Это Ваш голос. "><li class="dem-winner" title=' 1908 голосов - 55% из всех голосов' data-aid="309"><div class="dem-label">Я «за» <span class="dem-label-percent-txt">55%</span></div><div class="dem-graph"><div class="dem-fill" data-width="55%"></div><div class="dem-votes-txt"> <span class="dem-votes-txt-votes">1908 <span class="votxt">голосов</span></span> <span class="dem-votes-txt-percent">55%</span> </div><div class="dem-percent-txt">1908 голосов - 55% из всех голосов</div></div></li><li class="" title=' 1138 голосов - 33% из всех голосов' data-aid="310"><div class="dem-label">Я «против» <span class="dem-label-percent-txt">33%</span></div><div class="dem-graph"><div class="dem-fill" data-width="33%"></div><div class="dem-votes-txt"> <span class="dem-votes-txt-votes">1138 <span class="votxt">голосов</span></span> <span class="dem-votes-txt-percent">33%</span> </div><div class="dem-percent-txt">1138 голосов - 33% из всех голосов</div></div></li><li class="" title=' 439 голосов - 13% из всех голосов' data-aid="311"><div class="dem-label">Нужно вообще отменить оценки в школе <span class="dem-label-percent-txt">13%</span></div><div class="dem-graph"><div class="dem-fill" data-width="13%"></div><div class="dem-votes-txt"> <span class="dem-votes-txt-votes">439 <span class="votxt">голосов</span></span> <span class="dem-votes-txt-percent">13%</span> </div><div class="dem-percent-txt">439 голосов - 13% из всех голосов</div></div></li></ul><div class="dem-bottom"><div class="dem-poll-info"><div class="dem-total-votes">Всего проголосовало: 3485</div> <div class="dem-date" title="Начало"> <span class="dem-begin-date">9 июля, 2025</span> </div><a class="dem-archive-link dem-link" href="https://ug.ru/democracy-archives/" rel="nofollow">Архив опросов</a></div> <div class="dem-notice dem-youarevote" style="display:none;"> <div class="dem-notice-close" onclick="jQuery(this).parent().fadeOut();">&times;</div> Вы или с вашего IP уже голосовали. </div> <span class="dem-revote-button-wrap"> <form action="#democracy-79" method="POST"> <input type="hidden" name="dem_act" value="delVoted"> <input type="hidden" name="dem_pid" value="79"> <input type="submit" value="Переголосовать" class="dem-revote-link dem-revote-button dem-button " data-dem-act="delVoted" data-confirm-text="Точно отменить голоса?"> </form> </span></div></div><div class="dem-screen-cache vote"><form method="POST" action="#democracy-79"><ul class="dem-vote"> <li data-aid="309"> <label class="dem__radio_label"> <input class="dem__radio" type="radio" value="309" name="answer_ids[]"><span class="dem__spot"></span> Я «за» </label> </li> <li data-aid="310"> <label class="dem__radio_label"> <input class="dem__radio" type="radio" value="310" name="answer_ids[]"><span class="dem__spot"></span> Я «против» </label> </li> <li data-aid="311"> <label class="dem__radio_label"> <input class="dem__radio" type="radio" value="311" name="answer_ids[]"><span class="dem__spot"></span> Нужно вообще отменить оценки в школе </label> </li></ul><div class="dem-bottom"><input type="hidden" name="dem_act" value="vote"><input type="hidden" name="dem_pid" value="79"> <div class="dem-notice dem-youarevote" style="display:none;"> <div class="dem-notice-close" onclick="jQuery(this).parent().fadeOut();">&times;</div> Вы или с вашего IP уже голосовали. </div> <span class="dem-revote-button-wrap" style="display:none;"> <form action="#democracy-79" method="POST"> <input type="hidden" name="dem_act" value="delVoted"> <input type="hidden" name="dem_pid" value="79"> <input type="submit" value="Переголосовать" class="dem-revote-link dem-revote-button dem-button " data-dem-act="delVoted" data-confirm-text="Точно отменить голоса?"> </form> </span><div class="dem-vote-button"><input class="dem-button " type="submit" value="Голосовать" data-dem-act="vote"></div></div></form></div>
+			</div>
+			<!--/noindex-->        <a href="/democracy-archives/" class="g__post-list-column__all-link">Архив опросов</a>
+    </div>
+</div>            </div>
+        </div>
+    </div>
+</div>
+
+<script id="true_loadpost">
+    var ajaxurl = 'https://ug.ru/wp-admin/admin-ajax.php';
+    var category_id = '';
+    var current_post_id = '228079';
+    var current_page = 1;
+</script>
+
+<div class="wrapper subscribe-news mt-5">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 mb-4 mb-lg-0">
+                <h5 class="subscribe-news__title">Профессионалам - профессиональную рассылку!</h5>
+                <p class="subscribe-news__description">Подпишитесь, чтобы получать актуальные новости и специальные предложения от «Учительской газеты», не выходя из почтового ящика</p>
+                <form method="post" action="/?na=s" onsubmit="return newsletter_check(this)">
+                    <div class="form-group row">
+                        <div class="col-md-8 mb-3 mb-md-0">
+                            <input type="hidden" name="nl[]" value="1">
+                            <input type="email" name="ne" class="form-control subscribe-news__input" placeholder="Введите ваш e-mail" required>
+                        </div>
+                        <div class="col-md-4">
+                            <button class="g__button subscribe-news__button" type="submit">Подписаться</button>
+                        </div>
+
+                    </div>
+                    <div class="tnp-field tnp-privacy-field"><label><input type="checkbox" name="ny" required class="tnp-privacy"><p>Соглашаюсь с <a href="https://ug.ru/privacy/" target="_blank">политикой конфиденциальности</a> и даю согласие на обработку персональных данных</p></label></div>
+                </form>
+            </div>
+            <div class="col-lg-6">
+                <img class="subscribe-news__image" src="https://ug.ru/wp-content/themes/bb/assets/img/content/laptop.jpg" alt="alt" loading="lazy">
+            </div>
+        </div>
+    </div>
+</div>
+
+        <!-- footer -->
+        <div class="wrapper footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12 d-md-none mb-4 footer-info__social">            <a class="footer-info__social__link" href="https://vk.com/uchitelskaya_gazeta" target="_blank">
+                <img loading="lazy" src="https://ug.ru/wp-content/themes/bb/assets/img/socials-footer/vkontakte.svg" alt="vkontakte">
+            </a>
+                    <a class="footer-info__social__link" href="https://www.ok.ru/group/54589926211700" target="_blank">
+                <img loading="lazy" src="https://ug.ru/wp-content/themes/bb/assets/img/socials-footer/odnoklassniki.svg" alt="odnoklassniki">
+            </a>
+                    <a class="footer-info__social__link" href="https://www.youtube.com/channel/UCrcG5CkYX6KXNOUWSWdh-Xg" target="_blank">
+                <img loading="lazy" src="https://ug.ru/wp-content/themes/bb/assets/img/socials-footer/youtube.svg" alt="youtube">
+            </a>
+                    <a class="footer-info__social__link" href="https://t.me/ug_ru" target="_blank">
+                <img loading="lazy" src="https://ug.ru/wp-content/themes/bb/assets/img/socials-footer/telegram.svg" alt="telegram">
+            </a>
+        </div>
+
+                    <div class="mb-4 col-12 col-md-6 footer-categories">
+                        <div class="d-none"><span>Навигация</span></div>
+                        <div class="row">
+                            <div class="col-6 col-lg-4 footer-categories__column">
+                                <div class="footer-categories__title">Рубрики</div>
+                                <ul class="footer-categories__list">
+                                    <li class="footer-categories__item"><a href="/category/obrazovanie-ug-ru/">Образование</a></li>
+                                    <li class="footer-categories__item"><a href="/category/nauka-ug-ru/">Наука</a></li>
+                                    <li class="footer-categories__item"><a href="/category/pro-kulturu-ug-ru">Про культуру</a></li>
+                                    <li class="footer-categories__item"><a href="/category/pro-zakon-ug-ru/">Про закон</a></li>
+                                    <li class="footer-categories__item"><a href="/category/ekologiya-ug-ru/">Экология</a></li>
+                                    <li class="footer-categories__item"><a href="/category/vybor-dnya-ug-ru/">Выбор дня</a></li>
+                                    <li class="footer-categories__item"><a href="/category/pro-turizm-ug-ru/">Про туризм</a></li>
+                                    <li class="footer-categories__item"><a href="/partner/uchitel-goda-rossii/">Учитель года</a></li>
+                                    <li class="footer-categories__item"><a href="/category/gramotey/">Грамотей</a></li>
+                                    <li class="footer-categories__item"><a href="/category/pro-finansy-ug-ru/">Про финансы</a></li>
+                                    <li class="footer-categories__item"><a href="/category/zdorove-ug-ru/">Здоровье</a></li>
+                                    <li class="footer-categories__item"><a href="/category/uchitel-i-czifra/">Учитель и цифра</a></li>
+                                    <li class="footer-categories__item"><a href="/categories/">Все рубрики</a></li>
+                                </ul>
+                            </div>
+                            <div class="col-6 col-lg-4 footer-categories__column">
+                                <div class="footer-categories__title">Конкурсы</div>
+                                <ul class="footer-categories__list">
+                                    <li class="footer-categories__item"><a href="/uspeshnaya-shkola-23/">Успешная школа</a></li>
+                                    <li class="footer-categories__item"><a href="/obrazovatelnye-tehnologii/">Образовательные технологии</a></li>
+                                    <li class="footer-categories__item"><a href="/partner/uchitel-goda-rossii/">Учитель года России</a></li>
+                                </ul>
+                                <div class="footer-categories__title">Издания</div>
+                                <ul class="footer-categories__list">
+                                    <li class="footer-categories__item"><a href="/rubriki-ug-ru/">Сетевое издание UG.RU</a></li>
+                                    <li class="footer-categories__item"><a href="/archives/ug-moskva/">УГ – Москва</a></li>
+                                    <li class="footer-categories__item"><a href="/archives/moj-profsoyuz/">Мой профсоюз</a></li>
+                                    <li class="footer-categories__item"><a href="/archives/uchitelskaya-gazeta/">Архив номеров</a></li>
+                                </ul>
+                                <div class="footer-categories__title">Подписка</div>
+                                <ul class="footer-categories__list">
+                                    <li class="footer-categories__item"><a href="/bumazhnaya-versiya/">Бумажная версия</a></li>
+                                    <li class="footer-categories__item"><a href="/onlajn-versiya/">Онлайн-версия</a></li>
+                                </ul>
+                            </div>
+                            <div class="col-12 col-lg-4">
+                                <div class="row">
+                                    <div class="col-6 col-lg-12 footer-categories__column">
+                                        <div class="footer-categories__title">Контакты</div>
+                                        <ul class="footer-categories__list">
+                                            <li class="footer-categories__item"><a href="/redakcziya/">Редакция</a></li>
+                                            <li class="footer-categories__item"><a href="/reklama/">Реклама</a></li>
+                                            <li class="footer-categories__item"><a href="/partnery/">Партнеры</a></li>
+                                        </ul>
+                                    </div>
+                                    <div class="col-6 col-lg-12 footer-categories__column">
+                                        <div class="footer-categories__title"><a href="/catmedia/vse-foto-i-video/">ICCS</a></div>
+                                        <div class="footer-categories__title"><a href="/catmedia/vse-foto-i-video/">Фоторепортажи</a></div>
+                                        <div class="footer-categories__title"><a href="/blog/">Блог</a></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="col-12 col-md-6 footer-info">
+                        <div class="d-none d-md-flex footer-info__social">            <a class="footer-info__social__link" href="https://vk.com/uchitelskaya_gazeta" target="_blank">
+                <img loading="lazy" src="https://ug.ru/wp-content/themes/bb/assets/img/socials-footer/vkontakte.svg" alt="vkontakte">
+            </a>
+                    <a class="footer-info__social__link" href="https://www.ok.ru/group/54589926211700" target="_blank">
+                <img loading="lazy" src="https://ug.ru/wp-content/themes/bb/assets/img/socials-footer/odnoklassniki.svg" alt="odnoklassniki">
+            </a>
+                    <a class="footer-info__social__link" href="https://www.youtube.com/channel/UCrcG5CkYX6KXNOUWSWdh-Xg" target="_blank">
+                <img loading="lazy" src="https://ug.ru/wp-content/themes/bb/assets/img/socials-footer/youtube.svg" alt="youtube">
+            </a>
+                    <a class="footer-info__social__link" href="https://t.me/ug_ru" target="_blank">
+                <img loading="lazy" src="https://ug.ru/wp-content/themes/bb/assets/img/socials-footer/telegram.svg" alt="telegram">
+            </a>
+        </div>
+                        <div class="footer-info__desc">
+                            <p><span style="font-size: 12pt; font-family: georgia, palatino, serif;">Сетевое издание «Учительская газета» 12+</span><br />
+<span style="font-size: 12pt; font-family: georgia, palatino, serif;">Зарегистрировано Роскомнадзором 6 июля 2012 года Эл No. ФС77-50440</span></p>
+<p><span style="font-size: 12pt; font-family: georgia, palatino, serif;">Учредитель: АО «Издательский дом «Учительская газета»</span><br />
+<span style="font-size: 12pt; font-family: georgia, palatino, serif;">Главный редактор: ЧУДИН Никита Викторович (nikvik87@mail.ru)</span><br />
+<span style="font-size: 12pt; font-family: georgia, palatino, serif;">Адрес электронной почты редакции: ug@ug.ru</span></p>
+<p><span style="font-size: 12pt; font-family: georgia, palatino, serif;">Любое копирование материалов допускается с разрешения правообладателя и с указанием ссылки на издание www.ug.ru.</span></p>
+<blockquote><p><span style="font-size: 14pt;"><strong>Использование логотипа без согласия правообладателя запрещено законом</strong></span></p></blockquote>
+<p><img loading="lazy" class="alignnone size-medium wp-image-573780" src="https://ug.ru/wp-content/uploads/2025/03/logo-ug-600x106.jpg" alt="" width="600" height="106" srcset="https://ug.ru/wp-content/uploads/2025/03/logo-ug-600x106.jpg 600w, https://ug.ru/wp-content/uploads/2025/03/logo-ug-1200x211.jpg 1200w, https://ug.ru/wp-content/uploads/2025/03/logo-ug-420x74.jpg 420w, https://ug.ru/wp-content/uploads/2025/03/logo-ug-768x135.jpg 768w, https://ug.ru/wp-content/uploads/2025/03/logo-ug.jpg 1306w" sizes="(max-width: 600px) 100vw, 600px" /></p>
+<p><strong>© 2025 «Учительская газета»</strong></p>
+<p><span style="font-family: georgia, palatino, serif; font-size: 12pt;">Key title: Ucitel’skaa^ gazeta (Online) || ISSN 1607-2162. Abbreviated key title: Ucit. gaz (Online)</span></p>
+<p>&nbsp;</p>
+                        </div>
+                        <div class="footer-info__counters">
+                            <!-- Yandex.Metrika informer -->
+                            <!-- <a href="https://metrika.yandex.ru/stat/?id=18337726&amp;from=informer"
+                            target="_blank" rel="nofollow"><img src="https://metrika-informer.com/informer/18337726/3_0_FFFFFFFF_EFEFEFFF_0_uniques"
+                            style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" class="ym-advanced-informer" data-cid="18337726" data-lang="ru" /></a> -->
+                            <!-- /Yandex.Metrika informer -->
+                            <!-- <noindex><a href="https://webmaster.yandex.ru/siteinfo/?site=https://ug.ru"><img width="88" height="31" alt="" border="0" src="https://yandex.ru/cycounter?https://ug.ru&theme=dark&lang=ru"/></a></noindex> -->
+                            <!-- <script type="text/javascript">
+                            document.write("<noindex><a href='http://www.liveinternet.ru/click' "+
+                            "target=_blank><img src='http://counter.yadro.ru/hit?t15.2;r"+
+                            escape(document.referrer)+((typeof(screen)=="undefined")?"":
+                            ";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+                            screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+                            ";h"+escape(document.title.substring(0,80))+";"+Math.random()+
+                            "' alt='' title='LiveInternet: показано число просмотров за 24"+
+                            " часа, посетителей за 24 часа и за сегодня' "+
+                            "border=0 width=88 height=31><\/a></noindex>")</script> -->
+                            <!--LiveInternet logo-->
+                            <!-- <a href="https://www.liveinternet.ru/click"
+                            target="_blank"><img src="https://counter.yadro.ru/logo?22.7"
+                            title="LiveInternet: показано число просмотров за 24 часа, посетителей за 24 часа и за сегодня"
+                            alt="" style="border:0" width="88" height="31"/></a> -->
+                            <!--/LiveInternet-->
+                            <!-- HotLog -->
+                            <div style="display:none">
+                                <span id="hotlog_counter"></span>
+                                <span id="hotlog_dyn"></span>
+                                <script type="text/javascript">
+                                var hot_s = document.createElement('script');
+                                hot_s.type = 'text/javascript'; hot_s.async = true;
+                                hot_s.src = 'http://js.hotlog.ru/dcounter/2592726.js';
+                                hot_d = document.getElementById('hotlog_dyn');
+                                hot_d.appendChild(hot_s);
+                                </script>
+                                <noscript>
+                                <a href="http://click.hotlog.ru/?2592726" target="_blank"><img
+                                src="http://hit5.hotlog.ru/cgi-bin/hotlog/count?s=2592726&amp;im=600" border="0"
+                                width="1" height="1" alt="HotLog"></a>
+                                </noscript>
+                            </div>
+                            <!-- /HotLog -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        </div> <!-- end wrapper -->
+
+        <!-- scroll to top -->
+        <div class="scroll-to-top"></div>
+
+                <a href="/ad-request/" class="contact-form-link"><img src="https://ug.ru/wp-content/themes/bb/assets/img/icons/target.svg"><span>Реклама на сайте</span></a>
+        
+        
+<!--democracy-->
+<script type="text/javascript">function dem_ready(e){"use strict";var t,n=e(".democracy"),i=".dem-screen",o=".dem-add-answer-txt",a=e(".dem-loader").first(),s={};n.length&&(s.opts=n.first().data("opts"),s.ajaxurl=s.opts.ajax_url,s.answMaxHeight=s.opts.answs_max_height,s.speed=parseInt(s.opts.anim_speed),s.lineAnimSpeed=parseInt(s.opts.line_anim_speed),setTimeout(function(){var t=n.find(i).filter(":visible"),o=function(){t.each(function(){s.setHeight(e(this),1)})};t.demInitActions(1),e(window).on("resize.demsetheight",o),e(window).load(o),s.maxAnswLimit();var a=e(".dem-cache-screens");a.length>0&&a.demCacheInit()},10),e.fn.demInitActions=function(t){return this.each(function(){var n=e(this);n.find("[data-dem-act]").each(function(){var t=e(this);t.attr("href",""),t.click(function(e){e.preventDefault(),t.blur().demDoAction(t.attr("data-dem-act"))})});!!n.find("input[type=radio][data-dem-act=vote]").first().length&&n.find(".dem-vote-button").hide(),s.setAnswsMaxHeight(n),s.lineAnimSpeed&&n.find(".dem-fill").each(function(){var t=e(this);setTimeout(function(){t.animate({width:t.data("width")},s.lineAnimSpeed)},s.speed,"linear")}),s.setHeight(n,t),n.find("form").submit(function(t){t.preventDefault();e(this).find('input[name="dem_act"]').val()&&e(this).demDoAction(e(this).find('input[name="dem_act"]').val())})})},e.fn.demSetLoader=function(){var e=this;return a.length?e.closest(i).append(a.clone().css("display","table")):t=setTimeout(function(){s.demLoadingDots(e)},50),this},e.fn.demUnsetLoader=function(){return a.length?this.closest(i).find(".dem-loader").remove():clearTimeout(t),this},e.fn.demAddAnswer=function(){var t=this.first(),n=t.closest(i),a=n.find("[type=checkbox]").length>0,s=e('<input type="text" class="'+o.replace(/\./,"")+'" value="">');if(n.find(".dem-vote-button").show(),n.find("[type=radio]").each(function(){e(this).click(function(){t.fadeIn(300),e(o).remove()}),"radio"==e(this)[0].type&&(this.checked=!1)}),t.hide().parent("li").append(s),s.hide().fadeIn(300).focus(),a){var d=n.find(o);e('<span class="dem-add-answer-close">×</span>').insertBefore(d).css("line-height",d.outerHeight()+"px").click(function(){var t=e(this).parent("li");t.find("input").remove(),t.find("a").fadeIn(300),e(this).remove()})}return!1},e.fn.demCollectAnsw=function(){var t=this.closest("form"),n=t.find("[type=checkbox],[type=radio],[type=text]"),i=t.find(o).val(),a=[],s=n.filter("[type=checkbox]:checked");if(s.length>0)s.each(function(){a.push(e(this).val())});else{var d=n.filter("[type=radio]:checked");d.length&&a.push(d.val())}return i&&a.push(i),(a=a.join("~"))||""},e.fn.demDoAction=function(t){var n=this.first(),o=n.closest(".democracy"),a={dem_pid:o.data("opts").pid,dem_act:t,action:"dem_ajax"};return void 0===a.dem_pid?(console.log("Poll id is not defined!"),!1):"vote"!==t||(a.answer_ids=n.demCollectAnsw(),a.answer_ids)?!("delVoted"===t&&!confirm(n.data("confirm-text")))&&("newAnswer"===t?(n.demAddAnswer(),!1):(n.demSetLoader(),e.post(s.ajaxurl,a,function(t){n.demUnsetLoader(),n.closest(i).html(t).demInitActions(),setTimeout(function(){e("html:first,body:first").animate({scrollTop:o.offset().top-70},500)},200)}),!1)):(s.demShake(n),!1)},e.fn.demCacheShowNotice=function(e){var t=this.first(),n=t.find(".dem-youarevote").first();return"blockForVisitor"==e&&(t.find(".dem-revote-button").remove(),n=t.find(".dem-only-users").first()),t.prepend(n.show()),setTimeout(function(){n.slideUp("slow")},1e4),this},s.cacheSetAnswrs=function(t,n){var i=n.split(/,/);if(t.hasClass("voted")){var o=t.find(".dem-answers"),a=o.data("voted-class"),s=o.data("voted-txt");e.each(i,function(n,i){t.find('[data-aid="'+i+'"]').addClass(a).attr("title",function(){return s+e(this).attr("title")})}),t.find(".dem-vote-link").remove()}else{var d=t.find("[data-aid]"),r=t.find(".dem-voted-button");e.each(i,function(e,t){d.filter('[data-aid="'+t+'"]').find("input").prop("checked","checked")}),d.find("input").prop("disabled","disabled"),t.find(".dem-vote-button").remove(),r.length?r.show():(t.find('input[value="vote"]').remove(),t.find(".dem-revote-button-wrap").show())}},e.fn.demCacheInit=function(){return this.each(function(){var t=e(this),n=t.prev(".democracy");if(n.length||(n=t.closest(".democracy")),n.length){var o=n.find(i).first(),a=n.data("opts").pid,d=Cookies.get("demPoll_"+a),r="notVote"==d,c=!(void 0===d||r),f=t.find(i+"-cache.vote").html(),l=t.find(i+"-cache.voted").html();if(f){var h=c&&l;if(o.html((h?l:f)+"\x3c!--cache--\x3e").removeClass("vote voted").addClass(h?"voted":"vote"),c&&s.cacheSetAnswrs(o,d),o.demInitActions(1),!r&&!c&&1==t.data("opt_logs")){var u,m=function(){clearTimeout(u)},p=function(){u=setTimeout(function(){if(!n.hasClass("checkAnswDone")){n.addClass("checkAnswDone");var t=n.find(".dem-link").first();t.demSetLoader(),e.post(s.ajaxurl,{dem_pid:n.data("opts").pid,dem_act:"getVotedIds",action:"dem_ajax"},function(e){t.demUnsetLoader(),e&&(o.html(l),s.cacheSetAnswrs(o,e),o.demInitActions(),o.demCacheShowNotice(e))})}},700)};n.hover(p,m),n.click(p)}}}else console.log("Main dem div not found")})},s.detectRealHeight=function(e){var t=e.clone().css({height:"auto"}).insertBefore(e),n="border-box"==t.css("box-sizing")?parseInt(t.css("height")):t.height();return t.remove(),n},s.setHeight=function(t,n){var i=s.detectRealHeight(t);n?t.css({height:i}):t.css({opacity:0}).animate({height:i},s.speed,function(){e(this).animate({opacity:1},1.5*s.speed)})},s.setAnswsMaxHeight=function(t){if("-1"!==s.answMaxHeight&&"0"!==s.answMaxHeight&&s.answMaxHeight){var n=t.find(".dem-vote, .dem-answers").first(),i=parseInt(s.answMaxHeight);n.css({"max-height":"none","overflow-y":"visible"});if(("border-box"==n.css("box-sizing")?parseInt(n.css("height")):n.height())-i>100){n.css("position","relative");var o,a=e('<span class="dem__collapser"><span class="arr"></span></span>').appendTo(n),d=function(){a.addClass("expanded").removeClass("collapsed")},r=function(){a.addClass("collapsed").removeClass("expanded")};t.data("expanded")?d():(r(),n.height(i).css("overflow-y","hidden")),a.hover(function(){t.data("expanded")||(o=setTimeout(function(){a.trigger("click")},1e3))},function(){clearTimeout(o)}),a.click(function(){if(clearTimeout(o),t.data("expanded"))r(),t.data("expanded",!1),t.height("auto"),n.stop().css("overflow-y","hidden").animate({height:i},s.speed,function(){s.setHeight(t,!0)});else{d();var e=s.detectRealHeight(n);e+=7,t.data("expanded",!0),t.height("auto"),n.stop().animate({height:e},s.speed,function(){s.setHeight(t,!0),n.css("overflow-y","visible")})}})}}},s.maxAnswLimit=function(){n.on("change","[type=checkbox]",function(t){var n=e(this).closest(".democracy").data("opts").max_answs,o=e(this).closest(i).find("[type=checkbox]");o.filter(":checked").length>=n?o.filter(":not(:checked)").each(function(){e(this).prop("disabled","disabled").closest("li").addClass("dem-disabled")}):o.each(function(){e(this).removeProp("disabled").closest("li").removeClass("dem-disabled")})})},s.demShake=function(e){var t=e.css("position");for(t&&"static"!==t||e.css("position","relative"),t=1;2>=t;t++)e.animate({left:-10},50).animate({left:10},100).animate({left:0},50)},s.demLoadingDots=function(e){var n=e,i=n.is("input"),o=i?n.val():n.html();"..."===o.substring(o.length-3)?i?n[0].value=o.substring(0,o.length-3):n[0].innerHTML=o.substring(0,o.length-3):i?n[0].value+=".":n[0].innerHTML+=".",t=setTimeout(function(){s.demLoadingDots(n)},200)})}!function(e){var t;if("function"==typeof define&&define.amd&&(define(e),t=!0),"object"==typeof exports&&(module.exports=e(),t=!0),!t){var n=window.Cookies,i=window.Cookies=e();i.noConflict=function(){return window.Cookies=n,i}}}(function(){function e(){for(var e=0,t={};e<arguments.length;e++){var n=arguments[e];for(var i in n)t[i]=n[i]}return t}function t(e){return e.replace(/(%[0-9A-Z]{2})+/g,decodeURIComponent)}function n(i){function o(){}function a(t,n,a){if("undefined"!=typeof document){"number"==typeof(a=e({path:"/"},o.defaults,a)).expires&&(a.expires=new Date(1*new Date+864e5*a.expires)),a.expires=a.expires?a.expires.toUTCString():"";try{var s=JSON.stringify(n);/^[\{\[]/.test(s)&&(n=s)}catch(e){}n=i.write?i.write(n,t):encodeURIComponent(String(n)).replace(/%(23|24|26|2B|3A|3C|3E|3D|2F|3F|40|5B|5D|5E|60|7B|7D|7C)/g,decodeURIComponent),t=encodeURIComponent(String(t)).replace(/%(23|24|26|2B|5E|60|7C)/g,decodeURIComponent).replace(/[\(\)]/g,escape);var d="";for(var r in a)a[r]&&(d+="; "+r,!0!==a[r]&&(d+="="+a[r].split(";")[0]));return document.cookie=t+"="+n+d}}function s(e,n){if("undefined"!=typeof document){for(var o={},a=document.cookie?document.cookie.split("; "):[],s=0;s<a.length;s++){var d=a[s].split("="),r=d.slice(1).join("=");n||'"'!==r.charAt(0)||(r=r.slice(1,-1));try{var c=t(d[0]);if(r=(i.read||i)(r,c)||t(r),n)try{r=JSON.parse(r)}catch(e){}if(o[c]=r,e===c)break}catch(e){}}return e?o[e]:o}}return o.set=a,o.get=function(e){return s(e,!1)},o.getJSON=function(e){return s(e,!0)},o.remove=function(t,n){a(t,"",e(n,{expires:-1}))},o.defaults={},o.withConverter=n,o}return n(function(){})});var demjquerywait=setInterval(function(){"undefined"!=typeof jQuery&&(clearInterval(demjquerywait),jQuery(document).ready(dem_ready))},50);</script>
+
+<div id="um_upload_single" style="display:none"></div>
+<div id="um_view_photo" style="display:none">
+
+	<a href="javascript:void(0);" data-action="um_remove_modal" class="um-modal-close"><i class="um-faicon-times"></i></a>
+
+	<div class="um-modal-body photo">
+		<div class="um-modal-photo"></div>
+	</div>
+
+</div>	<script type="text/javascript">
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})();
+	</script>
+	<script type='text/javascript' src='https://ug.ru/wp-content/themes/bb/assets/js/min/jquery.fancybox-min.js' id='jquery-fancybox-js'></script>
+<script type='text/javascript' src='https://ug.ru/wp-content/themes/bb/assets/js/min/slick-min.js' id='slick-js'></script>
+<script type='text/javascript' id='script-js-extra'>
+/* <![CDATA[ */
+var myajax = {"url":"https:\/\/ug.ru\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://ug.ru/wp-content/themes/bb/assets/js/min/script-min.js' id='script-js'></script>
+<script type='text/javascript' src='https://ug.ru/wp-content/themes/bb/assets/js/min/comments-loadmore-min.js' id='comments-loadmore-js'></script>
+<script type='text/javascript' src='https://ug.ru/wp-content/themes/bb/assets/js/min/bootstrap.min.js' id='bootstrap-js'></script>
+<script type='text/javascript' src='https://ug.ru/wp-includes/js/comment-reply.min.js?ver=5.6.5' id='comment-reply-js'></script>
+<script type='text/javascript' src='https://cdn.onesignal.com/sdks/OneSignalSDK.js?ver=5.6.5' async='async' id='remote_sdk-js'></script>
+<script type='text/javascript' id='ugrulikes-post-js-extra'>
+/* <![CDATA[ */
+var myajax = {"url":"https:\/\/ug.ru\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://ug.ru/wp-content/plugins/ug-ru-likes/assets/js/like.js?ver=1' id='ugrulikes-post-js'></script>
+		<script type="text/javascript">
+			jQuery( window ).on( 'load', function() {
+				jQuery("input[name='um_request']").val('');
+			});
+		</script>
+	    </body>
+</html>
+<!-- Dynamic page generated in 0.129 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2026-01-04 01:16:35 -->

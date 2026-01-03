@@ -30,7 +30,7 @@
                     # Persuasione
                     # Credibilità dei Sondaggi
                     # Teorie sulla credibilità online
-                    # Dimensioni della credibilità
+                    # Dimensioni della credibilit�
                     # Credibilità delle fonti informative
                     # Credibilità di Wikipedia
                     # Fisiologia della visione
@@ -38,7 +38,7 @@
                     # Ecosistema Mediatico
                     # Agenda Setting
                     # Spirale del Silenzio
-                    # L'era della post-verità
+                    # L'era della post-verit�
                     # Disinformazione
                     # Conquista dei diritti
                     # Manipolazione Mediatica
@@ -54,7 +54,7 @@
                     # Industria Agroalimentare
                     # Colesterolo
                o RELIGIONE E FILOSOFIA (BUTTON) ▼
-                    # Religione e laicità
+                    # Religione e laicit�
                     # Religione ed Evoluzione
                     # Religione e intelligenza
                o PIRAMIDE DELLA CONOSCENZA (BUTTON) ▼
@@ -63,7 +63,7 @@
                     # Mistificazione e demistificazione
                     # Cos'è la saggezza
                     # Cos'è la conoscenza
-                    # Imprenditorialità
+                    # Imprenditorialit�
                o LETTURA CRITICA (BUTTON) ▼
                     # Qualità della Lettura su schermo e su carta
                     # Leggere criticamente
@@ -106,7 +106,7 @@
                     # Framing
                     # Narrazioni e Neuroscienze
                     # Sviluppo cervello
-                    # Patologia della normaltà
+                    # Patologia della normalt�
                     # Apprendimento, Cervello e Neuroscienze
                     # Dall'inconscio alla coscienza
                     # Intelligenza Umana
@@ -122,7 +122,7 @@
                o INSEGNAMENTO (BUTTON) ▼
                     # Apprendimento significativo
                     # Insegnamento e pensiero critico
-                    # Neuroplasticità
+                    # Neuroplasticit�
                     # Smart Learning
                     # Insegnamento lettura
                     # Lettura e cervello
@@ -191,7 +191,7 @@
                     # Psicologia della Mafia
                     # Insofferenza alle critiche
                o QUANTISTICA2 (BUTTON) ▼
-                    # Cos'è la realtà
+                    # Cos'è la realt�
                     # Principi Meccanica Quantistica
                     # Principio Antropico Partecipativo
                     # Legge Attrazione
@@ -205,7 +205,7 @@
                     # Corpo Quantico
                     # Olografia
                     # Frattali
-                    # Tensegrità
+                    # Tensegrit�
                     # In che universo viviamo
                     # Campo ZPE
                     # Diventare uomini e donne quantici
@@ -280,7 +280,7 @@
                     # Atteggiamento critico personale
                     # Filtri mentali
                     # Conformismo e anticonformismo
-                    # Intelligenza e Razionalità
+                    # Intelligenza e Razionalit�
                     # Big Data e Politica
                     # Big Data e Fascismo
                     # Personalità cognitiva (NFC)
@@ -309,7 +309,7 @@
                     # Habitus
                     # Inferenze logiche
                     # Metodo scientifico
-                    # Causalità
+                    # Causalit�
                     # Lean Startup
                     # Cos'è la Magia
                     # Divinazione
@@ -379,7 +379,7 @@
                     # Persuasione
                     # Credibilità dei Sondaggi
                     # Teorie sulla credibilità online
-                    # Dimensioni della credibilità
+                    # Dimensioni della credibilit�
                     # Credibilità delle fonti informative
                     # Credibilità di Wikipedia
                     # Fisiologia della visione
@@ -387,7 +387,7 @@
                     # Ecosistema Mediatico
                     # Agenda Setting
                     # Spirale del Silenzio
-                    # L'era della post-verità
+                    # L'era della post-verit�
                     # Disinformazione
                     # Conquista dei diritti
                     # Manipolazione Mediatica
@@ -403,7 +403,7 @@
                     # Industria Agroalimentare
                     # Colesterolo
                o RELIGIONE E FILOSOFIA (BUTTON) ▼
-                    # Religione e laicità
+                    # Religione e laicit�
                     # Religione ed Evoluzione
                     # Religione e intelligenza
                o PIRAMIDE DELLA CONOSCENZA (BUTTON) ▼
@@ -412,7 +412,7 @@
                     # Mistificazione e demistificazione
                     # Cos'è la saggezza
                     # Cos'è la conoscenza
-                    # Imprenditorialità
+                    # Imprenditorialit�
                o LETTURA CRITICA (BUTTON) ▼
                     # Qualità della Lettura su schermo e su carta
                     # Leggere criticamente
@@ -455,7 +455,7 @@
                     # Framing
                     # Narrazioni e Neuroscienze
                     # Sviluppo cervello
-                    # Patologia della normaltà
+                    # Patologia della normalt�
                     # Apprendimento, Cervello e Neuroscienze
                     # Dall'inconscio alla coscienza
                     # Intelligenza Umana
@@ -471,7 +471,7 @@
                o INSEGNAMENTO (BUTTON) ▼
                     # Apprendimento significativo
                     # Insegnamento e pensiero critico
-                    # Neuroplasticità
+                    # Neuroplasticit�
                     # Smart Learning
                     # Insegnamento lettura
                     # Lettura e cervello
@@ -540,7 +540,7 @@
                     # Psicologia della Mafia
                     # Insofferenza alle critiche
                o QUANTISTICA2 (BUTTON) ▼
-                    # Cos'è la realtà
+                    # Cos'è la realt�
                     # Principi Meccanica Quantistica
                     # Principio Antropico Partecipativo
                     # Legge Attrazione
@@ -554,7 +554,7 @@
                     # Corpo Quantico
                     # Olografia
                     # Frattali
-                    # Tensegrità
+                    # Tensegrit�
                     # In che universo viviamo
                     # Campo ZPE
                     # Diventare uomini e donne quantici
@@ -629,7 +629,7 @@
                     # Atteggiamento critico personale
                     # Filtri mentali
                     # Conformismo e anticonformismo
-                    # Intelligenza e Razionalità
+                    # Intelligenza e Razionalit�
                     # Big Data e Politica
                     # Big Data e Fascismo
                     # Personalità cognitiva (NFC)
@@ -658,7 +658,7 @@
                     # Habitus
                     # Inferenze logiche
                     # Metodo scientifico
-                    # Causalità
+                    # Causalit�
                     # Lean Startup
                     # Cos'è la Magia
                     # Divinazione
@@ -723,7 +723,7 @@
                     # Persuasione
                     # Credibilità dei Sondaggi
                     # Teorie sulla credibilità online
-                    # Dimensioni della credibilità
+                    # Dimensioni della credibilit�
                     # Credibilità delle fonti informative
                     # Credibilità di Wikipedia
                     # Fisiologia della visione
@@ -731,7 +731,7 @@
                     # Ecosistema Mediatico
                     # Agenda Setting
                     # Spirale del Silenzio
-                    # L'era della post-verità
+                    # L'era della post-verit�
                     # Disinformazione
                     # Conquista dei diritti
                     # Manipolazione Mediatica
@@ -747,7 +747,7 @@
                     # Industria Agroalimentare
                     # Colesterolo
                o RELIGIONE E FILOSOFIA (BUTTON) ▼
-                    # Religione e laicità
+                    # Religione e laicit�
                     # Religione ed Evoluzione
                     # Religione e intelligenza
                o PIRAMIDE DELLA CONOSCENZA (BUTTON) ▼
@@ -756,7 +756,7 @@
                     # Mistificazione e demistificazione
                     # Cos'è la saggezza
                     # Cos'è la conoscenza
-                    # Imprenditorialità
+                    # Imprenditorialit�
                o LETTURA CRITICA (BUTTON) ▼
                     # Qualità della Lettura su schermo e su carta
                     # Leggere criticamente
@@ -799,7 +799,7 @@
                     # Framing
                     # Narrazioni e Neuroscienze
                     # Sviluppo cervello
-                    # Patologia della normaltà
+                    # Patologia della normalt�
                     # Apprendimento, Cervello e Neuroscienze
                     # Dall'inconscio alla coscienza
                     # Intelligenza Umana
@@ -815,7 +815,7 @@
                o INSEGNAMENTO (BUTTON) ▼
                     # Apprendimento significativo
                     # Insegnamento e pensiero critico
-                    # Neuroplasticità
+                    # Neuroplasticit�
                     # Smart Learning
                     # Insegnamento lettura
                     # Lettura e cervello
@@ -884,7 +884,7 @@
                     # Psicologia della Mafia
                     # Insofferenza alle critiche
                o QUANTISTICA2 (BUTTON) ▼
-                    # Cos'è la realtà
+                    # Cos'è la realt�
                     # Principi Meccanica Quantistica
                     # Principio Antropico Partecipativo
                     # Legge Attrazione
@@ -898,7 +898,7 @@
                     # Corpo Quantico
                     # Olografia
                     # Frattali
-                    # Tensegrità
+                    # Tensegrit�
                     # In che universo viviamo
                     # Campo ZPE
                     # Diventare uomini e donne quantici
@@ -973,7 +973,7 @@
                     # Atteggiamento critico personale
                     # Filtri mentali
                     # Conformismo e anticonformismo
-                    # Intelligenza e Razionalità
+                    # Intelligenza e Razionalit�
                     # Big Data e Politica
                     # Big Data e Fascismo
                     # Personalità cognitiva (NFC)
@@ -1002,7 +1002,7 @@
                     # Habitus
                     # Inferenze logiche
                     # Metodo scientifico
-                    # Causalità
+                    # Causalit�
                     # Lean Startup
                     # Cos'è la Magia
                     # Divinazione
@@ -1094,7 +1094,7 @@
    e formatori Manuele De Conti e Matteo Giangrande hanno descritto nel
    libro "Debate" il metodo da applicare se si vuole introdurre il
    dibattito quale metodologia d'avanguardia per la trasformazione della
-   scuola italiana. Imparare a dibattere è essenziale come attività
+   scuola italiana. Imparare a dibattere è essenziale come attivit�
    scolastica perchè ha positive ricadute su diversi tipi di competenza:
    comunicativa, argomentativa, di cittadinanza: il dibattito fa bene alla
    democrazia. Il dibattito regolamentato aiuta gli studenti a maturare un
@@ -1181,7 +1181,7 @@
    sempre ci sono soluzioni. Al termine di ogni corso di studi lo
    studente, trasformato in cittadino, entra in una realtà di cui dovrebbe
    poter comprendere la dinamica fondamentale, e cioè la costante tensione
-   tra "vecchio" e "nuovo", tra autorità e libertà
+   tra "vecchio" e "nuovo", tra autorità e libert�
    Un insegnante secondo Derek Jarman
 
    IFRAME: https://www.youtube-nocookie.com/embed/xOoTJ8YiywU
@@ -1198,7 +1198,7 @@
    offrono del mondo antico è l'opposto dell'Arcadia che immaginiamo. Tale
     visione è così descritta da Canfora (p.59):
 
-   [virgolette-rosse_empjc3ck.gif] C'è nella realtà antica, la totalità
+   [virgolette-rosse_empjc3ck.gif] C'è nella realtà antica, la totalit�
    dell'esistenza e questo permette di comprendere che i valori presenti
    in quel che ci resta del mondo antico "sono in conflitto tra loro'" è
    un mondo dilaniato dal conflitto, è un mondo dove lo scontro tra
@@ -1259,7 +1259,7 @@
 
    [virgolette-rosse_empjc3ck.gif] Lo scaffolding è un processo che
    abilita un bambino o un novizio a risolvere un problema, assolvere un
-   compito o raggiungere un obiettivo che andrebbe oltre le sue capacità
+   compito o raggiungere un obiettivo che andrebbe oltre le sue capacit�
    se non avesse assistenza. Questo scaffolding consiste essenzialmente
    nel controllo, da parte dell'adulto, di quegli elementi del compito
    che, inizialmente, vanno oltre le sue capacità, permettendo così allo
@@ -1299,7 +1299,7 @@
 
    Infatti l'insegnamento del pensiero critico riguarda il "come pensare"
    piuttosto che "cosa pensare". E' piuttosto strano aspettarsi che gli
-   studenti imparino, senza aver spiegato loro qualcosa sulle modalità
+   studenti imparino, senza aver spiegato loro qualcosa sulle modalit�
    dell'apprendimento. Benchè i contenuti siano importanti, ancora più
    importante è spiegare i processi con i quali avviene l'apprendimento,
    infatti il pensiero critico è un 'abito mentale' che richiede che gli
@@ -1316,7 +1316,7 @@
    Montaigne
    L'insegnamento del pensiero critico riguarda il "come pensare"
    piuttosto che "cosa pensare". E' piuttosto strano aspettarsi che gli
-   studenti imparino, senza aver spiegato loro qualcosa sulle modalità
+   studenti imparino, senza aver spiegato loro qualcosa sulle modalit�
    dell'apprendimento
    Insegnare il re-framing
    L'insegnamento potrebbe essere la giusta circostanza nella quale gli
@@ -1484,7 +1484,7 @@
    Conti e Matteo Giangrande, scrivono (p.8):
 
    [virgolette-rosse.gif] Acquisizione, sviluppo e organizzazione delle
-   conoscenze, delle abilità critiche e logiche, delle abilità
+   conoscenze, delle abilità critiche e logiche, delle abilit�
    argomentative, dell'abilità d'ascolto, di lettura e scrittura, di
    abilità comunicative verbali e non verbali o di abilità di ricerca sono
    solo alcune ricadute positive dell'impiego di questa metodologia a cui
@@ -1638,7 +1638,7 @@
    che permettano di collegare i saperi e dare loro senso. Infatti
    l'insegnamento del pensiero critico riguarda il "come pensare"
    piuttosto che "cosa pensare". E' piuttosto strano aspettarsi che gli
-   studenti imparino, senza aver spiegato loro qualcosa sulle modalità
+   studenti imparino, senza aver spiegato loro qualcosa sulle modalit�
    dell'apprendimento. Benchè i contenuti siano importanti, ancora più
    importante è spiegare i processi con i quali avviene l'apprendimento,
    infatti il pensiero critico è un 'abito mentale' che richiede che gli
@@ -1711,7 +1711,7 @@
 
      * Leggere criticamente
      * Cos'è il Pensiero critico
-     * Intelligenza e razionalità
+     * Intelligenza e razionalit�
      * Apprendimento significativo
      * Framing
      * Internet ci rende stupidi?

@@ -17,7 +17,7 @@
           + Usa un dominio di proprietà per il tuo sito.
             Domini e hosting
           + Scopri strumenti commerciali gratuiti.
-            Strumenti per gestire la tua attività
+            Strumenti per gestire la tua attivit�
        Vendi
           + Vendi i tuoi prodotti.
             Vendi online o di persona
@@ -82,14 +82,14 @@
           + Strategia per i social media.
             Trasforma i contatti sui social media in vendite
           + Crescita dell’attività.
-            Espandi la tua attività
+            Espandi la tua attivit�
        Strumenti essenziali
           + Generatore di loghi.
           + Foto gratuite.
           + Modello di business plan.
           + Generatore di codici QR.
      * Enterprise
-     * (BUTTON) Novità
+     * (BUTTON) Novit�
           + Edition Inverno ’26.
             Gli oltre 150 aggiornamenti di prodotto più recenti
           + Tutte le Editions.
@@ -109,7 +109,7 @@
      * Ultime notizie
      * (BUTTON) Altro
           + Social Media Marketing
-          + Produttività
+          + Produttivit�
           + ecommerce
           + Branding
           + Ispirazione
@@ -134,8 +134,8 @@
 
 Cos'è la mentalità imprenditoriale e come si sviluppa?
 
-   La mentalità imprenditoriale spinge una persona ad avviare un'attività
-   e resistere alle difficoltà. Scopri come sviluppare una mentalità
+   La mentalità imprenditoriale spinge una persona ad avviare un'attivit�
+   e resistere alle difficoltà. Scopri come sviluppare una mentalit�
    imprenditoriale.
    di Shopify in Italiano
    Pubblicato in data 15 nov 2024
@@ -194,7 +194,7 @@ Perché le persone diventano imprenditori?
    Tuttavia, ci sono tre motivi comuni per cui le persone lasciano un
    lavoro retribuito per mettersi in proprio.
 
-Libertà e flessibilità
+Libertà e flessibilit�
 
    Che tipo di imprenditore sei? Ogni imprenditore ha una storia diversa.
    Tuttavia, ci sono tre motivi comuni per cui le persone lasciano un
@@ -371,12 +371,12 @@ Natura contro educazione: nasciamo imprenditori?
        un'attività di ecommerce.
 
    Il Global Entrepreneurship Monitor ha inoltre scoperto che alcuni
-   elementi “influenzano in modo diretto l'esistenza di opportunità
+   elementi “influenzano in modo diretto l'esistenza di opportunit�
    imprenditoriali.” Il maggior fattore trainante? Le norme culturali e
    sociali, secondo cui chi è cresciuto in un circolo di altri
    imprenditori ha maggiori probabilità di diventarlo a sua volta.
 
-   Tutto ciò non significa che non puoi sviluppare una mentalità
+   Tutto ciò non significa che non puoi sviluppare una mentalit�
    imprenditoriale se non provieni da un background privilegiato. È
    sicuramente possibile, richiede solo un po' più di lavoro.
 
@@ -464,7 +464,7 @@ Metti tutto in discussione
        i tuoi soldi in cambio del loro pubblico. “Il nostro pubblico
        utilizza questa piattaforma?” e “Potremmo ottenere questo spazio
        pubblicitario a un prezzo inferiore altrove?” sono solo due delle
-       domande che passano per la mente di chi ha una mentalità
+       domande che passano per la mente di chi ha una mentalit�
        imprenditoriale.
      * Impara quando seguire il tuo istinto e quando esaminare i dati: i
        dirigenti aziendali sono più propensi a fare affidamento sulle
@@ -496,7 +496,7 @@ Esci dalla tua zona di comfort
    strategia porta a trovare nuove prospettive, scoprire nuove soluzioni e
    incontrare nuove persone che possono portare nuove opportunità.”
 
-   Non importa quanto possa sembrare difficile, sviluppa una mentalità
+   Non importa quanto possa sembrare difficile, sviluppa una mentalit�
    imprenditoriale provando cose nuove. Una nuova piattaforma di social
    media sul mercato? Dedica alcune ore ogni settimana per vedere come
    procede. Un'intuizione secondo cui il tuo prodotto potrebbe essere
@@ -528,7 +528,7 @@ Assumiti la responsabilità degli errori
 
    “Per me, il fattore che definisce davvero una mentalità imprenditoriale
    è il rifiuto di presentare o accettare scuse,” afferma Mitchell H.
-   Stern, fondatore di Side Hustle Tips. “Assumersi la responsabilità
+   Stern, fondatore di Side Hustle Tips. “Assumersi la responsabilit�
    finale per tutto ciò che accade sotto il tetto di un'azienda è ciò che
    separa i veri imprenditori dai dilettanti, perché non è facile. È molto
    più semplice incolpare e criticare gli altri quando le cose vanno male,
@@ -576,7 +576,7 @@ Circondati di altri imprenditori
 
    In precedenza, abbiamo menzionato che le ricerche dimostrano che le
    persone hanno maggiori probabilità di diventare imprenditori se
-   circondate da altri imprenditori. È più facile individuare opportunità
+   circondate da altri imprenditori. È più facile individuare opportunit�
    di business quando si cresce con altre persone che fanno lo stesso.
 
    Metti in pratica questo suggerimento, circondandoti di altre persone
@@ -638,7 +638,7 @@ imprenditore
 
 Mentalità imprenditoriale: domande frequenti
 
-Qual è la parte più importante nello sviluppo di una mentalità
+Qual è la parte più importante nello sviluppo di una mentalit�
 imprenditoriale?
 
    Sebbene la mentalità imprenditoriale abbia un significato diverso per
@@ -691,7 +691,7 @@ Chiunque può imparare a diventare imprenditore?
    Non perderti le ultime novità di Shopify
    Iscriviti al nostro blog per ricevere suggerimenti, idee e risorse
    gratuite per l’ecommerce direttamente nella tua casella di posta.
-   Inserisci l’email qui ____________________
+   Inserisci l’email qu______________________
    (BUTTON) Iscriviti
    (BUTTON) Iscriviti
    ____________________

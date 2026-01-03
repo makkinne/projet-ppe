@@ -24,6 +24,13 @@ mkdir -p "$DOSSIER_TABLEAUX/../contextes"
 mkdir -p "$DOSSIER_TABLEAUX/../concordances"
 mkdir -p "$DOSSIER_TABLEAUX/../bigrams"
 
+echo "Nettoyage des anciens fichiers pour la langue: $LANGUE ..."
+rm -f "$DOSSIER_TABLEAUX/../aspirations/${LANGUE}-"*
+rm -f "$DOSSIER_TABLEAUX/../dumps-text/${LANGUE}-"*
+rm -f "$DOSSIER_TABLEAUX/../contextes/${LANGUE}-"*
+rm -f "$DOSSIER_TABLEAUX/../concordances/${LANGUE}-"*
+rm -f "$DOSSIER_TABLEAUX/../bigrams/${LANGUE}-"*
+
 echo "<!DOCTYPE html>
 <html lang=\"fr\">
 <head>

@@ -26,7 +26,7 @@
                     # Distribuzione della popolazione scolastica
                o Subito al lavoro: apprendistato
           + Dopo la scuola superiore
-               o Università
+               o Universit�
                o Alta Formazione Artistica, Musicale e Coreutica (AFAM)
                o Istruzione Tecnologica Superiore (ITS Academy)
                o Istruzione e Formazione Tecnica Superiore (IFTS)
@@ -92,7 +92,7 @@ Origini e significato
    quotidiana.
    Proprio per questo motivo si chiamano "trasversali", perché non si
    riferiscono ad ambiti tecnici o a conoscenze specifiche di una materia
-   di studio, ma chiamano in causa tutti quegli aspetti della personalità
+   di studio, ma chiamano in causa tutti quegli aspetti della personalit�
    e della conoscenza che ognuno utilizza ogni giorno nei diversi
    contesti.
    Le competenze trasversali emergono quando si devono prendere delle
@@ -166,7 +166,7 @@ Origini e significato
           + l'acquisizione di ciascuna favorisce lo sviluppo di tutte le
             altre,
           + tutte favoriscono il miglioramento della capacità critica,
-            della creatività, dello spirito di iniziativa, della capacità
+            della creatività, dello spirito di iniziativa, della capacit�
             di risolvere i problemi (e non solo di porli e crearli!),
             della capacità di lavorare in gruppo, di decidere e di gestire
             le proprie emozioni e i propri sentimenti.
@@ -333,7 +333,7 @@ Competenza multilinguistica
 
    Nella comunicazione in lingua straniera le abilità, le conoscenze e le
    attitudini richieste sono sostanzialmente le stesse della competenza
-   alfabetica funzionale, a cui vanno però aggiunte due ulteriori capacità
+   alfabetica funzionale, a cui vanno però aggiunte due ulteriori capacit�
    molto importanti: la mediazione e la comprensione interculturale.
    Questa competenza, infatti, può definirsi completa solo in presenza di:
      * un atteggiamento positivo rispetto alle diversità culturali,
@@ -373,7 +373,7 @@ Competenza matematica e competenza in scienze, tecnologie e ingegneria
 
    Inoltre, le competenze scientifiche e matematiche ci aiutano a maturare
    la giusta attenzione e sensibilità per le grandi questioni etiche che
-   il mondo di oggi ci pone davanti come, per esempio, la responsabilità
+   il mondo di oggi ci pone davanti come, per esempio, la responsabilit�
    di ognuno di fronte alla vita e ai suoi limiti, oppure le conseguenze
    del progresso scientifico e tecnologico sulla natura e sull'ambiente o
    i problemi legati alla sicurezza, alla sostenibilità, all'inquinamento
@@ -433,7 +433,7 @@ Competenza matematica e competenza in scienze, tecnologie e ingegneria
    valutare costi e benefici delle diverse soluzioni e scegliere la
    strategia più adeguata.
 
-   Più ci abituiamo ad accettare l'esistenza di problemi e migliore sarà
+   Più ci abituiamo ad accettare l'esistenza di problemi e migliore sar�
    la nostra capacità di rispondere a queste situazioni, di affrontare i
    cambiamenti e di prendere decisioni importanti per noi, per la nostra
    vita e per il lavoro che faremo.
@@ -527,7 +527,7 @@ Competenza personale, sociale e capacità di "imparare ad imparare"
 
    Tutti i progressi che possiamo fare nella vita dipendono, infatti,
    prima di tutto, dalla nostra voglia di imparare.
-   Si può dire che "imparare ad imparare" consiste non solo nella capacità
+   Si può dire che "imparare ad imparare" consiste non solo nella capacit�
    di continuare ad apprendere - durante tutta la vita – ma soprattutto
    nella "volontà" di apprendere e di organizzare il nostro apprendimento
    in relazione alle specifiche necessità (personali, di studio, di
@@ -618,7 +618,7 @@ Competenza personale, sociale e capacità di "imparare ad imparare"
    In particolare, le competenze personali hanno un forte legame con il
    nostro carattere e la nostra personalità: possono essere innate, ma
    anche sviluppate nel tempo e sono spesso strettamente connesse ad altre
-   competenze individuate dall'Unione Europea, quali capacità
+   competenze individuate dall'Unione Europea, quali capacit�
    comunicative, relazionali e organizzative.
    Le competenze personali consistono, però, soprattutto nella capacità di
    riflettere su noi stessi, di concentrarci per comprendere meglio i
@@ -821,7 +821,7 @@ Competenza in materia di cittadinanza
    "aperto" nei confronti della società di cui facciamo parte, che ci
    consente di esercitare il nostro fondamentale diritto alla cittadinanza
    attiva e che si manifesta attraverso:
-     * la nostra capacità di mostrare tolleranza e solidarietà
+     * la nostra capacità di mostrare tolleranza e solidariet�
        riconoscendo e accettando le differenze culturali all'interno di
        una stessa comunità,
      * la nostra propensione a dimostrare senso di responsabilità,
@@ -852,7 +852,7 @@ Competenza "imprenditoriale"
    propri progetti traducendo le idee in azioni.
    Il termine imprenditorialità va, quindi, inteso in un senso un po' più
    ampio rispetto a quanto siamo abituati a pensare, poiché realizzare i
-   propri progetti non significa necessariamente dare avvio ad un'attività
+   propri progetti non significa necessariamente dare avvio ad un'attivit�
    imprenditoriale ma può riferirsi a molte altre situazioni, in cui
    dobbiamo avere spirito di iniziativa e mostrarci intraprendenti.
 
@@ -892,7 +892,7 @@ Competenza "imprenditoriale"
      * riconoscere e rispettare gli obblighi e gli impegni che ci vengono
        richiesti.
 
-   Creatività
+   Creativit�
 
    Usare creatività, immaginazione e fantasia per cercare soluzioni
    innovative è un'altra capacità personale indispensabile
@@ -948,7 +948,7 @@ Competenza "imprenditoriale"
        segreterie delle scuole o degli enti di formazione che organizzano
        quel percorso; posso verificare sul loro sito internet; posso
        confrontare le diverse offerte per capire qual è quella che più
-       corrisponde alle mie esigenze; posso cercare qualcuno che abbia già
+       corrisponde alle mie esigenze; posso cercare qualcuno che abbia gi�
        fatto quel percorso e ascoltare la sua opinione …
      * Dove farlo? Posso andare di persona, posso telefonare o inviare una
        mail da casa …
@@ -961,7 +961,7 @@ Competenza "imprenditoriale"
        ricerca o per incontrare le persone che mi possono raccontare le
        loro esperienze …
 
-   Indipendenza psicologica e responsabilità
+   Indipendenza psicologica e responsabilit�
 
    Un'altra capacità collegata allo spirito di iniziativa è agire in modo
    autonomo e responsabile.
@@ -1005,7 +1005,7 @@ Competenza "imprenditoriale"
    Ma non possiamo pensare di risolvere sempre tutto da soli!
    Lo spirito di collaborazione è un'altra qualità che aumenta la nostra
    capacità di iniziativa e intraprendenza e su quanto sia importante
-   collaborare e comunicare in modo costruttivo con gli altri si è già
+   collaborare e comunicare in modo costruttivo con gli altri si è gi�
    detto trattando le competenze comunicative e le competenze personali e
    sociali.
 
@@ -1080,4 +1080,4 @@ Come acquisire e migliorare le competenze trasversali
    Provincia di Cremona
    C.F. 80002130195 - Corso Vittorio Emanuele II 17 - 26100 Cremona
    ALTO CONTRASTO BASSO CONTRASTO
-   FE6
+   FE5

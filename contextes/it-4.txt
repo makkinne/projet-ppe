@@ -7,7 +7,6 @@
      * 7 Simboli dello Spirito Santo
      * 8 Secondo Gioacchino da Fiore
      * 9 Differenze teologiche tra confessioni religiose
-     * 10 Solennità
      * 11 Congregazioni dello Spirito Santo
      * 12 Note
      * 13 Bibliografia
@@ -47,7 +46,6 @@ Spirito Santo
    genere umano.
 
    Nel Vangelo secondo Giovanni, lo Spirito Santo Dio è indicato col
-   termine greco di Paraclito (soccorritore). La Pentecoste è la solennità
    liturgica riservata allo Spirito Santo Dio, che ne celebra il dono di
    Gesù Cristo alla Sua Chiesa apostolica.
 
@@ -134,7 +132,7 @@ Spirito Santo e potenza del Signore
 
    La parola greca δύναμιν^[26] (trasl. dynamin) è spesso utilizzata in
    congiunzione con lo Spirito Santo, in:
-     * Luca 1:34^[27]: lo Spirito Santo scenderà su di te, su te stenderà
+--
        la sua ombra la potenza dell'Altissimo (Annunciazione alla Madre di
        Dio)
      * Atti 10:34-28^[28]: Gesù Cristo, consacrato in Spirito Santo e
@@ -229,7 +227,6 @@ Simboli dello Spirito Santo
    sarebbe giunta l'ultima era, l'era dello Spirito, donato da Gesù Cristo
    il giorno di Pentecoste in eredità alla Chiesa Apostolica fino alla Sua
    Seconda Parusia.
-   Molti teologi hanno ripreso questa concezione in relazione all'età
    dello spirito che sarebbe scaturita negli anni sessanta e settanta del
    Novecento in seguito al concilio Vaticano II e che ha visto la nascita
    di numerosi movimenti e gruppi di preghiera carismatici sullo Spirito
@@ -283,7 +280,6 @@ Congregazioni dello Spirito Santo
      * le Suore Francescane dello Spirito Santo, dette di Montpellier,
        sorte nel 1861;
      * la congregazione delle Suore dello Spirito Santo, fondata ad Ariano
-       di Puglia nel 1887 da Giuseppina Arcucci con finalità
        socio-educative;
      * le Suore dello Spirito Santo di Coblenza;
      * le Suore Domenicane dello Spirito Santo di Firenze, fondate da Pio

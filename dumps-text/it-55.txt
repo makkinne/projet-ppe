@@ -9,16 +9,16 @@
 
    ____________________ [icon-search.svg]-Submit
 
-     * Attualit√†
+     * Attualit√
           + Bioetica
           + Consumi
-          + Criminalit√†
+          + Criminalit√
           + Diritti
           + Immigrazione
           + Questione islamica
           + Questioni di genere
           + Terrorismo
-     * Citt√†
+     * Citt√
           + Agrigento
           + Bergamo
           + Bologna
@@ -119,8 +119,8 @@
           + Benessere
           + Medicina
           + Salute mentale
-          + Sanit√†
-     * Societ√†
+          + Sanit√
+     * Societ√
           + Cibo
           + Costume
           + Famiglia
@@ -129,16 +129,16 @@
           + Relazioni
           + Religione
           + Scuola
-          + Universit√†
+          + Universit√
           + Viaggi
-     * Sostenibilit√†
+     * Sostenibilit√
           + Acqua
           + Ambiente
           + Beni comuni
           + Clima
           + Economia circolare
           + Infrastrutture
-          + Mobilit√†
+          + Mobilit√
      * Sport
           + Altri sport
           + Arrampicata
@@ -366,7 +366,7 @@ George Orwell e lo ‚Äúspirito sportivo‚Äù
    della violenza: non restava posto per nient‚Äôaltro che, era l‚Äôamara
    conclusione, la ‚Äúguerra senza sparatorie‚Äù.
 
-   Orwell non intendeva certo scambiare la causa (l‚Äôesacerbata rivalit√†
+   Orwell non intendeva certo scambiare la causa (l‚Äôesacerbata rivalit√
    fra le nazioni) con l‚Äôeffetto (lo sport come arena di confronto
    politico), ma mettere in guardia contro il montante antagonismo
    nazionale. Tuttavia, la sua netta interpretazione impediva di
@@ -455,7 +455,7 @@ governance
    2 Dicembre 2025
    Calcio
 
-Il tifo sportivo nel rispetto della propria dignit√†
+Il tifo sportivo nel rispetto della propria dignit√
 
    di Massimo Pamio
    28 Novembre 2025

@@ -15,8 +15,8 @@
      * Sportello informazioni
      * Pagine speciali
 
-   Comunità
-     * Portale Comunità
+   Comunit
+     * Portale Comunit�
      * Bar
      * Il Wikipediano
      * Contatti
@@ -89,7 +89,7 @@ Fenomenologia dello spirito
      * العربية
      * Azərbaycanca
      * Bosanski
-     * Català
+     * Catal�
      * Deutsch
      * English
      * Esperanto
@@ -317,9 +317,9 @@ La Coscienza
        sensi, in un dato luogo e in un certo momento. Cambiando il momento
        percettivo, dell'oggetto permangono invariati il questo (ovvero
        l'oggetto stesso), il qui (il luogo in cui esso si trova) e l'ora
-       (il momento in cui i sensi lo rivelano). Nasce però la difficoltà
+       (il momento in cui i sensi lo rivelano). Nasce però la difficolt�
        di capire come riportare la certezza sensibile di tale oggetto a
-       tutti gli altri oggetti che si presentano nella loro diversità
+       tutti gli altri oggetti che si presentano nella loro diversit�
        sensibile.
      * percezione sensibile: in questa fase l'attenzione si volge a fare
        in modo che le diverse proprietà degli oggetti possano essere
@@ -340,7 +340,7 @@ La Coscienza
    A questo punto la coscienza ha interiorizzato l'oggetto in se stessa ed
    è diventata coscienza di sé, ovvero autocoscienza che non ha più
    bisogno di riferirsi agli oggetti per avere coscienza di sé, ha capito
-   che la certezza della propria esistenza è data dalla sua attività
+   che la certezza della propria esistenza è data dalla sua attivit�
    intellettuale.
 
 L'Autocoscienza
@@ -496,7 +496,7 @@ Ragione attiva
        insoddisfazione (esempio di questa fase è il "Faust" di Goethe).
      * "legge del cuore e il delirio della presunzione": l'individuo non
        essendo riuscito a realizzare se stesso attraverso il piacere,
-       tenta presuntuosamente di migliorare il mondo attraverso la volontà
+       tenta presuntuosamente di migliorare il mondo attraverso la volont�
        generale e cercherà allora di opporsi al corso ostile del mondo
        appellandosi al sentimento e cercando la felicità degli altri
        (emblema di questa fase è Rousseau); ma la Ragione, in disaccordo
@@ -546,7 +546,7 @@ Lo Spirito
 
    La ragione, finora presentata da Hegel come facoltà della mente umana,
    si estende ora nella vita dei popoli, e dunque diventa Spirito. Si
-   passa dal soggetto all'universale. Lo Spirito per Hegel non è l'entità
+   passa dal soggetto all'universale. Lo Spirito per Hegel non è l'entit�
    trascendente coincidente con il divino né l'aspetto psicologico o
    mentale dell'uomo, ma rappresenta, molto più concretamente, i valori
    della cultura e delle istituzioni, cioè di tutto ciò che nasce dalle
@@ -604,7 +604,7 @@ Il Sapere assoluto
    ora vuol dire che il soggetto non è altro che «identità dell’identità e
    della non-identità»; il soggetto cioè ingloba in sé l’oggetto e lo
    conosce completamente senza separarlo da sé. Le esperienze passate non
-   sono state inutili, ma anzi, essenziali, e in ognuna di esse c’era già
+   sono state inutili, ma anzi, essenziali, e in ognuna di esse c’era gi�
    il Sapere Assoluto, ma la coscienza finita, nella sua presunzione e
    nella sua immediatezza, non se n’era accorta. Il percorso della
    fenomenologia è quindi giunto alla vera scienza^[18], da Hegel qui
@@ -640,7 +640,7 @@ Critica al formalismo matematico
    parte della Fenomenologia è la critica al formalismo matematico.
 
    «Se lo sviluppo non consiste in altro che la ripetizione della medesima
-   formula, l'idea, per sé indubbiamente vera, nel fatto non va al di là
+   formula, l'idea, per sé indubbiamente vera, nel fatto non va al di l�
    del proprio cominciamento; [...] tutto ciò, non diversamente da
    arbitrarie fantasie sul contenuto, è ben diverso da ciò che si
    richiede; è ben diverso, cioè, dalla ricchezza che scaturisce da sé
@@ -745,7 +745,7 @@ Critica al formalismo matematico
    realtà uscirne. Se si considera la tesi come primo momento della
    fenomenologia del sapere matematico, la dimostrazione si riduce a
    qualcosa che si può omettere saltando direttamente alla conclusione, è
-   un passaggio che viene da un metodo scientifico per distinguere verità
+   un passaggio che viene da un metodo scientifico per distinguere verit�
    e opinione. In questo modo, si perde la dialettica, tutta la conoscenza
    che è manifestata durante i cambiamenti dell'oggetto.
 
@@ -801,7 +801,7 @@ La soluzione del sapere scientifico
    «Secondo il mio modo di vedere, che dovrà giustificarsi soltanto mercé
    l'esposizione del sistema stesso, tutto dipende dall'intendere e
    dall'esprimere il vero non come sostanza, ma altrettanto decisamente
-   come soggetto. [...] La sostanza viva è l'essere che è in verità
+   come soggetto. [...] La sostanza viva è l'essere che è in verit�
    Soggetto. [...] come Soggetto essa è la pura negatività semplice, ed è,
    proprio per ciò, la scissione del semplice in due parti o la
    duplicazione opponente; questa, a sua volta, è la negazione di questa
@@ -836,7 +836,7 @@ La soluzione del sapere scientifico
    Perciò, quanto più l'oggetto diviene tanto più è vero, mentre si
    avvicina al grado massimo di verità, nel momento di sintesi, quando
    cessa di mutare. Parlando della verità matematica, affermerà che le
-   conclusioni di un teorema sono vere, ma non sono la verità
+   conclusioni di un teorema sono vere, ma non sono la verit�
    dell'oggetto, perché la dimostrazione non identifica l'oggetto il cui
    divenire si attua nella dimostrazione della proposizione.
 
@@ -1114,7 +1114,7 @@ Collegamenti esterni
      * Voci con codice BNF
      * Voci con codice J9U
      * Voci con codice NDL
-     * Voci non biografiche con codici di controllo di autorità
+     * Voci non biografiche con codici di controllo di autorit�
 
      * Questa pagina è stata modificata per l'ultima volta il 14 dic 2025
        alle 17:39.

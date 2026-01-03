@@ -15,8 +15,8 @@
      * Sportello informazioni
      * Pagine speciali
 
-   Comunità
-     * Portale Comunità
+   Comunit
+     * Portale Comunit�
      * Bar
      * Il Wikipediano
      * Contatti
@@ -154,7 +154,7 @@ Contenuti
 
    L'opera è la sintesi più compiuta del sistema di Hegel, che aveva avuto
    il suo inizio con la pubblicazione della "Fenomenologia dello spirito "
-   (1807), il cui sottotitolo era "Prima parte del sistema". In realtà
+   (1807), il cui sottotitolo era "Prima parte del sistema". In realt�
    l'opera era stata fornita da Hegel come "introduzione", per comprendere
    quale fosse il cammino che l'individuo ( lo "spirito finito") compie
    per pervenire al Sapere assoluto. Nell'opera Hegel tratta della
@@ -240,7 +240,7 @@ Contenuti
 
    Lo Spirito Oggettivo, come secondo momento, è invece trattato da: 1)
    Diritto 2) Moralità e 3) Eticità. Soprattutto è importante l'Eticità,
-   in quanto supera l'unilateralità del Diritto e della Moralità
+   in quanto supera l'unilateralità del Diritto e della Moralit�
    (corrispondente alla morale formalistica di Kant), attraverso tre
    istituzioni storico-sociali: 1) Famiglia, 2) Società Civile e 3) Stato.
    Quest'ultimo inteso come Stato etico costituisce il culmine
@@ -318,7 +318,7 @@ Collegamenti esterni
      * P7993 letta da Wikidata
      * Voci con codice GND
      * Voci con codice BNF
-     * Voci non biografiche con codici di controllo di autorità
+     * Voci non biografiche con codici di controllo di autorit�
 
      * Questa pagina è stata modificata per l'ultima volta il 10 giu 2025
        alle 01:29.

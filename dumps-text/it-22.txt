@@ -15,8 +15,8 @@
      * Sportello informazioni
      * Pagine speciali
 
-   Comunità
-     * Portale Comunità
+   Comunit
+     * Portale Comunit�
      * Bar
      * Il Wikipediano
      * Contatti
@@ -65,7 +65,7 @@ Indice
        (BUTTON) Attiva/disattiva la sottosezione I capisaldi del sistema
        hegeliano
           + 3.1 La realtà come Spirito infinito
-          + 3.2 Identità fra ragione e realtà
+          + 3.2 Identità fra ragione e realt�
           + 3.3 Reale ed esistente
           + 3.4 Funzione giustificatrice della filosofia
           + 3.5 La dialettica
@@ -290,7 +290,7 @@ Dalla religione popolare all'Assoluto
    popolo tedesco, tramite una nuova religione popolare che realizzi
    un'armonia tra le religioni razionali (soggettive) e quelle positive,
    rivelate (oggettive). Questa nuova religione unirà nell'uomo ragione e
-   sensibilità e lo avvierà alla felicità. Tramite essa poi si supererà
+   sensibilità e lo avvierà alla felicità. Tramite essa poi si superer�
    quella scissione tra il cittadino e lo Stato e tra il fedele e la
    Chiesa che segna la crisi del popolo tedesco. Questa nuova religione
    porterà al rinnovamento morale e politico della Germania.
@@ -340,8 +340,8 @@ La definizione dell'Assoluto
 
    Se ogni definizione è una relativizzazione, pretendere di definire
    l'Assoluto comporta necessariamente includere nella sua "definizione"
-   ciò che non può rimanere escluso da lui, poiché esso è una totalità
-   onnicomprensiva che non può avere nulla fuori di sé. Quindi si dovrà
+   ciò che non può rimanere escluso da lui, poiché esso è una totalit�
+   onnicomprensiva che non può avere nulla fuori di sé. Quindi si dovr�
    definire l'Assoluto come
      * unione di finito e infinito, ma anche come
      * non unione e cioè opposizione di finito ed infinito.
@@ -409,17 +409,17 @@ La critica a Kant
    una vana fatica se prima si dimostrasse che sono inconoscibili. Secondo
    Hegel, invece, è impossibile e una vana fatica il discorso formale sul
    metodo fatto a priori del contenuto, perché la filosofia coincide con
-   il suo oggetto, e riesce a conoscere gli strumenti solo dopoché sta già
+   il suo oggetto, e riesce a conoscere gli strumenti solo dopoché sta gi�
    conoscendo l'oggetto e li astrae da questo, non è come altri campi del
    sapere in cui mi posso interrogare sul metodo prima di entrare nel
    merito.
-   ««In questa rinuncia della ragione a se stessa il concetto della verità
-   va perduto. La ragione viene ristretta a conoscere soltanto una verità
+   ««In questa rinuncia della ragione a se stessa il concetto della verit�
+   va perduto. La ragione viene ristretta a conoscere soltanto una verit�
    soggettiva, soltanto l’apparenza [il fenomeno di Kant] soltanto
    qualcosa cui la natura dell’oggetto stesso non corrisponda. Il sapere è
    tornato ad esser l’opinione.^[9]»
 
-   La filosofia di Kant ha affermato l'inconoscibilità
+   La filosofia di Kant ha affermato l'inconoscibilit�
    dell'Incondizionato/infinito, e ridotto la conoscenza delle cose
    finite, l'anima e il mondo, alla sola manifestazione sensibile,
    nell'impossibilità anche per questi di conoscere la cosa in sé e per
@@ -571,7 +571,7 @@ La separazione tra ideale e reale ad opera della religione
    dire, di minorità dal quale, attraverso il senso del peccato e
    l'insoddisfazione per la propria esistenza, sentiva il bisogno di
    ricongiungersi con il senso vero delle cose. Con il cristianesimo era
-   nato perciò quel senso di frustrazione e di pena, di infelicità
+   nato perciò quel senso di frustrazione e di pena, di infelicit�
    concettuale nella "scissione", che per millesettecento anni aveva
    impedito di capire il vero senso dello Spirito.
 
@@ -638,7 +638,7 @@ La "coscienza infelice"
        dalla religioni abramitiche; Dio si manifesta all'uomo, ma,
        attraverso il peccato originale, opera la scissione; l'uomo, come
        un angelo caduto, sperimenta l'angoscia e il dolore nella Valle di
-       lacrime che il Padre celeste ha posto per lui: è il Medioevo, l'età
+       lacrime che il Padre celeste ha posto per lui: è il Medioevo, l'et�
        che precede la modernità fino a Kant.
      * Il terzo momento è scandito dall'avvento della Ragione, lo Spirito
        si eleva ad una consapevolezza compiuta, conscio della tristezza
@@ -761,16 +761,16 @@ La realtà come Spirito infinito
    Per Hegel è fondamentale superare le opposizioni e le scissioni della
    mente (ad esempio fenomeno/noumeno kantiano oppure Essere immutabile di
    Parmenide/Essere in divenire di Eraclito). Il fine di Hegel (e di
-   conseguenza della sua filosofia) è quello di costruire una totalità
+   conseguenza della sua filosofia) è quello di costruire una totalit�
    unificata, che chiamerà Spirito Assoluto, superando questa armonia
    scissa e, pertanto, il compito della filosofia sarà quello di costruire
    questo Assoluto al fine di superare le opposizioni e le scissioni. Lo
    stesso Hegel dice: "l'interesse della Ragione è raggiungere una sintesi
    unificata", cioè l'unione tra in sé (Tesi) e per sé (Antitesi).
 
-   La conflittualità che per prima cosa Hegel deve risolvere è la dualità
+   La conflittualità che per prima cosa Hegel deve risolvere è la dualit�
    Finito/Infinito. Egli non vuole né ridurre l'infinito ad una
-   molteplicità di finito né considerare il finito come molteplicità
+   molteplicità di finito né considerare il finito come molteplicit�
    dell'infinito. Hegel, dunque, deve mettere sullo stesso piano Finito e
    Infinito insieme, sostenendo che il mondo non è altro che la
    manifestazione e realizzazione dell'infinito.^[24] Il finito,
@@ -785,7 +785,7 @@ La realtà come Spirito infinito
    seguito definita come "olismo". In particolare il sistema filosofico
    hegeliano è stato chiamato "Monismo Panteistico Dinamico"^[25].
 
-   In questo senso Hegel si avvicina in parte al concetto di Sostanza già
+   In questo senso Hegel si avvicina in parte al concetto di Sostanza gi�
    presente in Spinoza, salvo che l'Assoluto è Soggetto dinamico in
    divenire, Pensiero di Pensiero (Aristotele). La realtà, dunque, non è
    sostanza ma Soggetto, Spirito. Il soggetto inteso come attività,
@@ -801,7 +801,7 @@ La realtà come Spirito infinito
    Spirito. La storia del mondo è la storia stessa di Dio, è la storia
    dell'avvento dello Spirito, del realizzarsi della ragione.^[26]
 
-Identità fra ragione e realtà
+Identità fra ragione e realt�
 
    [modifica | modifica wikitesto]
 
@@ -1129,7 +1129,7 @@ L'ultimo Hegel
    [modifica | modifica wikitesto]
 
    Nella visione dialettica della realtà di Hegel, il male, l'antitesi, il
-   negativo, la tragicità della vita sono sempre risolti dalla positività
+   negativo, la tragicità della vita sono sempre risolti dalla positivit�
    della sintesi finale ottenuta tramite la ragione, che nega la negazione
    e quindi riafferma il bene a un grado più elevato.
 
@@ -1192,7 +1192,7 @@ Note
        trascendente, a partire dal quale generava il divenire e si
        disperdeva nella molteplicità senza una ragione apparente,
        l'Assoluto hegeliano entra lui stesso nel divenire per rendere
-       ragione di sé. L'Uno viene identificato così con la molteplicità
+       ragione di sé. L'Uno viene identificato così con la molteplicit�
        stessa, la quale attraverso successivi passaggi giunge alla fine a
        diventare consapevole di sé e a riconoscersi nell'Assoluto. La
        prospettiva plotiniana risulta dunque capovolta: in Plotino, la
@@ -1269,7 +1269,7 @@ Note
        diritto, Bompiani, Milano 2006, p. 59.
    28. ↑ Questa prima parte della formula riprende evidentemente la
        conclusione cartesiana del cogito ergo sum per il quale è veramente
-       razionale ciò che trova la sua corrispondenza nella realtà
+       razionale ciò che trova la sua corrispondenza nella realt�
    29. ↑ Diego Fusaro, op.cit., ibidem
    30. ↑ Anna Giannatiempo Quinzi, Il "cominciamento in Hegel". Edizioni
        di Storia e Letteratura, 1983 pag. 210 e sgg.
@@ -1383,7 +1383,7 @@ Saggi su Hegel
        2002.
      * Dieter Henrich, Hegel im Kontext, Suhrkamp, Frankfurt a.M., 1981.
      * Sidney Hook, "Da Hegel a Marx", Sansoni, Firenze, 1972.
-     * Vittorio Hösle, Il sistema di Hegel: l'idealismo della soggettività
+     * Vittorio Hösle, Il sistema di Hegel: l'idealismo della soggettivit�
        e il problema della intersoggettività, Napoli, La Scuola di
        Pitagora, 2012.
      * Jean Hyppolite, Genesi e struttura della Fenomenologia dello
@@ -1409,7 +1409,7 @@ Saggi su Hegel
        rilettura della scienza della logica, Guerini e Associati, 1998.
      * Leo Lugarini, Hegel. Dal mondo storico alla filosofia, Guerini e
        associati, Napoli 2000.
-     * György Lukács, Il giovane Hegel e i problemi della società
+     * György Lukács, Il giovane Hegel e i problemi della societ�
        capitalistica, Einaudi, 1960.
      * Alexander Magee, Hegel e la tradizione ermetica, Edizioni
        Meditarrenee, 2013.
