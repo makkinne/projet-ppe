@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Tableaux - Projet PPE</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.4/css/bulma.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <style>
+        :root {
+            --primary-gradient: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            --card-hover-transform: translateY(-5px);
+        }
+
+        body {
+            background-color: #fcfcfc;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .hero-small {
+            background: var(--primary-gradient);
+            color: white;
+            padding: 3rem 0;
+            margin-bottom: 2rem;
+        }
+
+        .card {
+            border-radius: 12px;
+            border: none;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+            transition: all 0.3s ease;
+            height: 100%;
+            cursor: pointer;
+            background: white;
+        }
+
+        .card:hover {
+            transform: var(--card-hover-transform);
+            box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+        }
+
+        .card-content {
+            padding: 3rem 2rem;
+            text-align: center;
+        }
+
+        .word-title {
+            font-size: 2.5rem;
+            font-weight: 700;
+            margin-bottom: 0.5rem;
+            color: #2d3748;
+        }
+
+        .langue-title {
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            font-size: 0.875rem;
+            color: #718096;
+            font-weight: 600;
+        }
+    </style>
+</head>
+
+<body>
+
+    <nav class="navbar has-shadow" role="navigation" aria-label="main navigation">
+        <div class="navbar-brand">
+            <a class="navbar-item" href="../index.html">
+                <span class="icon has-text-primary"><i class="fa-solid fa-globe"></i></span>
+                <span class="ml-2 has-text-weight-bold">PPE Projet</span>
+            </a>
+            <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasic">
+                <span aria-hidden="true"></span>
+                <span aria-hidden="true"></span>
+                <span aria-hidden="true"></span>
+            </a>
+        </div>
+
+        <div id="navbarBasic" class="navbar-menu">
+            <div class="navbar-start">
+                <a class="navbar-item" href="../index.html">Accueil</a>
+
+                <div class="navbar-item has-dropdown is-hoverable">
+                    <a class="navbar-item" href="../index.html#Presentation">Le projet</a>
+                    <div class="navbar-dropdown">
+                        <a class="navbar-item" href="../index.html#Presentation">Présentation</a>
+                        <a class="navbar-item" href="../index.html#Methodologie">Méthodologie</a>
+                    </div>
+                </div>
+
+                <a class="navbar-item" href="script.html">Scripts</a>
+
+                <div class="navbar-item has-dropdown is-hoverable">
+                    <a class="navbar-item is-active" href="tableaux.html">Tableaux</a>
+                    <div class="navbar-dropdown">
+                        <a class="navbar-item" href="../tableaux/tab_fr.html">Français</a>
+                        <a class="navbar-item" href="../tableaux/tab_it.html">Italien</a>
+                        <a class="navbar-item" href="../tableaux/tab_ru.html">Russe</a>
+                    </div>
+                </div>
+
+                <a class="navbar-item" href="analyse.html">Analyses</a>
+                <a class="navbar-item" href="nous.html">L'équipe</a>
+            </div>
+        </div>
+    </nav>
+
+    <div class="hero-small has-text-centered">
+        <h1 class="title is-2 has-text-white">Nos Tableaux</h1>
+        <p class="subtitle is-5 has-text-white-ter">Accès direct aux données traitées</p>
+    </div>
+
+    <section class="section">
+        <div class="container">
+            <div class="columns is-variable is-8">
+
+                <div class="column is-one-third">
+                    <a href="../tableaux/tab_fr.html" style="text-decoration: none;">
+                        <div class="card">
+                            <div class="card-content">
+                                <h2 class="word-title">Esprit</h2>
+                                <p class="langue-title">Français</p>
+                                <span class="icon is-large has-text-primary mt-4">
+                                    <i class="fa-solid fa-table fa-lg"></i>
+                                </span>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="column is-one-third">
+                    <a href="../tableaux/tab_it.html" style="text-decoration: none;">
+                        <div class="card">
+                            <div class="card-content">
+                                <h2 class="word-title">Spirito</h2>
+                                <p class="langue-title">Italiano</p>
+                                <span class="icon is-large has-text-primary mt-4">
+                                    <i class="fa-solid fa-table fa-lg"></i>
+                                </span>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="column is-one-third">
+                    <a href="../tableaux/tab_ru.html" style="text-decoration: none;">
+                        <div class="card">
+                            <div class="card-content">
+                                <h2 class="word-title">Дух</h2>
+                                <p class="langue-title">Русский</p>
+                                <span class="icon is-large has-text-primary mt-4">
+                                    <i class="fa-solid fa-table fa-lg"></i>
+                                </span>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+    <footer class="footer" style="margin-top: auto;">
+        <div class="content has-text-centered">
+            <p><strong>Projet PPE</strong>. Université Sorbonne Nouvelle.</p>
+        </div>
+    </footer>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const $navbarBurgers = Array.prototype.slice.call(document.querySelectorAll('.navbar-burger'), 0);
+            if ($navbarBurgers.length > 0) {
+                $navbarBurgers.forEach(el => {
+                    el.addEventListener('click', () => {
+                        const target = el.dataset.target;
+                        const $target = document.getElementById(target);
+                        el.classList.toggle('is-active');
+                        $target.classList.toggle('is-active');
+                    });
+                });
+            }
+        });
+    </script>
+</body>
+
+</html>

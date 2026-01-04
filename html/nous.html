@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>L'équipe - Projet PPE</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.4/css/bulma.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <style>
+        :root {
+            --primary-gradient: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            --card-hover-transform: translateY(-5px);
+        }
+
+        body {
+            background-color: #fcfcfc;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .hero-small {
+            background: var(--primary-gradient);
+            color: white;
+            padding: 3rem 0;
+            margin-bottom: 2rem;
+        }
+
+        .card {
+            border-radius: 12px;
+            border: none;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+            transition: all 0.3s ease;
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .card:hover {
+            transform: var(--card-hover-transform);
+            box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1);
+        }
+
+        .card-image figure {
+            margin: 0;
+            overflow: hidden;
+            border-top-left-radius: 12px;
+            border-top-right-radius: 12px;
+        }
+
+        .card-image img {
+            object-fit: cover;
+            height: 300px;
+            width: 100%;
+        }
+
+        .card-content {
+            flex-grow: 1;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .bio {
+            flex-grow: 1;
+            margin-bottom: 1.5rem;
+        }
+
+        .social-link {
+            margin-top: auto;
+        }
+    </style>
+</head>
+
+<body>
+
+    <nav class="navbar has-shadow" role="navigation" aria-label="main navigation">
+        <div class="navbar-brand">
+            <a class="navbar-item" href="../index.html">
+                <span class="icon has-text-primary"><i class="fa-solid fa-globe"></i></span>
+                <span class="ml-2 has-text-weight-bold">PPE Projet</span>
+            </a>
+            <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasic">
+                <span aria-hidden="true"></span>
+                <span aria-hidden="true"></span>
+                <span aria-hidden="true"></span>
+            </a>
+        </div>
+
+        <div id="navbarBasic" class="navbar-menu">
+            <div class="navbar-start">
+                <a class="navbar-item" href="../index.html">Accueil</a>
+
+                <div class="navbar-item has-dropdown is-hoverable">
+                    <a class="navbar-item" href="script.html">Scripts</a>
+                    <div class="navbar-dropdown">
+                        <a class="navbar-item" href="script.html#francais">Français</a>
+                        <a class="navbar-item" href="script.html#italien">Italien</a>
+                        <a class="navbar-item" href="script.html#russe">Russe</a>
+                    </div>
+                </div>
+
+                <div class="navbar-item has-dropdown is-hoverable">
+                    <a class="navbar-item" href="tableaux.html">Tableaux</a>
+                    <div class="navbar-dropdown">
+                        <a class="navbar-item" href="../tableaux/tab_fr.html">Français</a>
+                        <a class="navbar-item" href="../tableaux/tab_it.html">Italien</a>
+                        <a class="navbar-item" href="../tableaux/tab_ru.html">Russe</a>
+                    </div>
+                </div>
+
+                <a class="navbar-item" href="analyse.html">Analyses</a>
+                <a class="navbar-item is-active" href="nous.html">L'équipe</a>
+            </div>
+        </div>
+    </nav>
+
+    <div class="hero-small has-text-centered">
+        <h1 class="title is-2 has-text-white">Un travail d'équipe</h1>
+        <p class="subtitle is-5 has-text-white-ter">Qui sommes-nous ?</p>
+    </div>
+
+    <section class="section">
+        <div class="container">
+            <div class="columns is-centered">
+
+                <div class="column is-one-third">
+                    <div class="card">
+                        <div class="card-image">
+                            <figure class="image">
+                                <img src="/Users/serafimaklimova/projet-ppe/html/Serafima.png" alt="Serafima">
+                            </figure>
+                        </div>
+                        <div class="card-content">
+                            <div class="media">
+                                <div class="media-content">
+                                    <p class="title is-4">Serafima</p>
+                                    <p class="subtitle is-6 has-text-primary">Langue : Russe</p>
+                                </div>
+                            </div>
+                            <div class="content bio">
+                                <p>Linguiste et traductrice de formation, j'ai toujours été fascinée par la convergence
+                                    entre l'étude des langues et les nouvelles technologies. Le Master TAL est pour moi
+                                    la suite logique pour explorer concrètement cette interface. 
+                                    
+                                    Je suis responsable de l'analyse du corpus russe. J'ai travaillé sur les défis liés à
+                                    l'alphabet cyrillique et aux homographes (дух/духи).</p>
+                            </div>
+                            <div class="social-link has-text-centered">
+                                <a href="https://github.com/ffima" target="_blank"
+                                    class="button is-dark is-outlined is-fullwidth">
+                                    <span class="icon"><i class="fab fa-github"></i></span>
+                                    <span>GitHub</span>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="column is-one-third">
+                    <div class="card">
+                        <div class="card-image">
+                            <figure class="image">
+                                <img src="https://placehold.co/400x400?text=Christophe" alt="Christophe">
+                            </figure>
+                        </div>
+                        <div class="card-content">
+                            <div class="media">
+                                <div class="media-content">
+                                    <p class="title is-4">Christophe</p>
+                                    <p class="subtitle is-6 has-text-primary">Langue : Français</p>
+                                </div>
+                            </div>
+                            <div class="content bio">
+                                <p>En charge de l'analyse du corpus français.</p>
+                            </div>
+                            <div class="social-link has-text-centered">
+                                <a href="https://github.com/makkinne" target="_blank" class="button is-dark is-outlined is-fullwidth">
+                                    <span class="icon"><i class="fab fa-github"></i></span>
+                                    <span>GitHub</span>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="column is-one-third">
+                    <div class="card">
+                        <div class="card-image">
+                            <figure class="image">
+                                <img src="https://placehold.co/400x400?text=Adriano" alt="Adriano">
+                            </figure>
+                        </div>
+                        <div class="card-content">
+                            <div class="media">
+                                <div class="media-content">
+                                    <p class="title is-4">Adriano</p>
+                                    <p class="subtitle is-6 has-text-primary">Langue : Italien</p>
+                                </div>
+                            </div>
+                            <div class="content bio">
+                                <p>Responsable du corpus italien.</p>
+                            </div>
+                            <div class="social-link has-text-centered">
+                                <a href="https://github.com/GAdrianK" target="_blank" class="button is-dark is-outlined is-fullwidth">
+                                    <span class="icon"><i class="fab fa-github"></i></span>
+                                    <span>GitHub</span>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+    <footer class="footer">
+        <div class="content has-text-centered">
+            <p><strong>Projet PPE</strong>. Université Sorbonne Nouvelle.</p>
+        </div>
+    </footer>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const $navbarBurgers = Array.prototype.slice.call(document.querySelectorAll('.navbar-burger'), 0);
+            if ($navbarBurgers.length > 0) {
+                $navbarBurgers.forEach(el => {
+                    el.addEventListener('click', () => {
+                        const target = el.dataset.target;
+                        const $target = document.getElementById(target);
+                        el.classList.toggle('is-active');
+                        $target.classList.toggle('is-active');
+                    });
+                });
+            }
+        });
+    </script>
+</body>
+
+</html>

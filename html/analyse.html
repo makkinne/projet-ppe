@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Analyses - Projet PPE</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.4/css/bulma.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <style>
+        :root {
+            --primary-gradient: linear-gradient(135deg, #667eeadf 0%, #764ba2 100%);
+            --card-hover-transform: translateY(-5px);
+        }
+
+        body {
+            background-color: #fcfcfc;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .hero-small {
+            background: var(--primary-gradient);
+            color: white;
+            padding: 3rem 0;
+            margin-bottom: 2rem;
+        }
+
+        h2.title-section {
+            color: #4a4a4a;
+            border-bottom: 2px solid #764ba2;
+            display: inline-block;
+            padding-bottom: 5px;
+            margin-bottom: 20px;
+        }
+
+        .analysis-card {
+            border-radius: 12px;
+            border: none;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+            transition: all 0.3s ease;
+            height: 100%;
+            background: white;
+            overflow: hidden;
+        }
+
+        .analysis-card:hover {
+            transform: var(--card-hover-transform);
+            box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1);
+        }
+
+        .card-image-container {
+            padding: 1rem;
+            background: #f8f9fa;
+            text-align: center;
+        }
+
+        .card-image-container img {
+            max-height: 250px;
+            width: auto;
+            border-radius: 4px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <nav class="navbar has-shadow" role="navigation" aria-label="main navigation">
+        <div class="navbar-brand">
+            <a class="navbar-item" href="../index.html">
+                <span class="icon has-text-primary"><i class="fa-solid fa-globe"></i></span>
+                <span class="ml-2 has-text-weight-bold">PPE Projet</span>
+            </a>
+            <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasic">
+                <span aria-hidden="true"></span>
+                <span aria-hidden="true"></span>
+                <span aria-hidden="true"></span>
+            </a>
+        </div>
+
+        <div id="navbarBasic" class="navbar-menu">
+            <div class="navbar-start">
+                <a class="navbar-item" href="../index.html">Accueil</a>
+
+                <div class="navbar-item has-dropdown is-hoverable">
+                    <a class="navbar-item" href="script.html">Scripts</a>
+                    <div class="navbar-dropdown">
+                        <a class="navbar-item" href="script.html#francais">Français</a>
+                        <a class="navbar-item" href="script.html#italien">Italien</a>
+                        <a class="navbar-item" href="script.html#russe">Russe</a>
+                    </div>
+                </div>
+
+                <div class="navbar-item has-dropdown is-hoverable">
+                    <a class="navbar-item" href="tableaux.html">Tableaux</a>
+                    <div class="navbar-dropdown">
+                        <a class="navbar-item" href="../tableaux/tab_fr.html">Français</a>
+                        <a class="navbar-item" href="../tableaux/tab_it.html">Italien</a>
+                        <a class="navbar-item" href="../tableaux/tab_ru.html">Russe</a>
+                    </div>
+                </div>
+
+                <a class="navbar-item is-active" href="analyse.html">Analyses</a>
+                <a class="navbar-item" href="nous.html">L'équipe</a>
+            </div>
+        </div>
+    </nav>
+
+    <div class="hero-small has-text-centered">
+        <h1 class="title is-2 has-text-white">Analyse Linguistique</h1>
+        <p class="subtitle is-5 has-text-white-ter">Nuages de mots et Spécificités</p>
+    </div>
+
+    <section id="nuage" class="section">
+        <div class="container">
+            <h2 class="title is-3 title-section">Nuages de mots</h2>
+            <div class="columns is-variable is-6">
+
+                <div class="column is-one-third">
+                    <div class="analysis-card">
+                        <div class="card-image-container">
+                            <img src="../images/nuage_fr.png" alt="Nuage Français"
+                                onerror="this.src='https://placehold.co/400x300?text=Nuage+FR';">
+                        </div>
+                        <div class="card-content">
+                            <p class="title is-5 has-text-centered">Français</p>
+                            <p class="content is-small"> </p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="column is-one-third">
+                    <div class="analysis-card">
+                        <div class="card-image-container">
+                            <img src="../images/nuage_it.png" alt="Nuage Italien"
+                                onerror="this.src='https://placehold.co/400x300?text=Nuage+IT';">
+                        </div>
+                        <div class="card-content">
+                            <p class="title is-5 has-text-centered">Italien</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="column is-one-third">
+                    <div class="analysis-card">
+                        <div class="card-image-container">
+                            <img src="/Users/serafimaklimova/projet-ppe/html/ru.png" alt="Nuage Russe"
+                                onerror="this.src='https://placehold.co/400x300?text=Nuage+RU';">
+                        </div>
+                        <div class="card-content">
+                            <p class="title is-5 has-text-centered">Russe</p>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+    <section id="spe" class="section has-background-light">
+        <div class="container">
+            <h2 class="title is-3 title-section">Spécificité</h2>
+
+            <div class="columns">
+                <div class="column is-8 is-offset-2">
+                    <div class="notification is-white" style="border-left: 5px solid #764ba2;">
+                        <p class="mb-4">
+                            <strong>Définition :</strong> La spécificité correspond au constat statistique de l’usage,
+                            ou non, d’un terme.
+                            Le nombre d’apparition brut d’un mot ne veut rien dire en soi, il faut le contextualiser.
+                            On se base sur la <em>loi hypergéométrique</em> qui estime à quel point on s’éloigne de la
+                            distribution attendue dans le corpus.
+                        </p>
+                        <div class="content is-small">
+                            <ul>
+                                <li><strong>Frequency :</strong> fréquence globale du token dans le corpus</li>
+                                <li><strong>Specificity :</strong> score statistique (plus il est élevé, plus le lien
+                                    est fort)</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="columns is-vcentered mt-6">
+                <div class="column is-half">
+                    <figure class="image is-4by3 shadow-lg">
+                        <img src="../images/graph_spe_ru.png" alt="Graphique spécificité"
+                            onerror="this.src='https://placehold.co/600x400?text=Graphique+Spécificité';">
+                    </figure>
+                </div>
+                <div class="column is-half">
+                    <h3 class="title is-4">Analyse de la spécificité</h3>
+                    <div class="content">
+                        <p>
+                            Ici, vous devez écrire votre propre analyse. Par exemple :
+                        </p>
+                        <p>
+                            <em>"Comme observé..."</em>
+                        </p>
+                        <p>
+                            Text
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </section>
+
+    <footer class="footer">
+        <div class="content has-text-centered">
+            <p><strong>Projet PPE</strong>. Université Sorbonne Nouvelle.</p>
+        </div>
+    </footer>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const $navbarBurgers = Array.prototype.slice.call(document.querySelectorAll('.navbar-burger'), 0);
+            if ($navbarBurgers.length > 0) {
+                $navbarBurgers.forEach(el => {
+                    el.addEventListener('click', () => {
+                        const target = el.dataset.target;
+                        const $target = document.getElementById(target);
+                        el.classList.toggle('is-active');
+                        $target.classList.toggle('is-active');
+                    });
+                });
+            }
+        });
+    </script>
+</body>
+
+</html>

@@ -1,139 +1,193 @@
 <!DOCTYPE html>
 <html lang="fr">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Projet PPE</title>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.4/css/bulma.min.css">
-    <style>
-      :root {
-        --primary-gradient: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-        --card-hover-transform: translateY(-5px);
-      }
-      
-      body {
-        background-color: white;
-        min-height: 100vh;
-        display: flex;
-        flex-direction: column;
-      }
 
-      .hero {
-        background: var(--primary-gradient);
-        color: white;
-      }
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Projet PPE - Accueil</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.4/css/bulma.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+  <style>
+    :root {
+      --primary-gradient: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    }
 
-      .hero-title {
-        font-weight: 800;
-      }
+    body {
+      background-color: #fcfcfc;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
 
-      .card {
-        border-radius: 12px;
-        border: none;
-        box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
-        transition: all 0.3s ease;
-        height: 100%;
-        cursor: pointer;
-      }
+    .navbar {
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
 
-      .card:hover {
-        transform: var(--card-hover-transform);
-        box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
-      }
+    .navbar-brand {
+      font-weight: bold;
+      color: #764ba2;
+    }
 
-      .card-content {
-        padding: 3rem 2rem;
-        text-align: center;
-      }
+    .hero {
+      background: var(--primary-gradient);
+      color: white;
+    }
 
-      .word-title {
-        font-size: 2.5rem;
-        font-weight: 700;
-        margin-bottom: 0.5rem;
-        color: #2d3748;
-      }
+    .hero-title {
+      font-weight: 800;
+    }
 
-      .langue-title {
-        text-transform: uppercase;
-        letter-spacing: 2px;
-        font-size: 0.875rem;
-        color: #718096;
-        font-weight: 600;
-      }
+    .content-section {
+      padding: 3rem 1.5rem;
+    }
 
-    </style>
-  </head>
-  <body>
-    
-    <section class="hero is-medium">
-      <div class="hero-body">
-        <div class="container has-text-centered">
-          <h1 class="title is-1 hero-title">
-            Projet PPE
-          </h1>
-          <p class="subtitle is-4">
-            Analyse des mots : Esprit, Spirito, Дух
-          </p>
-         
-        </div>
-      </div>
-    </section>
+    .content h1 {
+      color: #4a4a4a;
+      border-bottom: 2px solid #764ba2;
+      display: inline-block;
+      padding-bottom: 5px;
+      margin-bottom: 20px;
+    }
+  </style>
+</head>
 
+<body>
 
-    <section class="section">
-      <div class="container">
-        <div class="columns is-variable">
-          
-          <!-- French Card -->
-          <div class="column is-one-third">
-            <a href="tableaux/tab_fr.html" style="text-decoration: none;">
-              <div class="card">
-                <div class="card-content">
-                  <h2 class="word-title">Esprit</h2>
-                  <p class="langue-title">Français</p>
-                </div>
-              </div>
-            </a>
-          </div>
-
-          <!-- Italian Card -->
-          <div class="column is-one-third">
-            <a href="tableaux/tab_it.html" style="text-decoration: none;">
-              <div class="card">
-                <div class="card-content">
-                  <h2 class="word-title">Spirito</h2>
-                  <p class="langue-title">Italiano</p>
-                </div>
-              </div>
-            </a>
-          </div>
-
-          <!-- Russian Card -->
-          <div class="column is-one-third">
-            <a href="tableaux/tab_ru.html" style="text-decoration: none;">
-              <div class="card">
-                <div class="card-content">
-                  <h2 class="word-title">Дух</h2>
-                  <p class="langue-title">Русский</p>
-                </div>
-              </div>
-            </a>
-          </div>
-
-        </div>
-      </div>
-    </section>
-
-    <br><br>
-    <div class="has-text-centered">
-      <pre ><code>
-        Les commandes utilisées pour obtenir les tableaux sont :
-
-        ./programmes/script_URLs_treatement.sh URLs/it.txt tableaux/ tableaux/tab_it.html "spirito" it
-        ./programmes/script_URLs_treatement.sh URLs/fr.txt tableaux/ tableaux/tab_fr.html "esprit" fr
-        ./programmes/script_URLs_treatement.sh URLs/ru.txt tableaux/ tableaux/tab_ru.html "дух[а-я]*" ru
-      </code></pre>
+  <nav class="navbar is-white" role="navigation" aria-label="main navigation">
+    <div class="navbar-brand">
+      <a class="navbar-item" href="#">
+        <span class="icon is-medium"><i class="fa-solid fa-globe"></i></span>
+        <span class="ml-2">PPE Projet</span>
+      </a>
+      <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasic">
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+      </a>
     </div>
 
-  </body>
+    <div id="navbarBasic" class="navbar-menu">
+      <div class="navbar-start">
+        <a class="navbar-item" href="./index.html">Accueil</a>
+
+        <div class="navbar-item has-dropdown is-hoverable">
+          <a class="navbar-item" href="./index.html#Presentation">Le projet</a>
+          <div class="navbar-dropdown">
+            <a class="navbar-item" href="#Presentation">Présentation</a>
+            <a class="navbar-item" href="#Methodologie">Méthodologie</a>
+          </div>
+        </div>
+
+        <div class="navbar-item has-dropdown is-hoverable">
+          <a class="navbar-item" href="html/script.html">Script</a>
+          <div class="navbar-dropdown">
+            <a class="navbar-item" href="html/script.html">Script Global</a>
+          </div>
+        </div>
+
+        <div class="navbar-item has-dropdown is-hoverable">
+          <a class="navbar-item" href="html/tableaux.html">Tableaux</a>
+          <div class="navbar-dropdown">
+            <a class="navbar-item" href="tableaux/tab_fr.html">Français</a>
+            <a class="navbar-item" href="tableaux/tab_it.html">Italien</a>
+            <a class="navbar-item" href="tableaux/tab_ru.html">Russe</a>
+          </div>
+        </div>
+
+        <a class="navbar-item" href="html/analyse.html">Analyses</a>
+        <a class="navbar-item" href="html/nous.html">L'équipe</a>
+      </div>
+    </div>
+  </nav>
+
+  <section class="hero is-medium">
+    <div class="hero-body">
+      <div class="container has-text-centered">
+        <h1 class="title is-1 hero-title">Projet PPE</h1>
+        <p class="subtitle is-4">Analyse des mots : Esprit, Spirito, Дух</p>
+      </div>
+    </div>
+  </section>
+
+  <section id="Presentation" class="section content-section">
+    <div class="container">
+      <div class="content">
+        <h1>Présentation</h1>
+        <p>Ce projet, réalisé dans le cadre du cours de Programmation et Projet Encadré (PPE), propose une analyse
+          comparative automatisée du mot « Esprit » et de ses équivalents en italien (« Spirito ») et en russe (« Дух
+          »).
+
+          Grâce à des scripts Bash, nous avons constitué et traité un corpus de plus de 50 URL par langue. Notre site
+          présente les résultats sous forme de tableaux interactifs, offrant pour chaque page : le code HTTP,
+          l'encodage, le contenu textuel, ainsi que les contextes d'apparition (concordanciers) et les bigrammes.</p>
+      </div>
+    </div>
+  </section>
+
+  <section id="Methodologie" class="section content-section has-background-light">
+    <div class="container">
+      <div class="content">
+        <h1>Méthodologie</h1>
+
+        <h3>1. Démarche globale</h3>
+        <p>Notre projet s'articule autour d'un protocole rigoureux, allant de la sélection d'un concept abstrait à son
+          analyse contrastive multilingue. La démarche se décompose en plusieurs étapes clés :</p>
+        <ul>
+          <li><strong>Constitution du corpus :</strong> Recherche et sélection manuelle d'URLs pertinentes pour étudier
+            le mot choisi dans ses divers contextes.</li>
+          <li><strong>Traitement automatique :</strong> Récupération et nettoyage des données via des scripts.</li>
+          <li><strong>Analyse linguistique :</strong> Étude des contextes, des concordances et visualisation via des
+            nuages de mots.</li>
+          <li><strong>Restitution :</strong> Présentation des résultats sur ce site web dédié.</li>
+        </ul>
+
+        <h3>2. La chaîne de traitement (Script Bash)</h3>
+        <p>Au cœur du projet se trouve un script <strong>Bash</strong> automatisé, développé pour traiter nos listes
+          d'URLs. Ce programme remplit plusieurs objectifs techniques successifs :</p>
+        <ul>
+          <li><strong>Récupération :</strong> Il lit le fichier d'URLs et lance des requêtes via <code>curl</code> (en
+            simulant un navigateur via User-Agent pour contourner les erreurs 403).</li>
+          <li><strong>Validation :</strong> Il vérifie la validité des liens et analyse les codes retour HTTP pour
+            s'assurer de l'accessibilité des pages.</li>
+          <li><strong>Normalisation :</strong> Il détecte l'encodage d'origine et convertit systématiquement le contenu
+            en <strong>UTF-8</strong> (étape cruciale pour le corpus russe).</li>
+          <li><strong>Extraction :</strong> Il utilise <code>lynx</code> pour produire un "dump" textuel propre,
+            débarrassé des balises HTML.</li>
+        </ul>
+
+        <h3>3. Résultats et Analyse</h3>
+        <p>Pour chaque langue, le script génère un tableau synthétique rassemblant :</p>
+        <ul>
+          <li>Les métadonnées (URL, Code HTTP, Encodage détecté).</li>
+          <li>Les données quantitatives (Nombre total de mots, Compte des occurrences).</li>
+          <li>Les données textuelles (Page aspirée, Dump texte, Contextes et Concordanciers).</li>
+        </ul>
+        <p>
+          <strong>Les défis techniques :</strong> Ce travail a nécessité une gestion fine des erreurs serveurs et des
+          jeux de caractères non-latins. Par exemple, pour le russe, l'analyse des contextes a permis de résoudre des
+          problèmes d'homographie (notamment la distinction entre le sens spirituel de "дух" et le sens cosmétique de
+          "духи").
+        </p>
+      </div>
+    </div>
+  </section>
+
+
+  <script>
+    document.addEventListener('DOMContentLoaded', () => {
+      const $navbarBurgers = Array.prototype.slice.call(document.querySelectorAll('.navbar-burger'), 0);
+      if ($navbarBurgers.length > 0) {
+        $navbarBurgers.forEach(el => {
+          el.addEventListener('click', () => {
+            const target = el.dataset.target;
+            const $target = document.getElementById(target);
+            el.classList.toggle('is-active');
+            $target.classList.toggle('is-active');
+          });
+        });
+      }
+    });
+  </script>
+</body>
+
 </html>
