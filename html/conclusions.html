@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+<html lang="fr" data-theme="light">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Conclusions - Projet PPE</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.4/css/bulma.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <style>
+        :root {
+            --primary-gradient: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        }
+
+        body {
+            background-color: #f9f9f9;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            font-family: 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+        }
+
+        .hero-small {
+            background: var(--primary-gradient);
+            color: white;
+            padding: 3rem 0;
+            margin-bottom: 2rem;
+        }
+
+        .analysis-section {
+            background: white;
+            padding: 2.5rem;
+            border-radius: 8px;
+            box-shadow: 0 2px 15px rgba(0, 0, 0, 0.05);
+            margin-bottom: 3rem;
+        }
+
+        .lang-header {
+            border-bottom: 2px solid #eee;
+            padding-bottom: 1rem;
+            margin-bottom: 2rem;
+            color: #764ba2;
+            font-weight: 800;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .pole-box {
+            border-left: 4px solid #667eea;
+            padding-left: 1.5rem;
+            margin-bottom: 1.5rem;
+        }
+
+        .pole-title {
+            font-weight: 700;
+            color: #4a4a4a;
+            margin-bottom: 0.5rem;
+            display: block;
+        }
+
+        .tech-warning {
+            background-color: #fffdf0;
+            border: 1px solid #ffe08a;
+            padding: 1.5rem;
+            border-radius: 6px;
+            margin-bottom: 1.5rem;
+        }
+
+        .final-conclusion {
+            background: #2d3748;
+            color: white;
+            padding: 3rem;
+            border-radius: 8px;
+        }
+
+        .final-conclusion h2 {
+            color: #a3bffa;
+        }
+
+        .final-conclusion strong {
+            color: #fff;
+        }
+
+        .anchor-nav {
+            margin-bottom: 2rem;
+        }
+    </style>
+</head>
+
+<body>
+
+    <nav class="navbar has-shadow" role="navigation" aria-label="main navigation">
+        <div class="navbar-brand">
+            <a class="navbar-item" href="../index.html">
+                <span class="icon has-text-primary"><i class="fa-solid fa-globe"></i></span>
+                <span class="ml-2 has-text-weight-bold">PPE Projet</span>
+            </a>
+            <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasic">
+              <span aria-hidden="true"></span>
+              <span aria-hidden="true"></span>
+              <span aria-hidden="true"></span>
+            </a>
+        </div>
+    
+        <div id="navbarBasic" class="navbar-menu">
+            <div class="navbar-start">
+                <a class="navbar-item" href="../index.html">Accueil</a>
+                
+                <div class="navbar-item has-dropdown is-hoverable">
+                  <a class="navbar-item" href="../index.html#Presentation">Le projet</a>
+                  <div class="navbar-dropdown">
+                    <a class="navbar-item" href="../index.html#Presentation">Présentation</a>
+                    <a class="navbar-item" href="../index.html#Methodologie">Méthodologie</a>
+                  </div>
+                </div>
+
+                <a class="navbar-item" href="script.html">Script</a>
+                
+                <div class="navbar-item has-dropdown is-hoverable">
+                  <a class="navbar-item" href="tableaux.html">Tableaux</a>
+                  <div class="navbar-dropdown">
+                    <a class="navbar-item" href="../tableaux/tab_fr.html">Français</a>
+                    <a class="navbar-item" href="../tableaux/tab_it.html">Italien</a>
+                    <a class="navbar-item" href="../tableaux/tab_ru.html">Russe</a>
+                  </div>
+                </div>
+
+                <a class="navbar-item" href="analyse.html">Analyses</a>
+                
+                <a class="navbar-item" href="conclusions.html">Conclusions</a>
+
+                <a class="navbar-item" href="nous.html">L'équipe</a>
+            </div>
+        </div>
+    </nav>
+
+    <div class="hero-small has-text-centered">
+        <div class="container">
+            <h1 class="title is-2 has-text-white">Interprétation Linguistique</h1>
+            <p class="subtitle is-5 has-text-white-ter">Esprit, Spirito, Дух : trois cartes mentales</p>
+        </div>
+    </div>
+
+    <section class="section">
+        <div class="container">
+
+            <div class="buttons is-centered anchor-nav">
+                <a href="#intro" class="button is-rounded">Introduction</a>
+                <a href="#francais" class="button is-rounded is-info is-light">Français</a>
+                <a href="#italien" class="button is-rounded is-link is-light">Italien</a>
+                <a href="#russe" class="button is-rounded is-danger is-light">Russe</a>
+                <a href="#conclusion" class="button is-rounded is-dark">Synthèse</a>
+            </div>
+
+            <div id="intro" class="notification is-white has-text-centered is-size-5" style="border: 1px solid #eee;">
+                <p><em>« Trois mots, une illusion de transparence : spirito, esprit, дух. En apparence, ils se
+                        traduisent. En réalité, ils dessinent trois cartes différentes de ce que l’humain appelle
+                        “l’esprit” — entre sacré, pensée, et énergie collective. »</em></p>
+            </div>
+
+            <div id="francais" class="analysis-section">
+                <h2 class="title is-3 lang-header"><i class="fa-solid fa-wine-glass mr-2"></i> Français : Esprit</h2>
+                <div class="content">
+                    <p>Le corpus français mobilise <em>esprit</em> principalement pour qualifier des
+                        <strong>dispositions</strong> : manières de penser et manières d’être ensemble.</p>
+
+                    <div class="pole-box" style="border-color: #3e8ed0;">
+                        <span class="pole-title">1. Posture cognitive et intellectuelle</span>
+                        <p>Les syntagmes comme <em>esprit critique</em>, <em>esprit d’analyse</em>, <em>esprit
+                                scientifique</em> ne désignent pas seulement l'intelligence, mais une attitude
+                            méthodique. Le mot est mobilisé dans des discours normatifs (éducation, savoir).</p>
+                    </div>
+
+                    <div class="pole-box" style="border-color: #3e8ed0;">
+                        <span class="pole-title">2. Cohésion sociale</span>
+                        <p><em>Esprit d’équipe</em>, <em>esprit de corps</em>. Ici, le mot condense des valeurs de
+                            solidarité et d'appartenance, très visibles dans le sport et le monde professionnel.</p>
+                    </div>
+
+                    <p class="is-size-7"><em>Note : Le pôle religieux (Saint-Esprit) est présent mais souvent moins
+                            central que dans les corpus italien ou russe, sauf surreprésentation de sites
+                            confessionnels.</em></p>
+
+                    <div class="notification is-info is-light">
+                        <strong>Lecture d’ensemble :</strong> Une structure à double axe : (i) disposition
+                        intellectuelle (critique, analyse) et (ii) valeur collective (cohésion), avec une dimension
+                        religieuse plus marginale.
+                    </div>
+                </div>
+            </div>
+
+            <div id="italien" class="analysis-section">
+                <h2 class="title is-3 lang-header"><i class="fa-solid fa-pizza-slice mr-2"></i> Italien : Spirito</h2>
+                <div class="content">
+                    <p>Dans le corpus italien, <strong>spirito</strong> apparaît comme un "mot-caméléon"
+                        particulièrement charnière. Il ne s'agit pas d'une liste de sens juxtaposés, mais d'une
+                        polysémie organisée en pôles stables :</p>
+
+                    <div class="pole-box">
+                        <span class="pole-title">a) Pôle religieux / théologique</span>
+                        <p>Une part importante des URLs (Vatican, catéchismes) ancre le terme dans un lexique doctrinal.
+                            <em>Spirito</em> est ici "Esprit divin" (<em>Spirito Santo</em>), stabilisé par des
+                            collocations figées (don de l’Esprit, grâce, Paraclito).</p>
+                    </div>
+
+                    <div class="pole-box">
+                        <span class="pole-title">b) Pôle philosophique / histoire des idées</span>
+                        <p>Un bloc académique net (Hegel, Treccani) où <em>spirito</em> fonctionne comme un concept
+                            théorique (culture, histoire, raison). Des syntagmes comme <em>spirito assoluto</em> ou
+                            <em>fenomenologia dello spirito</em> en font un marqueur de tradition savante.</p>
+                    </div>
+
+                    <div class="pole-box">
+                        <span class="pole-title">c) Pôle psycho / rhétorique (Freud)</span>
+                        <p>Autour de <em>Il motto di spirito</em>, le mot désigne l'humour ("trait d'esprit"). Ce pôle
+                            hybride combine un usage culturel courant et une terminologie psychanalytique technique.</p>
+                    </div>
+
+                    <div class="pole-box">
+                        <span class="pole-title">d) Pôle socio-culturel</span>
+                        <p><em>Spirito</em> désigne enfin un ethos ou une attitude collective : <em>spirito
+                                critico</em>, <em>spirito di squadra</em> (esprit d'équipe), <em>spirito
+                                imprenditoriale</em>. Il devient un nom "axiologique" définissant des normes de
+                            comportement.</p>
+                    </div>
+
+                    <div class="notification is-link is-light">
+                        <strong>Lecture d’ensemble :</strong> L'italien s'organise autour d'un axe
+                        religieux-philosophique institutionnalisé et d'un axe socio-culturel, avec une forte présence de
+                        la théorie (Freud/Hegel).
+                    </div>
+                </div>
+            </div>
+
+            
+            <div id="russe" class="analysis-section">
+                <h2 class="title is-3 lang-header"><i class="fa-solid fa-snowflake mr-2"></i> Russe : Дух</h2>
+                <div class="content">
+                    <p>Le volet russe est unique car la "forme" du matériau (encodage, homographie) fait partie
+                        intégrante de l'analyse.</p>
+
+                    <div class="tech-warning">
+                        <h4 class="title is-5"><i class="fa-solid fa-triangle-exclamation"></i> Défis Méthodologiques
+                        </h4>
+                        <ul>
+                            <li><strong>Encodage :</strong> La gestion du Windows-1251 vs UTF-8 est critique. Sans
+                                conversion, l'analyse devient impossible (mojibake).</li>
+                            <li><strong>Bruit et Homographie (Дух vs Духи) :</strong> Le mot "Esprit" (<em>дух</em>)
+                                s'écrit comme "Parfums" (<em>духи</em>). Notre script a dû gérer ce bruit structurel.
+                                Cela prouve qu'un corpus bruité n'est pas "sale", mais qu'il nécessite des règles de
+                                désambiguïsation explicites.</li>
+                            <li><strong>Morphologie :</strong> La richesse flexionnelle du russe exige une stratégie
+                                d'extraction robuste (regex <code>дух[а-я]*</code>) pour capter tous les cas et les
+                                dérivés (<em>духовный</em>).</li>
+                        </ul>
+                    </div>
+
+                    <h4 class="title is-5 mt-5">Axes sémantiques dominants</h4>
+
+                    <div class="pole-box" style="border-color: #f14668;">
+                        <span class="pole-title">1. Axe Religieux (Orthodoxie)</span>
+                        <p>Structuré par <em>Святой Дух</em> (Saint-Esprit). Le terme est fortement stabilisé dans des
+                            syntagmes figés et une textualité catéchétique (Trinité, foi).</p>
+                    </div>
+
+                    <div class="pole-box" style="border-color: #f14668;">
+                        <span class="pole-title">2. Axe Moral / Volitif (La Force)</span>
+                        <p>C'est la grande spécificité russe. <em>Боевой дух</em> (esprit combatif), <em>сила духа</em>
+                            (force d’âme). Ici, l'esprit est une énergie psychique, une ressource qui permet de
+                            résister. C'est une dimension axiologique et volitive très dense.</p>
+                    </div>
+
+                    <div class="notification is-danger is-light">
+                        <strong>Lecture d’ensemble :</strong> Le mot <em>дух</em> est un pôle puissamment structurant
+                        autour de la religion et de la <strong>force morale</strong> (résistance), tout en offrant un
+                        cas d'école sur les défis du traitement automatique (homographie).
+                    </div>
+                </div>
+            </div>
+
+            <div id="conclusion" class="final-conclusion content">
+                <h2 class="title is-2 has-text-centered mb-5">Synthèse Comparative</h2>
+                <p>À travers <em>spirito</em>, <em>esprit</em> et <em>дух</em>, chaque langue hiérarchise différemment
+                    une même question anthropologique :</p>
+                <ul>
+                    <li><strong>L'Italien</strong> donne à <em>spirito</em> une résonance théologico-philosophique et
+                        savante (Hegel, Freud). L'esprit est ce qui se conceptualise.</li>
+                    <li><strong>Le Français</strong> fait de <em>esprit</em> un instrument de posture (critique) et de
+                        cohésion sociale. L'esprit est une manière d'être au monde.</li>
+                    <li><strong>Le Russe</strong> concentre dans <em>дух</em> une intensité morale et existentielle (la
+                        force, la résistance), au-delà de la simple pensée.</li>
+                </ul>
+                <p class="mt-4">
+                    Ainsi, la convergence des trois corpus ne mène pas à une définition unique, mais à une évidence : un
+                    mot est une mémoire de discours. Si ces trois termes se répondent, c’est parce qu’ils désignent ce
+                    lieu fragile où l’humain tente de nommer ce qui le met en mouvement — ce qui l’élève, ce qui le
+                    relie, et ce qui le fait tenir.
+                </p>
+            </div>
+
+        </div>
+    </section>
+
+    <footer class="footer">
+        <div class="content has-text-centered">
+            <p><strong>Projet PPE</strong>. Université Sorbonne Nouvelle.</p>
+        </div>
+    </footer>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const $navbarBurgers = Array.prototype.slice.call(document.querySelectorAll('.navbar-burger'), 0);
+            if ($navbarBurgers.length > 0) {
+                $navbarBurgers.forEach(el => {
+                    el.addEventListener('click', () => {
+                        const target = el.dataset.target;
+                        const $target = document.getElementById(target);
+                        el.classList.toggle('is-active');
+                        $target.classList.toggle('is-active');
+                    });
+                });
+            }
+        });
+    </script>
+</body>
+
+</html>

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="fr">
+<html lang="fr" data-theme="light">
 
 <head>
     <meta charset="utf-8">
@@ -52,7 +52,7 @@
 
         .card-image-container {
             padding: 1rem;
-            background: #f8f9fa;
+            background: #ffffff;
             text-align: center;
         }
 
@@ -60,6 +60,22 @@
             max-height: 250px;
             width: auto;
             border-radius: 4px;
+        }
+
+        .table-image {
+            border: 1px solid #ffffff;
+            border-radius: 6px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+            width: 100%;
+            height: auto;
+        }
+
+        .spec-box {
+            background: white;
+            padding: 2rem;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+            margin-bottom: 2rem;
         }
     </style>
 </head>
@@ -84,13 +100,14 @@
                 <a class="navbar-item" href="../index.html">Accueil</a>
 
                 <div class="navbar-item has-dropdown is-hoverable">
-                    <a class="navbar-item" href="script.html">Scripts</a>
+                    <a class="navbar-item" href="../index.html#Presentation">Le projet</a>
                     <div class="navbar-dropdown">
-                        <a class="navbar-item" href="script.html#francais">Français</a>
-                        <a class="navbar-item" href="script.html#italien">Italien</a>
-                        <a class="navbar-item" href="script.html#russe">Russe</a>
+                        <a class="navbar-item" href="../index.html#Presentation">Présentation</a>
+                        <a class="navbar-item" href="../index.html#Methodologie">Méthodologie</a>
                     </div>
                 </div>
+
+                <a class="navbar-item" href="script.html">Script</a>
 
                 <div class="navbar-item has-dropdown is-hoverable">
                     <a class="navbar-item" href="tableaux.html">Tableaux</a>
@@ -101,7 +118,10 @@
                     </div>
                 </div>
 
-                <a class="navbar-item is-active" href="analyse.html">Analyses</a>
+                <a class="navbar-item" href="analyse.html">Analyses</a>
+
+                <a class="navbar-item" href="conclusions.html">Conclusions</a>
+
                 <a class="navbar-item" href="nous.html">L'équipe</a>
             </div>
         </div>
@@ -120,12 +140,11 @@
                 <div class="column is-one-third">
                     <div class="analysis-card">
                         <div class="card-image-container">
-                            <img src="../images/nuage_fr.png" alt="Nuage Français"
+                            <img src="fr.png" alt="Nuage Français"
                                 onerror="this.src='https://placehold.co/400x300?text=Nuage+FR';">
                         </div>
                         <div class="card-content">
                             <p class="title is-5 has-text-centered">Français</p>
-                            <p class="content is-small"> </p>
                         </div>
                     </div>
                 </div>
@@ -133,11 +152,13 @@
                 <div class="column is-one-third">
                     <div class="analysis-card">
                         <div class="card-image-container">
-                            <img src="../images/nuage_it.png" alt="Nuage Italien"
+                            <img src="it.png" alt="Nuage Italien"
                                 onerror="this.src='https://placehold.co/400x300?text=Nuage+IT';">
                         </div>
                         <div class="card-content">
                             <p class="title is-5 has-text-centered">Italien</p>
+                            <p class="title is-5 has-text-centered"> </p>
+
                         </div>
                     </div>
                 </div>
@@ -163,45 +184,116 @@
             <h2 class="title is-3 title-section">Spécificité</h2>
 
             <div class="columns">
-                <div class="column is-8 is-offset-2">
+                <div class="column is-10 is-offset-1">
                     <div class="notification is-white" style="border-left: 5px solid #764ba2;">
+                        <h4 class="title is-5 mb-3">Méthodologie</h4>
                         <p class="mb-4">
-                            <strong>Définition :</strong> La spécificité correspond au constat statistique de l’usage,
-                            ou non, d’un terme.
+                            La spécificité correspond au constat statistique de l’usage, ou non, d’un terme.
                             Le nombre d’apparition brut d’un mot ne veut rien dire en soi, il faut le contextualiser.
                             On se base sur la <em>loi hypergéométrique</em> qui estime à quel point on s’éloigne de la
                             distribution attendue dans le corpus.
                         </p>
-                        <div class="content is-small">
-                            <ul>
-                                <li><strong>Frequency :</strong> fréquence globale du token dans le corpus</li>
+                        <div class="content is-small has-background-light p-3" style="border-radius: 4px;">
+                            <ul class="mt-0">
+                                <li><strong>Token :</strong> mot identifié.</li>
+                                <li><strong>Corpus size :</strong> taille du corpus (nombre de mots).</li>
+                                <li><strong>All contexts size :</strong> taille de la "fenêtre d’observation".</li>
+                                <li><strong>Frequency :</strong> fréquence globale du token dans le corpus.</li>
+                                <li><strong>Co-frequency :</strong> nombre de fois où le mot apparaît spécifiquement à
+                                    côté du mot cible.</li>
                                 <li><strong>Specificity :</strong> score statistique (plus il est élevé, plus le lien
-                                    est fort)</li>
+                                    est fort).</li>
                             </ul>
                         </div>
                     </div>
                 </div>
             </div>
 
-            <div class="columns is-vcentered mt-6">
-                <div class="column is-half">
-                    <figure class="image is-4by3 shadow-lg">
-                        <img src="../images/graph_spe_ru.png" alt="Graphique spécificité"
-                            onerror="this.src='https://placehold.co/600x400?text=Graphique+Spécificité';">
-                    </figure>
+            <div class="spec-box mt-5">
+                <h3 class="title is-4" style="color: #764ba2;"><i class="fa-solid fa-wine-glass mr-2"></i> Corpus
+                    Français : "Esprit"
+                </h3>
+                <div class="columns is-vcentered">
+                    <div class="column is-5">
+                        <img src="spec_fr.png" alt="Tableau Spécificité FR" class="table-image"
+                            onerror="this.src='https://placehold.co/400x300?text=Tableau+FR'">
+                    </div>
+                    <div class="column is-7">
+                        <div class="content">
+                            <p>Dans le corpus français traité par PALS (193 367 tokens), le mot cible <em>esprit</em>
+                                apparaît 739 fois, et l’extraction de contextes représente 11 995 tokens.</p>
+                            <ul>
+                                <li><strong>Structure collocationnelle :</strong> La forte spécificité de <em>sain</em>
+                                    (70.07) et <em>corps</em> (32.49) signale le poids du patron proverbial « un esprit
+                                    sain dans un corps sain ».</li>
+                                <li><strong>Posture intellectuelle :</strong> Le terme <em>critique</em> (24.92)
+                                    confirme la saillance de la collocation « esprit critique ».</li>
+                                <li><strong>Syntagmes figés :</strong> On observe des marqueurs comme <em>d'équipe</em>
+                                    (20.40) ou <em>d'esprit</em>, indiquant une alternance entre une lecture "qualité
+                                    intellectuelle" et une lecture "valeur collective".</li>
+                            </ul>
+                            <p class="is-size-7 is-italic">Note : La présence de marqueurs phonétiques (IPA) ou
+                                techniques rappelle que les cooccurrences reflètent aussi la composition générique du
+                                corpus (dictionnaires).</p>
+                        </div>
+                    </div>
                 </div>
-                <div class="column is-half">
-                    <h3 class="title is-4">Analyse de la spécificité</h3>
-                    <div class="content">
-                        <p>
-                            Ici, vous devez écrire votre propre analyse. Par exemple :
-                        </p>
-                        <p>
-                            <em>"Comme observé..."</em>
-                        </p>
-                        <p>
-                            Text
-                        </p>
+            </div>
+
+            <div class="spec-box">
+                <h3 class="title is-4" style="color: #764ba2;"><i class="fa-solid fa-pizza-slice mr-2"></i> Corpus
+                    Italien :
+                    "Spirito"</h3>
+                <div class="columns is-vcentered">
+                    <div class="column is-5">
+                        <img src="spec_it.png" alt="Tableau Spécificité IT" class="table-image"
+                            onerror="this.src='https://placehold.co/400x300?text=Tableau+IT'">
+                    </div>
+                    <div class="column is-7">
+                        <div class="content">
+                            <p>Le tableau des spécificités italiennes (corpus de 979 181 tokens) illustre la bipolarité
+                                du terme :</p>
+                            <ul>
+                                <li><strong>L'axe Freudien :</strong> Le terme <em>motto</em> (486.77) est massivement
+                                    spécifique, faisant référence directe à l'ouvrage <em>Il motto di spirito</em>.</li>
+                                <li><strong>L'axe Religieux :</strong> Le mot <em>santo</em> (339.40) est omniprésent
+                                    (Spirito Santo).</li>
+                                <li><strong>Grammaire :</strong> La prédominance des prépositions (<em>di, dello</em>)
+                                    est typique de la syntaxe italienne pour ce mot.</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="spec-box">
+                <h3 class="title is-4" style="color: #764ba2;"><i class="fa-solid fa-snowflake mr-2"></i> Corpus Russe :
+                    "Дух"</h3>
+                <div class="columns is-vcentered">
+                    <div class="column is-5">
+                        <img src="spec_ru.png" alt="Tableau Spécificité RU" class="table-image"
+                            onerror="this.src='https://placehold.co/400x300?text=Tableau+RU'">
+                    </div>
+                    <div class="column is-7">
+                        <div class="content">
+                            <p>Dans le corpus russe (76 243 tokens), le lemme cible <em>дух</em> apparaît 107 fois. Les
+                                cooccurrents mettent en évidence :</p>
+                            <ul>
+                                <li><strong>Sphère axiologique (Valeurs) :</strong> Un ancrage fort autour d'expressions
+                                    comme <em>боевой</em> (11.25, боевой дух) et <em>сила</em> (9.33, сила духа),
+                                    construisant un profil sémantique centré sur la "force morale" et la volonté.</li>
+                                <li><strong>Évaluation négative :</strong> La présence de <em>злой</em> (10.10) et
+                                    <em>нечистый</em> suggère des contextes où <em>дух</em> est interprété comme une
+                                    entité morale négative (mauvais esprit), relevant d'un registre religieux ou
+                                    démonologique.
+                                </li>
+                                <li><strong>Anthropologie :</strong> Un ensemble renvoyant à l'humain
+                                    (<em>человеческом</em>, <em>человека</em>), où l'esprit définit la nature humaine.
+                                </li>
+                            </ul>
+                            <p class="is-size-7 is-italic">Note : Le tableau montre les variantes casuelles (злого,
+                                сильным) et la capitalisation, confirmant l'importance de la morphologie russe.</p>
+                        </div>
                     </div>
                 </div>
             </div>
